@@ -57,7 +57,7 @@ From a contemporary perspective, the Byzantine oktoechos constitutes a distinct 
 
 flow, with specific melodic behaviours, which project the functionality of the notes in the course of each given melos.viii
 
-# 1.2. Historical Evidence concerning the Byzantine Oktoechos
+## 1.2. Historical Evidence concerning the Byzantine Oktoechos
 
 From various Byzantine manuscripts it is apparent that the musicians of the Eastern Roman Empire consciously associated the oktoechos with two great musical traditions of Antiquity: the ancient Greek and the Jewish.
 The former is documented by the widespread use of ancient Greek names for the Byzantine modes; the latter arises from the central place of the Psalms of the Prophet-King David (10th c. BC) and of the other authors of the Psalter in the Byzantine services and, more generally, from the decisive significance of the Old Testament in the translation of the Seventy (Septuaginta) for Byzantine culture (see Table 8.1 and Figures 8.1-8.2).ix
@@ -107,7 +107,7 @@ In more detail, the first systematization of the eight modes is associated with 
 
 ![Description](image_10080.jpeg)
 
-# Figure 8.8.a. Tropologion Vindobonense theologicum graecum 146, fol. 24r, 13th c., in uneven rounded (Fettaugen)
+Figure 8.8.a. Tropologion Vindobonense theologicum graecum 146, fol. 24r, 13th c., in uneven rounded (Fettaugen)
 
 slightly right-leaning script (cf. also Alygizakis, 1985, pl. 48). © Österreichische Nationalbibliothek, Wien.
 
@@ -127,7 +127,7 @@ transcription given below, Figure 8.8.c.
 
 ![Description](image_10082.jpeg)
 
-# Tropologion, that is, Oktoechos, containing both
+## Tropologion, that is, Oktoechos, containing both
 
 the sticherokathismata (στιχηροκαθίσματα) of the eight modes; the Beatitudes; the eothina (ἑωθινά). and
 all the remaining office customarily chanted:-
@@ -173,7 +173,7 @@ traditional ways of teaching them in the Old System.
 ![Description](image_10084.png)
 ![Description](image_10085.png)
 
-# 2. Theoretical foundations, martyriai, and apechemata of the eight modes in the Old System
+## 2. Theoretical foundations, martyriai, and apechemata of the eight modes in the Old System
 
 ## 2.1. Overall ambitus and the complete voice
 
@@ -247,7 +247,7 @@ End of One Era and the Beginning of Another: <https://www.youtube.com/watch?v=X6
 
 411
 
-# 2.2. Theoretical foundations of the Byzantine oktoechos according to the Old System
+## 2.2. Theoretical foundations of the Byzantine oktoechos according to the Old System
 
 Through the thorough, combinatory study of Byzantine theoretical and musical manuscripts, and with the
 aid of a very large number of transcriptions (from the beginning toward the end of the pieces and, if the
@@ -384,13 +384,13 @@ as these are created in the harmonic series of sound: see Figure 8.12.
 
 ![Description](image_10095.jpeg)
 
-# Listen to the first two examples by pressing  and 
+## Listen to the first two examples by pressing  and 
 
 Figure 8.12. 1. The harmonic series. 2. The seven harmoniai of ancient Greek music. 3. The Byzantine oktoechos according to the Old System.
 Sources: Alexandrescu (2004, p. 21). Giannou (1995, pp. 84-85, 82). Parisinus graecus 261, fol. 140v. Alexandru (2000, vol. I, pp. 203-206).
 414
 
-# 2.3. Apechemata, martyriai, parallagai, and phthorai
+## 2.3. Apechemata, martyriai, parallagai, and phthorai
 
 ## 2.3.1. Apechemata, modal signatures, parallage (I): Introductory remarks
 
@@ -752,7 +752,7 @@ is a prayer addressed to God.”
 At the same time, the same music theorist points out the similarity of the Byzantine intonational
 syllables to corresponding names for pitches among the Arabs.xxii
 
-# 2.3.2. Modal signatures and corresponding apechemata
+## 2.3.2. Modal signatures and corresponding apechemata
 
 The apechemata may be written out in full—and this is done especially when they are less
 common forms, or in music-theoretical texts—or they may be indicated in abbreviated form. The
@@ -763,7 +763,7 @@ Figure 8.13.
 
 416
 
-# First mode exo
+## First mode exo
 
 ## First mode, internal
 
@@ -837,7 +837,7 @@ Table 8.5. Martyriai according to the system of the Trochos. In red are the mart
 
 419
 
-# 2.3.3. Relationships and subcategories of modes (I)
+## 2.3.3. Relationships and subcategories of modes (I)
 
 As was said in the previous sections, the core of the oktoechos consists of the four authentic modes, whose bases are placed on the four pitches of an ascending diatonic tetrachord: 1st mode: theoretical base a (Ke), 2nd mode: h (Zo΄), 3rd mode: c (Ni΄), 4th mode: d (Pa΄).
 Four degrees below each authentic mode was the theoretical base of the corresponding plagal mode: plagal of the 1st mode: theoretical base D (Pa), plagal 2nd: E (Vou), barys: F (Ga), plagal 4th: G (Di).
@@ -867,7 +867,7 @@ it. A staff transcription has been added for the final pitches of the correspond
 
 420
 
-# 2.3.4. Intonation formulas from a historical and a systematic perspective. Parallagai (II)
+## 2.3.4. Intonation formulas from a historical and a systematic perspective. Parallagai (II)
 
 On the basis of the combined study of theoretical and practical musical sources of the Byzantine and post-Byzantine periods, it emerges that intonation formulas constitute an extremely multifaceted subject of the Psaltic Art. An open typology of intonation formulas could take the following form (see Table 8.6):
 
@@ -969,7 +969,7 @@ Figure 8.20. Extended melismatic (kalophonic) intonation formula of the 1st mode
 
 Eothinon “To the mountain” is visible.
 
-# 2.3.5. Phthorai
+## 2.3.5. Phthorai
 
 Phthorai (alteration signs) are graphic symbols that indicate a change in the course of a melos, through the transition to a sound that belongs to another mode (or to another system or genus), during a piece.
 In some cases (triphonic plagal 4th mode [α[α or triphonic plagal 2nd ]ε[α]ω) the phthora may also appear next to the initial martyria, especially from late Middle Byzantine notation onward.
@@ -991,7 +991,7 @@ of his floruit: p. 11).
 
 426
 
-# 2.3.6. Initial and medial martyriai: Examples from musical manuscripts
+## 2.3.6. Initial and medial martyriai: Examples from musical manuscripts
 
 ## 2.3.6.1. Initial signatures (martyriai)
 
@@ -1108,7 +1108,7 @@ Figures 8.30.α-β. Left: Initial signature of the third resurrectional stichero
 according to the Peribleptos Codex, with indication of the corresponding intonation formula and transcription.  Right: sample
 of a Middle Byzantine signature (initial or medial) of the second mode, which ends at the mesotēs.
 
-# 2.3.6.2. Medial signatures (mesomartyriai)xxxi
+## 2.3.6.2. Medial signatures (mesomartyriai)xxxi
 
 In the musical manuscripts of the Byzantine period, medial signatures are placed for the most part at points
 where there is musico-poetic punctuation in the hymnographic text (upper or middle points).
@@ -1177,7 +1177,7 @@ of Parallage, as well as some examples of kanonia of the anonymous theorist from
 
 concerning the oktoechos, on the basis of Byzantine and post-Byzantine theoretical writings
 
-# 3.1. References in the early Byzantine theoretical writings concerning the oktoechos
+## 3.1. References in the early Byzantine theoretical writings concerning the oktoechos
 
 The earliest reference to the modal system in the theory of the Psaltic Art is found in the list
 of melodic signs at the end of the Lavra Sticherarion Γ 67, fol. 159r, from the early 11th c. (Floros).
@@ -1232,7 +1232,7 @@ pp. 56–57.
 
 441
 
-# 3.2. The Compound Wheel of Saint John Koukouzeles – Parallage (III)
+## 3.2. The Compound Wheel of Saint John Koukouzeles – Parallage (III)
 
 The schema of the wheel, as we saw in the previous section, already appears in the Hagiopolites in
 various forms, in order to condense the relationships among the eight modes.
@@ -1342,7 +1342,7 @@ Copenhagen/by courtesy of the Royal Library of Copenhagen.xxxvii
 
 447
 
-# 3.3. The Simple Wheel or the Kanonion of the Eight Modesxxxviii
+## 3.3. The Simple Wheel or the Kanonion of the Eight Modesxxxviii
 
 Another wheel schema encountered chiefly in post-Byzantine Papadikai, Anthologies of the Papadike, and
 also in Anastasimatarion manuscripts (in the latter from the seventeenth century onward), is the so-called Kanonion of the
@@ -1451,7 +1451,7 @@ by Chrysanthos, Great Theoretikon (1832, §§ 246–248), and schematic staff tr
 
 451
 
-# 3.4. The Tree of Parallage
+## 3.4. The Tree of Parallage
 
 Another very widespread diagram, which adorns the folios of Protheoriai in Middle Byzantine
 notation, is the Tree of Parallage. In the manuscripts it is titled “the most wise
@@ -1470,7 +1470,7 @@ Mount Athos.
 
 452
 
-# 3.5. Relationships and subcategories of modes (II)
+## 3.5. Relationships and subcategories of modes (II)
 
 Theoretical bases and ramifications of the Most Wise Parallage of Saint John Koukouzeles
 are presented in the anonymous Interpretation of the Notes and the Modes from codex 570 of the Holy Monastery
@@ -1528,7 +1528,7 @@ Sources: as in Table 8.8.
 
 454
 
-# 3.6. The issue of chromaticism
+## 3.6. The issue of chromaticism
 
 The question of the existence or non-existence of chromatic modes in the Middle Ages in Gregorian chant and in Byzantine
 music occupied many musicologists. With regard to the old Byzantine tradition, most
@@ -1571,7 +1571,7 @@ diagrams we have already seen in the previous section: it was the Simple Wheel i
 theoretical work, which constitutes a milestone in the history of the development of music-theoretical reflection
 concerning the Byzantine oktoechos, will be discussed below, in the next section.
 
-# 3.7. The psaltery-shaped kanonia in the Anonymous author of manuscript EBE 968
+## 3.7. The psaltery-shaped kanonia in the Anonymous author of manuscript EBE 968
 
 The anonymous author of the theoretical treatise preserved on fols. 175v-184v of codex EBE 968 must
 have been a very distinguished teacher of the Psaltic Art and a keen analyst of the practice of
@@ -1652,7 +1652,7 @@ For more details, cf. Giannopoulos (2013, pp. 119-120).
 
 458
 
-# 3.8. Transposition and double parallage
+## 3.8. Transposition and double parallage
 
 In Middle Byzantine notation the phenomenon of transpositions is not rare, that is, the transfer
 of a polychord to a melodic degree other than the usual one. This is a procedure which
@@ -1707,7 +1707,7 @@ is referred to: Troelsgård (2011, pp. 69-70) and Raasted (1966, pp. 20-27). For
 subject of parallage, see the special treatise by Pachomios Rousanos the Monk (ed. Chaldaiakis,
 2015) and other studies by Chaldaiakis (2014, vol. I, pp. 135-309).
 
-# 4. A paradigm shift in the systematization of the oktoechos: The New Method
+## 4. A paradigm shift in the systematization of the oktoechos: The New Method
 
 The Reform of the Three Teachers in 1814-15 brought significant changes at the level of the
 systematization of the oktoechos, while at the same time attempting to preserve its traditional sonorities:
@@ -1779,7 +1779,7 @@ oktoechos in the theory of Psaltic art during the 19th century, see Chrysanthos 
 
 462
 
-# Assessment criteria for chapter 8
+## Assessment criteria for chapter 8
 
 Assessment criterion 1:
 Creation of mnemonic cards for the Byzantine oktoechos under the Old
@@ -1793,8 +1793,6 @@ Assessment criterion 3:
 
 Exercise with initial martyriai I (Copenhagen Sticherarion NkS 4960)
 
-## 
-
 Assessment Criterion 4:
 Exercise with initial martyrias II (Sticherarion Ambrosianum):
 
@@ -1803,8 +1801,6 @@ Exercise with initial martyrias II (Sticherarion Ambrosianum):
 Assessment criterion 5:
 
 Exercise I with the sticheron “Our evening prayers”:
-
-## 
 
 Assessment Criterion 6:
 Exercise in parallagai from the Protheoria of Hag.
@@ -1835,8 +1831,6 @@ Assessment criterion 11:
 
 Exercise with intonation formulas from the Protopapadike Codex Petropolitanus gr. 495
 
-## 
-
 463
 
 Assessment Criterion 12:
@@ -1848,13 +1842,11 @@ Exercise in describing Fragmentum Zographense 21
 
 ![Description](image_10508.jpeg)
 
-# 
-
 Figure 8.62. Fragmentum Zographense, fol. 1r. © I.M. Zographou, Mount Athos.
 
 464
 
-# Bibliography for Chapter 8
+## Bibliography for Chapter 8
 
 ## Holy Scripture, liturgical books
 
@@ -2098,14 +2090,14 @@ Enzyklopädie der Musik, begründet von Friedrich Blume (zweite, neubearbeitete 
 Kassel-Basel-London-New York-Prag: Bärenreiter, Stuttgart-Weimar: Metzler.
 Zannos, Ioannis. (1994). Ichos und Makam. Orpheus 74. Bonn.
 
-# Recordings
+## Recordings
 
 Chatzigiakoumis, Manolis. (2001). Monuments of Ecclesiastical Music. First corpus. Oktaechal chants and systems.
 Volume II, 3& 4. O Virgin Theotokos by Petros Bereketis (fl. 1680-1710). Athens: Centre for Research & Publications.
 
 468
 
-# Webography and videos
+## Webography and videos
 
 <http://crossroads.mus.auth.gr>
 <http://www.asbmh.pitt.edu/page/12/Troelsgard.pdf> (30.11.2011).

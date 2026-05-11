@@ -128,7 +128,7 @@ Figure 11.3. Continuation of the exegesis by Balasios Hiereus for the Athenian F
 
 579
 
-# 2.2. Early sources in Slavic staff notations
+## 2.2. Early sources in Slavic staff notations
 
 A most important category of practical sources for exploring the early stages and, more generally,
 the entire history of the musical exegesis of Byzantine and post-Byzantine repertoire consists of a
@@ -190,7 +190,7 @@ Gerda Wolfram. Wien: Präsens Verlag, p. 212. © Präsens Verlag, Wien.
 
 582
 
-# 3. The elaboration of the theory of musical exegesis
+## 3. The elaboration of the theory of musical exegesis
 
 Although a first reference to the term exegesis, in the sense of more analytical musical notation,
 is made in the Akribologēmata of Akakios Chalkeopoulos, nevertheless, Apostolos Konstas of Chios may be regarded as the founder of the theory concerning
@@ -364,7 +364,7 @@ Table 11.1. An
 ![Description](image_12615.png)
 ![Description](image_12616.png)
 
-# 5. Examples of exegeses through source comparisons
+## 5. Examples of exegeses through source comparisons
 
 ## 5.1. A Typology of Collations and Some Methodological Issues
 
@@ -1221,8 +1221,6 @@ a collation of sources: Figure 11.6.
 
 ![Description](image_13416.jpeg)
 
-#    
-
 Figure 11.6. “All things were amazed”: source collation in stylistic & chronological order, for the beginning
 of the Fifth Ode of the Canon of the Akathistos: katabasia by Petros Peloponnesios and heirmos by Petros Byzantios,
 in exegetical Middle Byzantine notation and in the New Method. The short version presents a ratio of 1:1 (one
@@ -1230,7 +1228,7 @@ syllable lasts 1 primary time-unit), while the katabasia has 1:2.
 
 587
 
-# 5.2.2. Heirmos and katabasia “The divine and ineffable beauty,” Mode I, in diachronic development: a collation of sources: Figures 11.7-8
+## 5.2.2. Heirmos and katabasia “The divine and ineffable beauty,” Mode I, in diachronic development: a collation of sources: Figures 11.7-8
 
 ![Description](image_13417.jpeg)
 
@@ -1244,8 +1242,6 @@ Listen to them in the following order: 9 (parallage & melos), 7 (parallage & mel
 
 ## according to the research of I. Arvanitis):     
 
-##  
-
 588
 
 ![Description](image_13418.jpeg)
@@ -1256,7 +1252,7 @@ in various melodic settings over the centuries. Source: Alexandrou, Maria. (2010
 Byzantine music. A brief introduction to the issues they raise. Thessaloniki: University Studio Press,
 2010, pp. 80-81. By kind permission of the aforementioned publishing house.
 
-# Below follow photographs from individual sources in the comparison and one additional manuscript, in chronological order: see Figures 11.9-19
+## Below follow photographs from individual sources in the comparison and one additional manuscript, in chronological order: see Figures 11.9-19
 
 589
 
@@ -1360,7 +1356,7 @@ exegesis and correction by Chourmouzios
 Chartophylax. Constantinople:
 British Printing House of Kastrou in
 
-# Galata, repr. Athens: Koultoura, p. 4. 
+## Galata, repr. Athens: Koultoura, p. 4. 
 
 ![Description](image_13431.jpeg)
 
@@ -1393,7 +1389,7 @@ Sources: For the photograph: <https://commons.wikimedia.org/wiki/File:Istanbul_-
 
 602
 
-# 5.3. Sticheraric melodies
+## 5.3. Sticheraric melodies
 
 1. The last sticheron of the Great Hours of Great Friday, “Today he is hung upon the wood”, in plagal second mode
 
@@ -1410,22 +1406,10 @@ developed notation. © National Library of Greece.
 
 ![Description](image_13435.jpeg)
 
-# 
-
-# 
-
 Figure 11.22.a. The beginning of the twelfth troparion of the Great Hours of Great Friday, “Today he is hung upon the wood”, in plagal second mode: comparison of sources (second
 half of the 11th c. to the year 1836). The Middle Byzantine notation is accompanied by transliterations, while the exegeses of Chourmouzios are accompanied by schematic transcriptions.xxvii
 
 604
-
-# 
-
-## 
-
-## 
-
-## 
 
 ![Description](image_13436.jpeg)
 
@@ -1433,7 +1417,7 @@ Figure 11.22.b. Continuation of the comparison of sources for the beginning of t
 tree,” in plagal 2nd mode. The individual sources and brief comments are given below.
 605
 
-# Sources and other clarificationsxxviii for Figures 11.22.a-b
+## Sources and other clarificationsxxviii for Figures 11.22.a-b
 
  Various styles of setting are compared: Old: nos. 1-6 | New embellishment by Chrysaphes the New and Germanos of New Patras: nos. 7-15 | “in a more concise manner, from
 
@@ -1618,8 +1602,6 @@ Figure 11.24.a. Comparison of the sticheron “Bethlehem, make ready,” in plag
 Figure 11.24.b. Continuation of the comparison of the sticheron “Bethlehem, make ready,” in plagal 4th mode: sources for the style of the new embellishment. 
 610
 
-# 
-
 1.
 
 23.b
@@ -1645,7 +1627,7 @@ Figure 11.24.c. Continuation and conclusion of the comparison of the sticheron �
    and by Petros Peloponnesios  . Source of Figures 11.24.a-c: Alexandru (2000, vol. III, pp. 20, 35, 50).
 611
 
-# In Figures 11.24.a-c. the first colon of the sticheron “Bethlehem, make ready” was presented on the basis of the following sources
+## In Figures 11.24.a-c. the first colon of the sticheron “Bethlehem, make ready” was presented on the basis of the following sources
 
 ![Description](image_13445.png)
 
@@ -1751,19 +1733,9 @@ p. 91).
 
 614
 
-# 5.4. Papadic chants 5.4.1. Funeral Trisagion athēnaïkon (ἀθηναίϊκον), in plagal second mode nenanō
+## 5.4. Papadic chants 5.4.1. Funeral Trisagion athēnaïkon (ἀθηναίϊκον), in plagal second mode nenanō
 
 ![Description](image_13453.jpeg)
-
-## 
-
-## 
-
-## 
-
-## 
-
-##  
 
 ![Description](image_13454.jpeg)
 
@@ -1813,7 +1785,7 @@ exegesis are indicated for each thesis.
 
 616
 
-# 5.4.2. From the “Theotoke Parthene” by Petros Bereketes: Parakletike thesis, in mode 4
+## 5.4.2. From the “Theotoke Parthene” by Petros Bereketes: Parakletike thesis, in mode 4
 
 ![Description](image_13455.jpeg)
 
@@ -1844,7 +1816,7 @@ Publications.
 
 617
 
-# 5.4.3. The beginning of the Cheroubikon by Petros Bereketes, sung also in all eight modes, from the same original notation
+## 5.4.3. The beginning of the Cheroubikon by Petros Bereketes, sung also in all eight modes, from the same original notation
 
 ![Description](image_13456.jpeg)
 
@@ -1879,7 +1851,7 @@ Here together with the exegesis for the second and plagal second modes. Key sign
 
 ![Description](image_13458.jpeg)
 
-# 3rd: Phrygian: “elegant, simple, manly” (Chrysanthos, Theoretikon, § 339)
+## 3rd: Phrygian: “elegant, simple, manly” (Chrysanthos, Theoretikon, § 339)
 
 Figure 11.28.c. Cheroubikon by Petros Bereketes, which is sung also in all eight modes, on the basis of a single record in late Middle Byzantine notation.
 Here together with the exegesis for the third mode. Sources: Chatzigiakoumis (2002, pp. 131 and 63). Alexandru (2010, para. 15).
@@ -1888,7 +1860,7 @@ Here together with the exegesis for the third mode. Sources: Chatzigiakoumis (20
 
 ![Description](image_13459.jpeg)
 
-# 4th: Mixolydian: “preserves the dignified and magnificent character” (Chrysanthos, Theoretikon, § 347)
+## 4th: Mixolydian: “preserves the dignified and magnificent character” (Chrysanthos, Theoretikon, § 347)
 
 Figure 11.28.d. Cheroubikon by Petros Bereketes, which is sung also in all eight modes, on the basis of a single record in late Middle Byzantine notation.
 Here together with the exegesis for the fourth mode. Sources: Chatzigiakoumis (2002, pp. 131 and 78). Alexandru (2010, para. 15).
@@ -1897,14 +1869,14 @@ Here together with the exegesis for the fourth mode. Sources: Chatzigiakoumis (2
 
 ![Description](image_13460.jpeg)
 
-# Barys: “the ethos of the Barys mode tends toward the hesychastic” (Chrysanthos, Theoretikon, § 368)
+## Barys: “the ethos of the Barys mode tends toward the hesychastic” (Chrysanthos, Theoretikon, § 368)
 
 Figure 11.28.e. Cheroubikon by Petros Bereketes, which is sung also in all eight modes, on the basis of a single record in late Middle Byzantine notation.
 Here together with the exegesis for the barys mode. Sources: Chatzigiakoumis (2002, pp. 131 and 95). Alexandru (2010, para. 15).
 
 622
 
-# The old shorthand notation
+## The old shorthand notation
 
 ![Description](image_13461.jpeg)
 
@@ -1917,7 +1889,7 @@ Here together with the exegesis for the plagal fourth mode. Sources: Chatzigiako
 
 623
 
-# 6. More recent investigations
+## 6. More recent investigations
 
 During the twentieth century and up to the present, various musicologists have attempted to trace possible
 ways of interpreting the old notation also in a shorter manner, for cases in
@@ -1976,7 +1948,7 @@ by kind permission of the author and of the Centre for Research on Greek Folklor
 
 625
 
-# 7. Concluding remarks on the exegesis of Middle Byzantine notation
+## 7. Concluding remarks on the exegesis of Middle Byzantine notation
 
 The study of Middle Byzantine notation remains at a preparatory stage if it does not proceed as far as
 the so-called exegesis, that is, the traditional way of decoding Middle Byzantine
@@ -2059,14 +2031,12 @@ Assessment criteria for Chapter 11
 
 Assessment criterion 1
 
-# “Christ is born” II 
+## “Christ is born” II 
 
 Assessment criterion 2
 “When Augustus ruled alone”
 
 ![Description](image_13467.jpeg)
-
-# 
 
 
 
@@ -2084,23 +2054,11 @@ from ms EBE 884, fol. 106r, year 1340/1. © National Library of Greece.
 
 630
 
-# Assessment criterion 3
+## Assessment criterion 3
 
 ## “Spring Has Dawned” II
 
 ![Description](image_13469.jpeg)
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
 
 Figure 11.35.α. The sticheron of Saint George the Great Martyr and Trophy-bearer, “Spring has dawned,” from
 MS EBE 884, fol. 164r, dated 1340/1, in fully developed Middle Byzantine notation, in the old, Byzantine, classical
@@ -2142,8 +2100,6 @@ Assessment Criterion 4
 
 ![Description](image_13474.jpeg)
 
-#   
-
 Figure 11.38.α. The doxastikon of Pentecost and of the Holy Spirit, “O Heavenly King,” from MS EBE 884, fol.
 340r, dated 1340/1, in fully developed Middle Byzantine notation, in the old style. © National Library of
 Greece.
@@ -2183,19 +2139,15 @@ _Св._Троица_-_Google_Art_Project.jpg (17.12.2015).
 
 640
 
-# Assessment Criterion 5
+## Assessment Criterion 5
 
 ## “With Golden Words”
-
-##   
 
 ## Assessment Criterion 6
 
 ## “Let the Glory of the Lord Be”xxxvi
 
 ![Description](image_13481.jpeg)
-
-##    
 
 Figure 11.42. “Let the glory of the Lord be,” allagma (ἄλλαγμα) by the maistor (kyr John Koukouzeles), plagal
 fourth mode, and other verses of the Anoixantaria, from codex NLG 2458, fol. 12r, dated 1336.xxxvii © National
@@ -2204,10 +2156,6 @@ Library of Greece.
 641
 
 ![Description](image_13482.jpeg)
-
-#  
-
-##   
 
 Figure 11.43.a. “May the glory of the Lord be”: allagma (ἄλλαγμα) by Saint John Koukouzeles from the Anoixantaria (Ἀνοιξαντάρια), in plagal
 fourth mode, in the slow exegesis of Chourmouzios Chartophylax, in the analytical notation of the New Method, from his autograph
@@ -2229,13 +2177,11 @@ Figure 11.43.c. “May the glory of the Lord be,” continuation and end of Chou
 
 644
 
-# Assessment Criterion 7
+## Assessment Criterion 7
 
 ## “The glorious soldier”
 
 ![Description](image_13485.jpeg)
-
-##   
 
 Figure 11.44. The kalophonic mathēma (καλοφωνικό μάθημα) “The radiant soldier,” in honour of the Holy Great Martyr Demetrios the Myrrh-streamer (26 October), a poem in
 fifteen-syllable verses with a musical setting by Manuel Doukas Chrysaphes the Elder (fl. ca. 1440–1465),xxxix from the ms. of the Holy Metropolis of Zakynthos, Gritsanis Collection, no.
@@ -2245,10 +2191,6 @@ Chourmouzios Chartophylax transcribed his Mathematarion. © Holy Metropolis of Z
 645
 
 ![Description](image_13486.jpeg)
-
-#  
-
-## 
 
 Figure 11.45.α. “The glorious soldier”: a fifteen-syllable mathēma with words and music by Manuel Doukas
 Chrysaphes, mode IV, in the slow exegesis of Chourmouzios Chartophylax, in the analytical notation of the New Method, from
@@ -2311,11 +2253,9 @@ Assessment criterion 8
 
 
 
-# Assessment criterion 9 Crossword with key concepts of Chapter 11xlii
+## Assessment criterion 9 Crossword with key concepts of Chapter 11xlii
 
-# 
-
-# Bibliography for Chapter 11
+## Bibliography for Chapter 11
 
 Liturgical books
 
@@ -2338,7 +2278,7 @@ Petros Peloponnesios. (1825). Heirmologion of Katabasia. Explained by Chourmouzi
 Constantinople: Kastrou in Galata (repr. Athens: Koultoura, 1982, together with the Heirmologion of Petros
 Byzantios).
 
-# Facsimile editions of musical manuscripts
+## Facsimile editions of musical manuscripts
 
 Follieri, Enrica, & Strunk, Oliver. (Eds., 1975). Triodium Athoum. MMB IX, Pars Suppletoria. Copenhagen:
 Munksgaard.
@@ -2385,7 +2325,7 @@ Yasinovskyi, Jurij. (1996). Ukrainski ta biloruski notolinijni Irmoloi 16-18 sto
 doslidjennja. Serija: Istorija ykrainskoi muziki. Vipusk 2: Djerela. Lviv: Vidavnitstvo Ottsiv Vasiliyan
 "Misioner", Institut Ykrainoznavstva im. Krip'Yakeviča nan Ykraini.
 
-# Theoretical works and
+## Theoretical works and
 
 studies on theoretical treatises
 
@@ -2612,7 +2552,7 @@ Webography
 
 (4.10.2016).
 
-# Endnotes for Chapter 11
+## Endnotes for Chapter 11
 
 i The theoretical material in this chapter is based chiefly on Alexandru (2010, pp. 14-17, 36-43 and passim).
 ii
@@ -2751,7 +2691,7 @@ xlii This exercise was created by Demosthenes Spanoudakis, whom we warmly thank.
 
 662
 
-# Index of Greek-language and foreign-language scientific termsi
+## Index of Greek-language and foreign-language scientific termsi
 
 |||
 |---|---|

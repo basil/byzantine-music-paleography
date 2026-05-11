@@ -66,7 +66,7 @@ typology of Byzantine musical manuscripts, and the phases in the development of 
 All these serve as aids for the effective study of the Byzantine musical notations proper,
 which is undertaken from chapter 4 onward.
 
-# 2. Reflections on Writing. Evolution and Variety of Scripts
+## 2. Reflections on Writing. Evolution and Variety of Scripts
 
 “True: that which, as just, does not fall into oblivion”vii
 
@@ -132,7 +132,7 @@ writing and calculating".
 
 ![Description](image_2424.jpeg)
 
-# Figure 1.3. The famous “Rosetta Stone” (196 BC), which was discovered in 1799 as a fragment in the city
+Figure 1.3. The famous “Rosetta Stone” (196 BC), which was discovered in 1799 as a fragment in the city
 
 of Rashid (Rosetta) in Egypt, and proved to be the principal tool for deciphering the Egyptian
 hieroglyphic script, since it presents the same text written three times, in different writing systems and
@@ -209,7 +209,7 @@ of palaeography enter into dialogue both with humanities disciplines such as phi
 and with materials science, information technology, computer science, etc., with
 the aim of studying the world’s cultural heritage.xxiv
 
-# 3. Scripts of Hellenism
+## 3. Scripts of Hellenism
 
 Today, at the beginning of the twenty-first century, we are approximately 36 centuries removed from the first specimens of writing in Greek,
 which belongs to the family of Indo-European languages.xxv The chronological span may, however, be
@@ -276,7 +276,7 @@ to this day.xxxi
 
 ![Description](image_2426.jpeg)
 
-# Map 1.3. Some regions of dissemination of the archaic forms of the Greek alphabet and Miletus, whose writing
+Map 1.3. Some regions of dissemination of the archaic forms of the Greek alphabet and Miletus, whose writing
 
 system became the classical Greek alphabet at the end of the fifth century BC. © Google earth.
 Sources: Google earth & places marked by Demosthenes Spanoudakis.
@@ -319,7 +319,7 @@ where the poetic text constitutes the basis of the musical settings. In the foll
 to outline the broader cultural and scholarly frameworks within which research
 in the palaeography of Byzantine music may move.
 
-# 4. Seeking the place of writing and the book in Byzantium and in the post-Byzantine period
+## 4. Seeking the place of writing and the book in Byzantium and in the post-Byzantine period
 
 The famous Byzantinist Herbert Hunger, editor—among other works—of the well-known handbook Byzantine
 Literature. The Learned Secular Literature of the Byzantines (1987–1994), observes in another
@@ -361,7 +361,7 @@ Byzantine and post-Byzantine models.xli
 
 ![Description](image_2430.png)
 
-# Figure 1.7. “Maiestas Domini” (The Glory of the Lord): hagiographical sketch by G. Tzimopoulos & Aik. Ioannidou (2016)
+Figure 1.7. “Maiestas Domini” (The Glory of the Lord): hagiographical sketch by G. Tzimopoulos & Aik. Ioannidou (2016)
 
 based on a corresponding fresco from the Church of Saint Nicholas Spanos, Ioannina, 17th c. In this iconographic
 composition four open books may be observed: 1. the Gospel on the knees of Our Lord Jesus Christ, 2. one—
@@ -388,7 +388,7 @@ medieval book and the instruments of writing, on which we shall dwell, among oth
 
 40
 
-# 5. Musical Notations
+## 5. Musical Notations
 
 The study of the various musical notations of the world, such as e.g. ancient Greek notation, Byzantine notation, Latin
 neumes, the various forms of Western European notations (modal, mensural, of the
@@ -443,7 +443,7 @@ Table 1.5. Some categories for the
 
 42
 
-# 6. Palaeography of Byzantine Music (II) as a field of Neumatic Science
+## 6. Palaeography of Byzantine Music (II) as a field of Neumatic Science
 
 The term neumesxlviii is generally associated in Musicology with specific movements of the hand
 (chironomy)xlix and with the symbols that developed during the Middle Ages for directing and
@@ -511,7 +511,7 @@ most important instrumenta studiorum (tools of study) of Byzantine Musicology. I
 the discovery of the various catalogues of Byzantine music is facilitated by the exceptionally useful article
 by Emmanouil Giannopoulos, “Basic Bibliography for the Manuscript Codices of Psaltic Art” (2016).
 
-# 7.2. Typology of Musical Codices
+## 7.2. Typology of Musical Codices
 
 The immense wealth of Byzantine hymnographylxii and of Byzantine and post-Byzantine music, together
 with the music-theoretical reflection that accompanied and regulated over the long term the processes of melourgia
@@ -556,7 +556,7 @@ mode.lxxxvi
 
 48
 
-# Papadike
+## Papadike
 
 “The most important book
 of the Psaltic Art
@@ -622,7 +622,7 @@ Table 1.6. Types of codices of Byzantine music and their contents: A general ove
 
 51
 
-# 8. Tracing the Evolutionary Course of Byzantine Notation
+## 8. Tracing the Evolutionary Course of Byzantine Notation
 
 Byzantine musical writing followed a long evolutionary course, documented in a multitude
 of manuscripts from the 10th century onward. In contrast to the rich manuscript tradition of the
@@ -704,7 +704,7 @@ and perfection of mb notation.
 
 Table 1.7.
 
-# On the Historical Development of Byzantine Musical Notation - a status quaestionis.cxi
+## On the Historical Development of Byzantine Musical Notation - a status quaestionis.cxi
 
 59
 
@@ -722,7 +722,7 @@ Musical writing without a living voice cannot be learned (see NLG 968, f. 177r).
 at the chanter’s stand. Only through oral tradition do the musical signs acquire their full
 musical and spiritual substance.cxii
 
-# 9. Preliminary Remarks on the Methodology of the Palaeography of Byzantine Music
+## 9. Preliminary Remarks on the Methodology of the Palaeography of Byzantine Music
 
 Various methods have been used for the study of old musical manuscripts. During the 20th
 century in the West, the comparative study of musical codices of the Byzantine era with
@@ -766,9 +766,9 @@ general recognition as a correct and faithful interpretation and rendering in
 contemporary writing of the content of the texts of old ecclesiastical
 music.”cxvii
 
-# Assessment Criteria for Chapter 1
+## Assessment Criteria for Chapter 1
 
-# Assessment Criterion 1. Create mnemonic cards for Chapter 1.  
+## Assessment Criterion 1. Create mnemonic cards for Chapter 1.  
 
 Assessment Criterion 2. Recapitulate some milestones in the development of scripts
 of the world and of Greek writing, on the basis of Video 1.1.
@@ -779,12 +779,12 @@ various important centers of production of writing material will be presented an
 ![Description](image_2443.jpeg)
 ![Description](image_2444.png)
 
-# ΔΑ_Πανόραμα χαρτών.mp4 
+## ΔΑ_Πανόραμα χαρτών.mp4 
 
 Video 1.1. Some important centers of the creation of culture and writing systems in Antiquity. © for the maps: Google
 earth. For the marking of the maps and the creation of the video we thank Demosthenes Spanoudakis.
 
-# Bibliography for Chapter 1
+## Bibliography for Chapter 1
 
 Printed musical collections and
 
@@ -870,7 +870,7 @@ MMB database: <http://www.igl.ku.dk/MMB/catbyz.htm> (13.2.2016).
 
 62
 
-# Books and articles
+## Books and articles
 
 Alexandru, Maria (2010). Exegeseis and transcriptions of Byzantine music. A brief introduction to
 their problematic. Thessaloniki: University Studio Press.
@@ -1236,7 +1236,7 @@ Byzantine_Empire_map.gif (24.5.2015).
 
 68
 
-# Endnotes for Chapter 1
+## Endnotes for Chapter 1
 
 i Babiniotis (2002, p. 1305).
 ii Cf. Hannick (1995, columns 288-310), Levy & Troelsgård (2001, pp. 734-756), Levy & Conomos (2001, pp. 7-9, 10).

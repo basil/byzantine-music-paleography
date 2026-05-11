@@ -3,6 +3,8 @@ title: "Appendices"
 weight: 1000
 ---
 
+<!-- markdownlint-disable MD025 -->
+
 # Appendix 1. Glossary with names of signs and theseis in Byzantine, post-Byzantine, and more recent theorists1
 
 ## 1. Prolegomena
@@ -59,7 +61,7 @@ i
 ![Description](image_13497.png)
 ![Description](image_13498.png)
 
-# 2. Content, Structure, Principles, and Issues6
+## 2. Content, Structure, Principles, and Issues6
 
 The Glossary contains all the names of signs and formulae that were identified in the following sources
 (see Table App. 1.1), with the exception of some special names of phthorai.7
@@ -223,9 +225,9 @@ Clarification: in the sections “Meaning” and “Relations” the various lan
 consulted have been retained, for greater accuracy. In the subsection “Explanations” some
 repetitions could not be eliminated, so that the dictionary would not become difficult to use because of an excessive number of cross-references.
 
-# 3. Sources and Bibliography for the Glossary, the Catalogue of Formulae (θέσεις) and the Table of Great Signs15
+## 3. Sources and Bibliography for the Glossary, the Catalogue of Formulae (θέσεις) and the Table of Great Signs15
 
-# A. For the “Meaning” of the designations
+## A. For the “Meaning” of the designations
 
 The references are based on the following lexica (the order corresponds to the number of passages included in the
 glossary):
@@ -277,7 +279,7 @@ Koumanoudes, St. (1883). Collection of Words Not Included in the Greek Lexica. A
 
 iv
 
-# B. For the “Relations” of the designations with the terminology of ancient arts
+## B. For the “Relations” of the designations with the terminology of ancient arts
 
 - Grammar: Béc: Bécares Botas, Vicente. (1985). Diccionario de terminologia grammatical griega. Salamanca.
 
@@ -450,7 +452,7 @@ actuelle. Paris & Montreal: L'Harmattan.
 
 ix
 
-# 4. Abbreviations and special symbols
+## 4. Abbreviations and special symbols
 
 The abbreviations for the various editions of texts referred to in the Glossary are found in
 Index V at the end of this Appendix.
@@ -696,7 +698,7 @@ x
 
 ![Description](image_13612.jpeg)
 
-# Indices for the Glossary, the Catalogue of theseis, and the Synoptic Table of great signs
+## Indices for the Glossary, the Catalogue of theseis, and the Synoptic Table of great signs
 
 The five indices below allow a full search of the sources and bibliography on which
 the creation of the Glossary (Appendix 1 of the present study), the Catalogue of theseis
@@ -935,7 +937,7 @@ Anastasimatarion
 
 Theoretika
 
-# II. Printed musical editions
+## II. Printed musical editions
 
 - Ephesios, Anthologia: Petros Manuel Ephesios, Anthology, Service of Orthros, Edition of the Hellenic
 
@@ -969,7 +971,7 @@ Chartophylax, Konstantinopel 1825, Nachdruck Athen 1982 (Verlag Koultoura)
 
 Thessalonike 1980 (Verlag Regopoulos)
 
-# III. Theoretical Treatises11
+## III. Theoretical Treatises11
 
 - Akrib: Exactness, in question-and-answer form, concerning the tones of the papadic art, ed. B. Schartau (Anonymous
 
@@ -1113,7 +1115,7 @@ Alexandru, Bemerkungen II, Beilage 14
 
 xv
 
-# IV. Secondary Bibliography12
+## IV. Secondary Bibliography12
 
 - Abraham, Otto/Hornbostel, Erich M. von, Vorschläge für die Transkription exotischer Melodien, in Sammelbände der
 
@@ -1846,7 +1848,7 @@ Kirchenmusik und der türkischen Kunstmusik, Bonn 1994
 
 - Ziegenrücker, Wieland, Allgemeine Musiklehre, 13München 1988
 
-# V. Abbreviations13
+## V. Abbreviations13
 
 - AB: Anecdota Graeca, ed. I. Bekker, 3 Bde., Berlin 1814-1821 (Nachdr. 1965)
 
@@ -2725,15 +2727,7 @@ xxx
 ![Description](image_13638.jpeg)
 ![Description](image_13639.jpeg)
 
-#
-
 ![Description](image_13640.jpeg)
-
-#
-
-#
-
-#
 
 ![Description](image_13641.jpeg)
 
@@ -2753,13 +2747,9 @@ xxx
 
 ![Description](image_13647.jpeg)
 
-#
-
 \# # # #
 
 darta (δαρτά)
-
-#
 
 ![Description](image_13648.jpeg)
 ![Description](image_13649.jpeg)
@@ -2767,8 +2757,6 @@ darta (δαρτά)
 14
 
 ![Description](image_13650.jpeg)
-
-#
 
 darta
 
@@ -3013,7 +3001,7 @@ Hatzipapas, whom we thank.
 
 xxxii
 
-# 1. Prolegomena
+## 1. Prolegomena
 
 In contrast to the Old System, in which the study of hymns and troparia proceeded according to the triptych
 metrophonia (μετροφωνία) - parallage (παραλλαγή) - melos (μέλος), in the New Method the learning process was simplified,
@@ -3065,7 +3053,7 @@ aforementioned categories of signs.
 
 1
 
-# 2. The characters of quantity - signs that denote intervals
+## 2. The characters of quantity - signs that denote intervals
 
 The basic quantitative signs are as follows (see
 
@@ -3142,7 +3130,7 @@ Table P.3.5. Summary of the most frequently occurring time signs of the New Meth
 
 4
 
-# 3.2. The system for indicating rhythm in the New Method: a general overview
+## 3.2. The system for indicating rhythm in the New Method: a general overview
 
 ![Description](image_13759.jpeg)
 
@@ -3165,7 +3153,7 @@ Table P.3.7. Summary of the basic quality signs (atemporal hypostases) of the Ne
 
 7
 
-# 5. The Byzantine Oktoechos according to the New System
+## 5. The Byzantine Oktoechos according to the New System
 
 ## 5.1. Attractions (ἔλξεις) and Accidentals. Key Signatures for the Transcription of the Echoi (ἦχοι) of the New Method into Staff Notationv
 
@@ -3220,7 +3208,7 @@ study is required in light of the oral tradition of the Ecumenical Patriarchate.
 
 13
 
-# 5.2. Pitch Martyriai (μαρτυρίες φθόγγων)
+## 5.2. Pitch Martyriai (μαρτυρίες φθόγγων)
 
 ![Description](image_13769.jpeg)
 
@@ -3228,7 +3216,7 @@ Table P.3.11. Summary of the martyriai of the New Method, with indication of cor
 
 14
 
-# 5.3. Phthorai (φθορές) - Symbols of Modulation
+## 5.3. Phthorai (φθορές) - Symbols of Modulation
 
 ![Description](image_13770.jpeg)
 
@@ -3239,7 +3227,7 @@ Assessment Criterion 6 of the present handbook).
 
 15
 
-# 5.4. The Question of Transcribing Microintervals
+## 5.4. The Question of Transcribing Microintervals
 
 The researcher may find in the Greek and international bibliography various ways of transcribing the microintervals of Byzantine music onto the
 staff. The symbols adopted in the present handbook are also used in contemporary scores of Eastern classical music
@@ -3258,7 +3246,7 @@ towards a corresponding dominant pitch.x
 
 16
 
-# 6. Aid for Marking Measures
+## 6. Aid for Marking Measures
 
 For studies focusing on the palaeography and the morphology and analysis of Byzantine music, as well as for the direction of a psaltic choir,
 the division of the musico-poetic text into contracted measures is very useful. In Table P.3.14 there are some basic principles concerning the
@@ -3303,7 +3291,7 @@ Table P.3.14. Levels of rhythmic organization and an aid for marking composite m
 
 17
 
-# Bibliography for Appendix 3
+## Bibliography for Appendix 3
 
 Petros Byzantios. (1825). Short Heirmologion. Exegetically transcribed by Chourmouzios Chartophylax.
 Constantinople: Kastrou in Galata (repr. Athens: Koultoura, 1982, together with the Heirmologion of Petros
@@ -3373,7 +3361,7 @@ xi Table P.3.14 is based on: Karas (1982, vol. I, especially pp. 134-170). Konst
 
 18
 
-# Seeking the solutions to the exercises from the Assessment Criteria
+## Seeking the solutions to the exercises from the Assessment Criteria
 
 ## Chapter 2
 
@@ -3418,26 +3406,6 @@ Assessment Criterion 2
 
 
 
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-##   
-
-## 
-
 a
 
 Assessment Criterion 3
@@ -3446,11 +3414,11 @@ Assessment Criterion 4
 
 Assessment Criterion 5
 
-# Chapter 5
+## Chapter 5
 
 Assessment Criterion 3
 
-# Chapter 6
+## Chapter 6
 
 Assessment Criterion 1
 
@@ -3464,7 +3432,7 @@ Assessment Criterion 5
 
 Assessment Criterion 6
 
-# Chapter 7
+## Chapter 7
 
 Assessment Criterion 2
 
@@ -3477,12 +3445,6 @@ Assessment Criterion 5
 Assessment Criterion 6
 
 Assessment Criterion 7.1
-
-#   
-
-# 
-
-# 
 
 
 
@@ -3509,7 +3471,7 @@ Assessment Criterion 9
 
 Assessment Criterion 10
 
-# Chapter 8
+## Chapter 8
 
 Assessment Criterion 3
 
@@ -3525,11 +3487,11 @@ Assessment Criterion 11
 
 Assessment Criterion 13
 
-# Chapter 9
+## Chapter 9
 
 Assessment Criterion 2
 
-# Chapter 10
+## Chapter 10
 
 Assessment Criterion 1
 
@@ -3549,15 +3511,9 @@ Assessment Criterion 2
 
 
 
-# 
-
-# 
-
-# 
-
 c
 
-# Chapter 11
+## Chapter 11
 
 Assessment Criterion 2
 
@@ -3580,8 +3536,6 @@ Assessment Criterion 7.1
 Assessment Criterion 7.2
 
 Assessment Criterion 9
-
-## 
 
 
 

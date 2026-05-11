@@ -63,7 +63,7 @@ its dating, the patron who commissioned and financed the manuscript and its owne
 and in general the “journey” of the codex until it ended up in the particular library where it is kept
 today, etc.: Habent sua fata libelli...ix
 
-# 1.2. Writing Materials
+## 1.2. Writing Materials
 
 Among the writing materials of Antiquity are numbered, among others, the following: papyrus, ostraca, wood,
 stone, wax tablets, leather, cloth, metals, etc.x In the Middle Ages parchment first predominated and,
@@ -76,7 +76,7 @@ the notation of Greek music during the pre-Byzantine, Byzantine, and post-Byzant
 are, in chronological order, papyrus, parchment, and paper. A few words about
 each of these follow below.
 
-# 1.2.1. Papyrusxi
+## 1.2.1. Papyrusxi
 
 Papyrus constitutes the basic writing material of Antiquity. The earliest examples of papyri
 are documented in Egypt from the third millennium BC. Papyrus prevailed until the 4th century AD, when
@@ -90,7 +90,7 @@ Palestine, and later also in Syracuse in Sicily, etc.xiv (see Figure 2.2).
 
 ![Description](image_2445.jpeg)
 
-# Figure 2.2. Papyrus (Cyperus papyrus) at Kew Gardens in London
+Figure 2.2. Papyrus (Cyperus papyrus) at Kew Gardens in London
 
 Source: <https://commons.wikimedia.org/wiki/File:Kew.gardens.papyrus.plant.arp.jpg> (16.5.2016).
 
@@ -169,7 +169,7 @@ of Manchester, John Rylands Library: <http://luna.manchester.ac.uk/luna/servlet/
 (8.8.2016), of the Universities of Yale, Ann Arbor, Milan, etc.
 The great majority of papyri has not yet been published.xxv
 
-# 1.2.2. Parchmentxxvi
+## 1.2.2. Parchmentxxvi
 
 By the name diphthera (διφθέρα)xxvii or membrane, from the 4th c. AD also as pergamene (sc. diphthera), or also leather (in
 Latin: pergamena [neut. pl.] or, more commonly, membrana [sing., fem.], or even as vellum), there is known
@@ -238,7 +238,7 @@ Source: <https://commons.wikimedia.org/wiki/File:RossanoGospelsFolio8vChristBefo
 
 81
 
-# 1.2.3. Paper
+## 1.2.3. Paper
 
 Paper was invented in China, and the oldest samples of paper that have survived to the present
 are dated around the year AD 100. It is made chiefly from linen, in combination with hemp and
@@ -290,7 +290,7 @@ Figures 2.10. Watermark designs with the motif of the double-headed eagle. Sourc
 
 83
 
-# 1.3. Writing instruments and inks
+## 1.3. Writing instruments and inks
 
 Writing on papyrus, parchment, and paper was done with black ink (with shades tending toward
 brown and grey), which was called writing black (γραφικὸν μέλαν) or encaustum (λατ. encaustum), since it
@@ -356,9 +356,9 @@ in front of the Evangelist rest a wooden casket, a pair of scissors, two other p
 sponge at the far right. Inside the cupboard, in its lower part, two (ink)pots are also visible. In the rear part of the
 composition, six parchment scrolls are depicted in a basket.xlvii
 
-# 1.4. Forms of manuscripts, scribal workshops, and the preparation of a codex
+## 1.4. Forms of manuscripts, scribal workshops, and the preparation of a codex
 
-# 1.4.1. Forms of manuscripts: from the scroll to the codex
+## 1.4.1. Forms of manuscripts: from the scroll to the codex
 
 In classical Antiquity, the most widespread form of manuscripts was the scroll, i.e. the roll of papyrus,
 more rarely also of parchment, wound around a rod of wood or bone, which at its ends
@@ -404,7 +404,7 @@ _Parchement_scroll%2C_13th_century_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_12.jpg
 |---|
 ||
 
-# 1.4.2. Scribal workshops
+## 1.4.2. Scribal workshops
 
 The copying-production of codices took place in large libraries (e.g. the imperial library in
 Constantinople) or in large monasteries, where there were special scribal workshops, the so-called
@@ -439,7 +439,7 @@ for such service becomes unusable, impose upon him 50 and 100 prostrations and
 
 excommunication.”lv
 
-# 1.4.3. The preparation of a codex
+## 1.4.3. The preparation of a codex
 
 Some of the basic steps in the preparation of a parchment or paper codex were the following:
 
@@ -559,7 +559,7 @@ Figure 2.18. Luxurious modern binding of a Gospel book, in Byzantine style: bind
 small icons, and with the inscription: “J(ESU)S C(HRIS)T CONQUERS,” in a cruciform shape.lxiv
 Source: <https://upload.wikimedia.org/wikipedia/commons/5/5b/Evangel.JPG> (12.4.2016).
 
-# 1.4.4. Illustrated manuscripts
+## 1.4.4. Illustrated manuscripts
 
 Museums of Byzantine and post-Byzantine art throughout the world often exhibit very beautiful codices with
 miniatures of exceptional artistic quality and great precision in the depiction of details. The study of the
@@ -593,7 +593,7 @@ below, ch. 8), which are included in the Preliminary Theoria of the Papadike or 
 treatises, are very elegant, enhancing the manuscripts and facilitating the educational
 process of the Psaltic Art.
 
-# 1.5. Palimpsestslxvii
+## 1.5. Palimpsestslxvii
 
 The making of books in Antiquity and the Middle Ages was an expensive undertaking. It suffices to
 take into account that from one lamb, for example, only four manuscript leaves are produced; thus a more voluminous
@@ -648,7 +648,7 @@ of Paris: Codex Parisinus graecus 9).lxxviii
 
 95
 
-# 1.6. Elements of Byzantine Codicology and the liturgical contexts of Byzantine musical codices
+## 1.6. Elements of Byzantine Codicology and the liturgical contexts of Byzantine musical codices
 
 Modern Byzantine Codicology studies the dynamic process of the creation, establishment, development,
 transformation, and dissemination of Byzantine manuscript codices (books) from the beginning of the 4th c. AD to
@@ -719,7 +719,7 @@ Hymnographic
 
 Ascetic
 
-# TYPIKON
+## TYPIKON
 
 Syna-
 xarion
@@ -810,7 +810,7 @@ ings
 Diagram 2.2. Byzantine and post-Byzantine liturgical codices with biblical, homiletic, ritual, hymnographic, musical, ascetic, and hagiological texts in
 interconnection, coordinated by the Typikon.lxxxii
 
-# 1.7. Analytical descriptive catalogues of manuscripts of Byzantine music (II)
+## 1.7. Analytical descriptive catalogues of manuscripts of Byzantine music (II)
 
 Catalogues, and especially analytical catalogues of manuscripts of Byzantine music, constitute exceedingly important instrumenta studiorum for the palaeographical and, more generally, musicological study of musical
 manuscripts. With regard to the cataloguing of codices of this kind, there are various models which
@@ -856,11 +856,11 @@ Microfilms and Photographs in the Collection of Monumenta Musicae Byzantinae, Da
 Salvatore di Messina (Biblioteca Regionale Universitaria di Messina). Roma: Comitato Nazionale per le Celebrazioni
 del Millenario della Fondazione dell'Abbazia di S. Nilo a Grottaferrata.
 
-# 2. Typology of Greek alphabetic script
+## 2. Typology of Greek alphabetic script
 
-# 2.1. Prolegomena
+## 2.1. Prolegomena
 
-# 2.1.1. Categories and types of Greek alphabetic script
+## 2.1.1. Categories and types of Greek alphabetic script
 
 We have already spoken in the preceding
 chapter about the diachronic development of Greek writing and the Greek alphabet. Below some basic points will be presented concerning the various categories and
@@ -1483,7 +1483,7 @@ Table 2.1. Categories of Greek scriptxc
 Among the various categories of scripts there are many interactions and also
 intermediate stages.
 
-# 2.1.2. Continuous writing, punctuation marks, and prosodic signs
+## 2.1.2. Continuous writing, punctuation marks, and prosodic signs
 
 Although punctuation marks and prosodic signs had been introduced by Aristophanes of Byzantium, head
 of the Library of Alexandria, already in the 2nd c. BC, the stable use of punctuation and prosodies was applied
@@ -1561,7 +1561,7 @@ this is the script one encounters when studying manuscript sources relating to
 Byzantine music, whether these are practical, music-theoretical, liturgical, literary, or
 visual.
 
-# 2.2. The majuscule script
+## 2.2. The majuscule script
 
 Majuscule (Lat. maiuscula) is the name given to a script whose letters “are contained
 between two parallel lines, without their strokes exceeding this double
@@ -1669,7 +1669,7 @@ Table 2.4. Types of majuscule script: a general overview.cviii
 ![Description](image_3097.jpeg)
 ![Description](image_3098.jpeg)
 
-# 2.3. The minuscule scriptcix
+## 2.3. The minuscule scriptcix
 
 Minuscule (Lat. minuscula) is the name given to a script whose letters are contained in an
 interline space between two parallel lines, “but in addition two other parallel
@@ -1821,7 +1821,7 @@ eckige Hackenschrift)
 
 ![Description](image_3103.jpeg)
 
-# Liturgical
+## Liturgical
 
 Figure 2.34. Letter forms of liturgical
 minuscule script, according to the codices
@@ -1878,7 +1878,7 @@ Athonite I
 
 • This is an important type of minuscule script of the post-Byzantine period, which is associated with the
 
-# Figure 2.44
+Figure 2.44
 
 scriptoria of Mount Athos.
 
@@ -1903,7 +1903,7 @@ script of the 19th c.
 
 • If in Byzantine
 
-# Figure 2.45
+Figure 2.45
 
 ![Description](image_3116.jpeg)
 
@@ -1937,11 +1937,11 @@ texts of Chrysanthos of Madytos and Chourmouzios
 
 Chartophylax.cxliii
 
-# Table 2.7. Types of minuscule script from the 9th to the 19th century: an open list
+Table 2.7. Types of minuscule script from the 9th to the 19th century: an open list
 
 116
 
-# 2.4. Aids for reading manuscripts
+## 2.4. Aids for reading manuscripts
 
 The reader of manuscripts in majuscule and minuscule script today is confronted not
 only with a multitude of forms of the individual letters of the Greek alphabet, but also with various
@@ -1962,7 +1962,7 @@ Greek manuscripts.cx lv
 
 117
 
-# 2. Truncation or suspension
+## 2. Truncation or suspension
 
 Endings
 
@@ -2064,7 +2064,7 @@ beautiful
 
 ![Description](image_3122.jpeg)
 
-# 3. Joining of letters
+## 3. Joining of letters
 
 Two or more letters
 are joined together,
@@ -2194,7 +2194,7 @@ following letter).cxlvi
 
 119
 
-# 4. Tachygraphic signs and
+## 4. Tachygraphic signs and
 
 symbols: Used
 chiefly in texts of various
@@ -2333,7 +2333,7 @@ supplementing elliptical phrases of the original.
 
 121
 
-# Assessment criteria for Chapter 2
+## Assessment criteria for Chapter 2
 
 Assessment criterion 1
 
@@ -2342,14 +2342,6 @@ from Papyrus Rylands 470, in an early stage of majuscule Alexandrian
 script
 
 ![Description](image_3128.jpeg)
-
-## 
-
-##  &
-
-##  
-
-##  
 
 cl
 Figure 2.46.a. The Papyrus no. 470 from the John Rylands Library, University of Manchester, mid-3rd or 4th c.
@@ -2396,8 +2388,6 @@ from the zone of the Eastern Mediterranean (perhaps Constantinople):cliii see Fi
 
 2.47.a-b.
 
-# 
-
 ![Description](image_3130.jpeg)
 
 Figure 2.47.a. The Alexandrian Codex of the Bible, Londinensis gr. Royal 1 D.viii, fol. 97r (5th c.), in
@@ -2427,8 +2417,6 @@ Doxology (Gloria) from the Alexandrian Codex of the Bible, British Library,
 Londinensis gr. Royal 1 D.vii, in biblical majuscule script (3rd quarter of the 5th c.).
 
 ![Description](image_3132.jpeg)
-
-#   &
 
 
 
@@ -2478,8 +2466,6 @@ Sophronios, Peltikoglou and Nikolopoulos, 1998, photos 11, 49).
 
 ![Description](image_3134.jpeg)
 
-# 
-
 Figure 2.49. Fragment from the Tropologion Sinaiticus graecus ΝΕ MΓ 5, second half of the 9th c., in sloping pointed
 majuscule script, with evening stichera for the feast of St Theodosius the Coenobiarch (Nikiforova, 2015, p. 144). The title
 is in biblical majuscule script. Image source: Damianos, Archbishop of Sinai, Pharan and Raitho, Sophronios
@@ -2497,8 +2483,6 @@ notation.
 
 ![Description](image_3135.jpeg)
 
-# 
-
 Figure 2.50. The Gospel Codex Venetus Marcianus gr. 12, 9th-10th c., fol. 7r, in upright pointed majuscule
 script, with ekphonetic notation. For the headings the same majuscule script is used, in a smaller
 module. On this folio an excerpt from the Gospel according to Matthew 11:27-29 is visible.clvi © Biblioteca
@@ -2514,12 +2498,6 @@ Studite script, which constitutes the first dated monument in
 minuscule script.
 
 ![Description](image_3136.jpeg)
-
-# 
-
-# &
-
-# 
 
 Figure 2.51. The Uspenskij Tetraevangelion (Codex Petropolitanus graecus 219), year 835, fol. 4r. The earliest
 dated manuscript in pure minuscule script (Studite), written by Nicholas, monk of the Holy Monastery of
@@ -2583,9 +2561,7 @@ John, in a preliminary stage of Perlschrift.
 
 ![Description](image_3142.jpeg)
 
-# 
-
-# Figure 2.55. Codex Laurensis Δ 70, Holy Monastery of Great Lavra on Mount Athos, year 984: Psalter with a so-called
+Figure 2.55. Codex Laurensis Δ 70, Holy Monastery of Great Lavra on Mount Athos, year 984: Psalter with a so-called
 
 catena (exegetical chain) in the margins of the MS, written in the aforementioned Holy Monastery by the scribe John, in
 upright minuscule script, “preliminary stage of pearl-script - Perlschrift”.clviii In the present image: fol. 202r, with
@@ -2605,14 +2581,6 @@ Printed editions: Follieri (1969, pl. 20) and Litsas (2001, pp. 78-79).
 
 ![Description](image_3143.jpeg)
 
-# 
-
-# 
-
-# &
-
-#  
-
 Figure 2.56. Miniature from the Menologion of Basil II, Cod. Vaticanus gr. 1613, p. 78, years 979-989.
 Source photograph: <https://commons.wikimedia.org/wiki/File:Romanos_the_Melodist_(Menologion_of_Basil_II).jpg>
 
@@ -2628,8 +2596,6 @@ University of Thessaloniki, MS no. 36, in liturgical right-slanting script, 17th
 c. (Politis, Sotiroudis and Sakellaridou-Sotiroudi, 1991, pp. 36-37).
 
 135
-
-# 
 
 ![Description](image_3144.jpeg)
 ![Description](image_3145.jpeg)
@@ -2656,8 +2622,6 @@ slightly right-slanting script.
 
 ![Description](image_3146.jpeg)
 
-# 
-
 Codex of the Holy Monastery of Karakallou, no. 1773/260 (Lampros) / no. 223 (Stathis), fol. 1a, beginning of the 19th c., according
 cataloguer (Stathis, 1993, pp. 431-432). On pp. 1-36 of the codex is included as
 
@@ -2673,11 +2637,9 @@ Mount Athos.
 
 137
 
-# Assessment criterion 11
+## Assessment criterion 11
 
 ## Exercise in creating mnemonic cards for Chapter 2
-
-##  
 
 ## Bibliography for Chapter 2
 
@@ -3060,7 +3022,7 @@ by H. Buchtal. Chicago and London: University of Chicago Press.
 West, Martin L. (1973). Textual Criticism and Editorial Technique applicable to Greek and Latin texts. Stuttgart:
 Teubner.
 
-# Webography
+## Webography
 
 <http://abacus.bates.edu/wmarchive/> (8.8.2016)
 <http://ancphil.lsa.umich.edu/-/downloads/faculty/janko/reconstructing-again-derveni.pdf> (8.8.2016).
@@ -3151,7 +3113,7 @@ _Fragments_on_display_in_the_Archaelogical_Museum_of_Thessaloniki.jpg (8.8.2016)
 
 (30.1.2017).
 
-# Endnotes for Chapter 2
+## Endnotes for Chapter 2
 
 |with Litsas (2011) and|
 |---|

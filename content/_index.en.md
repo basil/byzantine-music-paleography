@@ -3,8 +3,6 @@ title: "Palaeography of Byzantine Music"
 description: "Μουσικολογικές & καλλιτεχνικές αναζητήσεις — Μαρία Αλεξάνδρου"
 ---
 
-
-
 Palaeography
 of Byzantine Music
 
@@ -22,15 +20,15 @@ Maria Alexandrou
 Maria Alexandrou
 Tenured Assistant Professor, Aristotle University of Thessaloniki
 
-# Palaeography of Byzantine Music
+## Palaeography of Byzantine Music
 
-# Musicological &
+## Musicological &
 
-# artistic explorations
+## artistic explorations
 
 revised edition
 
-# First
+## First
 
 On the cover: Sticheron and miniature of Saint Demetrios, based on the manuscript of the Holy Monastery
 of Koutloumousiou, no. 412, fol. 35v, mid-14th c. (Stathis, 1993, p. 253). The sticheron was divided into musico-poetic
@@ -43,7 +41,7 @@ Perria & Raasted (eds., 1992), Sticherarium Ambrosianum, Pars Principalis, fol. 
 
 2
 
-# Written by
+## Written by
 
 Maria Alexandrou
 
@@ -110,7 +108,7 @@ To Saint Demetrios and Saint John Koukouzeles
 
 4
 
-# Table of contents
+## Table of contents
 
 Table of contents ......................................................................................................................... 5
 
@@ -610,7 +608,7 @@ Appendices
 
 11
 
-# Appendix 1. Glossary with names of signs and theseis in Byzantine, post-Byzantine, and modern theoretical writings .................................................................................................................. i
+## Appendix 1. Glossary with names of signs and theseis in Byzantine, post-Byzantine, and modern theoretical writings .................................................................................................................. i
 
 1. Prolegomena .................................................................................................................................................. i
 
@@ -669,7 +667,7 @@ Looking for the solutions to the exercises from the Assessment Criteria ........
 
 12
 
-# Table of abbreviations-acronyms
+## Table of abbreviations-acronyms
 
 |αγγλ.|English|
 |---|---|
@@ -750,7 +748,7 @@ into the presentation of the material of the respective chapter.
 
 14
 
-# Foreword by Honorary Professor Dr. Dr. h.c. mult. Constantin Floros
+## Foreword by Honorary Professor Dr. Dr. h.c. mult. Constantin Floros
 
 The present Handbook for the Palaeography of Byzantine Music is the first
 extensive work on this subject in the Greek language. I am very pleased by this publication
@@ -769,7 +767,7 @@ widest possible dissemination.
 
 15
 
-# Author’s Foreword
+## Author’s Foreword
 
 ## Some Historical Notes
 
@@ -806,7 +804,7 @@ texts
 Morphology
 and analysis
 
-#  Historical Meta-aesthetics performance practices
+##  Historical Meta-aesthetics performance practices
 
 Palaeography History
 Eastern music-theore-
@@ -3368,7 +3366,7 @@ Table 0.2. Palaeography among other fields of Byzantine Music Studies today.viii
 
 20
 
-# A few words about the present digital handbook
+## A few words about the present digital handbook
 
 Palaeography is a lifetime’s work for a scholar. For this reason, the aim of the present handbook is none other than to offer an introduction to the Introduction to the Palaeography of Byzantine Music. In other words, it seeks to introduce readers to the fascinating work of palaeography, through the combined study of:
 
@@ -3450,8 +3448,6 @@ Old System: metrophonia - parallage - melos, the art of cheironomia, musical exe
 
 ![Description](image_2418.jpeg)
 
-#  &
-
 Figure 0.7.a. MS no. 32 of the Classical Philology Seminar of the Faculty of Philosophy of Aristotle
 University of Thessaloniki, p. 8. Protheoria and Anastasimatarion, 18th c., in the notation of the Old Method
 (late Middle Byzantine). In the photograph, lower part: beginning of the “Admonition” by Chrysaphes the Younger.
@@ -3481,7 +3477,7 @@ Wheel). © Central Library of Aristotle University of Thessaloniki.
 
 24
 
-# Warm thanks
+## Warm thanks
 
 First of all, I would like to thank the various Holy Monasteries, libraries, institutions and
 various bodies that gave their blessing and/or permission for publication for the manuscript material that
@@ -3569,9 +3565,9 @@ as well as my entire family of origin, for their tangible love.
 Finally, I would like to express many thanks to the collaborators of the KALLIPOS initiative, for their
 unstinting support, from the first steps in preparing the handbook to its completion.
 
-# Bibliography for the Prologue
+## Bibliography for the Prologue
 
-# Printed musical
+## Printed musical
 
 collections and scores
 
@@ -3678,7 +3674,7 @@ Musicological and Psaltic Conference “Theory and Practice of the Psaltic Art�
 Species of Byzantine Psaltic Melopoeia. Athens 15-19 October 2003. Chronicle and Chants.
 Athens: Foundation of Byzantine Musicology, pp. 20-27 and CD 1, track 1.
 
-# Remainder
+## Remainder
 
 Webography
 

@@ -1959,7 +1959,7 @@ ornaments of the voice.xxxv
 
 521
 
-# 2. A systematic approach to cheironomy
+## 2. A systematic approach to cheironomy
 
 Considering cheironomy from a systematic perspective, we observe that the following elements are distinguished:
 
@@ -2042,7 +2042,7 @@ musical iconography offers important information: see Figures 10.6-10.9.
 ![Description](image_12394.jpeg)
 ![Description](image_12395.jpeg)
 
-# Figures 10.6-7. Left: Mosaic icon of the Venerable Forerunner, from the Patriarchal Church of Saint George in
+## Figures 10.6-7. Left: Mosaic icon of the Venerable Forerunner, from the Patriarchal Church of Saint George in
 
 the Phanar of Constantinople, around 1280, in a “classicizing tendency (...) of the first Palaiologan style,”
 probably originating from the church of the Holy Monastery of Pammakaristos in the Queen of Cities (Gkioles, 1994, pp. 257, 256,
@@ -2102,7 +2102,7 @@ Figure 10.9. The hands of a modern conductor of a European orchestra. The shape 
 hand, holding the baton, coincides visually with the old gesture of the ison in Byzantine music.
 Sketch by G. Tzimopoulos & Aik. Ioannidou (2016).xliii
 
-# 4. “Hyperstaseis” and “great hypostases of cheironomy.” Interpretations and tables of great signs
+## 4. “Hyperstaseis” and “great hypostases of cheironomy.” Interpretations and tables of great signs
 
 Perhaps the most impressive Byzantine musical manuscript for the art of cheironomy is the Asmatikon
 of the Holy Metropolis of Kastoria, no. 8, of the 14th century, in which two series of musical
@@ -2193,7 +2193,7 @@ antikenokylisma
 
 tromikon
 
-# Interpretation of Gabriel Hieromonk
+## Interpretation of Gabriel Hieromonk
 
 “The diple, then, is for no other reason than to indicate to the singer
 
@@ -2465,7 +2465,7 @@ Middle Byzantine notation
 Athonite Hagiopolite Early and Fully developed, late, partly
 developed explanatory
 
-# gorgon-enarxis
+## gorgon-enarxis
 
 New Method
 
@@ -2579,7 +2579,7 @@ the present.li
 
 541
 
-# 5. The role of the great signs and levels of stenography in the Old System (A). Musical theses
+## 5. The role of the great signs and levels of stenography in the Old System (A). Musical theses
 
 We saw in the preceding table that some signs are present from Palaeo-Byzantine notation
 to the present, while most are abolished within the framework of the New Method. The evolutionary stage at
@@ -2666,7 +2666,7 @@ perhaps become even more easily understood if we saw them in the following Table
 
 Table 10.5. Manuel Chrysaphes’ definition of the concept of “thesis,” in schematic form.
 
-# 6. The Mega Ison of Saint John Koukouzeles. Levels of stenography in the Old System (B)
+## 6. The Mega Ison of Saint John Koukouzeles. Levels of stenography in the Old System (B)
 
 The didactic poem par excellence of the theses of the old and kalophonic repertoire in late
 Middle Byzantine notation is the so-called Mega Ison of Saint John Koukouzeles (ca.
@@ -2864,7 +2864,7 @@ diploparallage: see Figure 10.19.
 
 ![Description](image_12448.jpeg)
 
-# Figure 10.19. The beginning of the thesis “kratema” from the Mega Ison of Saint John Koukouzeles: restoration
+Figure 10.19. The beginning of the thesis “kratema” from the Mega Ison of Saint John Koukouzeles: restoration
 
 of metrophonia, parallage and diploparallage, with the slow exegesis of Chourmouzios as the starting point of inquiry.
 
@@ -2893,7 +2893,7 @@ in Chapter 11 of the present work.
 
 561
 
-# 7. Some other instrumenta studiorum: a glossary of names of signs and theses, and a catalogue of theses
+## 7. Some other instrumenta studiorum: a glossary of names of signs and theses, and a catalogue of theses
 
 In the preceding sections we saw many details about various shapes and names of great
 signs and theses. If we wish to delve still more deeply into the issues of the great
@@ -3037,7 +3037,7 @@ signs, at the end of Appendix 1 of the present
 
 ![Description](image_12452.jpeg)
 
-# B. Graphic forms
+## B. Graphic forms
 
 On the basis of the synoptic table of large signs that we saw in section 4 of the present chapter
 (Table 10.3), we can trace the following with regard to the diachronic development of the epegerma:
@@ -3091,7 +3091,7 @@ Chourmouzios Chartophylax: see Figure 10.23.
 
 ![Description](image_12454.jpeg)
 
-# Listen to the epegerma formula from the Mega Ison of St John Koukouzeles, structural pitches & exegesis, by pressing 
+## Listen to the epegerma formula from the Mega Ison of St John Koukouzeles, structural pitches & exegesis, by pressing 
 
 Figure 10.23. The epegerma formula from the Mega Ison of Saint John Koukouzeles, in the exegesis of Chourmouzios
 Chartophylax: notation of the New Methodlxv and schematic staff transcription.
@@ -3220,8 +3220,6 @@ List of great signs and formulas from the theoretical text of Pseudo-
 
 Damascene II (Anonymous B)
 
-# 
-
 Assessment criterion 2
 Signs chanted according to the mode, a poem of the maist(or) kyr
 John Koukouzeles 
@@ -3232,8 +3230,6 @@ examples.
 
 Assessment criterion 4
 Create mnemonic cards for the present chapter. 
-
-# 
 
 Assessment criterion 5
 Consult the Glossary of names of signs and formulas (Appendix 1), in
@@ -3247,7 +3243,7 @@ and
 
 568
 
-# Bibliography for Chapter 10
+## Bibliography for Chapter 10
 
 of liturgical texts
 
@@ -3439,7 +3435,7 @@ Webliography
 <https://books.google.gr/books?id=tp5hMKmdg_AC&printsec=frontcover&hl=el&source=gbs_ge_summary_r&cad=0#v>
 =onepage&q&f=false (9.3.2016).
 
-# Endnotes for Chapter 10
+## Endnotes for Chapter 10
 
 i The present section is an abridgement
 especially Moran (1986). Gertsman (ed.,

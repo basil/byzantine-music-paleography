@@ -54,8 +54,6 @@ of it, in the form of a music-educational presentation.vii
 
 ![Description](image_6496.jpeg)
 
-#    &  
-
 Figure 5.1. The Oxyrhynchus Papyrus 1786, (P.Oxy.XV 1786), second half of the 3rd century AD. Hymn to the Holy Trinity in ancient Greek alphabetic vocal notation. The
 oldest monument of Christian music (on the basis of its content) and the last monument of ancient Greek music (on the basis of its notation and musical texture).
 It is kept in the Papyrology Rooms, Sackler Library, Oxford. First published by A.S. Hunt, in 1922.
@@ -68,7 +66,7 @@ Cf. also: Adam, Sotiria. (2012). The Oxyrhynchus Papyrus. The End of One Era and
 
 228
 
-# 3. Early Christian hymns on papyri and ostraca, with elements of primordial notation systems
+## 3. Early Christian hymns on papyri and ostraca, with elements of primordial notation systems
 
 ## 3.1. Some Introductory Remarks
 
@@ -169,7 +167,7 @@ and prophecies of the Old Testament (Daniel 9, 20-25, but also 2, 34 ff. | Judge
 in Christian tradition are interpreted as prefigurations of the Birth of our Lord Jesus
 Christ from the Ever-Virgin Mary.
 
-# 4. The notation of Hermoupolisxi
+## 4. The notation of Hermoupolisxi
 
 South of Oxyrhynchus, near the banks of the Nile, lay the ancient Egyptian city of Khmoun,
 called Hermoupolis in Greek.xii Probably from there, and reflecting the tradition of Egyptian
@@ -243,14 +241,6 @@ is attributed to Saint John of Damascus (ca. 675-ca. 753/4).xv
 
 ![Description](image_6513.jpeg)
 
-#   &
-
-# 
-
-# 
-
-# 
-
 Figure 5.5. P. Rylands Copt. 25r, with the hymn “Ἐπὶ σοὶ χαίρει,” on paper, 32x5 cm, probably 8th c., from the John Rylands
 Library, Manchester, with the notation of Hermoupolis.xvi © University of Manchester.
 
@@ -271,7 +261,7 @@ Perniciaro-OMègasEsperinòs-VesproSolenne-paginesole.pdf [23.5.2015]).
 
 235
 
-# 5. The Princeton Palimpsestxvii
+## 5. The Princeton Palimpsestxvii
 
 The palimpsest codex preserved in the Firestone Library, Princeton, in the Garrett Collection, with
 no. 24, is of great importance for Byzantine hymnography, since it is perhaps the oldest surviving
@@ -316,13 +306,13 @@ corresponding word the thesis known as thematismos eso (θεματισμός ἔ
 
 ![Description](image_6517.jpeg)
 
-# G# a h dc h
+## G# a h dc h
 
 Figure 5.8. The formula of the thematismos eso on the word “διό,” in the heirmos Ὑμνῶ σε, second mode, poem by Saint Kosmas
 the Melodist. Copy from the Heirmologion Grottaferrata EγII, year 1281, fol. 36r (Tardo, 1951, MMB 3. Raasted,
 1992, p. 224). Raasted (1995, p. 59) calls the melisma on the syllable -ο- "a structuralizing melsima".
 
-# 6. Theta Notation
+## 6. Theta Notation
 
 According to J. Raasted (1995, p. 57), Theta Notation is “a primitive notation that was
 used for marking melismas in pieces that were otherwise simple, non-
@@ -351,21 +341,13 @@ Lavra Γ 12 of the 10th or early 11th c.: see Figure 5.9.
 
 ![Description](image_6518.jpeg)
 
-# 
-
-# 
-
-# &
-
-#   
-
 Figure 5.9. The Sticherarion Laurensis Γ 12 of the Holy Monastery of the Great Lavra of Mount Athos, 10th c. (Strunk, Raasted)
 / early 11th c. (Floros), fol. 65v, with the sticheron “Παρὰ τὸ φρέαρ τοῦ Ἰακώβ,” in “Theta” notation.xxii © for the
 photograph from microfilm: Patriarchal Institute for Patristic Studies, Thessaloniki.
 
 238
 
-# 7. Archaic musical scripts in Syro-Melkite manuscripts. The Theta and Double Notations
+## 7. Archaic musical scripts in Syro-Melkite manuscripts. The Theta and Double Notations
 
 During the Byzantine period, the Syro-Melkites constituted a religious community which, unlike
 the Monophysite Syrians, followed the Orthodox tradition of the emperor of the Eastern Roman
@@ -428,7 +410,7 @@ and Raasted (1979, A, p. 18 and B, p. 55, para. 3). © Berlin, Staatsbibliothek 
 ![Description](image_6525.jpeg)
 ![Description](image_6526.jpeg)
 
-# 8. Cypro-Palestinian Notation
+## 8. Cypro-Palestinian Notation
 
 Cypro-Palestinian notation was the name given by I. Papathanasiou to a kind of primitive musical
 script found in parchment liturgical fragments of the second half of the 12th and the first quarter of the
@@ -468,7 +450,7 @@ stop after it (see Figure 5.14).
 
 244
 
-# 9. In search of musical scripts in Greek Sinaitic manuscripts of the first Christian millenniumxxiv
+## 9. In search of musical scripts in Greek Sinaitic manuscripts of the first Christian millenniumxxiv
 
 Jean-Baptiste Thibaut, one of the pioneers of Byzantine musical palaeography, published at the
 beginning of the 20th century his magnum opus in the field of Byzantine Musical Palaeography, entitled
@@ -536,11 +518,11 @@ and verse (Psalm 30, 2),xxix with “Double” notation (of Egyptian type?).
 According to J.-B. Thibaut (1913, p. 17), the individual signs found in the codex in question
 are the following: see Table 5.2.
 
-# Simple signs
+## Simple signs
 
 ![Description](image_6534.jpeg)
 
-# Composite signs
+## Composite signs
 
 ![Description](image_6535.jpeg)
 
@@ -636,7 +618,7 @@ Old Byzantine notation of the Hagiopolite family, which will be discussed more e
 
 249
 
-# Assessment criteria for Chapter 5
+## Assessment criteria for Chapter 5
 
 Assessment criterion 1
 Study the Oxyrhynchus Papyrus 1786, on the basis of Figure 5.1. and the
@@ -695,7 +677,7 @@ Spyridon of the Laura and Eustratiades, Sophronios. (1925). Catalogue of the Gre
 Laura on Mount Athos. Harvard Theological Studies XII. Cambridge: Harvard University Press. Repr. New York:
 Kraus Reprint Co., 1969.
 
-# Theoretical Treatises
+## Theoretical Treatises
 
 Alypius. Introduction to Music. (1995). Ed. Archim. Ath. Siamakis. Prespes.
 
@@ -838,7 +820,7 @@ West, Μ. L. (1999). Ancient Greek Music. Trans. Stathis Komninos. Athens: Papad
 What Do You Know About Icons? (2001 ). Transl. Rev. C. Terzopoulos. Holy Community of St. John the Baptist, Kareas
 Attiki 2001.
 
-# Recordings and Documentaries
+## Recordings and Documentaries
 
 Adam, Sotiria. (2012). The Oxyrhynchus Papyrus. The End of One Era and the Beginning of Another:
 <https://www.youtube.com/watch?v=X6cTHpXj-KU> (11.9.2016).
@@ -864,7 +846,7 @@ _0001 (8.8.2016).
 <https://hymnology.hymnsam.co.uk/> (11.9.2016).
 <https://uio.academia.edu/StigSimeonFr%C3%B8yshov> (11.9.2016).
 
-# Endnotes for Chapter 5
+## Endnotes for Chapter 5
 
 i Cf. Frøyshov (2013a-d). Alexandru (2016, pp. 54-59, 83).
 ii Cf. Wellesz (1962, p. vi).
