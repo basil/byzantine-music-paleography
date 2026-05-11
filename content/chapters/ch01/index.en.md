@@ -108,7 +108,7 @@ With the coming of the daylight, the static fades away, and signals emerge. Τhe
 find, when we switch on the radio of history about 3200 B.C.E., come from Mesopotamia, and
 those from Egypt soon emerge..."xv (see Map 1.1 and Figures 1.1-3).
 
-![Description](/resources/image_2421.jpeg)
+![Description](image_2421.jpeg)
 
 Map 1.1. From prehistoric times toward the beginnings of writing systems: cultures of Western and Eastern
 Europe, Mesopotamia (Ur, Uruk: cuneiform script) and Egypt (hieroglyphics).© Google earth.
@@ -117,8 +117,8 @@ Sources: Google earth & places marked by Demosthenes Spanoudakis.
 <http://ro.wikipedia.org/wiki/Cultura_Cucuteni>
 <http://en.wikipedia.org/wiki/Cucuteni-Trypillian_culture> (5.3.2015).
 
-![Description](/resources/image_2422.jpeg)
-![Description](/resources/image_2423.jpeg)
+![Description](image_2422.jpeg)
+![Description](image_2423.jpeg)
 
 Figures 1.1-2. The Code of Hammurabi, king of Babylon, in cuneiform script, ca. 1792-1750 BC,
 Mesopotamia. Today it is in the Louvre Museum, Paris. It is one of the most important written legal monuments
@@ -130,7 +130,7 @@ writing and calculating".
 
 31
 
-![Description](/resources/image_2424.jpeg)
+![Description](image_2424.jpeg)
 
 # Figure 1.3. The famous “Rosetta Stone” (196 BC), which was discovered in 1799 as a fragment in the city
 
@@ -233,7 +233,7 @@ Table 1.2. Aegean scripts.xxvi
 
 33
 
-![Description](/resources/image_2425.jpeg)
+![Description](image_2425.jpeg)
 
 Map 1.2. Regions in which the Aegean scripts took shape. © Google earth.
 Sources: Google earth & places marked by Demosthenes Spanoudakis.
@@ -274,7 +274,7 @@ of Miletus in Ionia of Asia Minor (see Map 1.3). The writing system of Miletus w
 officially by Athens in 403/402 and became the classical Greek alphabet, which we use
 to this day.xxxi
 
-![Description](/resources/image_2426.jpeg)
+![Description](image_2426.jpeg)
 
 # Map 1.3. Some regions of dissemination of the archaic forms of the Greek alphabet and Miletus, whose writing
 
@@ -336,7 +336,7 @@ a book or scroll (see Figures 1.4–7).
 
 36
 
-![Description](/resources/image_2427.jpeg)
+![Description](image_2427.jpeg)
 
 Figure 1.4. The Second Ecumenical Council, Constantinople 381. Emperor Theodosius the Great sits on the right, beside
 the throne on which lies the Gospel, symbol of the presence of Our Lord Jesus Christ. Miniature from
@@ -349,8 +349,8 @@ Cahiers d'une exposition, 37. Paris: Bibliothèque nationale de France, p. 5, fi
 
 37
 
-![Description](/resources/image_2428.jpeg)
-![Description](/resources/image_2429.jpeg)
+![Description](image_2428.jpeg)
+![Description](image_2429.jpeg)
 
 Figures 1.5–6. The written word as a divine gift: the Prophet Moses receiving the tablets of the Law from
 the hand of God (manus Dei).  The Protopsaltes John Glykys (13th c.) writing music with the
@@ -359,7 +359,7 @@ Byzantine and post-Byzantine models.xli
 
 38
 
-![Description](/resources/image_2430.png)
+![Description](image_2430.png)
 
 # Figure 1.7. “Maiestas Domini” (The Glory of the Lord): hagiographical sketch by G. Tzimopoulos & Aik. Ioannidou (2016)
 
@@ -378,7 +378,7 @@ Herbert Hunger (1995, p. 18) speaks of “bureaucratic communication” between 
 on the basis of various visual and literary sources from the Byzantine period. The use of writing for
 communication with the Saints is a phenomenon widespread even today (see Figure 1.8).
 
-![Description](/resources/image_2431.png)
+![Description](image_2431.png)
 
 Figure 1.8. Writing as a means of communication with the divine in a modern example: slips of paper with requests to Saint
 Demetrios the Myrrh-streamer at his reliquary (Church of Saint Demetrios, Patron Saint of Thessaloniki [photograph ca. year 2013]). © Church of Saint Demetrios, Patron Saint of Thessaloniki.
@@ -639,7 +639,7 @@ Byzantine music is given in the last column and begins at the end of the first m
 containing two large systems of musical scripts: ekphonetic notation and the melodic
 notations.
 
-![Description](/resources/image_2432.jpeg)
+![Description](image_2432.jpeg)
 
 Map 1.4. Important centers of dissemination of the Psaltic Art during the pre-Byzantine, Byzantine, and post-Byzantine years. ©
 Google earth.
@@ -659,10 +659,10 @@ Sources: Google earth & places marked by Demosthenes Spanoudakis.
 
 54
 
-![Description](/resources/image_2433.jpeg)
-![Description](/resources/image_2434.jpeg)
-![Description](/resources/image_2435.jpeg)
-![Description](/resources/image_2436.jpeg)
+![Description](image_2433.jpeg)
+![Description](image_2434.jpeg)
+![Description](image_2435.jpeg)
+![Description](image_2436.jpeg)
 
 |Century A.D.|FRAGMENTS AND LOCAL NOTATIONAL SYSTEMS|THE PRINCIPAL WRITTEN TRADITION|
 |---|---|---|
@@ -670,11 +670,11 @@ Sources: Google earth & places marked by Demosthenes Spanoudakis.
 
 55
 
-![Description](/resources/image_2437.jpeg)
-![Description](/resources/image_2438.jpeg)
-![Description](/resources/image_2439.jpeg)
-![Description](/resources/image_2440.jpeg)
-![Description](/resources/image_2441.jpeg)
+![Description](image_2437.jpeg)
+![Description](image_2438.jpeg)
+![Description](image_2439.jpeg)
+![Description](image_2440.jpeg)
+![Description](image_2441.jpeg)
 
 |Century A.D.|FRAGMENTS AND LOCAL NOTATIONAL SYSTEMS|THE PRINCIPAL WRITTEN TRADITION|
 |---|---|---|
@@ -682,7 +682,7 @@ Sources: Google earth & places marked by Demosthenes Spanoudakis.
 
 56
 
-![Description](/resources/image_2442.jpeg)
+![Description](image_2442.jpeg)
 
 |Century A.D.|FRAGMENTS AND LOCAL NOTATIONAL SYSTEMS|THE PRINCIPAL WRITTEN TRADITION|
 |---|---|---|
@@ -776,8 +776,8 @@ of the world and of Greek writing, on the basis of Video 1.1.
 Note: The final map of the video concerns the next chapter, where, among other things,
 various important centers of production of writing material will be presented and great libraries of Antiquity will be mentioned.
 
-![Description](/resources/image_2443.jpeg)
-![Description](/resources/image_2444.png)
+![Description](image_2443.jpeg)
+![Description](image_2444.png)
 
 # ΔΑ_Πανόραμα χαρτών.mp4 
 

@@ -25,13 +25,13 @@ analytical notation will take place in two steps: 1. Parallage, with the applica
 pitch names to each note sign, and 2. Melos, with the pronunciation of the syllables of the text on each
 pitch sign (see Figures 9.1.-2).
 
-![Description](/resources/image_10510.jpeg)
+![Description](image_10510.jpeg)
 
 Figure 9.1. The process of learning pieces in the New Method: parallage and melos.
 Source: Chrysanthos of Madytos (1821). Introduction to the Theoretical and Practical Aspects
 of Ecclesiastical Music. Paris: Rigniou (repr. Koultoura), p. 11.
 
-![Description](/resources/image_10511.jpeg)
+![Description](image_10511.jpeg)
 
 of ecclesiastical
 
@@ -48,13 +48,13 @@ was more complex and included three steps: parallage, metrophony, and melos (see
 
 9.3.).
 
-![Description](/resources/image_10512.jpeg)
-![Description](/resources/image_10513.jpeg)
+![Description](image_10512.jpeg)
+![Description](image_10513.jpeg)
 
 473
 
-![Description](/resources/image_10514.jpeg)
-![Description](/resources/image_10515.jpeg)
+![Description](image_10514.jpeg)
+![Description](image_10515.jpeg)
 
 Figure 9.3. The didactics of the Old Method, according to Chrysanthos: parallage - metrophony - melos, with the
 example of the first phrase of the resurrectional sticheron of the first mode “Our evening prayers”, text by Saint
@@ -72,7 +72,7 @@ triptych in reverse order (see Figure 9.4.):
 
 474
 
-![Description](/resources/image_10516.png)
+![Description](image_10516.png)
 
 Figure 9.4. Stages in the career of a 15th-century chanter, according to Gabriel Hieromonachos.iii
 
@@ -114,154 +114,154 @@ Table 9.1. Main components of Middle Byzantine notation and of musical performan
 
 475
 
-![Description](/resources/image_10517.png)
-![Description](/resources/image_10518.png)
-![Description](/resources/image_10519.png)
-![Description](/resources/image_10520.png)
-![Description](/resources/image_10521.png)
-![Description](/resources/image_10522.png)
-![Description](/resources/image_10523.png)
-![Description](/resources/image_10524.png)
-![Description](/resources/image_10525.png)
-![Description](/resources/image_10526.png)
-![Description](/resources/image_10527.png)
-![Description](/resources/image_10528.png)
-![Description](/resources/image_10529.png)
-![Description](/resources/image_10530.png)
-![Description](/resources/image_10531.png)
-![Description](/resources/image_10532.png)
-![Description](/resources/image_10533.png)
-![Description](/resources/image_10534.png)
-![Description](/resources/image_10535.png)
-![Description](/resources/image_10536.png)
-![Description](/resources/image_10537.png)
-![Description](/resources/image_10538.png)
-![Description](/resources/image_10539.png)
-![Description](/resources/image_10540.png)
-![Description](/resources/image_10541.png)
-![Description](/resources/image_10542.png)
-![Description](/resources/image_10543.png)
-![Description](/resources/image_10544.png)
-![Description](/resources/image_10545.png)
-![Description](/resources/image_10546.png)
-![Description](/resources/image_10547.png)
-![Description](/resources/image_10548.png)
-![Description](/resources/image_10549.png)
-![Description](/resources/image_10550.png)
-![Description](/resources/image_10551.png)
-![Description](/resources/image_10552.png)
-![Description](/resources/image_10553.png)
-![Description](/resources/image_10554.png)
-![Description](/resources/image_10555.png)
-![Description](/resources/image_10556.png)
-![Description](/resources/image_10557.png)
-![Description](/resources/image_10558.png)
-![Description](/resources/image_10559.png)
-![Description](/resources/image_10560.png)
-![Description](/resources/image_10561.png)
-![Description](/resources/image_10562.png)
-![Description](/resources/image_10563.png)
-![Description](/resources/image_10564.png)
-![Description](/resources/image_10565.png)
-![Description](/resources/image_10566.png)
-![Description](/resources/image_10567.png)
-![Description](/resources/image_10568.png)
-![Description](/resources/image_10569.png)
-![Description](/resources/image_10570.png)
-![Description](/resources/image_10571.png)
-![Description](/resources/image_10572.png)
-![Description](/resources/image_10573.png)
-![Description](/resources/image_10574.png)
-![Description](/resources/image_10575.png)
-![Description](/resources/image_10576.png)
-![Description](/resources/image_10577.png)
-![Description](/resources/image_10578.png)
-![Description](/resources/image_10579.png)
-![Description](/resources/image_10580.png)
-![Description](/resources/image_10581.png)
-![Description](/resources/image_10582.png)
-![Description](/resources/image_10583.png)
-![Description](/resources/image_10584.png)
-![Description](/resources/image_10585.png)
-![Description](/resources/image_10586.png)
-![Description](/resources/image_10587.png)
-![Description](/resources/image_10588.png)
-![Description](/resources/image_10589.png)
-![Description](/resources/image_10590.png)
-![Description](/resources/image_10591.png)
-![Description](/resources/image_10592.png)
-![Description](/resources/image_10593.png)
-![Description](/resources/image_10594.png)
-![Description](/resources/image_10595.png)
-![Description](/resources/image_10596.png)
-![Description](/resources/image_10597.png)
-![Description](/resources/image_10598.png)
-![Description](/resources/image_10599.png)
-![Description](/resources/image_10600.png)
-![Description](/resources/image_10601.png)
-![Description](/resources/image_10602.png)
-![Description](/resources/image_10603.png)
-![Description](/resources/image_10604.png)
-![Description](/resources/image_10605.png)
-![Description](/resources/image_10606.png)
-![Description](/resources/image_10607.png)
-![Description](/resources/image_10608.png)
-![Description](/resources/image_10609.png)
-![Description](/resources/image_10610.png)
-![Description](/resources/image_10611.png)
-![Description](/resources/image_10612.png)
-![Description](/resources/image_10613.png)
-![Description](/resources/image_10614.png)
-![Description](/resources/image_10615.png)
-![Description](/resources/image_10616.png)
-![Description](/resources/image_10617.png)
-![Description](/resources/image_10618.png)
-![Description](/resources/image_10619.png)
-![Description](/resources/image_10620.png)
-![Description](/resources/image_10621.png)
-![Description](/resources/image_10622.png)
-![Description](/resources/image_10623.png)
-![Description](/resources/image_10624.png)
-![Description](/resources/image_10625.png)
-![Description](/resources/image_10626.png)
-![Description](/resources/image_10627.png)
-![Description](/resources/image_10628.png)
-![Description](/resources/image_10629.png)
-![Description](/resources/image_10630.png)
-![Description](/resources/image_10631.png)
-![Description](/resources/image_10632.png)
-![Description](/resources/image_10633.png)
-![Description](/resources/image_10634.png)
-![Description](/resources/image_10635.png)
-![Description](/resources/image_10636.png)
-![Description](/resources/image_10637.png)
-![Description](/resources/image_10638.png)
-![Description](/resources/image_10639.png)
-![Description](/resources/image_10640.png)
-![Description](/resources/image_10641.png)
-![Description](/resources/image_10642.png)
-![Description](/resources/image_10643.png)
-![Description](/resources/image_10644.png)
-![Description](/resources/image_10645.png)
-![Description](/resources/image_10646.png)
-![Description](/resources/image_10647.png)
-![Description](/resources/image_10648.png)
-![Description](/resources/image_10649.png)
-![Description](/resources/image_10650.png)
-![Description](/resources/image_10651.png)
-![Description](/resources/image_10652.png)
-![Description](/resources/image_10653.png)
-![Description](/resources/image_10654.png)
-![Description](/resources/image_10655.png)
-![Description](/resources/image_10656.png)
-![Description](/resources/image_10657.png)
-![Description](/resources/image_10658.png)
-![Description](/resources/image_10659.png)
-![Description](/resources/image_10660.png)
-![Description](/resources/image_10661.png)
-![Description](/resources/image_10662.png)
-![Description](/resources/image_10663.png)
-![Description](/resources/image_10664.png)
+![Description](image_10517.png)
+![Description](image_10518.png)
+![Description](image_10519.png)
+![Description](image_10520.png)
+![Description](image_10521.png)
+![Description](image_10522.png)
+![Description](image_10523.png)
+![Description](image_10524.png)
+![Description](image_10525.png)
+![Description](image_10526.png)
+![Description](image_10527.png)
+![Description](image_10528.png)
+![Description](image_10529.png)
+![Description](image_10530.png)
+![Description](image_10531.png)
+![Description](image_10532.png)
+![Description](image_10533.png)
+![Description](image_10534.png)
+![Description](image_10535.png)
+![Description](image_10536.png)
+![Description](image_10537.png)
+![Description](image_10538.png)
+![Description](image_10539.png)
+![Description](image_10540.png)
+![Description](image_10541.png)
+![Description](image_10542.png)
+![Description](image_10543.png)
+![Description](image_10544.png)
+![Description](image_10545.png)
+![Description](image_10546.png)
+![Description](image_10547.png)
+![Description](image_10548.png)
+![Description](image_10549.png)
+![Description](image_10550.png)
+![Description](image_10551.png)
+![Description](image_10552.png)
+![Description](image_10553.png)
+![Description](image_10554.png)
+![Description](image_10555.png)
+![Description](image_10556.png)
+![Description](image_10557.png)
+![Description](image_10558.png)
+![Description](image_10559.png)
+![Description](image_10560.png)
+![Description](image_10561.png)
+![Description](image_10562.png)
+![Description](image_10563.png)
+![Description](image_10564.png)
+![Description](image_10565.png)
+![Description](image_10566.png)
+![Description](image_10567.png)
+![Description](image_10568.png)
+![Description](image_10569.png)
+![Description](image_10570.png)
+![Description](image_10571.png)
+![Description](image_10572.png)
+![Description](image_10573.png)
+![Description](image_10574.png)
+![Description](image_10575.png)
+![Description](image_10576.png)
+![Description](image_10577.png)
+![Description](image_10578.png)
+![Description](image_10579.png)
+![Description](image_10580.png)
+![Description](image_10581.png)
+![Description](image_10582.png)
+![Description](image_10583.png)
+![Description](image_10584.png)
+![Description](image_10585.png)
+![Description](image_10586.png)
+![Description](image_10587.png)
+![Description](image_10588.png)
+![Description](image_10589.png)
+![Description](image_10590.png)
+![Description](image_10591.png)
+![Description](image_10592.png)
+![Description](image_10593.png)
+![Description](image_10594.png)
+![Description](image_10595.png)
+![Description](image_10596.png)
+![Description](image_10597.png)
+![Description](image_10598.png)
+![Description](image_10599.png)
+![Description](image_10600.png)
+![Description](image_10601.png)
+![Description](image_10602.png)
+![Description](image_10603.png)
+![Description](image_10604.png)
+![Description](image_10605.png)
+![Description](image_10606.png)
+![Description](image_10607.png)
+![Description](image_10608.png)
+![Description](image_10609.png)
+![Description](image_10610.png)
+![Description](image_10611.png)
+![Description](image_10612.png)
+![Description](image_10613.png)
+![Description](image_10614.png)
+![Description](image_10615.png)
+![Description](image_10616.png)
+![Description](image_10617.png)
+![Description](image_10618.png)
+![Description](image_10619.png)
+![Description](image_10620.png)
+![Description](image_10621.png)
+![Description](image_10622.png)
+![Description](image_10623.png)
+![Description](image_10624.png)
+![Description](image_10625.png)
+![Description](image_10626.png)
+![Description](image_10627.png)
+![Description](image_10628.png)
+![Description](image_10629.png)
+![Description](image_10630.png)
+![Description](image_10631.png)
+![Description](image_10632.png)
+![Description](image_10633.png)
+![Description](image_10634.png)
+![Description](image_10635.png)
+![Description](image_10636.png)
+![Description](image_10637.png)
+![Description](image_10638.png)
+![Description](image_10639.png)
+![Description](image_10640.png)
+![Description](image_10641.png)
+![Description](image_10642.png)
+![Description](image_10643.png)
+![Description](image_10644.png)
+![Description](image_10645.png)
+![Description](image_10646.png)
+![Description](image_10647.png)
+![Description](image_10648.png)
+![Description](image_10649.png)
+![Description](image_10650.png)
+![Description](image_10651.png)
+![Description](image_10652.png)
+![Description](image_10653.png)
+![Description](image_10654.png)
+![Description](image_10655.png)
+![Description](image_10656.png)
+![Description](image_10657.png)
+![Description](image_10658.png)
+![Description](image_10659.png)
+![Description](image_10660.png)
+![Description](image_10661.png)
+![Description](image_10662.png)
+![Description](image_10663.png)
+![Description](image_10664.png)
 
 Another schematic representation of the triple didactic progression according to the Old Method could
 also take the following form (see Figure 9.5):
@@ -287,7 +287,7 @@ definition of the various combinations of the voiced signs: see Figure 9.6.
 The case of the Thematismos
 from the adiastematic Hagiopolitan notation:
 
-![Description](/resources/image_10665.jpeg)
+![Description](image_10665.jpeg)
 
 # Coislin I-IV
 
@@ -295,7 +295,7 @@ from the adiastematic Hagiopolitan notation:
 
 # to the diastematic Middle Byzantine notation
 
-![Description](/resources/image_10666.jpeg)
+![Description](image_10666.jpeg)
 
 Figure 9.6. The course of Byzantine notation from adiastematicity toward diastematicity.
 Sources: Floros (1970, vol. III, p. 48). EBE 2458, year 1336, fol. 3r, excerpt from the Mega Ison of Saint John
@@ -306,7 +306,7 @@ graphic system (Doda, 1995, p. 65), in contrast to Western music, where the anal
 was made through the exploitation of the vertical axis of writing and the introduction of lines, leading toward the
 formation of the staff (Figure 9.7).
 
-![Description](/resources/image_10667.jpeg)
+![Description](image_10667.jpeg)
 
 Figure 9.7. Diastematicity in East and West: symbolism (“conventional signs on a horizontal line”) and
 iconicity (indication of pitch on the basis of a vertical axis).
@@ -339,7 +339,7 @@ takes the following forms:
 
 - verbal, with a relevant clarification beside the sign (see Figure 9.9).
 
-![Description](/resources/image_10668.jpeg)
+![Description](image_10668.jpeg)
 
 Figures 9.8-9. Numerical and verbal indications of the intervallic value of the pitch signs in the Protheoria of the
 Papadike. Left: beneath the combinations with the ison: “voiceless”, and then indications for 1 or 2 voices. Right:
@@ -373,8 +373,8 @@ created an exercise that combines metrophony with parallage (see Figure 9.12).
 
 478
 
-![Description](/resources/image_10669.jpeg)
-![Description](/resources/image_10670.jpeg)
+![Description](image_10669.jpeg)
+![Description](image_10670.jpeg)
 
 Figures 9.10-11. “A choir lit by fourteen torches” and other stichera in honour of the Holy Forty Martyrs of
 Sebaste (early fourth century AD. Commemorated on 9 March), from the Sticherarion of NLG 884, fol. 155v, year 1340/41, in
@@ -386,7 +386,7 @@ Source for the image: <https://upload.wikimedia.org/wikipedia/el/2/22/40_Μάρ�
 
 479
 
-![Description](/resources/image_10671.jpeg)
+![Description](image_10671.jpeg)
 
 Figure 9.12. “The principal metrophony of the parallag(e):- mode 1: A choir lit by fourteen torches” and other
 methods from the Protheoria of the Papadike in MS NLG 2401, fol. 20v, prob. 1452-1469 (Politis & Politi, 1991, p. 314-
@@ -398,7 +398,7 @@ methods from the Protheoria of the Papadike in MS NLG 2401, fol. 20v, prob. 1452
 A comparison between the sticheron and the exercise in metrophony and parallage could
 take the following form (see Figure 9.13):
 
-![Description](/resources/image_10672.jpeg)
+![Description](image_10672.jpeg)
 
 # Hear them by clicking  
 
@@ -416,7 +416,7 @@ In the first half of the nineteenth century, Chourmouzios made an exegesis of th
 lit by fourteen torches” in the New Method (see Figure 9.14), and thus today we are able to
 listen to the slow melos of this sticheron: Listen to the beginning by clicking 
 
-![Description](/resources/image_10673.jpeg)
+![Description](image_10673.jpeg)
 
 Figure 9.14.a. The exegesis by Chourmouzios Chartophylax of the old sticheron “A choir lit by fourteen torches,” in
 mode 1, based on his autograph MPT 709, fol. 104r-v. The piece was divided into musico-poetic phrases (cola), and
@@ -424,7 +424,7 @@ barlines were added to indicate the measures.ix
 
 482
 
-![Description](/resources/image_10674.jpeg)
+![Description](image_10674.jpeg)
 
 Figure 9.14.b. Continuation and conclusion of Chourmouzios’s exegesis of the sticheron “A choir lit by fourteen torches,”
 based on the autograph MPT 709, fol. 104v.
@@ -435,7 +435,7 @@ Figure 9.15):
 
 483
 
-![Description](/resources/image_10675.jpeg)
+![Description](image_10675.jpeg)
 
 484
 
@@ -455,7 +455,7 @@ A special case is the method “O Virgin Theologian,” in mode 2, which is base
 for the feast of the Translation of Saint John the Evangelist (26 September),xi
 a poem by Theophanes (NLG 884) or by the Studite (A 139 sup.): see Figures 9.16-17.
 
-![Description](/resources/image_10676.jpeg)
+![Description](image_10676.jpeg)
 
 Figure 9.16. The sticheron “O Virgin Theologian,” in mode 2, from the Old Sticherarion corrected by Saint
 John Koukouzeles, MS NLG 884, fol. 37r, year 1340/1. © National Library of Greece.xii
@@ -467,7 +467,7 @@ heard in the recording).
 
 485
 
-![Description](/resources/image_10677.jpeg)
+![Description](image_10677.jpeg)
 
 Listen to the metrophony and the parallage (diatonically), by clicking  & .
 Figure 9.17.a. “Stich(er)on for paral\<l\>age: mode 2: O Virgin Theologian,” in MS NLG 928, fol. 167r, late fifteenth
@@ -475,7 +475,7 @@ century (Conomos). © National Library of Greece.xiv
 
 486
 
-![Description](/resources/image_10678.jpeg)
+![Description](image_10678.jpeg)
 
 Figure 9.17.b. Continuation of the same sticheron for parallage, MS NLG 928, fol. 167v, late fifteenth century (Conomos).
 
@@ -486,7 +486,7 @@ Figure 9.17.b. Continuation of the same sticheron for parallage, MS NLG 928, fol
 Chourmouzios’s slow exegesis of the sticheron “O Virgin Theologian,” in the old style, is presented
 in Figure 9.18.
 
-![Description](/resources/image_10679.jpeg)
+![Description](image_10679.jpeg)
 
 Listen to the parallage and the melos of the exegesis by clicking  & .
 Figure 9.18.a. The exegesis by Chourmouzios Chartophylax of the old sticheron “O Virgin Theologian,” in mode 2, based on
@@ -495,7 +495,7 @@ barlines were added to indicate the measures.xv
 
 488
 
-![Description](/resources/image_10680.jpeg)
+![Description](image_10680.jpeg)
 
 Figure 9.18.b. Continuation and conclusion of Chourmouzios’s exegesis of the sticheron “O Virgin Theologian,” based on
 his autograph MPT 707, fol. 222v-223r.
@@ -513,7 +513,7 @@ Nevertheless, the sticheron for parallage in codex NLG 928, fol. 167r-v, uses be
 pitch signs of the metrophony the martyriai according to the system of tetraphony, that is, of the trochos. For the pitch
 G it sets the martyria . It follows that here the pitch G will be natural.
 
-![Description](/resources/image_10681.jpeg)
+![Description](image_10681.jpeg)
 
 As mentioned in chapter 8, section 3.5, this contradiction leads us to a very interesting
 phenomenon of the old notation, which various theorists such as Chrysaphes the Elder (verses 438-452)
@@ -528,22 +528,22 @@ and 9.19-20.
 
 489
 
-![Description](/resources/image_10682.jpeg)
+![Description](image_10682.jpeg)
 
 from parallage: pl. 4th
 
-![Description](/resources/image_10683.jpeg)
+![Description](image_10683.jpeg)
 
 from melos
 
-![Description](/resources/image_10684.jpeg)
+![Description](image_10684.jpeg)
 
 Figure 9.19. The first phrase of the sticheron “O Virgin Theologian,” mode 2, from MS A 139 sup., fol.23v, and the corresponding
 phrase of the homonymous “sticheron for parallage” from MS NLG 928, fol. 167r, with transnotations.
 
-![Description](/resources/image_10685.jpeg)
-![Description](/resources/image_10686.jpeg)
-![Description](/resources/image_10687.jpeg)
+![Description](image_10685.jpeg)
+![Description](image_10686.jpeg)
+![Description](image_10687.jpeg)
 
 Metrophony as the rendering of a
 troparion, only with stepwise movements,
@@ -564,8 +564,8 @@ late Middle Byzantine period the special intervals of the modes that are based
 on systems other than the diatonic trochos are also theorized. Thus, for the sticheron “O Virgin Theologian” there is now
 a corresponding kanonion with the specific mode (2): see Figure 9.21.
 
-![Description](/resources/image_10688.jpeg)
-![Description](/resources/image_10689.jpeg)
+![Description](image_10688.jpeg)
+![Description](image_10689.jpeg)
 
 Figure 9.21. The beginning of the sticheron “O Virgin Theologian” from Sticherarium Ambrosianum A 139 sup., fol. 23v, with
 transnotation, and a kanonion of mode 2, copied from the Anonymous theorist of MS NLG 968, fol. 180v.
@@ -583,8 +583,8 @@ Figure 9.22.
 
 491
 
-![Description](/resources/image_10690.jpeg)
-![Description](/resources/image_10691.jpeg)
+![Description](image_10690.jpeg)
+![Description](image_10691.jpeg)
 
 Figure 9.22. The beginning of the sticheron “O Virgin Theologian” from Sticherarium Ambrosianum A 139 sup., fol. 23v, with
 transnotation, and the slow exegesis by Chourmouzios, from MS NLG 707, fol. 222r, with schematic transcription on the
@@ -610,7 +610,7 @@ Figures 9.12 (in the middle) and 9.23.
 
 492
 
-![Description](/resources/image_10692.jpeg)
+![Description](image_10692.jpeg)
 
 |1. mode|1st G a|a G a|a GF Ga a GF E FG a|
 |---|---|---|---|
@@ -619,10 +619,10 @@ Figures 9.12 (in the middle) and 9.23.
 |4.|Ga c|c G c|c F c ¦mode 4th-pl./4th d c d|
 |5.|d ch cd|d ch|d d ch aG ah d|
 
-![Description](/resources/image_10693.jpeg)
-![Description](/resources/image_10694.jpeg)
-![Description](/resources/image_10695.jpeg)
-![Description](/resources/image_10696.jpeg)
+![Description](image_10693.jpeg)
+![Description](image_10694.jpeg)
+![Description](image_10695.jpeg)
+![Description](image_10696.jpeg)
 
 1. h: according to the MS, the transnotation ought to be : a. We have corrected it, however, to an ascent of two phonai, by analogy with the corresponding position
 at the beginning of row 4., since in the isasmoi the final pitch of each formula coincides with the first .
@@ -648,7 +648,7 @@ Figure 9.24.
 
 493
 
-![Description](/resources/image_10697.png)
+![Description](image_10697.png)
 
 Figure 9.24.a. Excerpt from the “Method of metrophony” of Gregory Bounes Alyates:
 examples of theseis for two phonai (nos. 26-28). Signs and text from the Protheoria of MS
@@ -658,21 +658,21 @@ of melodic contour, and syllabic interpretation, according to the research of I.
 
 494
 
-![Description](/resources/image_10698.png)
+![Description](image_10698.png)
 
 Figure 9.24.b. Excerpt from the “Method of metrophony” of Gregory Bounes Alyates:
 examples of theseis for two phonai (nos. 29-31).
 
 495
 
-![Description](/resources/image_10699.png)
+![Description](image_10699.png)
 
 Figure 9.24.c. Excerpt from the “Method of metrophony” of Gregory Bounes Alyates:
 examples of theseis for two phonai (nos. 32-34).
 
 496
 
-![Description](/resources/image_10700.png)
+![Description](image_10700.png)
 
 Figure 9.24.d. Excerpt from the “Method of metrophony” of Gregory Bounes Alyates:
 examples of theseis for two phonai (nos. 35, 45-46. In between there intervene theseis in other intervallic
@@ -680,7 +680,7 @@ frameworks).
 
 497
 
-![Description](/resources/image_10701.png)
+![Description](image_10701.png)
 
 Figure 9.24.e. Excerpt from the Method of metrophony of Gregory Bounes Alyates: examples
 of theseis for two phonai (nos.47-48).
@@ -709,7 +709,7 @@ clarified as follows (see Figure 9.25):
 |---|
 |Descending phonai: -4 - 4 - 1 -1-1-1 - 1-1-1 = 19 - 2 - 2|
 
-![Description](/resources/image_10702.jpeg)
+![Description](image_10702.jpeg)
 
 Figure 9.25. The beginning of the Fourth Eothinon in mode 4, copied from the codices: 1. A 139 sup., fol. 299r, year 1341 and 2. NLG
 917, fol. 3r, year 1500-1520, autograph of Akakios Chalkeopoulos (Chatzigiakoumis, 1980, p. 113). In no. 3 we give an
@@ -721,7 +721,7 @@ MS NLG 968 (see Figure 9.26):
 
 499
 
-![Description](/resources/image_10703.jpeg)
+![Description](image_10703.jpeg)
 
 Figure 9.26. Kanonion of metrophony in the Anonymous author of MS NLG 968, fol. 177r, seventeenth century (Giannopoulos, 2013, p. 98, 111-
 
@@ -753,7 +753,7 @@ visualizes the metrophonic structure of the piece through the use of a vertical 
 
 ## Pa
 
-![Description](/resources/image_10704.jpeg)
+![Description](image_10704.jpeg)
 
 Listen to the beginning of the diagram by pressing 
 Figure 9.27. The kanonion (κανόνιο) of metrophonia (μετροφωνία) in the Anonymous author of MS EBE 968, fol. 177r, with the addition of the corresponding
@@ -771,11 +771,11 @@ practice concerning metrophonia:
 
 501
 
-![Description](/resources/image_10705.jpeg)
+![Description](image_10705.jpeg)
 
 -  The original sticheron (as Chrysanthos cites it, 70)
 
-![Description](/resources/image_10706.jpeg)
+![Description](image_10706.jpeg)
 
 - Parallage, according to Chrysanthos
 
@@ -792,8 +792,8 @@ a
 
 502
 
-![Description](/resources/image_10707.jpeg)
-![Description](/resources/image_10708.jpeg)
+![Description](image_10707.jpeg)
+![Description](image_10708.jpeg)
 
 # 3. Metrophonia - Parallage - Melos: the example of the intonation formula (ἀπήχημα) of the first mode 503
 
@@ -801,12 +801,12 @@ A good example for understanding the relationship metrophonia - parallage - melo
 
 One
 
-![Description](/resources/image_10709.jpeg)
+![Description](image_10709.jpeg)
 
 1.
 
-![Description](/resources/image_10710.jpeg)
-![Description](/resources/image_10711.jpeg)
+![Description](image_10710.jpeg)
+![Description](image_10711.jpeg)
 
 Listen to lines 2&3 and 4 
 
@@ -821,7 +821,7 @@ If we suppose that from the unfolding of the initial ison of the first mode its 
 through its metrophonia and parallage, how we arrive at its melos, by means of the art of slow exegesis. A schematic representation of the relationship
 between the initial ison, the metrophonia, the parallage, and the melos of the intonation formula of the first mode is shown in Figure 9.30.
 
-![Description](/resources/image_10712.jpeg)
+![Description](image_10712.jpeg)
 
 1.
 
@@ -829,7 +829,7 @@ between the initial ison, the metrophonia, the parallage, and the melos of the i
 
 3.
 
-![Description](/resources/image_10713.jpeg)
+![Description](image_10713.jpeg)
 
 Figure 9.30. “Give me a piece, and I will show you how it is born from an ison” (Chr. Samaras).xxix Schematic depiction of the musical example in Figure 9.29:
 
@@ -839,7 +839,7 @@ first mode. 3. In purple, the movement of the parallage, and in light blue, the 
 
 505
 
-![Description](/resources/image_10714.jpeg)
+![Description](image_10714.jpeg)
 
 # 4. The old intonation formulas of the eight modes and their slow exegesis, according to Chrysanthos
 
@@ -849,16 +849,16 @@ they were preserved by tradition down to his time: see Tables 9.2.a-c.
 |Mode I II III IV|Old Method|Exegesis in the New Method by Petros Peloponnesios:|
 |---|---|---|
 
-![Description](/resources/image_10715.jpeg)
-![Description](/resources/image_10716.jpeg)
-![Description](/resources/image_10717.jpeg)
-![Description](/resources/image_10718.jpeg)
-![Description](/resources/image_10719.jpeg)
-![Description](/resources/image_10720.jpeg)
-![Description](/resources/image_10721.jpeg)
-![Description](/resources/image_10722.jpeg)
-![Description](/resources/image_10723.jpeg)
-![Description](/resources/image_10724.jpeg)
+![Description](image_10715.jpeg)
+![Description](image_10716.jpeg)
+![Description](image_10717.jpeg)
+![Description](image_10718.jpeg)
+![Description](image_10719.jpeg)
+![Description](image_10720.jpeg)
+![Description](image_10721.jpeg)
+![Description](image_10722.jpeg)
+![Description](image_10723.jpeg)
+![Description](image_10724.jpeg)
 
 Table 9.2.a. The intonation formulas of the authentic modes in stenographic and analytical notation, according to Chrysanthos, Great Theoretical Treatise (1832, §§ 309-312).
 
@@ -867,14 +867,14 @@ Table 9.2.a. The intonation formulas of the authentic modes in stenographic and 
 |Mode pl. I pl. II Varys pl. IV|Old Method|Exegesis in the New Method|
 |---|---|---|
 
-![Description](/resources/image_10725.jpeg)
-![Description](/resources/image_10726.jpeg)
-![Description](/resources/image_10727.jpeg)
-![Description](/resources/image_10728.jpeg)
-![Description](/resources/image_10729.jpeg)
-![Description](/resources/image_10730.jpeg)
-![Description](/resources/image_10731.jpeg)
-![Description](/resources/image_10732.jpeg)
+![Description](image_10725.jpeg)
+![Description](image_10726.jpeg)
+![Description](image_10727.jpeg)
+![Description](image_10728.jpeg)
+![Description](image_10729.jpeg)
+![Description](image_10730.jpeg)
+![Description](image_10731.jpeg)
+![Description](image_10732.jpeg)
 
 Table 9.2.b. The intonation formulas of the plagal modes in stenographic and analytical notation, according to Chrysanthos, Great Theoretical Treatise (1832, §§ 313-316).
 
@@ -890,16 +890,16 @@ pl. 2nd
 nena-
 no
 
-![Description](/resources/image_10733.jpeg)
+![Description](image_10733.jpeg)
 
 Table 9.2.γ. The apechemata of legetos and nenano in stenographic and analytical writing, according to Chrysanthos, Great Theoretikon (1832, § 318). For the
 orthography of the neumes of the apechema of nenano in Middle Byzantine writing, cf. ch.8, Table 8.4. of the present handbook.
 
 508
 
-![Description](/resources/image_10734.jpeg)
-![Description](/resources/image_10735.jpeg)
-![Description](/resources/image_10736.jpeg)
+![Description](image_10734.jpeg)
+![Description](image_10735.jpeg)
+![Description](image_10736.jpeg)
 
 # 5. Conclusions on the concept of metrophonia (μετροφωνία)
 

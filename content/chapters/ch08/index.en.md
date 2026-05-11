@@ -37,7 +37,7 @@ Table 8.1. Categories and designations of the eight modes of the Psaltic Art, ac
 
 401
 
-![Description](/resources/image_10072.png)
+![Description](image_10072.png)
 
 Map 8.1. Anatolia in the year 500 BC. Map from:
 <https://upload.wikimedia.org/wikipedia/commons/8/82/Map_Anatolia_ancient_regions-el.svg>
@@ -62,11 +62,11 @@ flow, with specific melodic behaviours, which project the functionality of the n
 From various Byzantine manuscripts it is apparent that the musicians of the Eastern Roman Empire consciously associated the oktoechos with two great musical traditions of Antiquity: the ancient Greek and the Jewish.
 The former is documented by the widespread use of ancient Greek names for the Byzantine modes; the latter arises from the central place of the Psalms of the Prophet-King David (10th c. BC) and of the other authors of the Psalter in the Byzantine services and, more generally, from the decisive significance of the Old Testament in the translation of the Seventy (Septuaginta) for Byzantine culture (see Table 8.1 and Figures 8.1-8.2).ix
 
-![Description](/resources/image_10073.jpeg)
+![Description](image_10073.jpeg)
 
 Figure 8.1. Copy from the ms Parisinus gr. 261, fol. 140v, year 1289, where the martyriai of the eight modes are visible, with the initials of the ancient Greek designations beneath them. In the first row are the authentic modes: 1st - D(orian), 2nd - L(ydian), 3rd - Ph(rygian), 4th - M(ixo)l(ydian). In the second row are the plagal modes: pl. 1st - Hyp(o)d(orian), pl. 2nd - Hyp(o)l(ydian), bar(ys) - Hyp(o)ph(rygian), pl. 4th - Hyp(o)m(ixoly)d(ian).x
 
-![Description](/resources/image_10074.jpeg)
+![Description](image_10074.jpeg)
 
 Figure 8.2. Miniature from the Psalter Parisinus graecus 139, fol. 1v, 10th c., with a classicizing depiction of the Prophet-King David as another Orpheus, taming the beasts with his music. David is playing a four-sided kithara. The two female figures are personifications of Melody (left) and Echo (right, behind the column). Below on the right is the personification of Mount Bethlehem.xi
 Source: <http://commons.wikimedia.org/wiki/File:Paris_psaulter_gr139_fol1v.jpg> (11.6.2015).
@@ -75,14 +75,14 @@ Source: <http://commons.wikimedia.org/wiki/File:Paris_psaulter_gr139_fol1v.jpg> 
 
 From early papyri (6th c. and later: see Figure 8.3), excerpts from Gerontikon texts (4th-6th c.), and alchemical writings (of the 3rd or 4th and 7th c.) it is apparent that Greek ecclesiastical music was already early associated with eight modes.xii
 
-![Description](/resources/image_10075.jpeg)
+![Description](image_10075.jpeg)
 
 Figure 8.3. Fragment from Papyrus Berolinensis 21319, page ↓, 6th/7th or 8th c., of unknown provenance, with the indication of the mode Pl. II, as well as hook-shaped musical signs. xiii © Staatliche Museen zu Berlin - Ägyptisches Museum und Papyrussammlung, Scan: Berliner Papyrusdatenbank, P 21319.
 
 From the eighth century onward, the oktoechos becomes a basic axis of organization for the Byzantine services, and from the beginning of the second millennium AD it constitutes an integral part of the music-theoretical texts of the Psaltic Art.xiv
 The concept of the Byzantine oktoechos is associated with the symbolism of the number eight in the Christian tradition, which is reflected in the experience of liturgical time as a foretaste of eternity. The concept of the Eighth Day symbolically expresses the Resurrection and the Second Coming of our Lord Jesus Christ (see Figure 8.4).
 
-![Description](/resources/image_10076.jpeg)
+![Description](image_10076.jpeg)
 
 Figure 8.4. “The Lord in Glory”: iconographic sketch by G. Tzimopoulos & Aik. Ioannidou (2016), based on a photograph (Sophianos, 1991, p. 31 and description pp. 26-27) of the fresco in the dome of the narthex of the katholikon of the Holy Monastery of Varlaam, Meteora, work of the Theban iconographers, the brothers George the Priest and Frangos Kontarides, year 1566.
 
@@ -91,9 +91,9 @@ Figure 8.4. “The Lord in Glory”: iconographic sketch by G. Tzimopoulos & Aik
 Among the leading figures associated with various developmental stages in the systematization of the Byzantine oktoechos are mentioned: Saint John of Damascus, Saint John Koukouzeles, and Chrysanthos of Madytos (see Figures 8.5-7).
 Alongside them another, anonymous theorist should also be mentioned, who is known to us today from the ms EBE 968 (17th c., according to Giannopoulos, 2014), and who will be discussed in the following sections of this chapter.
 
-![Description](/resources/image_10077.jpeg)
-![Description](/resources/image_10078.jpeg)
-![Description](/resources/image_10079.jpeg)
+![Description](image_10077.jpeg)
+![Description](image_10078.jpeg)
+![Description](image_10079.jpeg)
 
 Figures 8.5-7. Three great figures who are associated with the systematization of the oktoechos: Saint John of Damascus (ca. 675 - ca. 753/4), Saint John Koukouzeles (ca. 1270 - † before 1340), and Chrysanthos of Madytos (ca. 1770 - † 1843 ?).
 Sources: 8.5: Anastasimatarion (ed. Alygizakis, 1999, p. lxvi). 8.6: Papadike (Παπαδική) of the Holy Monastery of Great Lavra, ms no. Λ 165, 18th c.
@@ -105,13 +105,13 @@ In more detail, the first systematization of the eight modes is associated with 
 
 405
 
-![Description](/resources/image_10080.jpeg)
+![Description](image_10080.jpeg)
 
 # Figure 8.8.a. Tropologion Vindobonense theologicum graecum 146, fol. 24r, 13th c., in uneven rounded (Fettaugen)
 
 slightly right-leaning script (cf. also Alygizakis, 1985, pl. 48). © Österreichische Nationalbibliothek, Wien.
 
-![Description](/resources/image_10081.jpeg)
+![Description](image_10081.jpeg)
 
 ## Figure 8.8.b. Title and first resurrectional Vespers sticheron (στιχηρό) by St John of Damascus in mode 1, from the
 
@@ -125,7 +125,7 @@ transcription given below, Figure 8.8.c.
 
 406
 
-![Description](/resources/image_10082.jpeg)
+![Description](image_10082.jpeg)
 
 # Tropologion, that is, Oktoechos, containing both
 
@@ -169,9 +169,9 @@ traditional ways of teaching them in the Old System.
 
 407
 
-![Description](/resources/image_10083.png)
-![Description](/resources/image_10084.png)
-![Description](/resources/image_10085.png)
+![Description](image_10083.png)
+![Description](image_10084.png)
+![Description](image_10085.png)
 
 # 2. Theoretical foundations, martyriai, and apechemata of the eight modes in the Old System
 
@@ -202,7 +202,7 @@ proportionally, in the middle of the human voice: see Figure 8.9.
 
 408
 
-![Description](/resources/image_10086.jpeg)
+![Description](image_10086.jpeg)
 
 Figure 8.9.a. Diagram of the “complete voice,” according to the Anonymous author of ms. EBE 968, 17th c., fol. 176r.
 
@@ -214,8 +214,8 @@ presented in Figure 8.9.b?
 
 409
 
-![Description](/resources/image_10087.jpeg)
-![Description](/resources/image_10088.jpeg)
+![Description](image_10087.jpeg)
+![Description](image_10088.jpeg)
 
 For without this, the voice cannot be set aright; that is, the first-voiced ison; and each
 
@@ -236,7 +236,7 @@ As Zannos observed (1994, pp. 155-160: 156), here we are clearly dealing with a
 
 410
 
-![Description](/resources/image_10089.jpeg)
+![Description](image_10089.jpeg)
 
 Listen by pressing 
 
@@ -266,7 +266,7 @@ Each authentic echos has its plagal counterpart a tetraphonia (τετραφων�
 echos has Pa as its base, the plagal of the second has Vou, the plagal of the third, or the so-called Barys, has Ga, and
 finally, the plagal of the fourth has Di: see Figure 8.11.
 
-![Description](/resources/image_10090.jpeg)
+![Description](image_10090.jpeg)
 
 Martyriai
 
@@ -299,7 +299,7 @@ barys pl. 4th
 
 - = abbreviation of the word pl(agios)
 
-![Description](/resources/image_10091.jpeg)
+![Description](image_10091.jpeg)
 
 Listen by pressing 
 Figure 8.11. The scale with the theoretical bases of the eight echoi according to the Old System.
@@ -370,19 +370,19 @@ as these are created in the harmonic series of sound: see Figure 8.12.
 
 413
 
-![Description](/resources/image_10092.jpeg)
+![Description](image_10092.jpeg)
 
 1.
 
-![Description](/resources/image_10093.jpeg)
+![Description](image_10093.jpeg)
 
 1.
 
-![Description](/resources/image_10094.jpeg)
+![Description](image_10094.jpeg)
 
 1.
 
-![Description](/resources/image_10095.jpeg)
+![Description](image_10095.jpeg)
 
 # Listen to the first two examples by pressing  and 
 
@@ -437,284 +437,284 @@ transcription
 
 415
 
-![Description](/resources/image_10096.png)
-![Description](/resources/image_10097.png)
-![Description](/resources/image_10098.png)
-![Description](/resources/image_10099.png)
-![Description](/resources/image_10100.png)
-![Description](/resources/image_10101.png)
-![Description](/resources/image_10102.png)
-![Description](/resources/image_10103.png)
-![Description](/resources/image_10104.png)
-![Description](/resources/image_10105.png)
-![Description](/resources/image_10106.png)
-![Description](/resources/image_10107.png)
-![Description](/resources/image_10108.png)
-![Description](/resources/image_10109.png)
-![Description](/resources/image_10110.png)
-![Description](/resources/image_10111.png)
-![Description](/resources/image_10112.png)
-![Description](/resources/image_10113.png)
-![Description](/resources/image_10114.png)
-![Description](/resources/image_10115.png)
-![Description](/resources/image_10116.png)
-![Description](/resources/image_10117.png)
-![Description](/resources/image_10118.png)
-![Description](/resources/image_10119.png)
-![Description](/resources/image_10120.png)
-![Description](/resources/image_10121.png)
-![Description](/resources/image_10122.png)
-![Description](/resources/image_10123.png)
-![Description](/resources/image_10124.png)
-![Description](/resources/image_10125.png)
-![Description](/resources/image_10126.png)
-![Description](/resources/image_10127.png)
-![Description](/resources/image_10128.png)
-![Description](/resources/image_10129.png)
-![Description](/resources/image_10130.png)
-![Description](/resources/image_10131.png)
-![Description](/resources/image_10132.png)
-![Description](/resources/image_10133.png)
-![Description](/resources/image_10134.png)
-![Description](/resources/image_10135.png)
-![Description](/resources/image_10136.png)
-![Description](/resources/image_10137.png)
-![Description](/resources/image_10138.png)
-![Description](/resources/image_10139.png)
-![Description](/resources/image_10140.png)
-![Description](/resources/image_10141.png)
-![Description](/resources/image_10142.png)
-![Description](/resources/image_10143.png)
-![Description](/resources/image_10144.png)
-![Description](/resources/image_10145.png)
-![Description](/resources/image_10146.png)
-![Description](/resources/image_10147.png)
-![Description](/resources/image_10148.png)
-![Description](/resources/image_10149.png)
-![Description](/resources/image_10150.png)
-![Description](/resources/image_10151.png)
-![Description](/resources/image_10152.png)
-![Description](/resources/image_10153.png)
-![Description](/resources/image_10154.png)
-![Description](/resources/image_10155.png)
-![Description](/resources/image_10156.png)
-![Description](/resources/image_10157.png)
-![Description](/resources/image_10158.png)
-![Description](/resources/image_10159.png)
-![Description](/resources/image_10160.png)
-![Description](/resources/image_10161.png)
-![Description](/resources/image_10162.png)
-![Description](/resources/image_10163.png)
-![Description](/resources/image_10164.png)
-![Description](/resources/image_10165.png)
-![Description](/resources/image_10166.png)
-![Description](/resources/image_10167.png)
-![Description](/resources/image_10168.png)
-![Description](/resources/image_10169.png)
-![Description](/resources/image_10170.png)
-![Description](/resources/image_10171.png)
-![Description](/resources/image_10172.png)
-![Description](/resources/image_10173.jpeg)
-![Description](/resources/image_10174.png)
-![Description](/resources/image_10175.png)
-![Description](/resources/image_10176.png)
-![Description](/resources/image_10177.png)
-![Description](/resources/image_10178.png)
-![Description](/resources/image_10179.png)
-![Description](/resources/image_10180.png)
-![Description](/resources/image_10181.png)
-![Description](/resources/image_10182.png)
-![Description](/resources/image_10183.png)
-![Description](/resources/image_10184.png)
-![Description](/resources/image_10185.png)
-![Description](/resources/image_10186.png)
-![Description](/resources/image_10187.png)
-![Description](/resources/image_10188.png)
-![Description](/resources/image_10189.png)
-![Description](/resources/image_10190.png)
-![Description](/resources/image_10191.png)
-![Description](/resources/image_10192.png)
-![Description](/resources/image_10193.png)
-![Description](/resources/image_10194.png)
-![Description](/resources/image_10195.png)
-![Description](/resources/image_10196.png)
-![Description](/resources/image_10197.png)
-![Description](/resources/image_10198.png)
-![Description](/resources/image_10199.png)
-![Description](/resources/image_10200.png)
-![Description](/resources/image_10201.png)
-![Description](/resources/image_10202.png)
-![Description](/resources/image_10203.png)
-![Description](/resources/image_10204.png)
-![Description](/resources/image_10205.png)
-![Description](/resources/image_10206.png)
-![Description](/resources/image_10207.jpeg)
-![Description](/resources/image_10208.png)
-![Description](/resources/image_10209.png)
-![Description](/resources/image_10210.png)
-![Description](/resources/image_10211.png)
-![Description](/resources/image_10212.png)
-![Description](/resources/image_10213.png)
-![Description](/resources/image_10214.png)
-![Description](/resources/image_10215.png)
-![Description](/resources/image_10216.png)
-![Description](/resources/image_10217.png)
-![Description](/resources/image_10218.png)
-![Description](/resources/image_10219.png)
-![Description](/resources/image_10220.png)
-![Description](/resources/image_10221.png)
-![Description](/resources/image_10222.png)
-![Description](/resources/image_10223.png)
-![Description](/resources/image_10224.png)
-![Description](/resources/image_10225.png)
-![Description](/resources/image_10226.png)
-![Description](/resources/image_10227.png)
-![Description](/resources/image_10228.png)
-![Description](/resources/image_10229.png)
-![Description](/resources/image_10230.png)
-![Description](/resources/image_10231.png)
-![Description](/resources/image_10232.png)
-![Description](/resources/image_10233.png)
-![Description](/resources/image_10234.png)
-![Description](/resources/image_10235.png)
-![Description](/resources/image_10236.png)
-![Description](/resources/image_10237.png)
-![Description](/resources/image_10238.png)
-![Description](/resources/image_10239.png)
-![Description](/resources/image_10240.png)
-![Description](/resources/image_10241.png)
-![Description](/resources/image_10242.png)
-![Description](/resources/image_10243.png)
-![Description](/resources/image_10244.png)
-![Description](/resources/image_10245.png)
-![Description](/resources/image_10246.png)
-![Description](/resources/image_10247.png)
-![Description](/resources/image_10248.png)
-![Description](/resources/image_10249.png)
-![Description](/resources/image_10250.png)
-![Description](/resources/image_10251.png)
-![Description](/resources/image_10252.png)
-![Description](/resources/image_10253.png)
-![Description](/resources/image_10254.png)
-![Description](/resources/image_10255.png)
-![Description](/resources/image_10256.png)
-![Description](/resources/image_10257.png)
-![Description](/resources/image_10258.png)
-![Description](/resources/image_10259.png)
-![Description](/resources/image_10260.png)
-![Description](/resources/image_10261.png)
-![Description](/resources/image_10262.png)
-![Description](/resources/image_10263.png)
-![Description](/resources/image_10264.png)
-![Description](/resources/image_10265.png)
-![Description](/resources/image_10266.png)
-![Description](/resources/image_10267.png)
-![Description](/resources/image_10268.png)
-![Description](/resources/image_10269.png)
-![Description](/resources/image_10270.png)
-![Description](/resources/image_10271.png)
-![Description](/resources/image_10272.png)
-![Description](/resources/image_10273.png)
-![Description](/resources/image_10274.png)
-![Description](/resources/image_10275.png)
-![Description](/resources/image_10276.png)
-![Description](/resources/image_10277.png)
-![Description](/resources/image_10278.png)
-![Description](/resources/image_10279.png)
-![Description](/resources/image_10280.png)
-![Description](/resources/image_10281.png)
-![Description](/resources/image_10282.png)
-![Description](/resources/image_10283.png)
-![Description](/resources/image_10284.png)
-![Description](/resources/image_10285.png)
-![Description](/resources/image_10286.png)
-![Description](/resources/image_10287.png)
-![Description](/resources/image_10288.png)
-![Description](/resources/image_10289.png)
-![Description](/resources/image_10290.png)
-![Description](/resources/image_10291.png)
-![Description](/resources/image_10292.png)
-![Description](/resources/image_10293.png)
-![Description](/resources/image_10294.png)
-![Description](/resources/image_10295.png)
-![Description](/resources/image_10296.png)
-![Description](/resources/image_10297.png)
-![Description](/resources/image_10298.png)
-![Description](/resources/image_10299.png)
-![Description](/resources/image_10300.png)
-![Description](/resources/image_10301.png)
-![Description](/resources/image_10302.png)
-![Description](/resources/image_10303.png)
-![Description](/resources/image_10304.png)
-![Description](/resources/image_10305.png)
-![Description](/resources/image_10306.png)
-![Description](/resources/image_10307.png)
-![Description](/resources/image_10308.png)
-![Description](/resources/image_10309.png)
-![Description](/resources/image_10310.png)
-![Description](/resources/image_10311.png)
-![Description](/resources/image_10312.jpeg)
-![Description](/resources/image_10313.png)
-![Description](/resources/image_10314.png)
-![Description](/resources/image_10315.png)
-![Description](/resources/image_10316.png)
-![Description](/resources/image_10317.png)
-![Description](/resources/image_10318.png)
-![Description](/resources/image_10319.png)
-![Description](/resources/image_10320.png)
-![Description](/resources/image_10321.png)
-![Description](/resources/image_10322.png)
-![Description](/resources/image_10323.png)
-![Description](/resources/image_10324.png)
-![Description](/resources/image_10325.png)
-![Description](/resources/image_10326.png)
-![Description](/resources/image_10327.png)
-![Description](/resources/image_10328.png)
-![Description](/resources/image_10329.png)
-![Description](/resources/image_10330.png)
-![Description](/resources/image_10331.png)
-![Description](/resources/image_10332.png)
-![Description](/resources/image_10333.png)
-![Description](/resources/image_10334.png)
-![Description](/resources/image_10335.png)
-![Description](/resources/image_10336.png)
-![Description](/resources/image_10337.png)
-![Description](/resources/image_10338.png)
-![Description](/resources/image_10339.png)
-![Description](/resources/image_10340.png)
-![Description](/resources/image_10341.png)
-![Description](/resources/image_10342.png)
-![Description](/resources/image_10343.png)
-![Description](/resources/image_10344.png)
-![Description](/resources/image_10345.png)
-![Description](/resources/image_10346.jpeg)
-![Description](/resources/image_10347.png)
-![Description](/resources/image_10348.png)
-![Description](/resources/image_10349.png)
-![Description](/resources/image_10350.png)
-![Description](/resources/image_10351.png)
-![Description](/resources/image_10352.png)
-![Description](/resources/image_10353.png)
-![Description](/resources/image_10354.png)
-![Description](/resources/image_10355.png)
-![Description](/resources/image_10356.png)
-![Description](/resources/image_10357.png)
-![Description](/resources/image_10358.png)
-![Description](/resources/image_10359.png)
-![Description](/resources/image_10360.png)
-![Description](/resources/image_10361.png)
-![Description](/resources/image_10362.png)
-![Description](/resources/image_10363.png)
-![Description](/resources/image_10364.png)
-![Description](/resources/image_10365.png)
-![Description](/resources/image_10366.png)
-![Description](/resources/image_10367.png)
-![Description](/resources/image_10368.png)
-![Description](/resources/image_10369.png)
-![Description](/resources/image_10370.png)
-![Description](/resources/image_10371.png)
-![Description](/resources/image_10372.png)
-![Description](/resources/image_10373.png)
+![Description](image_10096.png)
+![Description](image_10097.png)
+![Description](image_10098.png)
+![Description](image_10099.png)
+![Description](image_10100.png)
+![Description](image_10101.png)
+![Description](image_10102.png)
+![Description](image_10103.png)
+![Description](image_10104.png)
+![Description](image_10105.png)
+![Description](image_10106.png)
+![Description](image_10107.png)
+![Description](image_10108.png)
+![Description](image_10109.png)
+![Description](image_10110.png)
+![Description](image_10111.png)
+![Description](image_10112.png)
+![Description](image_10113.png)
+![Description](image_10114.png)
+![Description](image_10115.png)
+![Description](image_10116.png)
+![Description](image_10117.png)
+![Description](image_10118.png)
+![Description](image_10119.png)
+![Description](image_10120.png)
+![Description](image_10121.png)
+![Description](image_10122.png)
+![Description](image_10123.png)
+![Description](image_10124.png)
+![Description](image_10125.png)
+![Description](image_10126.png)
+![Description](image_10127.png)
+![Description](image_10128.png)
+![Description](image_10129.png)
+![Description](image_10130.png)
+![Description](image_10131.png)
+![Description](image_10132.png)
+![Description](image_10133.png)
+![Description](image_10134.png)
+![Description](image_10135.png)
+![Description](image_10136.png)
+![Description](image_10137.png)
+![Description](image_10138.png)
+![Description](image_10139.png)
+![Description](image_10140.png)
+![Description](image_10141.png)
+![Description](image_10142.png)
+![Description](image_10143.png)
+![Description](image_10144.png)
+![Description](image_10145.png)
+![Description](image_10146.png)
+![Description](image_10147.png)
+![Description](image_10148.png)
+![Description](image_10149.png)
+![Description](image_10150.png)
+![Description](image_10151.png)
+![Description](image_10152.png)
+![Description](image_10153.png)
+![Description](image_10154.png)
+![Description](image_10155.png)
+![Description](image_10156.png)
+![Description](image_10157.png)
+![Description](image_10158.png)
+![Description](image_10159.png)
+![Description](image_10160.png)
+![Description](image_10161.png)
+![Description](image_10162.png)
+![Description](image_10163.png)
+![Description](image_10164.png)
+![Description](image_10165.png)
+![Description](image_10166.png)
+![Description](image_10167.png)
+![Description](image_10168.png)
+![Description](image_10169.png)
+![Description](image_10170.png)
+![Description](image_10171.png)
+![Description](image_10172.png)
+![Description](image_10173.jpeg)
+![Description](image_10174.png)
+![Description](image_10175.png)
+![Description](image_10176.png)
+![Description](image_10177.png)
+![Description](image_10178.png)
+![Description](image_10179.png)
+![Description](image_10180.png)
+![Description](image_10181.png)
+![Description](image_10182.png)
+![Description](image_10183.png)
+![Description](image_10184.png)
+![Description](image_10185.png)
+![Description](image_10186.png)
+![Description](image_10187.png)
+![Description](image_10188.png)
+![Description](image_10189.png)
+![Description](image_10190.png)
+![Description](image_10191.png)
+![Description](image_10192.png)
+![Description](image_10193.png)
+![Description](image_10194.png)
+![Description](image_10195.png)
+![Description](image_10196.png)
+![Description](image_10197.png)
+![Description](image_10198.png)
+![Description](image_10199.png)
+![Description](image_10200.png)
+![Description](image_10201.png)
+![Description](image_10202.png)
+![Description](image_10203.png)
+![Description](image_10204.png)
+![Description](image_10205.png)
+![Description](image_10206.png)
+![Description](image_10207.jpeg)
+![Description](image_10208.png)
+![Description](image_10209.png)
+![Description](image_10210.png)
+![Description](image_10211.png)
+![Description](image_10212.png)
+![Description](image_10213.png)
+![Description](image_10214.png)
+![Description](image_10215.png)
+![Description](image_10216.png)
+![Description](image_10217.png)
+![Description](image_10218.png)
+![Description](image_10219.png)
+![Description](image_10220.png)
+![Description](image_10221.png)
+![Description](image_10222.png)
+![Description](image_10223.png)
+![Description](image_10224.png)
+![Description](image_10225.png)
+![Description](image_10226.png)
+![Description](image_10227.png)
+![Description](image_10228.png)
+![Description](image_10229.png)
+![Description](image_10230.png)
+![Description](image_10231.png)
+![Description](image_10232.png)
+![Description](image_10233.png)
+![Description](image_10234.png)
+![Description](image_10235.png)
+![Description](image_10236.png)
+![Description](image_10237.png)
+![Description](image_10238.png)
+![Description](image_10239.png)
+![Description](image_10240.png)
+![Description](image_10241.png)
+![Description](image_10242.png)
+![Description](image_10243.png)
+![Description](image_10244.png)
+![Description](image_10245.png)
+![Description](image_10246.png)
+![Description](image_10247.png)
+![Description](image_10248.png)
+![Description](image_10249.png)
+![Description](image_10250.png)
+![Description](image_10251.png)
+![Description](image_10252.png)
+![Description](image_10253.png)
+![Description](image_10254.png)
+![Description](image_10255.png)
+![Description](image_10256.png)
+![Description](image_10257.png)
+![Description](image_10258.png)
+![Description](image_10259.png)
+![Description](image_10260.png)
+![Description](image_10261.png)
+![Description](image_10262.png)
+![Description](image_10263.png)
+![Description](image_10264.png)
+![Description](image_10265.png)
+![Description](image_10266.png)
+![Description](image_10267.png)
+![Description](image_10268.png)
+![Description](image_10269.png)
+![Description](image_10270.png)
+![Description](image_10271.png)
+![Description](image_10272.png)
+![Description](image_10273.png)
+![Description](image_10274.png)
+![Description](image_10275.png)
+![Description](image_10276.png)
+![Description](image_10277.png)
+![Description](image_10278.png)
+![Description](image_10279.png)
+![Description](image_10280.png)
+![Description](image_10281.png)
+![Description](image_10282.png)
+![Description](image_10283.png)
+![Description](image_10284.png)
+![Description](image_10285.png)
+![Description](image_10286.png)
+![Description](image_10287.png)
+![Description](image_10288.png)
+![Description](image_10289.png)
+![Description](image_10290.png)
+![Description](image_10291.png)
+![Description](image_10292.png)
+![Description](image_10293.png)
+![Description](image_10294.png)
+![Description](image_10295.png)
+![Description](image_10296.png)
+![Description](image_10297.png)
+![Description](image_10298.png)
+![Description](image_10299.png)
+![Description](image_10300.png)
+![Description](image_10301.png)
+![Description](image_10302.png)
+![Description](image_10303.png)
+![Description](image_10304.png)
+![Description](image_10305.png)
+![Description](image_10306.png)
+![Description](image_10307.png)
+![Description](image_10308.png)
+![Description](image_10309.png)
+![Description](image_10310.png)
+![Description](image_10311.png)
+![Description](image_10312.jpeg)
+![Description](image_10313.png)
+![Description](image_10314.png)
+![Description](image_10315.png)
+![Description](image_10316.png)
+![Description](image_10317.png)
+![Description](image_10318.png)
+![Description](image_10319.png)
+![Description](image_10320.png)
+![Description](image_10321.png)
+![Description](image_10322.png)
+![Description](image_10323.png)
+![Description](image_10324.png)
+![Description](image_10325.png)
+![Description](image_10326.png)
+![Description](image_10327.png)
+![Description](image_10328.png)
+![Description](image_10329.png)
+![Description](image_10330.png)
+![Description](image_10331.png)
+![Description](image_10332.png)
+![Description](image_10333.png)
+![Description](image_10334.png)
+![Description](image_10335.png)
+![Description](image_10336.png)
+![Description](image_10337.png)
+![Description](image_10338.png)
+![Description](image_10339.png)
+![Description](image_10340.png)
+![Description](image_10341.png)
+![Description](image_10342.png)
+![Description](image_10343.png)
+![Description](image_10344.png)
+![Description](image_10345.png)
+![Description](image_10346.jpeg)
+![Description](image_10347.png)
+![Description](image_10348.png)
+![Description](image_10349.png)
+![Description](image_10350.png)
+![Description](image_10351.png)
+![Description](image_10352.png)
+![Description](image_10353.png)
+![Description](image_10354.png)
+![Description](image_10355.png)
+![Description](image_10356.png)
+![Description](image_10357.png)
+![Description](image_10358.png)
+![Description](image_10359.png)
+![Description](image_10360.png)
+![Description](image_10361.png)
+![Description](image_10362.png)
+![Description](image_10363.png)
+![Description](image_10364.png)
+![Description](image_10365.png)
+![Description](image_10366.png)
+![Description](image_10367.png)
+![Description](image_10368.png)
+![Description](image_10369.png)
+![Description](image_10370.png)
+![Description](image_10371.png)
+![Description](image_10372.png)
+![Description](image_10373.png)
 
 Table 8.3. The polysyllabic pitch names of parallage according to the Old System, as potential bases for the modes of the
 Byzantine oktoechos, and correspondences with the New System, with the alphabetic system for transcription, and with the solfege
@@ -767,11 +767,11 @@ Figure 8.13.
 
 ## First mode, internal
 
-![Description](/resources/image_10374.jpeg)
+![Description](image_10374.jpeg)
 
 a G F E Da
 
-![Description](/resources/image_10375.jpeg)
+![Description](image_10375.jpeg)
 
 a G F E D
 
@@ -798,40 +798,40 @@ It must be emphasized that in these intonation formulas as well only the structu
 |Nenanō (triphony of the Plagal Second)||Similar martyria: (A 139 sup., fol. 63r)|
 |Nana||epēchēma (Raasted, ed., 1983, Hagiopolites, § 45, enēchēma 15-18 and pp.|
 
-![Description](/resources/image_10376.jpeg)
-![Description](/resources/image_10377.jpeg)
-![Description](/resources/image_10378.jpeg)
-![Description](/resources/image_10379.jpeg)
-![Description](/resources/image_10380.jpeg)
-![Description](/resources/image_10381.jpeg)
-![Description](/resources/image_10382.jpeg)
-![Description](/resources/image_10383.jpeg)
-![Description](/resources/image_10384.jpeg)
-![Description](/resources/image_10385.jpeg)
-![Description](/resources/image_10386.jpeg)
+![Description](image_10376.jpeg)
+![Description](image_10377.jpeg)
+![Description](image_10378.jpeg)
+![Description](image_10379.jpeg)
+![Description](image_10380.jpeg)
+![Description](image_10381.jpeg)
+![Description](image_10382.jpeg)
+![Description](image_10383.jpeg)
+![Description](image_10384.jpeg)
+![Description](image_10385.jpeg)
+![Description](image_10386.jpeg)
 
 51-52).
 
-![Description](/resources/image_10387.jpeg)
+![Description](image_10387.jpeg)
 
 columns
 Table 8.4. Common martyriai and the corresponding intonation formulas of the Byzantine oktoechos according to the Old System, with staff transcription of their structural pitches. Sources: Raasted (1966, pp. 8-9). Raasted/Stathis (1992, p. 26). MS A 139 sup. Troelsgård (2011, pp. 62-63). Listen to them by pressing  
 
 418
 
-![Description](/resources/image_10388.jpeg)
-![Description](/resources/image_10389.jpeg)
-![Description](/resources/image_10390.jpeg)
-![Description](/resources/image_10391.jpeg)
-![Description](/resources/image_10392.jpeg)
-![Description](/resources/image_10393.jpeg)
-![Description](/resources/image_10394.jpeg)
-![Description](/resources/image_10395.jpeg)
-![Description](/resources/image_10396.jpeg)
+![Description](image_10388.jpeg)
+![Description](image_10389.jpeg)
+![Description](image_10390.jpeg)
+![Description](image_10391.jpeg)
+![Description](image_10392.jpeg)
+![Description](image_10393.jpeg)
+![Description](image_10394.jpeg)
+![Description](image_10395.jpeg)
+![Description](image_10396.jpeg)
 
 Apart from the martyriai included in Table 8.4., which constitute the exact abbreviation of corresponding intonation formulas, other forms of martyriai begin to appear in post-Byzantine manuscripts, as do mismatches between the martyriai and the intonation formulas they represent: see Table 8.5. In other words, it becomes clear that over the course of the centuries the information concerning the exact correspondence between the graphic form of a martyria and the intonation formula that belongs to it was forgotten.
 
-![Description](/resources/image_10397.jpeg)
+![Description](image_10397.jpeg)
 
 Table 8.5. Martyriai according to the system of the Trochos. In red are the martyriai that can function as abbreviations of corresponding intonation formulas. In blue, later graphic forms with inaccuracies, in which the original role of the neumes—to indicate clearly the end of the corresponding intonation formula—has been lost. The later forms are nevertheless important, since some of them were used for the formation of the initial martyriai and the martyria signs in the New Method. Source: The table is based on Fr. Barbu-Bucur (1989, p. 89), with the addition of some martyriai from Byzantine times and a two-colour differentiation.
 
@@ -849,15 +849,15 @@ and the medial of the 4th,xxiii the plagal 2nd” (Iviron 970, year 1686, fol. 5
 
 p. 44): see Figure 8.14.
 
-![Description](/resources/image_10398.jpeg)
+![Description](image_10398.jpeg)
 
 Figure 8.14. The relationship of mediality among the eight modes, according to the Protheoria of the Papadike.xxiv
 
 The reverse relationship—that is, starting from a plagal mode and going two degrees above its base—leads to the so-called diphonic modes, which will be authentic modes. Thus the barys has the 1st mode as its diphonic mode, the plagal 4th the 2nd, the plagal 1st the 3rd, and the plagal 2nd the 4th mode. Some theoretical sources use the term “medial” by extension also for the diphonic modes.
 A special case is the so-called legetos. Its martyria becomes known from the period of Kalophony onward: see Figure 8.15. Its base in the Old Method is Zo΄ (h), and its characteristic use is as a medial martyria in pieces belonging to the family of the 4th mode. It could be interpreted as a diatonic version of the medial mode of the 4th mode.
 
-![Description](/resources/image_10399.jpeg)
-![Description](/resources/image_10400.jpeg)
+![Description](image_10399.jpeg)
+![Description](image_10400.jpeg)
 
 Figure 8.15. The martyria of legetos, according to the Kalophonic Sticherarion of the Holy Metropolis of Zakynthos, MS no. 7,
 
@@ -877,48 +877,48 @@ On the basis of the combined study of theoretical and practical musical sources 
 |Musical texture and style: intonation formulas in the musical flow|• of the old, classical repertory:  simpler (Heirmologion, Sticherarion)  more complex, more melismatic (Psaltikon, Asmatikon, Asma) • of kalophony|
 |Functionality in musical theory and teaching|• small: for the presentation of polysyllabic Simple Tree of Parallage pitches, Trochos, Parallage, as potential bases of the eight modes, authentic parallage The in the ascending motion and plagal in the descending of pieces parallagai, • large: for the actual presentation of modes, with Composite tetraphonic descending-ascending movements Trochos of St John Koukouzeles|
 
-![Description](/resources/image_10401.png)
-![Description](/resources/image_10402.png)
-![Description](/resources/image_10403.png)
-![Description](/resources/image_10404.png)
-![Description](/resources/image_10405.png)
-![Description](/resources/image_10406.png)
-![Description](/resources/image_10407.png)
-![Description](/resources/image_10408.png)
-![Description](/resources/image_10409.png)
-![Description](/resources/image_10410.png)
-![Description](/resources/image_10411.png)
-![Description](/resources/image_10412.png)
-![Description](/resources/image_10413.png)
-![Description](/resources/image_10414.png)
-![Description](/resources/image_10415.png)
-![Description](/resources/image_10416.png)
-![Description](/resources/image_10417.jpeg)
-![Description](/resources/image_10418.png)
-![Description](/resources/image_10419.png)
-![Description](/resources/image_10420.png)
-![Description](/resources/image_10421.png)
-![Description](/resources/image_10422.png)
-![Description](/resources/image_10423.png)
-![Description](/resources/image_10424.png)
-![Description](/resources/image_10425.png)
-![Description](/resources/image_10426.png)
-![Description](/resources/image_10427.png)
-![Description](/resources/image_10428.png)
-![Description](/resources/image_10429.png)
-![Description](/resources/image_10430.png)
-![Description](/resources/image_10431.png)
-![Description](/resources/image_10432.png)
-![Description](/resources/image_10433.png)
-![Description](/resources/image_10434.png)
-![Description](/resources/image_10435.png)
-![Description](/resources/image_10436.jpeg)
+![Description](image_10401.png)
+![Description](image_10402.png)
+![Description](image_10403.png)
+![Description](image_10404.png)
+![Description](image_10405.png)
+![Description](image_10406.png)
+![Description](image_10407.png)
+![Description](image_10408.png)
+![Description](image_10409.png)
+![Description](image_10410.png)
+![Description](image_10411.png)
+![Description](image_10412.png)
+![Description](image_10413.png)
+![Description](image_10414.png)
+![Description](image_10415.png)
+![Description](image_10416.png)
+![Description](image_10417.jpeg)
+![Description](image_10418.png)
+![Description](image_10419.png)
+![Description](image_10420.png)
+![Description](image_10421.png)
+![Description](image_10422.png)
+![Description](image_10423.png)
+![Description](image_10424.png)
+![Description](image_10425.png)
+![Description](image_10426.png)
+![Description](image_10427.png)
+![Description](image_10428.png)
+![Description](image_10429.png)
+![Description](image_10430.png)
+![Description](image_10431.png)
+![Description](image_10432.png)
+![Description](image_10433.png)
+![Description](image_10434.png)
+![Description](image_10435.png)
+![Description](image_10436.jpeg)
 
 Table 8.6. An open typology of intonation formulas.
 
 Lists with various intonation formulas are already found in the older forms of the protheoria of the Papadike, such as Sinai 1218 and St Petersburg 945: see Figures 8.16-17.
 
-![Description](/resources/image_10437.png)
+![Description](image_10437.png)
 
 Figure 8.16. Copy from the earliest currently known list of intonation formulas in early Middle Byzantine notation, which is found at the end of the Sticherarion of the Holy Monastery of St Catherine at Sinai, no. 1218, fol. 271r, after the colophon, which mentions the name of the scribe, Nikephoros, and the date “in the month of July, the 18th, in the 10th indiction, in the year ,στχπε'.” It contains both simpler and more complex forms of intonation formulas.
 
@@ -930,8 +930,8 @@ of Christ.xxvi
 
 According to Harlfinger, Reinsch, Sonderkamp, & Prato (1983, pl. 148), the list of intonation formulas at the end of the Sticherarion Sinai 1218 was added by a later hand (13th century). J. Raasted, however, attributes the list to the main scribe Nikephoros.
 
-![Description](/resources/image_10438.jpeg)
-![Description](/resources/image_10439.jpeg)
+![Description](image_10438.jpeg)
+![Description](image_10439.jpeg)
 
 Figure 8.17. Proto-Papadike, from the codex Petropolitanus gr. 495, first half of the 13th century, scribe Neophytos Hieromonk from Damascus, fols. 4r-v, with a list of intonation formulas, under the title: “intonations of the eight modes.” It contains both simple
 
@@ -943,7 +943,7 @@ and more melismatic forms of intonation formulas of the old, classical Byzantine
 
 Another category of intonation formulas, used chiefly in the teaching of the Psaltic Art, appears in the so-called Parallagai, where each mode or pair of modes (authentic+its plagal) is presented through a descending-ascending tetraphonic motion, on the intonation syllables of the authentic modes: see Figure 8.18.
 
-![Description](/resources/image_10440.jpeg)
+![Description](image_10440.jpeg)
 
 Figure 8.18. “The parallagai of the eight modes” from the Protheoria of MS EBE 2458, fol. 4v, year 1336.xxvii
 
@@ -953,7 +953,7 @@ The same Protheoria of MS EBE 2458, which is directly associated with the work o
 
 423
 
-![Description](/resources/image_10441.jpeg)
+![Description](image_10441.jpeg)
 
 Figure 8.19. “Intonation formulas by mode,” from the Protheoria of MS EBE 2458, fol. 6r, year 1336. © National Library
 
@@ -961,7 +961,7 @@ of Greece.xxix
 
 424
 
-![Description](/resources/image_10442.jpeg)
+![Description](image_10442.jpeg)
 
 Figure 8.20. Extended melismatic (kalophonic) intonation formula of the 1st mode from the Protheoria of the Papadike EBE 2458, fol.
 
@@ -979,7 +979,7 @@ The shapes of the phthorai do not remain the same in all Protheoriai. As shown i
 
 425
 
-![Description](/resources/image_10443.jpeg)
+![Description](image_10443.jpeg)
 
 Table 8.7. Shapes of phthorai in Middle Byzantine notation, based on Protheoriai of the Papadike from manuscripts preserved in Romanian libraries. In red are the common forms, in dark colour the rarer ones. For other shapes (such as a half nenanō for the hemiphthoron), see chap. 7, Figure 7.6.c (at the end of the list of great signs).
 Source: The table is a translated epitome from: Fr. Barbu-Bucur (1989, p. 74).
@@ -1006,7 +1006,7 @@ manuscript was in the mid-fifteenth century at the Holy Monastery of Nea Perible
 of Charsaneiotes. Today it is kept in the Arts & Social Studies Library, Cardiff University (cf.
 catalogue description in: Giannopoulos, 2008, pp. 401–409, with further bibliography).
 
-![Description](/resources/image_10444.jpeg)
+![Description](image_10444.jpeg)
 
 Figure 8.21. “Peribleptos” Codex, early 14th c., vol. II, fol. 100r, with the beginning of the Vespers stichera of the first mode.
 Included in the present work with the kind permission/by Courtesy of Cardiff University Library: Special
@@ -1014,28 +1014,28 @@ Collections and Archives.
 
 427
 
-![Description](/resources/image_10445.jpeg)
+![Description](image_10445.jpeg)
 
 Figure 8.22. “Peribleptos” Codex, early 14th c., vol. II, fol. 103r, with the beginning of the Vespers stichera of the second mode.
 With the kind permission/by Courtesy of Cardiff University Library: Special Collections and Archives.
 
 428
 
-![Description](/resources/image_10446.jpeg)
+![Description](image_10446.jpeg)
 
 Figure 8.23. “Peribleptos” Codex, early 14th c., vol. II, fol. 107r, with the beginning of the Vespers stichera of the third mode.
 With the kind permission/by Courtesy of Cardiff University Library: Special Collections and Archives.
 
 429
 
-![Description](/resources/image_10447.jpeg)
+![Description](image_10447.jpeg)
 
 Figure 8.24. “Peribleptos” Codex, early 14th c., vol. II, fol. 110v, with the beginning of the Vespers stichera of the fourth mode.
 With the kind permission/by Courtesy of Cardiff University Library: Special Collections and Archives.
 
 430
 
-![Description](/resources/image_10448.jpeg)
+![Description](image_10448.jpeg)
 
 Figure 8.25. “Peribleptos” Codex, early 14th c., vol. II, fol. 115r, with the beginning of the Vespers stichera of the plagal
 first mode.
@@ -1043,21 +1043,21 @@ With the kind permission/by Courtesy of Cardiff University Library: Special Coll
 
 431
 
-![Description](/resources/image_10449.jpeg)
+![Description](image_10449.jpeg)
 
 Figure 8.26. “Peribleptos” Codex, early 14th c., vol. II, fol. 119v, with the beginning of the Vespers stichera of the plagal second mode.
 With the kind permission/by Courtesy of Cardiff University Library: Special Collections and Archives.
 
 432
 
-![Description](/resources/image_10450.jpeg)
+![Description](image_10450.jpeg)
 
 Figure 8.27. “Peribleptos” Codex, early 14th c., vol. II, fol. 123v, with the beginning of the Vespers stichera of the grave
 mode. With the kind permission/by Courtesy of Cardiff University Library: Special Collections and Archives.
 
 433
 
-![Description](/resources/image_10451.jpeg)
+![Description](image_10451.jpeg)
 
 Figure 8.28. “Peribleptos” Codex, early 14th c., vol. II, fol. 127r, with the beginning of the Vespers stichera of the plagal fourth mode.
 With the kind permission/by Courtesy of Cardiff University Library: Special Collections and Archives.
@@ -1073,7 +1073,7 @@ from the “Peribleptos” Codex, on the basis of Figures 8.21–28, by printing
 each signature also the intonation formula (apēchēma) that is abbreviated, on the basis of Table 8.4. You may then
 compare your results with Figure 8.29.β.
 
-![Description](/resources/image_10452.jpeg)
+![Description](image_10452.jpeg)
 
 Figure 8.29.α. The initial signatures and the beginning of the first resurrectional Vespers stichera for each mode, on the basis of the
 “Peribleptos” Codex. Form for practicing the identification of the first pitch of a piece in Middle Byzantine
@@ -1081,7 +1081,7 @@ notation.
 
 435
 
-![Description](/resources/image_10453.jpeg)
+![Description](image_10453.jpeg)
 
 Figure 8.29.β. The initial signatures and the beginning of the first resurrectional Vespers stichera for each mode, on the basis of the
 “Peribleptos” Codex. Solution to the exercise.
@@ -1101,8 +1101,8 @@ another form, which ends at the mesotēs, i.e. two voices below the base, at Di 
 
 8.30.β.
 
-![Description](/resources/image_10454.png)
-![Description](/resources/image_10455.png)
+![Description](image_10454.png)
+![Description](image_10455.png)
 
 Figures 8.30.α-β. Left: Initial signature of the third resurrectional sticheron of the third mode, ending at the tetraphonia,
 according to the Peribleptos Codex, with indication of the corresponding intonation formula and transcription.  Right: sample
@@ -1126,12 +1126,12 @@ medial signatures function in their most usual form: see Figure 8.31.
 
 437
 
-![Description](/resources/image_10456.png)
-![Description](/resources/image_10457.png)
-![Description](/resources/image_10458.png)
+![Description](image_10456.png)
+![Description](image_10457.png)
+![Description](image_10458.png)
 
-![Description](/resources/image_10459.jpeg)
-![Description](/resources/image_10460.jpeg)
+![Description](image_10459.jpeg)
+![Description](image_10460.jpeg)
 
 Figure 8.31. The sticheron “Our evening prayers,” in the first mode, from the Sticherarium Ambrosianum A 139 sup., year
 1341, fol. 272v, in fully developed Middle Byzantine notation, based on the facsimile edition of Perria & Raasted
@@ -1154,7 +1154,7 @@ but it may also be an apostrophos or another vocal sign, depending on the contex
 sign indicates the first pitch of the next phrase, as it is calculated in relation to the last
 pitch of the intonation formula corresponding to the signature:xxxiii see Figure 8.32.
 
-![Description](/resources/image_10461.jpeg)
+![Description](image_10461.jpeg)
 
 The ascending tetraphonia with the black vocal signs (oligon and hypsile on the right) indicates
 the first pitch of phrase 5, in relation to the ison that was at the end of
@@ -1185,7 +1185,7 @@ At various points in this list, which records information concerning early Byzan
 Athonite notation (Chartres), elements were incorporated concerning voices (intervals), the modes,
 phthorai, and intonation formulas, in the following form: see Figure 8.33.
 
-![Description](/resources/image_10462.jpeg)
+![Description](image_10462.jpeg)
 
 Figure 8.33. Elements concerning the modal system in the list of melodic signs from the end of the Sticherarion of the Holy Monastery of Great
 Lavra Γ 67, fol. 159r (early 11th c. [Floros]).xxxiv © for the photograph from microfilm: Patriarchal Institute for
@@ -1210,7 +1210,7 @@ sixteen subcategories of modes are mentioned: four each of authentic, plagal, me
 
 divided into an enēchēma and an epēchēma (ibid., § 3): see Figure 8.34.
 
-![Description](/resources/image_10463.jpeg)
+![Description](image_10463.jpeg)
 
 Figure 8.34. Morphological matters concerning intonations, according to the Hagiopolites.
 Source: Raasted, Jørgen. (Ed., 1983). The Hagiopolites, A Byzantine Treatise on Musical Theory. Preliminary Edition.
@@ -1222,8 +1222,8 @@ University of Copenhagen.
 Among these we mention below wheel schemata with concentric circles, which present
 the four authentic modes and their equal number of plagal modes: Figure 8.35.
 
-![Description](/resources/image_10464.jpeg)
-![Description](/resources/image_10465.jpeg)
+![Description](image_10464.jpeg)
+![Description](image_10465.jpeg)
 
 Figure 8.35. Copies of wheel schemata from the Hagiopolites. Source: Raasted, Jørgen. (Ed., 1983). The Hagiopolites, A
 Byzantine Treatise on Musical Theory. Preliminary Edition. Cahiers de l' Institut du Moyen-Âge Grec et Latin, 45, § 52,
@@ -1244,7 +1244,7 @@ parallage,”xxxv is clearly attributed in all its copies to the maistor John Ko
 since his name is written in segments at the center of the individual wheels of the diagram, sometimes also
 in the form of a cross outside the middle concentric circles: see Figure 8.36.
 
-![Description](/resources/image_10466.jpeg)
+![Description](image_10466.jpeg)
 
 - 
 
@@ -1274,8 +1274,8 @@ form: Figure 8.37. To indicate the direction in which the diagram is read,
 the signs (as on a clock) and (opposite to the movement of the
 clock) are used.
 
-![Description](/resources/image_10467.jpeg)
-![Description](/resources/image_10468.jpeg)
+![Description](image_10467.jpeg)
+![Description](image_10468.jpeg)
 
 Figure 8.37.α. Transcription of the Compound Wheel of Saint John Koukouzeles, based on MS EBE 2458,
 
@@ -1283,14 +1283,14 @@ fol. 5v: the four small wheels.xxxvi
 
 443
 
-![Description](/resources/image_10469.jpeg)
+![Description](image_10469.jpeg)
 
 Moving on to the concentric circles, we begin with the smallest circle at the center and proceed
 outward. The direction of the circular motion follows the hands of a clock. In the descending motion
 we choose each time the black apostrophoi, with the red signatures of the plagal modes, while in the ascending
 return we choose the black oliga, with the red signatures of the authentic modes beneath:
 
-![Description](/resources/image_10470.jpeg)
+![Description](image_10470.jpeg)
 
 Figure 8.37.β. Transcription of the Compound Wheel of Saint John Koukouzeles, based on MS EBE 2458,
 
@@ -1303,7 +1303,7 @@ the reverse reading direction, that is, counterclockwise. Again, for the
 descending motions we choose the black apostrophoi with the signatures of the plagal modes beneath, while for
 the ascending return, the black oliga with the signatures of the authentic modes:
 
-![Description](/resources/image_10471.jpeg)
+![Description](image_10471.jpeg)
 
 Figure 8.37.γ. Transcription of the Compound Wheel of Saint John Koukouzeles, based on MS EBE 2458,
 
@@ -1315,9 +1315,9 @@ According to this attempt at reading, the skeleton of the Compound Wheel therefo
 of the motions Ke-Pa-Ke, Zo΄-Vou-Zo΄, Ni΄-Ga-Ni΄, Pa΄-Di-Pa΄, Vou΄-Ke-Vou΄. Schematically, it
 could be presented as follows: see Figure 8.38.
 
-![Description](/resources/image_10472.jpeg)
-![Description](/resources/image_10473.jpeg)
-![Description](/resources/image_10474.jpeg)
+![Description](image_10472.jpeg)
+![Description](image_10473.jpeg)
+![Description](image_10474.jpeg)
 
 Figure 8.38. A condensed static representation of the skeleton of the Compound Wheel.
 Below are given the modal indications/signatures, which change each time, depending on the motion:
@@ -1333,7 +1333,7 @@ musical communion that unites the earthly with the heavenly: see Figure 8.39 and
 
 446
 
-![Description](/resources/image_10475.jpeg)
+![Description](image_10475.jpeg)
 
 Figure 8.39. The “most difficult parallage” in the Anthology of the Royal Library of Copenhagen, NkS 4466 (4o), fol.
 14r, “written between 1679–1681” (Alexandrescu, 2013, p. 37), by John Kampazournas, for use in the
@@ -1349,7 +1349,7 @@ also in Anastasimatarion manuscripts (in the latter from the seventeenth century
 Eight Modes. It is usually anonymous, although sometimes it is also attributed to the maistor John Koukouzeles: see
 Figure 8.40.
 
-![Description](/resources/image_10476.png)
+![Description](image_10476.png)
 
 Hear & see it by pressing 
 Figure 8.40. The Kanonion of the eight modes, from the Protheoria in the MS of the Holy Monastery of Docheiariou no. 338, autograph
@@ -1360,7 +1360,7 @@ mathematician and Platonist philosopher Theon of Smyrna (2nd c. AD).xxxix The ad
 of the opposite numbers in Theon’s Wheel (1+9, 2+8, 3+7, and 4+6) leads each time
 to the number ten, a symbol of perfection: see Figure 8.41.
 
-![Description](/resources/image_10477.jpeg)
+![Description](image_10477.jpeg)
 
 Figure 8.41. Copy of the wheel of the mathematician and Platonist philosopher Theon of Smyrna (2nd c. AD).
 Source: Chaldaiakis (2014, p. 172, fig. 24).
@@ -1373,11 +1373,11 @@ The Simple Wheel exists in two versions:
 
 2. chromatic, which appears rarely, during the late post-Byzantine
 
-![Description](/resources/image_10478.jpeg)
+![Description](image_10478.jpeg)
 
 period: see Figures 8.42–43.
 
-![Description](/resources/image_10479.jpeg)
+![Description](image_10479.jpeg)
 
 Figures 8.42–43. Left: Kanonion of the eight modes (diatonic version). Right: kanonion of the second and plagal second mode
 (chromatic version). The two kanonia are free copies from a photograph of a post-Byzantine MS in a private
@@ -1389,7 +1389,7 @@ Chrysanthos informs us about the way of reading the Simple Wheel in his Great Th
 
 modes, following the following direction of motion: see Figure 8.44
 
-![Description](/resources/image_10480.jpeg)
+![Description](image_10480.jpeg)
 
 Figure 8.44. Reading the Kanonion of the eight modes in its diatonic version. For the original image of the wheel,
 cf. Konstantinou (2012, p. 390).
@@ -1407,7 +1407,7 @@ of the authentic modes, and the descending course on the bases of the plagal mod
 
 2. in the lower row with the polysyllabic pitch names, in the analytic notation of the New Method:
 
-![Description](/resources/image_10481.jpeg)
+![Description](image_10481.jpeg)
 
 Figure 8.45. The Simple Wheel (diatonic) in a comparison of sources:
 
@@ -1426,7 +1426,7 @@ staff, the third by schematic transcription.xli
 The skeleton of the Simple Wheel in its diatonic version consists of the motion Pa-Vou-Ga-
 Di-Ga-Vou-Pa-Ni-Pa. Schematically, it could be presented as follows: see Figure 8.46.
 
-![Description](/resources/image_10482.jpeg)
+![Description](image_10482.jpeg)
 
 Figure 8.46. The bases of the eight modes on which the Simple Wheel moves in its diatonic form. Below are the
 corresponding signatures: of the authentic modes in the ascending course, of the plagal modes in the descending course.
@@ -1436,13 +1436,13 @@ following way of reading: see Figures 8.47–48.
 
 450
 
-![Description](/resources/image_10483.jpeg)
+![Description](image_10483.jpeg)
 
 Hear it by pressing 
 Figure 8.47. Reading the Wheel of the chromatic modes. For the original image of the wheel, cf. Konstantinou
 (2012, p. 390).
 
-![Description](/resources/image_10484.jpeg)
+![Description](image_10484.jpeg)
 
 Figure 8.48. The Wheel of the second & plagal second mode in a comparison of sources: A. the signs and signatures in Middle Byzantine
 notation, from a MS in a private collection (facsimile in Konstantinou, 2012, p. 390), and transcription. B.
@@ -1459,7 +1459,7 @@ parallage” and is also attributed to the maistor John Koukouzeles.
 It is a diagram that combines elements from both wheels: the Compound and
 the Simple:xlii see Figure 8.49.
 
-![Description](/resources/image_10485.jpeg)
+![Description](image_10485.jpeg)
 
 ## You hear & see it by pressing 
 
@@ -1484,7 +1484,7 @@ in the ascent by means of the oligon, he showed the plagal modes to be authentic
 descent by means of the apostrophos, conversely, he showed the authentic modes to be
 plagal” (Alygizakis, 1985, p. 232, lines 71-77).xliv See Figure 8.50.
 
-![Description](/resources/image_10486.png)
+![Description](image_10486.png)
 
 Figure 8.50. The basic principle of parallage, based on the system of the wheel.
 
@@ -1521,7 +1521,7 @@ Table 8.8. Subcategories or offshoots of the oktoechos, taking as their starting
 systematizations.
 Sources: Zannos (1994, p. 186), Mavroeidis (1999, p. 22), Karas (1982, vol. I, p. 245).
 
-![Description](/resources/image_10487.jpeg)
+![Description](image_10487.jpeg)
 
 Figure 8.51. Subcategories of the first and the pl. first mode, taking as their starting point the system of heptaphony.
 Sources: as in Table 8.8.
@@ -1556,7 +1556,7 @@ parallage” (ἀπὸ παραλλαγῆς) and “from melos” (ἀπὸ μ�
 various kinds of metabole (ed. Hannick & Wolfram, 1985, MMB CSRM I, lines 565-575. See also Raasted,
 1966, p. 26).
 
-![Description](/resources/image_10488.jpeg)
+![Description](image_10488.jpeg)
 
 Figure 8.52. Martyriai “from parallage” and “from melos” for the note Di: an apparent conflict.
 Sources: Chrysaphes (ed. Conomos, 1985, MMB CSRM II, lines 216-538 and p. 74). Alexandru (2000, vol. I, p. 74).
@@ -1582,8 +1582,8 @@ characteristic triangular/trapezoidal shape of this instrument: see the edition 
 
 pp. 110-122) and Figures 8.53-54 below.
 
-![Description](/resources/image_10489.png)
-![Description](/resources/image_10490.jpeg)
+![Description](image_10489.png)
+![Description](image_10490.jpeg)
 
 Figures 8.53-54. Left: Anonymous of ms. EBE 968, 17th c. (Giannopoulos), fol. 179v, with the kanonion of the first inner
 mode. © National Library of Greece, Athens.  Right: Kanun, made in Constantinople
@@ -1621,7 +1621,7 @@ ascending motion with the oliga on the right side of the diagram, and then it pr
 of apostrophoi located on the left, above the ison. The nenano follows a course like the authentic
 modes: see Figures 8.55-56.
 
-![Description](/resources/image_10491.jpeg)
+![Description](image_10491.jpeg)
 
 You hear it by pressing 
 Figure 8.55. Tracing the Kanonion of the first inner mode, according to the Anonymous of ms. EBE 968, 17th c.
@@ -1643,7 +1643,7 @@ tetraphonia (system of the wheel). © National Library of Greece, Athens.
 
 - 
 
-![Description](/resources/image_10492.jpeg)
+![Description](image_10492.jpeg)
 
 You can listen to the first kanonion by pressing 
 Figure 8.56. The kanonia of the pl. second mode (above) and of the nenano (below), according to the Anonymous of ms. EBE 968,
@@ -1665,7 +1665,7 @@ parallage chiefly by means of the system of the wheel, double parallagexlviii co
 the usual sequence of the polysyllabic notes was annulled. An example from the famous
 Method of the Sticherarion by Xenos Korones can clarify what is meant: see Figure 8.57.a.
 
-![Description](/resources/image_10493.jpeg)
+![Description](image_10493.jpeg)
 
 Figure 8.57.a. Excerpt from the “Method of the Sticherarion” by Xenos Korones, from ms. EBE 2406, autograph of
 Matthew, monk and domestikos from the Holy Monastery of Timios Prodromos, Serres, year 1453, fol. 9r.
@@ -1678,7 +1678,7 @@ Figures 8.57.b. and 8.58.
 
 459
 
-![Description](/resources/image_10494.jpeg)
+![Description](image_10494.jpeg)
 
 Figure 8.57.b. Excerpt from the “Method of the Sticherarion” by Xenos Korones, according to ms. EBE 2406, fol. 9r
 (cola 18-21 out of a total of 23 phrases on the words “Symeon the equal of the angels”). It is accompanied by a transcription,
@@ -1692,8 +1692,8 @@ parallage in the system of the Wheel (here the nana is on Ga-F), and those dicta
 by the system according to triphonia, which is approached through double parallage (here the nana is on
 Di-G):
 
-![Description](/resources/image_10495.jpeg)
-![Description](/resources/image_10496.jpeg)
+![Description](image_10495.jpeg)
+![Description](image_10496.jpeg)
 
 Figure 8.58. Martyriai according to the system of the wheel and according to the system of triphonia. In parallage, the martyriai
 are repeated at intervals of a fifth, while in double parallage at intervals of a fourth, according to the rule:
@@ -1712,7 +1712,7 @@ subject of parallage, see the special treatise by Pachomios Rousanos the Monk (e
 The Reform of the Three Teachers in 1814-15 brought significant changes at the level of the
 systematization of the oktoechos, while at the same time attempting to preserve its traditional sonorities:
 
-![Description](/resources/image_10497.png)
+![Description](image_10497.png)
 
 The manner of parallage changed: the polysyllabic notes α[α]ες, ]εα ]ες etc.
 were replaced by the monosyllabic notes Pa, Vou, Ga, Di etc.
@@ -1742,15 +1742,15 @@ during the 18th and 19th centuries:liii cf. Figures 8.59-60.
 
 461
 
-![Description](/resources/image_10498.png)
-![Description](/resources/image_10499.png)
-![Description](/resources/image_10500.png)
-![Description](/resources/image_10501.png)
-![Description](/resources/image_10502.png)
-![Description](/resources/image_10503.png)
+![Description](image_10498.png)
+![Description](image_10499.png)
+![Description](image_10500.png)
+![Description](image_10501.png)
+![Description](image_10502.png)
+![Description](image_10503.png)
 
-![Description](/resources/image_10504.jpeg)
-![Description](/resources/image_10505.jpeg)
+![Description](image_10504.jpeg)
+![Description](image_10505.jpeg)
 
 Figures 8.59-60. Scale kanonia of the second mode (left: 64 moria in total) and of the pl. second mode (middle:
 68 moria in total), according to Chrysanthos. The problem of the insufficient theorization of the second mode is mentioned
@@ -1769,8 +1769,8 @@ Alongside the new kanonia, Chrysanthos also adds information concerning the okto
 old musicians, cultivating historical memory in order to avoid creating a gap between
 the older and the new systematization of the modes: see Figure 8.61.
 
-![Description](/resources/image_10506.jpeg)
-![Description](/resources/image_10507.jpeg)
+![Description](image_10506.jpeg)
+![Description](image_10507.jpeg)
 
 Figure 8.61. The unified chromatic parallage for the second and pl. second mode according to the Old System, transcribed into the
 analytical notation of the New System. Source: Chrysanthos (1832, § 246). For further reading concerning the
@@ -1846,7 +1846,7 @@ New Method: Reflections   & 
 Assessment Criterion 13:
 Exercise in describing Fragmentum Zographense 21
 
-![Description](/resources/image_10508.jpeg)
+![Description](image_10508.jpeg)
 
 # 
 
@@ -2228,7 +2228,7 @@ the base of the mode (Ζω΄). For possible relations between the parakletike, t
 in Palaeo-Byzantine notation, cf. Troelsgård (1995).
 xxvi
 
-![Description](/resources/image_10509.jpeg)
+![Description](image_10509.jpeg)
 
 xxvii For the description of this ms, cf. Stathis (1989, pp. 169-188). Politis and Politi (1991, pp. 457-469).
 xxviii For the photograph we thank Mr. Demosthenes Spanoudakis.

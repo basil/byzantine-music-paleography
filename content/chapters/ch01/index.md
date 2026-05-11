@@ -115,7 +115,7 @@ With the coming of the daylight, the static fades away, and signals emerge. Τhe
 find, when we switch on the radio of history about 3200 B.C.E., come from Mesopotamia, and
 those from Egypt soon emerge..."xv (βλ. Χάρτη 1.1 και Εικόνες 1.1-3).
 
-![Description](/resources/image_2421.jpeg)
+![Description](image_2421.jpeg)
 
 Χάρτης 1.1. Από τα προϊστορικά χρόνια προς τις απαρχές γραφικών συστημάτων: κουλτούρες της Δυτικο-Ανατολικής
 Ευρώπης, η Mεσοποταμία (Ουρ, Ουρούκ: σφηνοειδής γραφή) και η Αίγυπτος (ιερογλυφικά).© Google earth.
@@ -124,8 +124,8 @@ those from Egypt soon emerge..."xv (βλ. Χάρτη 1.1 και Εικόνες 1
 <http://ro.wikipedia.org/wiki/Cultura_Cucuteni>
 <http://en.wikipedia.org/wiki/Cucuteni-Trypillian_culture> (5.3.2015).
 
-![Description](/resources/image_2422.jpeg)
-![Description](/resources/image_2423.jpeg)
+![Description](image_2422.jpeg)
+![Description](image_2423.jpeg)
 
 Εικόνες 1.1-2. Ο Κώδικας του Χαμουραμπί, βασιλιά της Βαβυλώνας, σε σφηνοειδή γραφή, περ. 1792-1750 π.Χ.,
 Μεσοποταμία. Σήμερα βρίσκεται στο Μουσείο Louvre, Παρίσι. Αποτελεί ένα από τα σημαντικότερα γραπτά νομικά μνημεία
@@ -137,7 +137,7 @@ writing and calculating".
 
 31
 
-![Description](/resources/image_2424.jpeg)
+![Description](image_2424.jpeg)
 
 # Εικόνα 1.3. Η περίφημη «Στήλη της Ροζέτας» (196 π.Χ.), η οποία ανακαλύφτηκε το 1799 ως απόσπασμα στην πόλη
 
@@ -240,7 +240,7 @@ Daniels:
 
 33
 
-![Description](/resources/image_2425.jpeg)
+![Description](image_2425.jpeg)
 
 Χάρτης 1.2. Περιοχές διαμόρφωσης των αιγαιακών γραφών. © Google earth.
 Πηγές: Google earth & μέρη σημειωμένα από το Δημοσθένη Σπανουδάκη.
@@ -281,7 +281,7 @@ Daniels:
 403/402 επίσημα από την Αθήνα και έγινε η κλασική ελληνική αλφάβητος, την οποία χρησιμοποιούμε μέχρι
 σήμερα.xxxi
 
-![Description](/resources/image_2426.jpeg)
+![Description](image_2426.jpeg)
 
 # Χάρτης 1.3. Μερικές περιοχές διάδοσης των αρχαϊκών μορφών της ελληνικής αλφαβήτου και η Μίλητος, το γραφικό
 
@@ -343,7 +343,7 @@ Daniels:
 
 36
 
-![Description](/resources/image_2427.jpeg)
+![Description](image_2427.jpeg)
 
 Εικόνα 1.4. Η Β΄ Οικουμενική Σύνοδος, Κωνσταντινούπολη 381. Ο βασιλιάς Θεοδόσιος ο Μέγας κάθεται δεξιά, δίπλα
 στον θρόνο, στο οποίο βρίσκεται το Ευαγγέλιο, σύμβολο της παρουσίας του Κυρίου μας Ιησού Χριστού. Μικρογραφία από
@@ -356,8 +356,8 @@ Cahiers d'une exposition, 37. Paris: Bibliothèque nationale de France, σ. 5, �
 
 37
 
-![Description](/resources/image_2428.jpeg)
-![Description](/resources/image_2429.jpeg)
+![Description](image_2428.jpeg)
+![Description](image_2429.jpeg)
 
 Εικόνες 1.5-6. Ο γραπτός λόγος ως θεϊκό δώρο: Ο Προφήτης Μωυσής λαμβάνοντας τις πλάκες του Νόμου από
 το χέρι του Θεού (manus Dei).  Ο Πρωτοψάλτης Ιωάννης ο Γλυκύς (13ος αι.) γράφοντας μουσική με την
@@ -366,7 +366,7 @@ Cahiers d'une exposition, 37. Paris: Bibliothèque nationale de France, σ. 5, �
 
 38
 
-![Description](/resources/image_2430.png)
+![Description](image_2430.png)
 
 # Εικόνα 1.7. "Maiestas Domini" (H Δόξα Κυρίου): αγιογραφικό σκίτσο των Γ. Τζημόπουλου & Αικ. Ιωαννίδου (2016)
 
@@ -385,7 +385,7 @@ Cahiers d'une exposition, 37. Paris: Bibliothèque nationale de France, σ. 5, �
 18), βάσει ποικίλων εικαστικών και γραμματειακών πηγών της βυζαντινής περιόδου. Η χρήση της γραφής για
 την επικοινωνία με τους Αγίους είναι ένα φαινόμενο διαδεδομένο μέχρι και σήμερα (βλ. Εικόνα 1.8).
 
-![Description](/resources/image_2431.png)
+![Description](image_2431.png)
 
 Εικόνα 1.8. Η γραφή ως μέσο επικοινωνίας με το θείο σε ένα σύγχρονο παράδειγμα: χαρτάκια με αιτήματα προς τον Άγιο
 Δημήτριο το Μυροβλύτη στη λειψανοθήκη του (Ι.Ν. Αγίου Δημητρίου Πολιούχου Θεσσαλονίκης [φωτογραφία έτ. 2013
@@ -651,7 +651,7 @@ Bατικανό κ.ά.), σε βιβλιοθήκες της Ρουμανίας, 
 περιέχοντας δύο μεγάλα συστήματα μουσικών γραφών: την εκφωνητική σημειογραφία και τις μελωδικές
 σημειογραφίες.
 
-![Description](/resources/image_2432.jpeg)
+![Description](image_2432.jpeg)
 
 Χάρτης 1.4. Σημαντικά κέντρα διάδοσης Ψαλτικής Τέχνης κατά τα πρόβυζαντινά, βυζαντινά και μεταβυζαντινά χρόνια. ©
 Google earth.
@@ -671,10 +671,10 @@ Google earth.
 
 54
 
-![Description](/resources/image_2433.jpeg)
-![Description](/resources/image_2434.jpeg)
-![Description](/resources/image_2435.jpeg)
-![Description](/resources/image_2436.jpeg)
+![Description](image_2433.jpeg)
+![Description](image_2434.jpeg)
+![Description](image_2435.jpeg)
+![Description](image_2436.jpeg)
 
 |Αιώνας μ.Χ.|ΣΠΑΡΑΓΜΑΤΑ ΚΑΙ ΤΟΠΙΚΑ ΣΗΜΕΙΟΓΡΑΦΙΚΑ ΣΥΣΤΗΜΑΤΑ|Η ΚΥΡΙΩΣ ΓΡΑΠΤΗ ΠΑΡΑΔΟΣΗ|
 |---|---|---|
@@ -682,11 +682,11 @@ Google earth.
 
 55
 
-![Description](/resources/image_2437.jpeg)
-![Description](/resources/image_2438.jpeg)
-![Description](/resources/image_2439.jpeg)
-![Description](/resources/image_2440.jpeg)
-![Description](/resources/image_2441.jpeg)
+![Description](image_2437.jpeg)
+![Description](image_2438.jpeg)
+![Description](image_2439.jpeg)
+![Description](image_2440.jpeg)
+![Description](image_2441.jpeg)
 
 |Αιώνας μ.Χ.|ΣΠΑΡΑΓΜΑΤΑ ΚΑΙ ΤΟΠΙΚΑ ΣΗΜΕΙΟΓΡΑΦΙΚΑ ΣΥΣΤΗΜΑΤΑ|Η ΚΥΡΙΩΣ ΓΡΑΠΤΗ ΠΑΡΑΔΟΣΗ|
 |---|---|---|
@@ -694,7 +694,7 @@ Google earth.
 
 56
 
-![Description](/resources/image_2442.jpeg)
+![Description](image_2442.jpeg)
 
 |Αιώνας μ.Χ.|ΣΠΑΡΑΓΜΑΤΑ ΚΑΙ ΤΟΠΙΚΑ ΣΗΜΕΙΟΓΡΑΦΙΚΑ ΣΥΣΤΗΜΑΤΑ|Η ΚΥΡΙΩΣ ΓΡΑΠΤΗ ΠΑΡΑΔΟΣΗ|
 |---|---|---|
@@ -790,8 +790,8 @@ Google earth.
 Επισήμανση: Ο τελευταίος χάρτης του βίντεο αφορά το επόμενο κεφάλαιο, όπου θα παρουσιαστούν, μεταξύ άλλων,
 διάφορα σημαντικά κέντρα παραγωγής υλικού γραφής και θα αναφερθούν μεγάλες βιβλιοθήκες της Αρχαιότητας.
 
-![Description](/resources/image_2443.jpeg)
-![Description](/resources/image_2444.png)
+![Description](image_2443.jpeg)
+![Description](image_2444.png)
 
 # ΔΑ_Πανόραμα χαρτών.mp4 
 

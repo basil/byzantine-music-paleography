@@ -88,7 +88,7 @@ Palestine, and later also in Syracuse in Sicily, etc.xiv (see Figure 2.2).
 
 76
 
-![Description](/resources/image_2445.jpeg)
+![Description](image_2445.jpeg)
 
 # Figure 2.2. Papyrus (Cyperus papyrus) at Kew Gardens in London
 
@@ -98,7 +98,7 @@ From the white stalk of the plant, cut lengthwise into thin strips, were made
 papyrus sheets, which, glued together, formed papyrus scrolls (rolls) of various
 lengths (2-5 metres)xv and of varying quality: see Fig. 2.3.xvi
 
-![Description](/resources/image_2446.png)
+![Description](image_2446.png)
 
 ## Figure 2.3. Studying papyri in a Hellenistic library: copy by Georgios Tzimopoulos & Aikaterina
 
@@ -119,7 +119,7 @@ library of the ancient world. It is thought to have held around 700,000 scrolls 
 during the civil war in Egypt between Cleopatra and her brother Ptolemy XIII, in which Julius Caesar
 intervened decisively, in the year 48 BC.xviii (see Map 2.1).
 
-![Description](/resources/image_2447.jpeg)
+![Description](image_2447.jpeg)
 
 Map 2.1. Some very well-known centres for the production and circulation of writing material, and major libraries during
 
@@ -147,7 +147,7 @@ Figure 2.4).xxii
 
 78
 
-![Description](/resources/image_2448.jpeg)
+![Description](image_2448.jpeg)
 
 Figure 2.4. The Derveni Papyrus (late 4th c. BC), originating from Tomb A at Derveni. The papyrus scroll
 is in a carbonised state because of the funerary pyre (Tsantsanoglou, 2013, p. 8). It is also known as
@@ -180,8 +180,8 @@ with the use of lime, water, and pumice.xxviii
 
 79
 
-![Description](/resources/image_2449.jpeg)
-![Description](/resources/image_2450.jpeg)
+![Description](image_2449.jpeg)
+![Description](image_2450.jpeg)
 
 Figures 2.5-6. Left: Stretched goatskin for the manufacture of parchment. Right: Jost Amman and Hans Sachs,
 Frankfurt, 1568: The manufacture of parchment.
@@ -191,7 +191,7 @@ Sources: <https://commons.wikimedia.org/wiki/File:Parchment_from_goatskin.jpg> (
 The name parchment was already associated in Antiquity with the city of Pergamon in western Asia
 Minor (see Maps 2.1. and 2.2).
 
-![Description](/resources/image_2451.jpeg)
+![Description](image_2451.jpeg)
 
 Asia
 
@@ -225,7 +225,7 @@ Carolingians (8th-9th c.) in the West,xxxiii which consist of parchment leaves d
 on which the texts are written in gold and/or silver letters. Very often such
 manuscripts are richly adorned with polychrome miniatures (see Figure 2.7).xxxiv
 
-![Description](/resources/image_2452.jpeg)
+![Description](image_2452.jpeg)
 
 Figure 2.7. Codex purpureus Rossanensis, mid-6th c., f. 8v, with majuscule script and a miniature depicting
 the Lord Jesus Christ before Pilate. Museum of the Archdiocese of Rossano, Calabria, Italy. Probable provenance
@@ -245,7 +245,7 @@ are dated around the year AD 100. It is made chiefly from linen, in combination 
 cotton. The method of manufacturing paper (see Figure 2.8) remained secret until the middle of the 8th century,
 when the Arabs of Baghdad learned it from captive Chinese papermakers.xxxvi
 
-![Description](/resources/image_2453.jpeg)
+![Description](image_2453.jpeg)
 
 Figure 2.8. The traditional process of paper production in China, based on several 17th-century drawings.
 Sources: <https://commons.wikimedia.org/wiki/File:Making_Paper.gif> (8.8.2016). Gaur (1994, pp. 41-42).xxxvii
@@ -273,7 +273,7 @@ constituted the identifying sign—the brand—of the particular paper mill.xxxi
 The laid lines, the chain lines, and the watermarks are clearly visible when one holds the paper up to
 the light of the sun or of a lamp: see Figure 2.9.
 
-![Description](/resources/image_2454.jpeg)
+![Description](image_2454.jpeg)
 
 Figure 2.9. Fragment of modern paper with a watermark.xl
 
@@ -282,7 +282,7 @@ those manuscripts that do not bear a bibliographical note indicating their date.
 A fundamental dictionary, with more than 16,000 watermark designs from the end of the 13th century to 1600,
 was offered to the scholarly community by the French palaeographer C.M. Briquet (see Figure 2.10).xli
 
-![Description](/resources/image_2455.jpeg)
+![Description](image_2455.jpeg)
 
 Figures 2.10. Watermark designs with the motif of the double-headed eagle. Source: Briquet (1907, vol. I, digital p. 304, designs
 
@@ -300,7 +300,7 @@ or, conversely, perforate the parchment or paper.xlii The use of red ink (sacrum
 in state documents was for a long period the privilege of the emperor (see Figure 2.11), and its
 misuse was punished with severe penalties.xliii
 
-![Description](/resources/image_2456.jpeg)
+![Description](image_2456.jpeg)
 
 Figure 2.11. Fragment from a chrysobull of the Archive of the Holy Monastery of Iviron, 14 July 1351, on parchment, with the
 imperial signature in red ink: “† John, faithful emperor and
@@ -327,7 +327,7 @@ hypostases of cheironomia, chiefly from the period of Kalophonia (13th-15th c.) 
 
 adorn luxurious Byzantine and post-Byzantine manuscripts, musical or otherwise.xlv
 
-![Description](/resources/image_2457.jpeg)
+![Description](image_2457.jpeg)
 
 Figure 2.12. Use of black and red ink in Byzantine musical manuscripts: The first dated
 Papadike, MS NLG 2458, f. 11r, year 1336: “† Services composed by the maïstor
@@ -343,7 +343,7 @@ wall paintings) with the Evangelists (see, e.g., Figure 2.13).
 
 85
 
-![Description](/resources/image_2458.jpeg)
+![Description](image_2458.jpeg)
 
 Figure 2.13. The Evangelist Luke. Copy by Georgios Tzimopoulos & Aikaterina Ioannidou (2016), from
 a wall painting by Manuel Panselinos in the Protaton, around 1290. Among the writing materials and instruments depicted are the
@@ -385,8 +385,8 @@ Nevertheless, alongside the codex, the Byzantine tradition also retained the for
 diplomatic documents (e.g. chrysobulls), for hymnographic texts such as the kontakion, or also for other
 liturgical books, such as, for example, the various Divine Liturgies of the Byzantine rite.
 
-![Description](/resources/image_2459.jpeg)
-![Description](/resources/image_2460.jpeg)
+![Description](image_2459.jpeg)
+![Description](image_2460.jpeg)
 
 Figures 2.14-15. Left: Byzantine liturgical scroll in minuscule script, 13th c., Byzantine & Christian
 Museum, Athens.  Right: Christ Pantokrator, encaustic icon from the Holy Monastery of Saint Catherine at Sinai, first half
@@ -417,7 +417,7 @@ Arethas,lii of various monasteries of Mount Athos (e.g. Great Lavra, the Holy Mo
 Xeropotamou, etc.), of the Holy Monastery of Saint Catherine at Sinai, of various monasteries of Lower Italy, Crete,
 Cyprus, the Danubian Principalities, etc.liii
 
-![Description](/resources/image_2461.png)
+![Description](image_2461.png)
 
 Map 2.3. Locations of the Holy Monastery of Stoudios (southwest) and of the Holy Monastery of Hodegon/Hodegetria (east)
 in Byzantine Constantinople, where important scriptoria operated.
@@ -454,19 +454,19 @@ There are quires that consist of two bifolia (dyads or doublets, Lat. biniones),
 bifolia sewn together. The most common form of quire is the quaternion, which
 consists of 4 bifolia = 8 leaves = 16 pages (see Diagram 2.8).
 
-![Description](/resources/image_2462.jpeg)
-![Description](/resources/image_2463.jpeg)
-![Description](/resources/image_2464.jpeg)
+![Description](image_2462.jpeg)
+![Description](image_2463.jpeg)
+![Description](image_2464.jpeg)
 
 Diagrams 2.1-3. From the processed hide of a sheep to the four leaves of a codex: the most common form
 of folding a parchment into four leaves (in-quarto). By folding, two bifolia are first formed (one
 dyad) and then four leaves. The four leaves are numbered with their two sides, that is, as f. 1a or 1r (recto) and 1b
 or 1v (verso), 2a and 2b (or 2r and 2v), 3a and 3b (or 3r-v), 4a-b (or 4r-v), and constitute altogether eight pages.lvi
 
-![Description](/resources/image_2465.jpeg)
-![Description](/resources/image_2466.jpeg)
-![Description](/resources/image_2467.jpeg)
-![Description](/resources/image_2468.jpeg)
+![Description](image_2465.jpeg)
+![Description](image_2466.jpeg)
+![Description](image_2467.jpeg)
+![Description](image_2468.jpeg)
 
 Diagrams 2.4-7. From the processed hide, e.g. of a calf, to the eight leaves of a codex: a common form
 of folding a parchment into eight leaves (in-οctavo). By folding, one large bifolium (dyad) is first formed,
@@ -476,7 +476,7 @@ of folding a parchment into eight leaves (in-οctavo). By folding, one large bif
 which in turn is folded another two times to create a quaternion. The eight leaves that result
 are numbered with their two sides from 1a to 8b (or 1r-8v). Altogether we have 16 pages.lvii
 
-![Description](/resources/image_2469.jpeg)
+![Description](image_2469.jpeg)
 
 Diagram 2.8. Four bifolia are assembled to compose a quaternion quire.lviii
 
@@ -494,8 +494,8 @@ systematisation of various types of ruling, and thus an important instrumentum s
 codices, may be found in the foundational work of Julien Leroy, edited by J.-H. Sautel (1995), entitled:
 Répertoire de réglures dans les manuscrits grecs sur parchemin (see Diagrams 2.9-10).
 
-![Description](/resources/image_2470.jpeg)
-![Description](/resources/image_2471.jpeg)
+![Description](image_2470.jpeg)
+![Description](image_2471.jpeg)
 
 Diagrams 2.9-10. Two examples of standardised ruling patterns. The pattern on the left (Leroy-Sautel 00C1)
 is documented, for example, in MS Vaticanus graecus 1660, 10th c., ff. 1-393, with hagiographic texts, scribe: John at the
@@ -535,14 +535,14 @@ metal stamps, which are pressed onto the leather, the embellishment of the spine
 designs or of the fore edge of the book by recording the author or the title of the
 codex, etc.lxi (see Figures 2.16-17).
 
-![Description](/resources/image_2472.jpeg)
-![Description](/resources/image_2473.jpeg)
+![Description](image_2472.jpeg)
+![Description](image_2473.jpeg)
 
 Figure 2.16. Late Byzantine silk binding, with bosses, in a copy (sketch by Georgios Tzimopoulos &
 Aikaterina Ioannidou [2016]). On the spine of the book (see left, below) the monogram of the Palaiologoi is visible:
 PALG. lxii
 
-![Description](/resources/image_2474.jpeg)
+![Description](image_2474.jpeg)
 
 Figure 2.17. Post-Byzantine leather binding, with impressed stamps and with a clasp (only one has survived). Anthology
 of Eustathios, Protopsaltes of the Holy Monastery of Putna (Moldavia, Romania), year 1511, which is preserved in the State
@@ -553,7 +553,7 @@ or, usually, gilt silver, pearls, precious stones, etc. (see Figures 2.15 & 2.18
 
 91
 
-![Description](/resources/image_2475.jpeg)
+![Description](image_2475.jpeg)
 
 Figure 2.18. Luxurious modern binding of a Gospel book, in Byzantine style: binding with gold, pearls, gemstones,
 small icons, and with the inscription: “J(ESU)S C(HRIS)T CONQUERS,” in a cruciform shape.lxiv
@@ -572,7 +572,7 @@ collections such as Sticheraria, Anthologies, etc. (see Figure 2.19).
 
 92
 
-![Description](/resources/image_2476.jpeg)
+![Description](image_2476.jpeg)
 
 Figure 2.19. Miniature of the Pantokrator at the beginning of Great Vespers, from the Anthology of the Holy Monastery of
 Pantokrator, no. 206, f. 25r (in the open book a fragment from the Gospel according to Matthew, ch. 11, 29.2,
@@ -625,7 +625,7 @@ and the parchment, rendering the various elements in colours that are more easil
 
 94
 
-![Description](/resources/image_2477.jpeg)
+![Description](image_2477.jpeg)
 
 Figure 2.20. Pseudocolor image from the palimpsest Codex Nitriensis, British Library, Add.
 17211, f. 20r (late 5th c., probably Egypt, Nitria).
@@ -879,606 +879,606 @@ different applications.
 ||||Figure 2.20. Sample of bureaucratic script, in an excerpt (copy), from an imperial document, Constantine X Doukas, year 1060lxxxix||
 |Bookhand|Script of particular requirements on papyrus rolls and in codices. It presents two types: 1. MAJUSCULE BOOKHAND, 2. minuscule bookhand. Both types display many individual varieties: see below, Tables 2.4 and 2.7.|recording-copying of texts from all fields of knowledge (theological, legal, literary, scientific, musical, etc.)|clarity, elegance, careful proportions, alignment of the letters|The various varieties of bookhand obey strict rules, which determined the traditions of the respective scriptoria.|
 
-![Description](/resources/image_2478.png)
-![Description](/resources/image_2479.png)
-![Description](/resources/image_2480.png)
-![Description](/resources/image_2481.png)
-![Description](/resources/image_2482.png)
-![Description](/resources/image_2483.png)
-![Description](/resources/image_2484.png)
-![Description](/resources/image_2485.png)
-![Description](/resources/image_2486.png)
-![Description](/resources/image_2487.png)
-![Description](/resources/image_2488.png)
-![Description](/resources/image_2489.png)
-![Description](/resources/image_2490.png)
-![Description](/resources/image_2491.png)
-![Description](/resources/image_2492.png)
-![Description](/resources/image_2493.png)
-![Description](/resources/image_2494.png)
-![Description](/resources/image_2495.png)
-![Description](/resources/image_2496.png)
-![Description](/resources/image_2497.png)
-![Description](/resources/image_2498.png)
-![Description](/resources/image_2499.png)
-![Description](/resources/image_2500.png)
-![Description](/resources/image_2501.png)
-![Description](/resources/image_2502.png)
-![Description](/resources/image_2503.png)
-![Description](/resources/image_2504.png)
-![Description](/resources/image_2505.png)
-![Description](/resources/image_2506.png)
-![Description](/resources/image_2507.png)
-![Description](/resources/image_2508.png)
-![Description](/resources/image_2509.png)
-![Description](/resources/image_2510.png)
-![Description](/resources/image_2511.png)
-![Description](/resources/image_2512.png)
-![Description](/resources/image_2513.png)
-![Description](/resources/image_2514.png)
-![Description](/resources/image_2515.png)
-![Description](/resources/image_2516.png)
-![Description](/resources/image_2517.png)
-![Description](/resources/image_2518.png)
-![Description](/resources/image_2519.png)
-![Description](/resources/image_2520.png)
-![Description](/resources/image_2521.png)
-![Description](/resources/image_2522.png)
-![Description](/resources/image_2523.png)
-![Description](/resources/image_2524.png)
-![Description](/resources/image_2525.png)
-![Description](/resources/image_2526.png)
-![Description](/resources/image_2527.png)
-![Description](/resources/image_2528.png)
-![Description](/resources/image_2529.png)
-![Description](/resources/image_2530.png)
-![Description](/resources/image_2531.png)
-![Description](/resources/image_2532.png)
-![Description](/resources/image_2533.png)
-![Description](/resources/image_2534.png)
-![Description](/resources/image_2535.png)
-![Description](/resources/image_2536.png)
-![Description](/resources/image_2537.png)
-![Description](/resources/image_2538.png)
-![Description](/resources/image_2539.png)
-![Description](/resources/image_2540.png)
-![Description](/resources/image_2541.png)
-![Description](/resources/image_2542.png)
-![Description](/resources/image_2543.png)
-![Description](/resources/image_2544.png)
-![Description](/resources/image_2545.png)
-![Description](/resources/image_2546.png)
-![Description](/resources/image_2547.png)
-![Description](/resources/image_2548.png)
-![Description](/resources/image_2549.png)
-![Description](/resources/image_2550.png)
-![Description](/resources/image_2551.png)
-![Description](/resources/image_2552.png)
-![Description](/resources/image_2553.png)
-![Description](/resources/image_2554.png)
-![Description](/resources/image_2555.png)
-![Description](/resources/image_2556.png)
-![Description](/resources/image_2557.png)
-![Description](/resources/image_2558.png)
-![Description](/resources/image_2559.png)
-![Description](/resources/image_2560.png)
-![Description](/resources/image_2561.png)
-![Description](/resources/image_2562.png)
-![Description](/resources/image_2563.png)
-![Description](/resources/image_2564.png)
-![Description](/resources/image_2565.png)
-![Description](/resources/image_2566.png)
-![Description](/resources/image_2567.png)
-![Description](/resources/image_2568.png)
-![Description](/resources/image_2569.png)
-![Description](/resources/image_2570.png)
-![Description](/resources/image_2571.png)
-![Description](/resources/image_2572.png)
-![Description](/resources/image_2573.png)
-![Description](/resources/image_2574.png)
-![Description](/resources/image_2575.png)
-![Description](/resources/image_2576.png)
-![Description](/resources/image_2577.png)
-![Description](/resources/image_2578.png)
-![Description](/resources/image_2579.png)
-![Description](/resources/image_2580.png)
-![Description](/resources/image_2581.png)
-![Description](/resources/image_2582.png)
-![Description](/resources/image_2583.png)
-![Description](/resources/image_2584.png)
-![Description](/resources/image_2585.png)
-![Description](/resources/image_2586.png)
-![Description](/resources/image_2587.png)
-![Description](/resources/image_2588.png)
-![Description](/resources/image_2589.png)
-![Description](/resources/image_2590.png)
-![Description](/resources/image_2591.png)
-![Description](/resources/image_2592.png)
-![Description](/resources/image_2593.png)
-![Description](/resources/image_2594.png)
-![Description](/resources/image_2595.png)
-![Description](/resources/image_2596.png)
-![Description](/resources/image_2597.png)
-![Description](/resources/image_2598.png)
-![Description](/resources/image_2599.png)
-![Description](/resources/image_2600.png)
-![Description](/resources/image_2601.png)
-![Description](/resources/image_2602.png)
-![Description](/resources/image_2603.png)
-![Description](/resources/image_2604.png)
-![Description](/resources/image_2605.png)
-![Description](/resources/image_2606.png)
-![Description](/resources/image_2607.png)
-![Description](/resources/image_2608.png)
-![Description](/resources/image_2609.png)
-![Description](/resources/image_2610.png)
-![Description](/resources/image_2611.png)
-![Description](/resources/image_2612.png)
-![Description](/resources/image_2613.png)
-![Description](/resources/image_2614.png)
-![Description](/resources/image_2615.png)
-![Description](/resources/image_2616.png)
-![Description](/resources/image_2617.png)
-![Description](/resources/image_2618.png)
-![Description](/resources/image_2619.png)
-![Description](/resources/image_2620.png)
-![Description](/resources/image_2621.png)
-![Description](/resources/image_2622.png)
-![Description](/resources/image_2623.png)
-![Description](/resources/image_2624.png)
-![Description](/resources/image_2625.png)
-![Description](/resources/image_2626.png)
-![Description](/resources/image_2627.png)
-![Description](/resources/image_2628.png)
-![Description](/resources/image_2629.png)
-![Description](/resources/image_2630.png)
-![Description](/resources/image_2631.png)
-![Description](/resources/image_2632.png)
-![Description](/resources/image_2633.png)
-![Description](/resources/image_2634.png)
-![Description](/resources/image_2635.png)
-![Description](/resources/image_2636.png)
-![Description](/resources/image_2637.png)
-![Description](/resources/image_2638.png)
-![Description](/resources/image_2639.png)
-![Description](/resources/image_2640.png)
-![Description](/resources/image_2641.png)
-![Description](/resources/image_2642.png)
-![Description](/resources/image_2643.png)
-![Description](/resources/image_2644.png)
-![Description](/resources/image_2645.png)
-![Description](/resources/image_2646.png)
-![Description](/resources/image_2647.png)
-![Description](/resources/image_2648.png)
-![Description](/resources/image_2649.png)
-![Description](/resources/image_2650.png)
-![Description](/resources/image_2651.png)
-![Description](/resources/image_2652.png)
-![Description](/resources/image_2653.png)
-![Description](/resources/image_2654.png)
-![Description](/resources/image_2655.png)
-![Description](/resources/image_2656.png)
-![Description](/resources/image_2657.png)
-![Description](/resources/image_2658.png)
-![Description](/resources/image_2659.png)
-![Description](/resources/image_2660.png)
-![Description](/resources/image_2661.png)
-![Description](/resources/image_2662.png)
-![Description](/resources/image_2663.png)
-![Description](/resources/image_2664.png)
-![Description](/resources/image_2665.png)
-![Description](/resources/image_2666.png)
-![Description](/resources/image_2667.png)
-![Description](/resources/image_2668.png)
-![Description](/resources/image_2669.png)
-![Description](/resources/image_2670.png)
-![Description](/resources/image_2671.jpeg)
-![Description](/resources/image_2672.jpeg)
-![Description](/resources/image_2673.jpeg)
-![Description](/resources/image_2674.jpeg)
-![Description](/resources/image_2675.jpeg)
-![Description](/resources/image_2676.jpeg)
-![Description](/resources/image_2677.jpeg)
-![Description](/resources/image_2678.jpeg)
-![Description](/resources/image_2679.jpeg)
-![Description](/resources/image_2680.jpeg)
-![Description](/resources/image_2681.jpeg)
-![Description](/resources/image_2682.jpeg)
-![Description](/resources/image_2683.jpeg)
-![Description](/resources/image_2684.jpeg)
-![Description](/resources/image_2685.jpeg)
-![Description](/resources/image_2686.jpeg)
-![Description](/resources/image_2687.jpeg)
-![Description](/resources/image_2688.jpeg)
-![Description](/resources/image_2689.jpeg)
-![Description](/resources/image_2690.jpeg)
-![Description](/resources/image_2691.jpeg)
-![Description](/resources/image_2692.jpeg)
-![Description](/resources/image_2693.jpeg)
-![Description](/resources/image_2694.jpeg)
-![Description](/resources/image_2695.jpeg)
-![Description](/resources/image_2696.jpeg)
-![Description](/resources/image_2697.jpeg)
-![Description](/resources/image_2698.jpeg)
-![Description](/resources/image_2699.jpeg)
-![Description](/resources/image_2700.jpeg)
-![Description](/resources/image_2701.jpeg)
-![Description](/resources/image_2702.jpeg)
-![Description](/resources/image_2703.jpeg)
-![Description](/resources/image_2704.jpeg)
-![Description](/resources/image_2705.jpeg)
-![Description](/resources/image_2706.jpeg)
-![Description](/resources/image_2707.jpeg)
-![Description](/resources/image_2708.jpeg)
-![Description](/resources/image_2709.jpeg)
-![Description](/resources/image_2710.jpeg)
-![Description](/resources/image_2711.jpeg)
-![Description](/resources/image_2712.jpeg)
-![Description](/resources/image_2713.jpeg)
-![Description](/resources/image_2714.jpeg)
-![Description](/resources/image_2715.jpeg)
-![Description](/resources/image_2716.jpeg)
-![Description](/resources/image_2717.jpeg)
-![Description](/resources/image_2718.jpeg)
-![Description](/resources/image_2719.jpeg)
-![Description](/resources/image_2720.jpeg)
-![Description](/resources/image_2721.jpeg)
-![Description](/resources/image_2722.jpeg)
-![Description](/resources/image_2723.jpeg)
-![Description](/resources/image_2724.jpeg)
-![Description](/resources/image_2725.jpeg)
-![Description](/resources/image_2726.jpeg)
-![Description](/resources/image_2727.jpeg)
-![Description](/resources/image_2728.jpeg)
-![Description](/resources/image_2729.jpeg)
-![Description](/resources/image_2730.jpeg)
-![Description](/resources/image_2731.jpeg)
-![Description](/resources/image_2732.jpeg)
-![Description](/resources/image_2733.jpeg)
-![Description](/resources/image_2734.jpeg)
-![Description](/resources/image_2735.jpeg)
-![Description](/resources/image_2736.jpeg)
-![Description](/resources/image_2737.jpeg)
-![Description](/resources/image_2738.jpeg)
-![Description](/resources/image_2739.jpeg)
-![Description](/resources/image_2740.jpeg)
-![Description](/resources/image_2741.jpeg)
-![Description](/resources/image_2742.jpeg)
-![Description](/resources/image_2743.jpeg)
-![Description](/resources/image_2744.jpeg)
-![Description](/resources/image_2745.jpeg)
-![Description](/resources/image_2746.jpeg)
-![Description](/resources/image_2747.jpeg)
-![Description](/resources/image_2748.jpeg)
-![Description](/resources/image_2749.jpeg)
-![Description](/resources/image_2750.jpeg)
-![Description](/resources/image_2751.jpeg)
-![Description](/resources/image_2752.jpeg)
-![Description](/resources/image_2753.jpeg)
-![Description](/resources/image_2754.jpeg)
-![Description](/resources/image_2755.jpeg)
-![Description](/resources/image_2756.jpeg)
-![Description](/resources/image_2757.jpeg)
-![Description](/resources/image_2758.jpeg)
-![Description](/resources/image_2759.jpeg)
-![Description](/resources/image_2760.jpeg)
-![Description](/resources/image_2761.jpeg)
-![Description](/resources/image_2762.jpeg)
-![Description](/resources/image_2763.jpeg)
-![Description](/resources/image_2764.jpeg)
-![Description](/resources/image_2765.jpeg)
-![Description](/resources/image_2766.jpeg)
-![Description](/resources/image_2767.jpeg)
-![Description](/resources/image_2768.jpeg)
-![Description](/resources/image_2769.jpeg)
-![Description](/resources/image_2770.jpeg)
-![Description](/resources/image_2771.jpeg)
-![Description](/resources/image_2772.jpeg)
-![Description](/resources/image_2773.jpeg)
-![Description](/resources/image_2774.jpeg)
-![Description](/resources/image_2775.jpeg)
-![Description](/resources/image_2776.jpeg)
-![Description](/resources/image_2777.jpeg)
-![Description](/resources/image_2778.jpeg)
-![Description](/resources/image_2779.jpeg)
-![Description](/resources/image_2780.jpeg)
-![Description](/resources/image_2781.jpeg)
-![Description](/resources/image_2782.jpeg)
-![Description](/resources/image_2783.jpeg)
-![Description](/resources/image_2784.jpeg)
-![Description](/resources/image_2785.jpeg)
-![Description](/resources/image_2786.jpeg)
-![Description](/resources/image_2787.jpeg)
-![Description](/resources/image_2788.jpeg)
-![Description](/resources/image_2789.jpeg)
-![Description](/resources/image_2790.jpeg)
-![Description](/resources/image_2791.jpeg)
-![Description](/resources/image_2792.jpeg)
-![Description](/resources/image_2793.jpeg)
-![Description](/resources/image_2794.jpeg)
-![Description](/resources/image_2795.jpeg)
-![Description](/resources/image_2796.jpeg)
-![Description](/resources/image_2797.jpeg)
-![Description](/resources/image_2798.jpeg)
-![Description](/resources/image_2799.jpeg)
-![Description](/resources/image_2800.jpeg)
-![Description](/resources/image_2801.jpeg)
-![Description](/resources/image_2802.jpeg)
-![Description](/resources/image_2803.jpeg)
-![Description](/resources/image_2804.jpeg)
-![Description](/resources/image_2805.jpeg)
-![Description](/resources/image_2806.jpeg)
-![Description](/resources/image_2807.jpeg)
-![Description](/resources/image_2808.jpeg)
-![Description](/resources/image_2809.jpeg)
-![Description](/resources/image_2810.jpeg)
-![Description](/resources/image_2811.jpeg)
-![Description](/resources/image_2812.jpeg)
-![Description](/resources/image_2813.jpeg)
-![Description](/resources/image_2814.jpeg)
-![Description](/resources/image_2815.jpeg)
-![Description](/resources/image_2816.jpeg)
-![Description](/resources/image_2817.jpeg)
-![Description](/resources/image_2818.jpeg)
-![Description](/resources/image_2819.jpeg)
-![Description](/resources/image_2820.jpeg)
-![Description](/resources/image_2821.jpeg)
-![Description](/resources/image_2822.jpeg)
-![Description](/resources/image_2823.jpeg)
-![Description](/resources/image_2824.jpeg)
-![Description](/resources/image_2825.jpeg)
-![Description](/resources/image_2826.jpeg)
-![Description](/resources/image_2827.jpeg)
-![Description](/resources/image_2828.jpeg)
-![Description](/resources/image_2829.jpeg)
-![Description](/resources/image_2830.jpeg)
-![Description](/resources/image_2831.jpeg)
-![Description](/resources/image_2832.jpeg)
-![Description](/resources/image_2833.jpeg)
-![Description](/resources/image_2834.jpeg)
-![Description](/resources/image_2835.jpeg)
-![Description](/resources/image_2836.jpeg)
-![Description](/resources/image_2837.jpeg)
-![Description](/resources/image_2838.jpeg)
-![Description](/resources/image_2839.jpeg)
-![Description](/resources/image_2840.jpeg)
-![Description](/resources/image_2841.jpeg)
-![Description](/resources/image_2842.jpeg)
-![Description](/resources/image_2843.jpeg)
-![Description](/resources/image_2844.jpeg)
-![Description](/resources/image_2845.jpeg)
-![Description](/resources/image_2846.jpeg)
-![Description](/resources/image_2847.jpeg)
-![Description](/resources/image_2848.jpeg)
-![Description](/resources/image_2849.jpeg)
-![Description](/resources/image_2850.jpeg)
-![Description](/resources/image_2851.jpeg)
-![Description](/resources/image_2852.jpeg)
-![Description](/resources/image_2853.jpeg)
-![Description](/resources/image_2854.jpeg)
-![Description](/resources/image_2855.jpeg)
-![Description](/resources/image_2856.jpeg)
-![Description](/resources/image_2857.jpeg)
-![Description](/resources/image_2858.jpeg)
-![Description](/resources/image_2859.jpeg)
-![Description](/resources/image_2860.jpeg)
-![Description](/resources/image_2861.jpeg)
-![Description](/resources/image_2862.jpeg)
-![Description](/resources/image_2863.jpeg)
-![Description](/resources/image_2864.jpeg)
-![Description](/resources/image_2865.jpeg)
-![Description](/resources/image_2866.jpeg)
-![Description](/resources/image_2867.jpeg)
-![Description](/resources/image_2868.jpeg)
-![Description](/resources/image_2869.jpeg)
-![Description](/resources/image_2870.jpeg)
-![Description](/resources/image_2871.jpeg)
-![Description](/resources/image_2872.jpeg)
-![Description](/resources/image_2873.jpeg)
-![Description](/resources/image_2874.jpeg)
-![Description](/resources/image_2875.jpeg)
-![Description](/resources/image_2876.jpeg)
-![Description](/resources/image_2877.jpeg)
-![Description](/resources/image_2878.jpeg)
-![Description](/resources/image_2879.jpeg)
-![Description](/resources/image_2880.jpeg)
-![Description](/resources/image_2881.jpeg)
-![Description](/resources/image_2882.jpeg)
-![Description](/resources/image_2883.jpeg)
-![Description](/resources/image_2884.jpeg)
-![Description](/resources/image_2885.jpeg)
-![Description](/resources/image_2886.jpeg)
-![Description](/resources/image_2887.jpeg)
-![Description](/resources/image_2888.jpeg)
-![Description](/resources/image_2889.jpeg)
-![Description](/resources/image_2890.jpeg)
-![Description](/resources/image_2891.jpeg)
-![Description](/resources/image_2892.jpeg)
-![Description](/resources/image_2893.jpeg)
-![Description](/resources/image_2894.jpeg)
-![Description](/resources/image_2895.jpeg)
-![Description](/resources/image_2896.jpeg)
-![Description](/resources/image_2897.jpeg)
-![Description](/resources/image_2898.jpeg)
-![Description](/resources/image_2899.jpeg)
-![Description](/resources/image_2900.jpeg)
-![Description](/resources/image_2901.jpeg)
-![Description](/resources/image_2902.jpeg)
-![Description](/resources/image_2903.jpeg)
-![Description](/resources/image_2904.jpeg)
-![Description](/resources/image_2905.jpeg)
-![Description](/resources/image_2906.jpeg)
-![Description](/resources/image_2907.jpeg)
-![Description](/resources/image_2908.jpeg)
-![Description](/resources/image_2909.jpeg)
-![Description](/resources/image_2910.jpeg)
-![Description](/resources/image_2911.jpeg)
-![Description](/resources/image_2912.jpeg)
-![Description](/resources/image_2913.jpeg)
-![Description](/resources/image_2914.jpeg)
-![Description](/resources/image_2915.jpeg)
-![Description](/resources/image_2916.jpeg)
-![Description](/resources/image_2917.jpeg)
-![Description](/resources/image_2918.jpeg)
-![Description](/resources/image_2919.jpeg)
-![Description](/resources/image_2920.jpeg)
-![Description](/resources/image_2921.jpeg)
-![Description](/resources/image_2922.jpeg)
-![Description](/resources/image_2923.jpeg)
-![Description](/resources/image_2924.jpeg)
-![Description](/resources/image_2925.jpeg)
-![Description](/resources/image_2926.jpeg)
-![Description](/resources/image_2927.jpeg)
-![Description](/resources/image_2928.jpeg)
-![Description](/resources/image_2929.jpeg)
-![Description](/resources/image_2930.jpeg)
-![Description](/resources/image_2931.jpeg)
-![Description](/resources/image_2932.jpeg)
-![Description](/resources/image_2933.jpeg)
-![Description](/resources/image_2934.jpeg)
-![Description](/resources/image_2935.jpeg)
-![Description](/resources/image_2936.jpeg)
-![Description](/resources/image_2937.jpeg)
-![Description](/resources/image_2938.jpeg)
-![Description](/resources/image_2939.jpeg)
-![Description](/resources/image_2940.jpeg)
-![Description](/resources/image_2941.jpeg)
-![Description](/resources/image_2942.jpeg)
-![Description](/resources/image_2943.jpeg)
-![Description](/resources/image_2944.jpeg)
-![Description](/resources/image_2945.jpeg)
-![Description](/resources/image_2946.jpeg)
-![Description](/resources/image_2947.jpeg)
-![Description](/resources/image_2948.jpeg)
-![Description](/resources/image_2949.jpeg)
-![Description](/resources/image_2950.jpeg)
-![Description](/resources/image_2951.jpeg)
-![Description](/resources/image_2952.jpeg)
-![Description](/resources/image_2953.jpeg)
-![Description](/resources/image_2954.jpeg)
-![Description](/resources/image_2955.jpeg)
-![Description](/resources/image_2956.jpeg)
-![Description](/resources/image_2957.jpeg)
-![Description](/resources/image_2958.jpeg)
-![Description](/resources/image_2959.jpeg)
-![Description](/resources/image_2960.jpeg)
-![Description](/resources/image_2961.jpeg)
-![Description](/resources/image_2962.jpeg)
-![Description](/resources/image_2963.jpeg)
-![Description](/resources/image_2964.jpeg)
-![Description](/resources/image_2965.jpeg)
-![Description](/resources/image_2966.jpeg)
-![Description](/resources/image_2967.jpeg)
-![Description](/resources/image_2968.jpeg)
-![Description](/resources/image_2969.jpeg)
-![Description](/resources/image_2970.jpeg)
-![Description](/resources/image_2971.jpeg)
-![Description](/resources/image_2972.jpeg)
-![Description](/resources/image_2973.jpeg)
-![Description](/resources/image_2974.jpeg)
-![Description](/resources/image_2975.jpeg)
-![Description](/resources/image_2976.jpeg)
-![Description](/resources/image_2977.jpeg)
-![Description](/resources/image_2978.jpeg)
-![Description](/resources/image_2979.jpeg)
-![Description](/resources/image_2980.jpeg)
-![Description](/resources/image_2981.jpeg)
-![Description](/resources/image_2982.jpeg)
-![Description](/resources/image_2983.jpeg)
-![Description](/resources/image_2984.jpeg)
-![Description](/resources/image_2985.jpeg)
-![Description](/resources/image_2986.jpeg)
-![Description](/resources/image_2987.jpeg)
-![Description](/resources/image_2988.jpeg)
-![Description](/resources/image_2989.jpeg)
-![Description](/resources/image_2990.jpeg)
-![Description](/resources/image_2991.jpeg)
-![Description](/resources/image_2992.jpeg)
-![Description](/resources/image_2993.jpeg)
-![Description](/resources/image_2994.jpeg)
-![Description](/resources/image_2995.jpeg)
-![Description](/resources/image_2996.jpeg)
-![Description](/resources/image_2997.jpeg)
-![Description](/resources/image_2998.jpeg)
-![Description](/resources/image_2999.jpeg)
-![Description](/resources/image_3000.jpeg)
-![Description](/resources/image_3001.jpeg)
-![Description](/resources/image_3002.jpeg)
-![Description](/resources/image_3003.jpeg)
-![Description](/resources/image_3004.jpeg)
-![Description](/resources/image_3005.jpeg)
-![Description](/resources/image_3006.jpeg)
-![Description](/resources/image_3007.jpeg)
-![Description](/resources/image_3008.jpeg)
-![Description](/resources/image_3009.jpeg)
-![Description](/resources/image_3010.jpeg)
-![Description](/resources/image_3011.jpeg)
-![Description](/resources/image_3012.jpeg)
-![Description](/resources/image_3013.jpeg)
-![Description](/resources/image_3014.jpeg)
-![Description](/resources/image_3015.jpeg)
-![Description](/resources/image_3016.jpeg)
-![Description](/resources/image_3017.jpeg)
-![Description](/resources/image_3018.jpeg)
-![Description](/resources/image_3019.jpeg)
-![Description](/resources/image_3020.jpeg)
-![Description](/resources/image_3021.jpeg)
-![Description](/resources/image_3022.jpeg)
-![Description](/resources/image_3023.jpeg)
-![Description](/resources/image_3024.jpeg)
-![Description](/resources/image_3025.jpeg)
-![Description](/resources/image_3026.jpeg)
-![Description](/resources/image_3027.jpeg)
-![Description](/resources/image_3028.jpeg)
-![Description](/resources/image_3029.jpeg)
-![Description](/resources/image_3030.jpeg)
-![Description](/resources/image_3031.jpeg)
-![Description](/resources/image_3032.jpeg)
+![Description](image_2478.png)
+![Description](image_2479.png)
+![Description](image_2480.png)
+![Description](image_2481.png)
+![Description](image_2482.png)
+![Description](image_2483.png)
+![Description](image_2484.png)
+![Description](image_2485.png)
+![Description](image_2486.png)
+![Description](image_2487.png)
+![Description](image_2488.png)
+![Description](image_2489.png)
+![Description](image_2490.png)
+![Description](image_2491.png)
+![Description](image_2492.png)
+![Description](image_2493.png)
+![Description](image_2494.png)
+![Description](image_2495.png)
+![Description](image_2496.png)
+![Description](image_2497.png)
+![Description](image_2498.png)
+![Description](image_2499.png)
+![Description](image_2500.png)
+![Description](image_2501.png)
+![Description](image_2502.png)
+![Description](image_2503.png)
+![Description](image_2504.png)
+![Description](image_2505.png)
+![Description](image_2506.png)
+![Description](image_2507.png)
+![Description](image_2508.png)
+![Description](image_2509.png)
+![Description](image_2510.png)
+![Description](image_2511.png)
+![Description](image_2512.png)
+![Description](image_2513.png)
+![Description](image_2514.png)
+![Description](image_2515.png)
+![Description](image_2516.png)
+![Description](image_2517.png)
+![Description](image_2518.png)
+![Description](image_2519.png)
+![Description](image_2520.png)
+![Description](image_2521.png)
+![Description](image_2522.png)
+![Description](image_2523.png)
+![Description](image_2524.png)
+![Description](image_2525.png)
+![Description](image_2526.png)
+![Description](image_2527.png)
+![Description](image_2528.png)
+![Description](image_2529.png)
+![Description](image_2530.png)
+![Description](image_2531.png)
+![Description](image_2532.png)
+![Description](image_2533.png)
+![Description](image_2534.png)
+![Description](image_2535.png)
+![Description](image_2536.png)
+![Description](image_2537.png)
+![Description](image_2538.png)
+![Description](image_2539.png)
+![Description](image_2540.png)
+![Description](image_2541.png)
+![Description](image_2542.png)
+![Description](image_2543.png)
+![Description](image_2544.png)
+![Description](image_2545.png)
+![Description](image_2546.png)
+![Description](image_2547.png)
+![Description](image_2548.png)
+![Description](image_2549.png)
+![Description](image_2550.png)
+![Description](image_2551.png)
+![Description](image_2552.png)
+![Description](image_2553.png)
+![Description](image_2554.png)
+![Description](image_2555.png)
+![Description](image_2556.png)
+![Description](image_2557.png)
+![Description](image_2558.png)
+![Description](image_2559.png)
+![Description](image_2560.png)
+![Description](image_2561.png)
+![Description](image_2562.png)
+![Description](image_2563.png)
+![Description](image_2564.png)
+![Description](image_2565.png)
+![Description](image_2566.png)
+![Description](image_2567.png)
+![Description](image_2568.png)
+![Description](image_2569.png)
+![Description](image_2570.png)
+![Description](image_2571.png)
+![Description](image_2572.png)
+![Description](image_2573.png)
+![Description](image_2574.png)
+![Description](image_2575.png)
+![Description](image_2576.png)
+![Description](image_2577.png)
+![Description](image_2578.png)
+![Description](image_2579.png)
+![Description](image_2580.png)
+![Description](image_2581.png)
+![Description](image_2582.png)
+![Description](image_2583.png)
+![Description](image_2584.png)
+![Description](image_2585.png)
+![Description](image_2586.png)
+![Description](image_2587.png)
+![Description](image_2588.png)
+![Description](image_2589.png)
+![Description](image_2590.png)
+![Description](image_2591.png)
+![Description](image_2592.png)
+![Description](image_2593.png)
+![Description](image_2594.png)
+![Description](image_2595.png)
+![Description](image_2596.png)
+![Description](image_2597.png)
+![Description](image_2598.png)
+![Description](image_2599.png)
+![Description](image_2600.png)
+![Description](image_2601.png)
+![Description](image_2602.png)
+![Description](image_2603.png)
+![Description](image_2604.png)
+![Description](image_2605.png)
+![Description](image_2606.png)
+![Description](image_2607.png)
+![Description](image_2608.png)
+![Description](image_2609.png)
+![Description](image_2610.png)
+![Description](image_2611.png)
+![Description](image_2612.png)
+![Description](image_2613.png)
+![Description](image_2614.png)
+![Description](image_2615.png)
+![Description](image_2616.png)
+![Description](image_2617.png)
+![Description](image_2618.png)
+![Description](image_2619.png)
+![Description](image_2620.png)
+![Description](image_2621.png)
+![Description](image_2622.png)
+![Description](image_2623.png)
+![Description](image_2624.png)
+![Description](image_2625.png)
+![Description](image_2626.png)
+![Description](image_2627.png)
+![Description](image_2628.png)
+![Description](image_2629.png)
+![Description](image_2630.png)
+![Description](image_2631.png)
+![Description](image_2632.png)
+![Description](image_2633.png)
+![Description](image_2634.png)
+![Description](image_2635.png)
+![Description](image_2636.png)
+![Description](image_2637.png)
+![Description](image_2638.png)
+![Description](image_2639.png)
+![Description](image_2640.png)
+![Description](image_2641.png)
+![Description](image_2642.png)
+![Description](image_2643.png)
+![Description](image_2644.png)
+![Description](image_2645.png)
+![Description](image_2646.png)
+![Description](image_2647.png)
+![Description](image_2648.png)
+![Description](image_2649.png)
+![Description](image_2650.png)
+![Description](image_2651.png)
+![Description](image_2652.png)
+![Description](image_2653.png)
+![Description](image_2654.png)
+![Description](image_2655.png)
+![Description](image_2656.png)
+![Description](image_2657.png)
+![Description](image_2658.png)
+![Description](image_2659.png)
+![Description](image_2660.png)
+![Description](image_2661.png)
+![Description](image_2662.png)
+![Description](image_2663.png)
+![Description](image_2664.png)
+![Description](image_2665.png)
+![Description](image_2666.png)
+![Description](image_2667.png)
+![Description](image_2668.png)
+![Description](image_2669.png)
+![Description](image_2670.png)
+![Description](image_2671.jpeg)
+![Description](image_2672.jpeg)
+![Description](image_2673.jpeg)
+![Description](image_2674.jpeg)
+![Description](image_2675.jpeg)
+![Description](image_2676.jpeg)
+![Description](image_2677.jpeg)
+![Description](image_2678.jpeg)
+![Description](image_2679.jpeg)
+![Description](image_2680.jpeg)
+![Description](image_2681.jpeg)
+![Description](image_2682.jpeg)
+![Description](image_2683.jpeg)
+![Description](image_2684.jpeg)
+![Description](image_2685.jpeg)
+![Description](image_2686.jpeg)
+![Description](image_2687.jpeg)
+![Description](image_2688.jpeg)
+![Description](image_2689.jpeg)
+![Description](image_2690.jpeg)
+![Description](image_2691.jpeg)
+![Description](image_2692.jpeg)
+![Description](image_2693.jpeg)
+![Description](image_2694.jpeg)
+![Description](image_2695.jpeg)
+![Description](image_2696.jpeg)
+![Description](image_2697.jpeg)
+![Description](image_2698.jpeg)
+![Description](image_2699.jpeg)
+![Description](image_2700.jpeg)
+![Description](image_2701.jpeg)
+![Description](image_2702.jpeg)
+![Description](image_2703.jpeg)
+![Description](image_2704.jpeg)
+![Description](image_2705.jpeg)
+![Description](image_2706.jpeg)
+![Description](image_2707.jpeg)
+![Description](image_2708.jpeg)
+![Description](image_2709.jpeg)
+![Description](image_2710.jpeg)
+![Description](image_2711.jpeg)
+![Description](image_2712.jpeg)
+![Description](image_2713.jpeg)
+![Description](image_2714.jpeg)
+![Description](image_2715.jpeg)
+![Description](image_2716.jpeg)
+![Description](image_2717.jpeg)
+![Description](image_2718.jpeg)
+![Description](image_2719.jpeg)
+![Description](image_2720.jpeg)
+![Description](image_2721.jpeg)
+![Description](image_2722.jpeg)
+![Description](image_2723.jpeg)
+![Description](image_2724.jpeg)
+![Description](image_2725.jpeg)
+![Description](image_2726.jpeg)
+![Description](image_2727.jpeg)
+![Description](image_2728.jpeg)
+![Description](image_2729.jpeg)
+![Description](image_2730.jpeg)
+![Description](image_2731.jpeg)
+![Description](image_2732.jpeg)
+![Description](image_2733.jpeg)
+![Description](image_2734.jpeg)
+![Description](image_2735.jpeg)
+![Description](image_2736.jpeg)
+![Description](image_2737.jpeg)
+![Description](image_2738.jpeg)
+![Description](image_2739.jpeg)
+![Description](image_2740.jpeg)
+![Description](image_2741.jpeg)
+![Description](image_2742.jpeg)
+![Description](image_2743.jpeg)
+![Description](image_2744.jpeg)
+![Description](image_2745.jpeg)
+![Description](image_2746.jpeg)
+![Description](image_2747.jpeg)
+![Description](image_2748.jpeg)
+![Description](image_2749.jpeg)
+![Description](image_2750.jpeg)
+![Description](image_2751.jpeg)
+![Description](image_2752.jpeg)
+![Description](image_2753.jpeg)
+![Description](image_2754.jpeg)
+![Description](image_2755.jpeg)
+![Description](image_2756.jpeg)
+![Description](image_2757.jpeg)
+![Description](image_2758.jpeg)
+![Description](image_2759.jpeg)
+![Description](image_2760.jpeg)
+![Description](image_2761.jpeg)
+![Description](image_2762.jpeg)
+![Description](image_2763.jpeg)
+![Description](image_2764.jpeg)
+![Description](image_2765.jpeg)
+![Description](image_2766.jpeg)
+![Description](image_2767.jpeg)
+![Description](image_2768.jpeg)
+![Description](image_2769.jpeg)
+![Description](image_2770.jpeg)
+![Description](image_2771.jpeg)
+![Description](image_2772.jpeg)
+![Description](image_2773.jpeg)
+![Description](image_2774.jpeg)
+![Description](image_2775.jpeg)
+![Description](image_2776.jpeg)
+![Description](image_2777.jpeg)
+![Description](image_2778.jpeg)
+![Description](image_2779.jpeg)
+![Description](image_2780.jpeg)
+![Description](image_2781.jpeg)
+![Description](image_2782.jpeg)
+![Description](image_2783.jpeg)
+![Description](image_2784.jpeg)
+![Description](image_2785.jpeg)
+![Description](image_2786.jpeg)
+![Description](image_2787.jpeg)
+![Description](image_2788.jpeg)
+![Description](image_2789.jpeg)
+![Description](image_2790.jpeg)
+![Description](image_2791.jpeg)
+![Description](image_2792.jpeg)
+![Description](image_2793.jpeg)
+![Description](image_2794.jpeg)
+![Description](image_2795.jpeg)
+![Description](image_2796.jpeg)
+![Description](image_2797.jpeg)
+![Description](image_2798.jpeg)
+![Description](image_2799.jpeg)
+![Description](image_2800.jpeg)
+![Description](image_2801.jpeg)
+![Description](image_2802.jpeg)
+![Description](image_2803.jpeg)
+![Description](image_2804.jpeg)
+![Description](image_2805.jpeg)
+![Description](image_2806.jpeg)
+![Description](image_2807.jpeg)
+![Description](image_2808.jpeg)
+![Description](image_2809.jpeg)
+![Description](image_2810.jpeg)
+![Description](image_2811.jpeg)
+![Description](image_2812.jpeg)
+![Description](image_2813.jpeg)
+![Description](image_2814.jpeg)
+![Description](image_2815.jpeg)
+![Description](image_2816.jpeg)
+![Description](image_2817.jpeg)
+![Description](image_2818.jpeg)
+![Description](image_2819.jpeg)
+![Description](image_2820.jpeg)
+![Description](image_2821.jpeg)
+![Description](image_2822.jpeg)
+![Description](image_2823.jpeg)
+![Description](image_2824.jpeg)
+![Description](image_2825.jpeg)
+![Description](image_2826.jpeg)
+![Description](image_2827.jpeg)
+![Description](image_2828.jpeg)
+![Description](image_2829.jpeg)
+![Description](image_2830.jpeg)
+![Description](image_2831.jpeg)
+![Description](image_2832.jpeg)
+![Description](image_2833.jpeg)
+![Description](image_2834.jpeg)
+![Description](image_2835.jpeg)
+![Description](image_2836.jpeg)
+![Description](image_2837.jpeg)
+![Description](image_2838.jpeg)
+![Description](image_2839.jpeg)
+![Description](image_2840.jpeg)
+![Description](image_2841.jpeg)
+![Description](image_2842.jpeg)
+![Description](image_2843.jpeg)
+![Description](image_2844.jpeg)
+![Description](image_2845.jpeg)
+![Description](image_2846.jpeg)
+![Description](image_2847.jpeg)
+![Description](image_2848.jpeg)
+![Description](image_2849.jpeg)
+![Description](image_2850.jpeg)
+![Description](image_2851.jpeg)
+![Description](image_2852.jpeg)
+![Description](image_2853.jpeg)
+![Description](image_2854.jpeg)
+![Description](image_2855.jpeg)
+![Description](image_2856.jpeg)
+![Description](image_2857.jpeg)
+![Description](image_2858.jpeg)
+![Description](image_2859.jpeg)
+![Description](image_2860.jpeg)
+![Description](image_2861.jpeg)
+![Description](image_2862.jpeg)
+![Description](image_2863.jpeg)
+![Description](image_2864.jpeg)
+![Description](image_2865.jpeg)
+![Description](image_2866.jpeg)
+![Description](image_2867.jpeg)
+![Description](image_2868.jpeg)
+![Description](image_2869.jpeg)
+![Description](image_2870.jpeg)
+![Description](image_2871.jpeg)
+![Description](image_2872.jpeg)
+![Description](image_2873.jpeg)
+![Description](image_2874.jpeg)
+![Description](image_2875.jpeg)
+![Description](image_2876.jpeg)
+![Description](image_2877.jpeg)
+![Description](image_2878.jpeg)
+![Description](image_2879.jpeg)
+![Description](image_2880.jpeg)
+![Description](image_2881.jpeg)
+![Description](image_2882.jpeg)
+![Description](image_2883.jpeg)
+![Description](image_2884.jpeg)
+![Description](image_2885.jpeg)
+![Description](image_2886.jpeg)
+![Description](image_2887.jpeg)
+![Description](image_2888.jpeg)
+![Description](image_2889.jpeg)
+![Description](image_2890.jpeg)
+![Description](image_2891.jpeg)
+![Description](image_2892.jpeg)
+![Description](image_2893.jpeg)
+![Description](image_2894.jpeg)
+![Description](image_2895.jpeg)
+![Description](image_2896.jpeg)
+![Description](image_2897.jpeg)
+![Description](image_2898.jpeg)
+![Description](image_2899.jpeg)
+![Description](image_2900.jpeg)
+![Description](image_2901.jpeg)
+![Description](image_2902.jpeg)
+![Description](image_2903.jpeg)
+![Description](image_2904.jpeg)
+![Description](image_2905.jpeg)
+![Description](image_2906.jpeg)
+![Description](image_2907.jpeg)
+![Description](image_2908.jpeg)
+![Description](image_2909.jpeg)
+![Description](image_2910.jpeg)
+![Description](image_2911.jpeg)
+![Description](image_2912.jpeg)
+![Description](image_2913.jpeg)
+![Description](image_2914.jpeg)
+![Description](image_2915.jpeg)
+![Description](image_2916.jpeg)
+![Description](image_2917.jpeg)
+![Description](image_2918.jpeg)
+![Description](image_2919.jpeg)
+![Description](image_2920.jpeg)
+![Description](image_2921.jpeg)
+![Description](image_2922.jpeg)
+![Description](image_2923.jpeg)
+![Description](image_2924.jpeg)
+![Description](image_2925.jpeg)
+![Description](image_2926.jpeg)
+![Description](image_2927.jpeg)
+![Description](image_2928.jpeg)
+![Description](image_2929.jpeg)
+![Description](image_2930.jpeg)
+![Description](image_2931.jpeg)
+![Description](image_2932.jpeg)
+![Description](image_2933.jpeg)
+![Description](image_2934.jpeg)
+![Description](image_2935.jpeg)
+![Description](image_2936.jpeg)
+![Description](image_2937.jpeg)
+![Description](image_2938.jpeg)
+![Description](image_2939.jpeg)
+![Description](image_2940.jpeg)
+![Description](image_2941.jpeg)
+![Description](image_2942.jpeg)
+![Description](image_2943.jpeg)
+![Description](image_2944.jpeg)
+![Description](image_2945.jpeg)
+![Description](image_2946.jpeg)
+![Description](image_2947.jpeg)
+![Description](image_2948.jpeg)
+![Description](image_2949.jpeg)
+![Description](image_2950.jpeg)
+![Description](image_2951.jpeg)
+![Description](image_2952.jpeg)
+![Description](image_2953.jpeg)
+![Description](image_2954.jpeg)
+![Description](image_2955.jpeg)
+![Description](image_2956.jpeg)
+![Description](image_2957.jpeg)
+![Description](image_2958.jpeg)
+![Description](image_2959.jpeg)
+![Description](image_2960.jpeg)
+![Description](image_2961.jpeg)
+![Description](image_2962.jpeg)
+![Description](image_2963.jpeg)
+![Description](image_2964.jpeg)
+![Description](image_2965.jpeg)
+![Description](image_2966.jpeg)
+![Description](image_2967.jpeg)
+![Description](image_2968.jpeg)
+![Description](image_2969.jpeg)
+![Description](image_2970.jpeg)
+![Description](image_2971.jpeg)
+![Description](image_2972.jpeg)
+![Description](image_2973.jpeg)
+![Description](image_2974.jpeg)
+![Description](image_2975.jpeg)
+![Description](image_2976.jpeg)
+![Description](image_2977.jpeg)
+![Description](image_2978.jpeg)
+![Description](image_2979.jpeg)
+![Description](image_2980.jpeg)
+![Description](image_2981.jpeg)
+![Description](image_2982.jpeg)
+![Description](image_2983.jpeg)
+![Description](image_2984.jpeg)
+![Description](image_2985.jpeg)
+![Description](image_2986.jpeg)
+![Description](image_2987.jpeg)
+![Description](image_2988.jpeg)
+![Description](image_2989.jpeg)
+![Description](image_2990.jpeg)
+![Description](image_2991.jpeg)
+![Description](image_2992.jpeg)
+![Description](image_2993.jpeg)
+![Description](image_2994.jpeg)
+![Description](image_2995.jpeg)
+![Description](image_2996.jpeg)
+![Description](image_2997.jpeg)
+![Description](image_2998.jpeg)
+![Description](image_2999.jpeg)
+![Description](image_3000.jpeg)
+![Description](image_3001.jpeg)
+![Description](image_3002.jpeg)
+![Description](image_3003.jpeg)
+![Description](image_3004.jpeg)
+![Description](image_3005.jpeg)
+![Description](image_3006.jpeg)
+![Description](image_3007.jpeg)
+![Description](image_3008.jpeg)
+![Description](image_3009.jpeg)
+![Description](image_3010.jpeg)
+![Description](image_3011.jpeg)
+![Description](image_3012.jpeg)
+![Description](image_3013.jpeg)
+![Description](image_3014.jpeg)
+![Description](image_3015.jpeg)
+![Description](image_3016.jpeg)
+![Description](image_3017.jpeg)
+![Description](image_3018.jpeg)
+![Description](image_3019.jpeg)
+![Description](image_3020.jpeg)
+![Description](image_3021.jpeg)
+![Description](image_3022.jpeg)
+![Description](image_3023.jpeg)
+![Description](image_3024.jpeg)
+![Description](image_3025.jpeg)
+![Description](image_3026.jpeg)
+![Description](image_3027.jpeg)
+![Description](image_3028.jpeg)
+![Description](image_3029.jpeg)
+![Description](image_3030.jpeg)
+![Description](image_3031.jpeg)
+![Description](image_3032.jpeg)
 
 Table 2.1. Categories of Greek scriptxc
 
 100
 
-![Description](/resources/image_3033.jpeg)
-![Description](/resources/image_3034.jpeg)
-![Description](/resources/image_3035.jpeg)
-![Description](/resources/image_3036.jpeg)
-![Description](/resources/image_3037.jpeg)
-![Description](/resources/image_3038.jpeg)
-![Description](/resources/image_3039.jpeg)
-![Description](/resources/image_3040.jpeg)
-![Description](/resources/image_3041.jpeg)
-![Description](/resources/image_3042.jpeg)
-![Description](/resources/image_3043.jpeg)
-![Description](/resources/image_3044.jpeg)
-![Description](/resources/image_3045.jpeg)
-![Description](/resources/image_3046.jpeg)
-![Description](/resources/image_3047.jpeg)
-![Description](/resources/image_3048.jpeg)
-![Description](/resources/image_3049.jpeg)
-![Description](/resources/image_3050.jpeg)
-![Description](/resources/image_3051.jpeg)
-![Description](/resources/image_3052.jpeg)
-![Description](/resources/image_3053.jpeg)
-![Description](/resources/image_3054.jpeg)
-![Description](/resources/image_3055.jpeg)
-![Description](/resources/image_3056.jpeg)
-![Description](/resources/image_3057.jpeg)
-![Description](/resources/image_3058.jpeg)
-![Description](/resources/image_3059.jpeg)
-![Description](/resources/image_3060.png)
-![Description](/resources/image_3061.jpeg)
-![Description](/resources/image_3062.png)
-![Description](/resources/image_3063.png)
-![Description](/resources/image_3064.png)
-![Description](/resources/image_3065.png)
-![Description](/resources/image_3066.png)
-![Description](/resources/image_3067.png)
-![Description](/resources/image_3068.png)
-![Description](/resources/image_3069.png)
-![Description](/resources/image_3070.png)
-![Description](/resources/image_3071.png)
-![Description](/resources/image_3072.jpeg)
+![Description](image_3033.jpeg)
+![Description](image_3034.jpeg)
+![Description](image_3035.jpeg)
+![Description](image_3036.jpeg)
+![Description](image_3037.jpeg)
+![Description](image_3038.jpeg)
+![Description](image_3039.jpeg)
+![Description](image_3040.jpeg)
+![Description](image_3041.jpeg)
+![Description](image_3042.jpeg)
+![Description](image_3043.jpeg)
+![Description](image_3044.jpeg)
+![Description](image_3045.jpeg)
+![Description](image_3046.jpeg)
+![Description](image_3047.jpeg)
+![Description](image_3048.jpeg)
+![Description](image_3049.jpeg)
+![Description](image_3050.jpeg)
+![Description](image_3051.jpeg)
+![Description](image_3052.jpeg)
+![Description](image_3053.jpeg)
+![Description](image_3054.jpeg)
+![Description](image_3055.jpeg)
+![Description](image_3056.jpeg)
+![Description](image_3057.jpeg)
+![Description](image_3058.jpeg)
+![Description](image_3059.jpeg)
+![Description](image_3060.png)
+![Description](image_3061.jpeg)
+![Description](image_3062.png)
+![Description](image_3063.png)
+![Description](image_3064.png)
+![Description](image_3065.png)
+![Description](image_3066.png)
+![Description](image_3067.png)
+![Description](image_3068.png)
+![Description](image_3069.png)
+![Description](image_3070.png)
+![Description](image_3071.png)
+![Description](image_3072.jpeg)
 
 Among the various categories of scripts there are many interactions and also
 intermediate stages.
@@ -1523,28 +1523,28 @@ ekphonetic notation, and Byzantine melodic notations.
 
 102
 
-![Description](/resources/image_3073.jpeg)
-![Description](/resources/image_3074.jpeg)
-![Description](/resources/image_3075.jpeg)
-![Description](/resources/image_3076.jpeg)
-![Description](/resources/image_3077.jpeg)
-![Description](/resources/image_3078.jpeg)
-![Description](/resources/image_3079.jpeg)
-![Description](/resources/image_3080.jpeg)
-![Description](/resources/image_3081.jpeg)
-![Description](/resources/image_3082.jpeg)
-![Description](/resources/image_3083.jpeg)
-![Description](/resources/image_3084.jpeg)
-![Description](/resources/image_3085.jpeg)
-![Description](/resources/image_3086.jpeg)
+![Description](image_3073.jpeg)
+![Description](image_3074.jpeg)
+![Description](image_3075.jpeg)
+![Description](image_3076.jpeg)
+![Description](image_3077.jpeg)
+![Description](image_3078.jpeg)
+![Description](image_3079.jpeg)
+![Description](image_3080.jpeg)
+![Description](image_3081.jpeg)
+![Description](image_3082.jpeg)
+![Description](image_3083.jpeg)
+![Description](image_3084.jpeg)
+![Description](image_3085.jpeg)
+![Description](image_3086.jpeg)
 
 |Selection of various other auxiliary signs for reading texts|coronis diaeresis iota adscript/subscript horizontal line|ωι ῳ|crasis (= blending of two vowels), e.g. τὰ ἐκεῖ -> τἀκεῖ diaeresis, which is usually placed on ϊ or ϋ when it stands after another vowel, to show that the two vowels do not constitute a diphthong but must be pronounced separately, e.g. Μάϊος. It is usually placed above abbreviations, e.g. (= ΙΗΣΟΥΣ), or above numerals, e.g. in dates: (5838, counted from the creation of the world = year 1453 from the Birth of Christ; see also chapter 3)|In some manuscripts iota or upsilon appears with diaeresis even when standing alone (see, e.g., the Heirmologion of Grottaferrata EγII, f. 16v: Χρϊστός). In older manuscripts iota appears as adscript or is omitted. From the 12th/13th c. onward it is placed as subscript. In musical manuscripts it is systematically omitted.|
 |---|---|---|---|---|
 
-![Description](/resources/image_3087.jpeg)
-![Description](/resources/image_3088.jpeg)
-![Description](/resources/image_3089.jpeg)
-![Description](/resources/image_3090.jpeg)
+![Description](image_3087.jpeg)
+![Description](image_3088.jpeg)
+![Description](image_3089.jpeg)
+![Description](image_3090.jpeg)
 
 Table 2.3. Prosodic signs and other auxiliary signs for reading Greek texts: A summary.xcv
 On the historical development of the prosodic signs within the framework first of the Alexandrian system and, from ca. AD 400 onward, of the Byzantine system, see
@@ -1591,7 +1591,7 @@ majuscule bookhand.
 ||Figure 2.22. Excerpt in copy from the Alexandrian codex of Holy Scripture, British Library, Londinensis gr. Royal 1 D. vii, f. 569r, in biblical majuscule script.ci|
 ||- in codices from Egypt: biblical majuscule script appears in two types: a. Alexandrian and b. Egyptian-Nitrian (from Nitria). For the second type see the Palimpsest of Ephrem (Parisinus gr. 9), with undertext of the 5th c.: <http://gallica.bnf.fr/ark:/12148/btv1b8470433r/f14.image> (17.12.2014), as well as the palimpsest codex Londinesis gr. Addit. 17211 (see above, Figure 2.20). • The purple codices of the Justinianic period constitute a special local group (see above). • After the 6th c. biblical majuscule script declines.cii|
 
-![Description](/resources/image_3091.jpeg)
+![Description](image_3091.jpeg)
 
 105
 
@@ -1604,12 +1604,12 @@ majuscule bookhand.
 ||b. upright: see the Gospel Venetus Marcianus gr. 12 of the 9th or 10th c., which also bears ekphonetic notation, in Figure 2.25.civ|
 ||Figure 2.25. Excerpt from the Gospel Venetus Marcianus gr. 12, f. 218v, in majuscule ogival upright script and with ekphonetic notation.cv © Biblioteca Nazionale Marciana, Venezia.|
 
-![Description](/resources/image_3092.jpeg)
-![Description](/resources/image_3093.jpeg)
+![Description](image_3092.jpeg)
+![Description](image_3093.jpeg)
 
 106
 
-![Description](/resources/image_3094.png)
+![Description](image_3094.png)
 
 |Liturgical majuscule or liturgical rounded|• It constitutes the last historical type of majuscule script. • It was preserved until about the 11th c. • It was used in liturgical books: see, e.g., the oldest surviving Euchologion of the Byzantine type: Barberinus gr. 336, from the second half of the 8th c.cvi • Many manuscripts also bear ekphonetic notation: see, e.g., the Gospel of Iași, Central University Library Mihai Eminescu, no. 160/IV-34 of the 10th c. in Figure 2.26.|
 |---|---|
@@ -1651,8 +1651,8 @@ script (upright ogival): see Figure 2.28 and Litsas
 
 is the double-letter script: cf. Litsas (2001, pp. 74–75).
 
-![Description](/resources/image_3095.jpeg)
-![Description](/resources/image_3096.jpeg)
+![Description](image_3095.jpeg)
+![Description](image_3096.jpeg)
 
 Figures 2.27–29. Display majuscule scripts:1. above:
 Alexandrian.  2. In the middle: Constantinopolitan (upright
@@ -1666,8 +1666,8 @@ Table 2.4. Types of majuscule script: a general overview.cviii
 
 107
 
-![Description](/resources/image_3097.jpeg)
-![Description](/resources/image_3098.jpeg)
+![Description](image_3097.jpeg)
+![Description](image_3098.jpeg)
 
 # 2.3. The minuscule scriptcix
 
@@ -1701,7 +1701,7 @@ Forms of letters of minuscule Byzantine cursive script
 
 820/840
 
-![Description](/resources/image_3099.jpeg)
+![Description](image_3099.jpeg)
 
 Table 2.5 Shapes and developments of Greek letters of Byzantine cursive script, between the 6th and the
 first half of the 9th c.: a summary by E. M. Thompson.
@@ -1770,7 +1770,7 @@ in Table 2.7.
 |Studite script|• The oldest dated manuscript in pure minuscule script is the Uspenskij Gospel (Petropolitanus graecus 219), of 835, which was copied by Hosios Nikolaos; see Figure. 2.30.|
 |minuscule)|• Probably this script was standardized in the Monastery of Stoudios in Constantinople, during the years of the abbacy of St Theodore the Studite (759–826). • In contrast to cursive minuscule script, in the Studite script each letter appears with its own physiognomy. Characteristic ligatures and combinations of letters appear, the words are separated from one another, and the systematic use of accents and breathings is introduced. Figure 2.30. Excerpt from the Uspenskij Tetraevangelion, in Studite script, p. 117. cxvii © National Library of Russia, St. Petersburg.|
 
-![Description](/resources/image_3100.jpeg)
+![Description](image_3100.jpeg)
 
 Pearl-script
 (Germ.: Perlschrift)
@@ -1804,7 +1804,7 @@ Thessaloniki.
 
 111
 
-![Description](/resources/image_3101.jpeg)
+![Description](image_3101.jpeg)
 
 Curly (Fr.:
 bouletée)
@@ -1815,11 +1815,11 @@ Angular
 hooked (Germ.:
 eckige Hackenschrift)
 
-![Description](/resources/image_3102.jpeg)
+![Description](image_3102.jpeg)
 
 - see Figure 2.33. Figure 2.33. Copy from the codex Vindobonensis Theologicus graecus 108, f. 52r, first half of the 10th c., in minuscule “angular hooked” script.cxx
 
-![Description](/resources/image_3103.jpeg)
+![Description](image_3103.jpeg)
 
 # Liturgical
 
@@ -1833,7 +1833,7 @@ c. (last two rows).cxxi
 
 rounded form (see sample in: Litsas, 2001, pp. 82–83). See also Figure 2.34.
 
-![Description](/resources/image_3104.jpeg)
+![Description](image_3104.jpeg)
 
 = Minuscule script with many abbreviations, e.g. in cod. Vatic. gr. 126 of the 11th c.cxxii
 
@@ -1845,10 +1845,10 @@ Philological
 |---|---|
 |Unevenly rounded (Germ.: Fettaugen)|• In various manuscripts of the Palaiologan period, the palaeographer Herbert Hunger observed the use of letters of unequal size, from very small to even excessively large (especially the rounded letters ο, ω, β, θ, σ). See, e.g., ms. Vaticanus graecus 1899, f. 148r, year 1261–1282, in minuscule “unevenly rounded” script, autograph of Theodora Palaiologina Kantakouzene Raoulaina (Litsas, 2001, pp. 96–97) and the excerpt in Figure 2.36 below. • On the basis of the general appearance presented by such manuscripts, Hunger spoke of a ‘Fettaugen-Mode’ (“fat-eyes fashion”) in manuscripts of the 13th–14th century.cxxvii Figures 2.36–37. Excerpt from the Tropologion in ms. Vindobonense theol. gr. 146, f. 24r, 13th c., in unevenly rounded, slightly right-leaning script (cf. also Alygizakis, 1985, pl. 48). © Österreichische Nationalbibliothek, Wien.  Fettaugen (fat eyes) in a soup.|
 
-![Description](/resources/image_3105.jpeg)
-![Description](/resources/image_3106.jpeg)
-![Description](/resources/image_3107.jpeg)
-![Description](/resources/image_3108.jpeg)
+![Description](image_3105.jpeg)
+![Description](image_3106.jpeg)
+![Description](image_3107.jpeg)
+![Description](image_3108.jpeg)
 
 113
 
@@ -1856,9 +1856,9 @@ Philological
 |---|---|
 |Monastery of Hodegon|• Minuscule script that developed in the Holy Monastery of Hodegon in Constantinople and is characterized by elements such as the “alternation of large and small letters, the proportion of vertical and diagonal lines, freedom in the direction of the writing, (...) sporadic exceeding of the limits of the written surface”.cxxxi Cf. Figure 2.40. • It survives in mss. of the 14th–16th c. Figure 2.40. Forms of the letters of the “Hodegon” script, according to the codex Vaticanus Chisianus gr. R V 29, f. 242v, year 1394. In the last row the combinations ει and εξ are visible, while the penultimate, large form is another form of the letter ζ.cxxxii|
 
-![Description](/resources/image_3109.jpeg)
-![Description](/resources/image_3110.jpeg)
-![Description](/resources/image_3111.jpeg)
+![Description](image_3109.jpeg)
+![Description](image_3110.jpeg)
+![Description](image_3111.jpeg)
 
 114
 
@@ -1866,12 +1866,12 @@ Philological
 |---|---|
 |School of Luca Bozeu|• From bibliographical centres in Romania a type of Greek minuscule script is known that can be described as “upright, square, large-sized”. It is documented in mss. of the 16th–17th century and was called that of the “School of Luca Bozeu”.cxxxviii This is the learned prelate Luca, bishop of Buzău (1583–1603) and Metropolitan of Ungro-Wallachia (1603–1629).cxxxix See Figure 2.43. Figure 2.43. Excerpt from the ms. of the Monastery of Great Vatopedi, Greek 1048, f. 104v, year 1642, in minuscule script of the “School of Luca Bozeu”, with the colophon of the copyist, the archpriest Iakovos.cxl © Monastery of Great Vatopedi, Mount Athos.|
 
-![Description](/resources/image_3112.jpeg)
-![Description](/resources/image_3113.jpeg)
+![Description](image_3112.jpeg)
+![Description](image_3113.jpeg)
 
 115
 
-![Description](/resources/image_3114.jpeg)
+![Description](image_3114.jpeg)
 
 Xeropotamou or
 Athonite I
@@ -1895,7 +1895,7 @@ fourth mode.cxlii
 
 • It is characterized as “calligraphic, right-leaning, angular, large-sized”cxli (see Figure 2.44).
 
-![Description](/resources/image_3115.jpeg)
+![Description](image_3115.jpeg)
 
 Sample of
 minuscule
@@ -1905,7 +1905,7 @@ script of the 19th c.
 
 # Figure 2.45
 
-![Description](/resources/image_3116.jpeg)
+![Description](image_3116.jpeg)
 
 and post-Byzantine codices,
 until approximately the 17th century,
@@ -1957,8 +1957,8 @@ Greek manuscripts.cx lv
 |recording of sacred names (Lat. nomen sacrum - pl. nomina sacra), but not only.|ΒΑ(ΣΙΛΕ)ΥΣ ΔΑ(ΥΙ)Δ Θ(ΕΟΤΟ)ΚΟΣ Θ(ΕΟ)Σ Ι(ΣΡΑ)ΗΛ Ι(ΕΡΟΥΣΑ)ΛΗΜ Ι(ΗΣΟΥ)Σ Κ(ΥΡΙΟ)Σ Μ(ΗΤ)ΗΡ ΟΥ(ΡΑ)ΝΟΣ Π(ΑΤ)ΗΡ ΠΝ(ΕΥΜ)Α Σ(ΩΤ)ΗΡ ΣΤ(ΑΥΡΟ)Σ Υ(ΙΟ)Σ Χ(ΡΙΣΤΟ)Σ|
 ||These and other derivative words are usually written contracted. From the ending of the contraction one can see the case in which the corresponding word stands (see the example of the word “man”, which could also be continued in the plural).|
 
-![Description](/resources/image_3117.jpeg)
-![Description](/resources/image_3118.jpeg)
+![Description](image_3117.jpeg)
+![Description](image_3118.jpeg)
 
 117
 
@@ -1969,7 +1969,7 @@ Endings
 Prepositions, conjunctions
 and adverbs
 
-![Description](/resources/image_3119.jpeg)
+![Description](image_3119.jpeg)
 
 Abbreviation of the end of a word,
 especially in endings of nouns
@@ -2018,7 +2018,7 @@ tachygraphic element).
 
 Some common words
 
-![Description](/resources/image_3120.jpeg)
+![Description](image_3120.jpeg)
 
 ης
 ις
@@ -2056,13 +2056,13 @@ beautiful
 
 ως
 
-![Description](/resources/image_3121.jpeg)
+![Description](image_3121.jpeg)
 
 118
 
 - Examples of combinations from majuscule script:
 
-![Description](/resources/image_3122.jpeg)
+![Description](image_3122.jpeg)
 
 # 3. Joining of letters
 
@@ -2091,8 +2091,8 @@ following letter).cxlvi
 
 • Examples of ligatures and combinations from minuscule script:
 
-![Description](/resources/image_3123.jpeg)
-![Description](/resources/image_3124.jpeg)
+![Description](image_3123.jpeg)
+![Description](image_3124.jpeg)
 
 αγ
 
@@ -2217,7 +2217,7 @@ monk, nun
 
 is
 
-![Description](/resources/image_3125.jpeg)
+![Description](image_3125.jpeg)
 
 Table 2.8. Types of graphic procedures for economy of space and time: contractions, truncations, joinings of letters
 and tachygraphic symbols: open lists, according to E. Mioni.cxlvii
@@ -2272,8 +2272,8 @@ Letters that are not clearly visible in the manuscript take a dot beneath.
 
 120
 
-![Description](/resources/image_3126.jpeg)
-![Description](/resources/image_3127.jpeg)
+![Description](image_3126.jpeg)
+![Description](image_3127.jpeg)
 
 ...
 
@@ -2341,7 +2341,7 @@ Exercise in majuscule writing 1. The oldest surviving hymn to the Mother of God
 from Papyrus Rylands 470, in an early stage of majuscule Alexandrian
 script
 
-![Description](/resources/image_3128.jpeg)
+![Description](image_3128.jpeg)
 
 ## 
 
@@ -2359,7 +2359,7 @@ reading or the musical performance of the hymn. See also endnote xcvi. © Univer
 
 122
 
-![Description](/resources/image_3129.jpeg)
+![Description](image_3129.jpeg)
 
 Figure 2.46.b. Icon with an early iconographic type of the Most Holy Theotokos with the Divine Child, from the first half of the
 6th c. It precedes the very well-known Byzantine type of the Virgin Hodegetria. It comes from the Holy Monastery of Saint
@@ -2398,7 +2398,7 @@ from the zone of the Eastern Mediterranean (perhaps Constantinople):cliii see Fi
 
 # 
 
-![Description](/resources/image_3130.jpeg)
+![Description](image_3130.jpeg)
 
 Figure 2.47.a. The Alexandrian Codex of the Bible, Londinensis gr. Royal 1 D.viii, fol. 97r (5th c.), in
 biblical majuscule script.cliv The text of the Holy Apostle Paul, 1 Cor. 12:3–13:3, is visible. In the
@@ -2409,7 +2409,7 @@ Source photograph: <http://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_1_d_vi
 
 124
 
-![Description](/resources/image_3131.png)
+![Description](image_3131.png)
 
 Figure 2.47.b. The Alexandrian Codex of the Bible, Londinensis gr. Royal 1 D.viii, fol. 97v, with the
 continuation of the Hymn of Love (1 Cor. 13:4–13). At the arrow the hymn is completed and chap. 14:1-
@@ -2426,7 +2426,7 @@ Exercise in majuscule script 3. The oldest witness to the Great
 Doxology (Gloria) from the Alexandrian Codex of the Bible, British Library,
 Londinensis gr. Royal 1 D.vii, in biblical majuscule script (3rd quarter of the 5th c.).
 
-![Description](/resources/image_3132.jpeg)
+![Description](image_3132.jpeg)
 
 #   &
 
@@ -2455,7 +2455,7 @@ Museum, vol. III. See high-resolution photographs at: <www.csntm.org/Manuscript/
 
 126
 
-![Description](/resources/image_3133.jpeg)
+![Description](image_3133.jpeg)
 
 Figure 2.48.b. Londinensis gr. Royal 1 D.vii, fol. 569v (5th c.), in biblical majuscule script. End of the Great
 Doxology.
@@ -2476,7 +2476,7 @@ sloping pointed majuscule script, second half of the 9th century
 (Nikiforova, 2015, pp. 138, 141, 172. Géhin & Frøyshov, 2000, pp. 178-179. Archbp. Damianos, Archim.
 Sophronios, Peltikoglou and Nikolopoulos, 1998, photos 11, 49).
 
-![Description](/resources/image_3134.jpeg)
+![Description](image_3134.jpeg)
 
 # 
 
@@ -2495,7 +2495,7 @@ Exercise in majuscule script 5. Example from the Gospel Venetus
 Marcianus gr. 12, in upright pointed majuscule script, with ekphonetic
 notation.
 
-![Description](/resources/image_3135.jpeg)
+![Description](image_3135.jpeg)
 
 # 
 
@@ -2513,7 +2513,7 @@ Uspenskij Tetraevangelion, written by Saint Nicholas the Stoudite, in
 Studite script, which constitutes the first dated monument in
 minuscule script.
 
-![Description](/resources/image_3136.jpeg)
+![Description](image_3136.jpeg)
 
 # 
 
@@ -2530,7 +2530,7 @@ proto-ekphonetic notation can be discerned (see also ch. 4). © National Library
 
 130
 
-![Description](/resources/image_3137.jpeg)
+![Description](image_3137.jpeg)
 
 Figure 2.52. The tree or root of Jesse: stained glass in the Gothic cathedral at Chartres, France, c. year 1145 - known
 as the earliest witness to this iconographic type. It depicts the forefathers of Christ, beginning with
@@ -2541,7 +2541,7 @@ T. Taylor (31.12.2016).
 
 131
 
-![Description](/resources/image_3138.jpeg)
+![Description](image_3138.jpeg)
 
 Figure 2.53.a. The Uspenskij Tetraevangelion (Codex Petropolitanus graecus 219), year 835, fol. 53r. The earliest
 dated manuscript in pure minuscule script (Studite), written by Nicholas, monk of the Holy Monastery of
@@ -2553,7 +2553,7 @@ special use of symbols, probably to indicate a specific
 movement of the voice during the melodic recitation of the text: Petrop.
 gr. 219, fol. 53r. Similar use of a double grave accent is also observed on
 
-![Description](/resources/image_3139.jpeg)
+![Description](image_3139.jpeg)
 
 fols. 69r, 73r, 78v, 80r, 105v. Cf. also endnote xcvi in
 
@@ -2561,7 +2561,7 @@ the present chapter.
 
 132
 
-![Description](/resources/image_3140.jpeg)
+![Description](image_3140.jpeg)
 
 Figure 2.54.a. The Uspenskij Tetraevangelion (Codex Petropolitanus graecus 219), year 835, fol. 117r, with an excerpt from the
 Gospel according to Mark 6:4-10.
@@ -2571,7 +2571,7 @@ Figure 2.54.b. Copy of the sign with the two “syrmatics” as
 indications of a special movement of the voice during the reading of the
 text: Petrop. gr. 219, fol. 117r.
 
-![Description](/resources/image_3141.jpeg)
+![Description](image_3141.jpeg)
 
 133
 
@@ -2581,7 +2581,7 @@ Exercise in reading and transcribing minuscule script 2. From the Psalter of the
 Holy Monastery of Great Lavra on Mount Athos, Δ 70, 10th c., written by
 John, in a preliminary stage of Perlschrift.
 
-![Description](/resources/image_3142.jpeg)
+![Description](image_3142.jpeg)
 
 # 
 
@@ -2603,7 +2603,7 @@ Menologion of Emperor Basil II, Codex Vaticanus gr. 1613, p. 78, years 979-
 <http://digi.vatlib.it/view/MSS_Vat.gr.1613/0100> (27.10.2015).
 Printed editions: Follieri (1969, pl. 20) and Litsas (2001, pp. 78-79).
 
-![Description](/resources/image_3143.jpeg)
+![Description](image_3143.jpeg)
 
 # 
 
@@ -2631,8 +2631,8 @@ c. (Politis, Sotiroudis and Sakellaridou-Sotiroudi, 1991, pp. 36-37).
 
 # 
 
-![Description](/resources/image_3144.jpeg)
-![Description](/resources/image_3145.jpeg)
+![Description](image_3144.jpeg)
+![Description](image_3145.jpeg)
 
 Figure 2.57.a-b. Hagiasmatarion from the Seminar of Classical Philology of the Faculty of Philosophy of Aristotle University of Thessaloniki, MS no. 36, 17th c., fols.
 1a-b, in liturgical right-slanting script, with a miniature of the Holy Trinity in the form of Three Angels blessing the water, and with a decorated initial.clix
@@ -2654,7 +2654,7 @@ In the MS of the Holy Monastery of Karakallou 260, from the beginning of the 19t
 different version of the text with the same title is visible, written in minuscule
 slightly right-slanting script.
 
-![Description](/resources/image_3146.jpeg)
+![Description](image_3146.jpeg)
 
 # 
 

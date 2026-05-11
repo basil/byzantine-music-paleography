@@ -47,7 +47,7 @@ weight: 80
 
 401
 
-![Description](/resources/image_10072.png)
+![Description](image_10072.png)
 
 Χάρτης 8.1. Η Ανατολία κατά το έτ. 500 π.Χ. Χάρτης από:
 <https://upload.wikimedia.org/wikipedia/commons/8/82/Map_Anatolia_ancient_regions-el.svg>
@@ -102,14 +102,14 @@ modi), τους τρόπους της πολυφωνικής μουσικής τ
 από την καταλυτική σημασία της Παλαιάς Διαθήκης στη μετάφραση των Εβδομήκοντα (Septuaginta) για το
 βυζαντινό πολιτισμό (βλ. Πίνακα 8.1. και Εικόνες 8.1.-8.2).ix
 
-![Description](/resources/image_10073.jpeg)
+![Description](image_10073.jpeg)
 
 Εικόνα 8.1. Αντίγραφο από το χφο Parisinus gr. 261, φ. 140β, έτ. 1289, όπου φαίνονται οι μαρτυρίες των οκτώ ήχων,
 έχοντας υποκάτω τα αρκτικά των αρχαιοελληνικών ονομασιών. Στην πρώτη σειρά οι κύριοι ήχοι: α ΄- δ(ώριος), β΄ -
 λ(ύδιος), γ΄ - φ(ρύγιος), δ΄ - μ(ιξο)λ(ύδιος). Στη δεύτερη σειρά οι πλάγιοι ήχοι: π. α΄ - ὑπ(ο)δ(ώριος, π. β΄ -
 ὑπ(ο)λ(ύδιος), βαρ(ύς) - ὑπ(ο)φ(ρύγιος), π. δ΄ - ὑπ(ο)μ(ιξολύ)δ(ιος).x
 
-![Description](/resources/image_10074.jpeg)
+![Description](image_10074.jpeg)
 
 Εικόνα 8.2. Μικρογραφία από το Ψαλτήριο Parisinus graecus 139, φ. 1β, 10oς αι., με κλασικίζουσα απεικόνιση του
 Προφητάνακτα Δαβίδ ως άλλου Ορφέα, ημερεύοντας τα θηρία με τη μουσική του. Ο Δαβίδ παίζει τετράπλευρη κιθάρα. Οι
@@ -123,7 +123,7 @@ modi), τους τρόπους της πολυφωνικής μουσικής τ
 6ος αι.) και αλχημιστικά συγγράμματα (3ου ή 4ου και 7ου αι.) διαφαίνεται ότι η ελληνική εκκλησιαστική
 μουσική ήδη νωρίς συνδυαζόταν με οκτώ ήχους.xii
 
-![Description](/resources/image_10075.jpeg)
+![Description](image_10075.jpeg)
 
 Εικόνα 8.3. Απόσπασμα από τον Πάπυρο Berolinensis 21319, σελίδα ↓, 6ος/7ος ή 8ος αι., άγνωστης προέλευσης, με την
 ένδειξη του ήχου Πλ. Β΄, καθώς και αγκιστροειδή μουσικά σημάδια. xiii © Staatliche Museen zu Berlin - Ägyptisches
@@ -137,7 +137,7 @@ Museum und Papyrussammlung, Scan: Berliner Papyrusdatenbank, P 21319.
 αιωνιότητας. Η έννοια της Ογδόης Ημέρας εκφράζει συμβολικά την Ανάσταση και τη Δευτέρα Παρουσία του
 Κυρίου μας Ιησού Χριστού (βλ. Εικόνα 8.4).
 
-![Description](/resources/image_10076.jpeg)
+![Description](image_10076.jpeg)
 
 Εικόνα 8.4. «Ὁ Κύριος ἐν Δόξῃ»: αγιογραφικό σκίτσο των Γ. Τζημόπουλου & Αικ. Ιωαννίδου (2016), με βάση
 φωτογραφία (Σοφιανός, 1991, σ. 31 και περιγραφή σ. 26-27) της νωπογραφίας στον τρούλλο του νάρθηκα του καθολικού
@@ -153,9 +153,9 @@ Museum und Papyrussammlung, Scan: Berliner Papyrusdatenbank, P 21319.
 είναι γνωστός σήμερα από το χφο ΕΒΕ 968 (17ος αι., σύμφωνα με το Γιαννόπουλο, 2014), και για τον οποίο
 θα γίνει λόγος στις επόμενες ενότητες αυτού του κεφαλαίου.
 
-![Description](/resources/image_10077.jpeg)
-![Description](/resources/image_10078.jpeg)
-![Description](/resources/image_10079.jpeg)
+![Description](image_10077.jpeg)
+![Description](image_10078.jpeg)
+![Description](image_10079.jpeg)
 
 Εικόνες 8.5-7. Τρεις μεγάλες προσωπικότητες, οι οποίες συνδυάζονται με τη συστηματοποίηση της οκταηχίας: Άγιος
 Ιωάννης Δαμασκηνός (περ. 675 - περ. 753/4), Άγιος Ιωάννης Κουκουζέλης (περ. 1270 - † πριν το 1340) και Χρύσανθος εκ
@@ -175,13 +175,13 @@ Museum und Papyrussammlung, Scan: Berliner Papyrusdatenbank, P 21319.
 
 405
 
-![Description](/resources/image_10080.jpeg)
+![Description](image_10080.jpeg)
 
 # Εικόνα 8.8.α. Τροπολόγιο Vindobonense theologicum graecum 146, φ. 24a, 13ος αι., σε ανισοστρόγγυλη (Fettaugen)
 
 ελαφρώς δεξιοκλινή γραφή (πρβλ. και Αλυγιζάκης, 1985, πίν. 48). © Österreichische Nationalbibliothek, Wien.
 
-![Description](/resources/image_10081.jpeg)
+![Description](image_10081.jpeg)
 
 ## Εικόνα 8.8.β. Επίτιτλος και πρώτο εσπέριο αναστάσιμο στιχηρό του Αγ. Ιωάννου του Δαμασκηνού σε ήχο α΄, από το
 
@@ -195,7 +195,7 @@ Museum und Papyrussammlung, Scan: Berliner Papyrusdatenbank, P 21319.
 
 406
 
-![Description](/resources/image_10082.jpeg)
+![Description](image_10082.jpeg)
 
 # Τροπολόγιον ἤτοι ὀκτώηχος. περιέχουσα τά τε
 
@@ -240,9 +240,9 @@ Museum und Papyrussammlung, Scan: Berliner Papyrusdatenbank, P 21319.
 
 407
 
-![Description](/resources/image_10083.png)
-![Description](/resources/image_10084.png)
-![Description](/resources/image_10085.png)
+![Description](image_10083.png)
+![Description](image_10084.png)
+![Description](image_10085.png)
 
 # 2. Θεωρητικές βάσεις, μαρτυρίες και απηχήματα των οκτώ ήχων στο Παλαιό Σύστημα
 
@@ -273,7 +273,7 @@ ambitus δύο επταφωνιών: μία πάνω και μία κάτω απ
 
 408
 
-![Description](/resources/image_10086.jpeg)
+![Description](image_10086.jpeg)
 
 Εικόνα 8.9.α. Διάγραμμα της «τελείας φωνής», σύμφωνα με τον Ανώνυμο του χφου ΕΒΕ 968, 17ος αι., φ. 176r.
 
@@ -285,8 +285,8 @@ ambitus δύο επταφωνιών: μία πάνω και μία κάτω απ
 
 409
 
-![Description](/resources/image_10087.jpeg)
-![Description](/resources/image_10088.jpeg)
+![Description](image_10087.jpeg)
+![Description](image_10088.jpeg)
 
 Χωρὶς γὰρ τούτου, οὐ κατορθοῦται φωνή· ἤγουν τὸ πρωτόφωνον ἶσον· καὶ κάμνει χρεία
 
@@ -307,7 +307,7 @@ Tη μεσαία νότα καλύτερα να τη βάλαμε χωρίς γ�
 
 410
 
-![Description](/resources/image_10089.jpeg)
+![Description](image_10089.jpeg)
 
 Ακούστε το πατώντας 
 
@@ -337,7 +337,7 @@ Fleischer, οι ιδρυτές των Monumenta Musicae Byzantinae και οι �
 ήχου έχει βάση τον Πα, ο πλάγιος του δευτέρου το Βου, ο πλάγιος του τρίτου ή ο βαρύς λεγόμενος το Γα, και
 τέλος, ο πλάγιος του τετάρτου το Δι: βλ. Εικόνα 8.11.
 
-![Description](/resources/image_10090.jpeg)
+![Description](image_10090.jpeg)
 
 Μαρτυρίες
 
@@ -370,7 +370,7 @@ Fleischer, οι ιδρυτές των Monumenta Musicae Byzantinae και οι �
 
 - = βραχυγραφία της λέξης πλ(άγιος)
 
-![Description](/resources/image_10091.jpeg)
+![Description](image_10091.jpeg)
 
 Ακούστε το πατώντας 
 Εικόνα 8.11. Η κλίμακα με τις θεωρητικές βάσεις των οκτώ ήχων κατά το Παλαιό Σύστημα.
@@ -441,19 +441,19 @@ Mέσα από διευρυμένες παλαιογραφικές αναλύσ�
 
 413
 
-![Description](/resources/image_10092.jpeg)
+![Description](image_10092.jpeg)
 
 1.
 
-![Description](/resources/image_10093.jpeg)
+![Description](image_10093.jpeg)
 
 1.
 
-![Description](/resources/image_10094.jpeg)
+![Description](image_10094.jpeg)
 
 1.
 
-![Description](/resources/image_10095.jpeg)
+![Description](image_10095.jpeg)
 
 # Ακούστε τα δύο πρώτα παραδείγματα πατώντας  και 
 
@@ -522,284 +522,284 @@ Mέσα από διευρυμένες παλαιογραφικές αναλύσ�
 
 415
 
-![Description](/resources/image_10096.png)
-![Description](/resources/image_10097.png)
-![Description](/resources/image_10098.png)
-![Description](/resources/image_10099.png)
-![Description](/resources/image_10100.png)
-![Description](/resources/image_10101.png)
-![Description](/resources/image_10102.png)
-![Description](/resources/image_10103.png)
-![Description](/resources/image_10104.png)
-![Description](/resources/image_10105.png)
-![Description](/resources/image_10106.png)
-![Description](/resources/image_10107.png)
-![Description](/resources/image_10108.png)
-![Description](/resources/image_10109.png)
-![Description](/resources/image_10110.png)
-![Description](/resources/image_10111.png)
-![Description](/resources/image_10112.png)
-![Description](/resources/image_10113.png)
-![Description](/resources/image_10114.png)
-![Description](/resources/image_10115.png)
-![Description](/resources/image_10116.png)
-![Description](/resources/image_10117.png)
-![Description](/resources/image_10118.png)
-![Description](/resources/image_10119.png)
-![Description](/resources/image_10120.png)
-![Description](/resources/image_10121.png)
-![Description](/resources/image_10122.png)
-![Description](/resources/image_10123.png)
-![Description](/resources/image_10124.png)
-![Description](/resources/image_10125.png)
-![Description](/resources/image_10126.png)
-![Description](/resources/image_10127.png)
-![Description](/resources/image_10128.png)
-![Description](/resources/image_10129.png)
-![Description](/resources/image_10130.png)
-![Description](/resources/image_10131.png)
-![Description](/resources/image_10132.png)
-![Description](/resources/image_10133.png)
-![Description](/resources/image_10134.png)
-![Description](/resources/image_10135.png)
-![Description](/resources/image_10136.png)
-![Description](/resources/image_10137.png)
-![Description](/resources/image_10138.png)
-![Description](/resources/image_10139.png)
-![Description](/resources/image_10140.png)
-![Description](/resources/image_10141.png)
-![Description](/resources/image_10142.png)
-![Description](/resources/image_10143.png)
-![Description](/resources/image_10144.png)
-![Description](/resources/image_10145.png)
-![Description](/resources/image_10146.png)
-![Description](/resources/image_10147.png)
-![Description](/resources/image_10148.png)
-![Description](/resources/image_10149.png)
-![Description](/resources/image_10150.png)
-![Description](/resources/image_10151.png)
-![Description](/resources/image_10152.png)
-![Description](/resources/image_10153.png)
-![Description](/resources/image_10154.png)
-![Description](/resources/image_10155.png)
-![Description](/resources/image_10156.png)
-![Description](/resources/image_10157.png)
-![Description](/resources/image_10158.png)
-![Description](/resources/image_10159.png)
-![Description](/resources/image_10160.png)
-![Description](/resources/image_10161.png)
-![Description](/resources/image_10162.png)
-![Description](/resources/image_10163.png)
-![Description](/resources/image_10164.png)
-![Description](/resources/image_10165.png)
-![Description](/resources/image_10166.png)
-![Description](/resources/image_10167.png)
-![Description](/resources/image_10168.png)
-![Description](/resources/image_10169.png)
-![Description](/resources/image_10170.png)
-![Description](/resources/image_10171.png)
-![Description](/resources/image_10172.png)
-![Description](/resources/image_10173.jpeg)
-![Description](/resources/image_10174.png)
-![Description](/resources/image_10175.png)
-![Description](/resources/image_10176.png)
-![Description](/resources/image_10177.png)
-![Description](/resources/image_10178.png)
-![Description](/resources/image_10179.png)
-![Description](/resources/image_10180.png)
-![Description](/resources/image_10181.png)
-![Description](/resources/image_10182.png)
-![Description](/resources/image_10183.png)
-![Description](/resources/image_10184.png)
-![Description](/resources/image_10185.png)
-![Description](/resources/image_10186.png)
-![Description](/resources/image_10187.png)
-![Description](/resources/image_10188.png)
-![Description](/resources/image_10189.png)
-![Description](/resources/image_10190.png)
-![Description](/resources/image_10191.png)
-![Description](/resources/image_10192.png)
-![Description](/resources/image_10193.png)
-![Description](/resources/image_10194.png)
-![Description](/resources/image_10195.png)
-![Description](/resources/image_10196.png)
-![Description](/resources/image_10197.png)
-![Description](/resources/image_10198.png)
-![Description](/resources/image_10199.png)
-![Description](/resources/image_10200.png)
-![Description](/resources/image_10201.png)
-![Description](/resources/image_10202.png)
-![Description](/resources/image_10203.png)
-![Description](/resources/image_10204.png)
-![Description](/resources/image_10205.png)
-![Description](/resources/image_10206.png)
-![Description](/resources/image_10207.jpeg)
-![Description](/resources/image_10208.png)
-![Description](/resources/image_10209.png)
-![Description](/resources/image_10210.png)
-![Description](/resources/image_10211.png)
-![Description](/resources/image_10212.png)
-![Description](/resources/image_10213.png)
-![Description](/resources/image_10214.png)
-![Description](/resources/image_10215.png)
-![Description](/resources/image_10216.png)
-![Description](/resources/image_10217.png)
-![Description](/resources/image_10218.png)
-![Description](/resources/image_10219.png)
-![Description](/resources/image_10220.png)
-![Description](/resources/image_10221.png)
-![Description](/resources/image_10222.png)
-![Description](/resources/image_10223.png)
-![Description](/resources/image_10224.png)
-![Description](/resources/image_10225.png)
-![Description](/resources/image_10226.png)
-![Description](/resources/image_10227.png)
-![Description](/resources/image_10228.png)
-![Description](/resources/image_10229.png)
-![Description](/resources/image_10230.png)
-![Description](/resources/image_10231.png)
-![Description](/resources/image_10232.png)
-![Description](/resources/image_10233.png)
-![Description](/resources/image_10234.png)
-![Description](/resources/image_10235.png)
-![Description](/resources/image_10236.png)
-![Description](/resources/image_10237.png)
-![Description](/resources/image_10238.png)
-![Description](/resources/image_10239.png)
-![Description](/resources/image_10240.png)
-![Description](/resources/image_10241.png)
-![Description](/resources/image_10242.png)
-![Description](/resources/image_10243.png)
-![Description](/resources/image_10244.png)
-![Description](/resources/image_10245.png)
-![Description](/resources/image_10246.png)
-![Description](/resources/image_10247.png)
-![Description](/resources/image_10248.png)
-![Description](/resources/image_10249.png)
-![Description](/resources/image_10250.png)
-![Description](/resources/image_10251.png)
-![Description](/resources/image_10252.png)
-![Description](/resources/image_10253.png)
-![Description](/resources/image_10254.png)
-![Description](/resources/image_10255.png)
-![Description](/resources/image_10256.png)
-![Description](/resources/image_10257.png)
-![Description](/resources/image_10258.png)
-![Description](/resources/image_10259.png)
-![Description](/resources/image_10260.png)
-![Description](/resources/image_10261.png)
-![Description](/resources/image_10262.png)
-![Description](/resources/image_10263.png)
-![Description](/resources/image_10264.png)
-![Description](/resources/image_10265.png)
-![Description](/resources/image_10266.png)
-![Description](/resources/image_10267.png)
-![Description](/resources/image_10268.png)
-![Description](/resources/image_10269.png)
-![Description](/resources/image_10270.png)
-![Description](/resources/image_10271.png)
-![Description](/resources/image_10272.png)
-![Description](/resources/image_10273.png)
-![Description](/resources/image_10274.png)
-![Description](/resources/image_10275.png)
-![Description](/resources/image_10276.png)
-![Description](/resources/image_10277.png)
-![Description](/resources/image_10278.png)
-![Description](/resources/image_10279.png)
-![Description](/resources/image_10280.png)
-![Description](/resources/image_10281.png)
-![Description](/resources/image_10282.png)
-![Description](/resources/image_10283.png)
-![Description](/resources/image_10284.png)
-![Description](/resources/image_10285.png)
-![Description](/resources/image_10286.png)
-![Description](/resources/image_10287.png)
-![Description](/resources/image_10288.png)
-![Description](/resources/image_10289.png)
-![Description](/resources/image_10290.png)
-![Description](/resources/image_10291.png)
-![Description](/resources/image_10292.png)
-![Description](/resources/image_10293.png)
-![Description](/resources/image_10294.png)
-![Description](/resources/image_10295.png)
-![Description](/resources/image_10296.png)
-![Description](/resources/image_10297.png)
-![Description](/resources/image_10298.png)
-![Description](/resources/image_10299.png)
-![Description](/resources/image_10300.png)
-![Description](/resources/image_10301.png)
-![Description](/resources/image_10302.png)
-![Description](/resources/image_10303.png)
-![Description](/resources/image_10304.png)
-![Description](/resources/image_10305.png)
-![Description](/resources/image_10306.png)
-![Description](/resources/image_10307.png)
-![Description](/resources/image_10308.png)
-![Description](/resources/image_10309.png)
-![Description](/resources/image_10310.png)
-![Description](/resources/image_10311.png)
-![Description](/resources/image_10312.jpeg)
-![Description](/resources/image_10313.png)
-![Description](/resources/image_10314.png)
-![Description](/resources/image_10315.png)
-![Description](/resources/image_10316.png)
-![Description](/resources/image_10317.png)
-![Description](/resources/image_10318.png)
-![Description](/resources/image_10319.png)
-![Description](/resources/image_10320.png)
-![Description](/resources/image_10321.png)
-![Description](/resources/image_10322.png)
-![Description](/resources/image_10323.png)
-![Description](/resources/image_10324.png)
-![Description](/resources/image_10325.png)
-![Description](/resources/image_10326.png)
-![Description](/resources/image_10327.png)
-![Description](/resources/image_10328.png)
-![Description](/resources/image_10329.png)
-![Description](/resources/image_10330.png)
-![Description](/resources/image_10331.png)
-![Description](/resources/image_10332.png)
-![Description](/resources/image_10333.png)
-![Description](/resources/image_10334.png)
-![Description](/resources/image_10335.png)
-![Description](/resources/image_10336.png)
-![Description](/resources/image_10337.png)
-![Description](/resources/image_10338.png)
-![Description](/resources/image_10339.png)
-![Description](/resources/image_10340.png)
-![Description](/resources/image_10341.png)
-![Description](/resources/image_10342.png)
-![Description](/resources/image_10343.png)
-![Description](/resources/image_10344.png)
-![Description](/resources/image_10345.png)
-![Description](/resources/image_10346.jpeg)
-![Description](/resources/image_10347.png)
-![Description](/resources/image_10348.png)
-![Description](/resources/image_10349.png)
-![Description](/resources/image_10350.png)
-![Description](/resources/image_10351.png)
-![Description](/resources/image_10352.png)
-![Description](/resources/image_10353.png)
-![Description](/resources/image_10354.png)
-![Description](/resources/image_10355.png)
-![Description](/resources/image_10356.png)
-![Description](/resources/image_10357.png)
-![Description](/resources/image_10358.png)
-![Description](/resources/image_10359.png)
-![Description](/resources/image_10360.png)
-![Description](/resources/image_10361.png)
-![Description](/resources/image_10362.png)
-![Description](/resources/image_10363.png)
-![Description](/resources/image_10364.png)
-![Description](/resources/image_10365.png)
-![Description](/resources/image_10366.png)
-![Description](/resources/image_10367.png)
-![Description](/resources/image_10368.png)
-![Description](/resources/image_10369.png)
-![Description](/resources/image_10370.png)
-![Description](/resources/image_10371.png)
-![Description](/resources/image_10372.png)
-![Description](/resources/image_10373.png)
+![Description](image_10096.png)
+![Description](image_10097.png)
+![Description](image_10098.png)
+![Description](image_10099.png)
+![Description](image_10100.png)
+![Description](image_10101.png)
+![Description](image_10102.png)
+![Description](image_10103.png)
+![Description](image_10104.png)
+![Description](image_10105.png)
+![Description](image_10106.png)
+![Description](image_10107.png)
+![Description](image_10108.png)
+![Description](image_10109.png)
+![Description](image_10110.png)
+![Description](image_10111.png)
+![Description](image_10112.png)
+![Description](image_10113.png)
+![Description](image_10114.png)
+![Description](image_10115.png)
+![Description](image_10116.png)
+![Description](image_10117.png)
+![Description](image_10118.png)
+![Description](image_10119.png)
+![Description](image_10120.png)
+![Description](image_10121.png)
+![Description](image_10122.png)
+![Description](image_10123.png)
+![Description](image_10124.png)
+![Description](image_10125.png)
+![Description](image_10126.png)
+![Description](image_10127.png)
+![Description](image_10128.png)
+![Description](image_10129.png)
+![Description](image_10130.png)
+![Description](image_10131.png)
+![Description](image_10132.png)
+![Description](image_10133.png)
+![Description](image_10134.png)
+![Description](image_10135.png)
+![Description](image_10136.png)
+![Description](image_10137.png)
+![Description](image_10138.png)
+![Description](image_10139.png)
+![Description](image_10140.png)
+![Description](image_10141.png)
+![Description](image_10142.png)
+![Description](image_10143.png)
+![Description](image_10144.png)
+![Description](image_10145.png)
+![Description](image_10146.png)
+![Description](image_10147.png)
+![Description](image_10148.png)
+![Description](image_10149.png)
+![Description](image_10150.png)
+![Description](image_10151.png)
+![Description](image_10152.png)
+![Description](image_10153.png)
+![Description](image_10154.png)
+![Description](image_10155.png)
+![Description](image_10156.png)
+![Description](image_10157.png)
+![Description](image_10158.png)
+![Description](image_10159.png)
+![Description](image_10160.png)
+![Description](image_10161.png)
+![Description](image_10162.png)
+![Description](image_10163.png)
+![Description](image_10164.png)
+![Description](image_10165.png)
+![Description](image_10166.png)
+![Description](image_10167.png)
+![Description](image_10168.png)
+![Description](image_10169.png)
+![Description](image_10170.png)
+![Description](image_10171.png)
+![Description](image_10172.png)
+![Description](image_10173.jpeg)
+![Description](image_10174.png)
+![Description](image_10175.png)
+![Description](image_10176.png)
+![Description](image_10177.png)
+![Description](image_10178.png)
+![Description](image_10179.png)
+![Description](image_10180.png)
+![Description](image_10181.png)
+![Description](image_10182.png)
+![Description](image_10183.png)
+![Description](image_10184.png)
+![Description](image_10185.png)
+![Description](image_10186.png)
+![Description](image_10187.png)
+![Description](image_10188.png)
+![Description](image_10189.png)
+![Description](image_10190.png)
+![Description](image_10191.png)
+![Description](image_10192.png)
+![Description](image_10193.png)
+![Description](image_10194.png)
+![Description](image_10195.png)
+![Description](image_10196.png)
+![Description](image_10197.png)
+![Description](image_10198.png)
+![Description](image_10199.png)
+![Description](image_10200.png)
+![Description](image_10201.png)
+![Description](image_10202.png)
+![Description](image_10203.png)
+![Description](image_10204.png)
+![Description](image_10205.png)
+![Description](image_10206.png)
+![Description](image_10207.jpeg)
+![Description](image_10208.png)
+![Description](image_10209.png)
+![Description](image_10210.png)
+![Description](image_10211.png)
+![Description](image_10212.png)
+![Description](image_10213.png)
+![Description](image_10214.png)
+![Description](image_10215.png)
+![Description](image_10216.png)
+![Description](image_10217.png)
+![Description](image_10218.png)
+![Description](image_10219.png)
+![Description](image_10220.png)
+![Description](image_10221.png)
+![Description](image_10222.png)
+![Description](image_10223.png)
+![Description](image_10224.png)
+![Description](image_10225.png)
+![Description](image_10226.png)
+![Description](image_10227.png)
+![Description](image_10228.png)
+![Description](image_10229.png)
+![Description](image_10230.png)
+![Description](image_10231.png)
+![Description](image_10232.png)
+![Description](image_10233.png)
+![Description](image_10234.png)
+![Description](image_10235.png)
+![Description](image_10236.png)
+![Description](image_10237.png)
+![Description](image_10238.png)
+![Description](image_10239.png)
+![Description](image_10240.png)
+![Description](image_10241.png)
+![Description](image_10242.png)
+![Description](image_10243.png)
+![Description](image_10244.png)
+![Description](image_10245.png)
+![Description](image_10246.png)
+![Description](image_10247.png)
+![Description](image_10248.png)
+![Description](image_10249.png)
+![Description](image_10250.png)
+![Description](image_10251.png)
+![Description](image_10252.png)
+![Description](image_10253.png)
+![Description](image_10254.png)
+![Description](image_10255.png)
+![Description](image_10256.png)
+![Description](image_10257.png)
+![Description](image_10258.png)
+![Description](image_10259.png)
+![Description](image_10260.png)
+![Description](image_10261.png)
+![Description](image_10262.png)
+![Description](image_10263.png)
+![Description](image_10264.png)
+![Description](image_10265.png)
+![Description](image_10266.png)
+![Description](image_10267.png)
+![Description](image_10268.png)
+![Description](image_10269.png)
+![Description](image_10270.png)
+![Description](image_10271.png)
+![Description](image_10272.png)
+![Description](image_10273.png)
+![Description](image_10274.png)
+![Description](image_10275.png)
+![Description](image_10276.png)
+![Description](image_10277.png)
+![Description](image_10278.png)
+![Description](image_10279.png)
+![Description](image_10280.png)
+![Description](image_10281.png)
+![Description](image_10282.png)
+![Description](image_10283.png)
+![Description](image_10284.png)
+![Description](image_10285.png)
+![Description](image_10286.png)
+![Description](image_10287.png)
+![Description](image_10288.png)
+![Description](image_10289.png)
+![Description](image_10290.png)
+![Description](image_10291.png)
+![Description](image_10292.png)
+![Description](image_10293.png)
+![Description](image_10294.png)
+![Description](image_10295.png)
+![Description](image_10296.png)
+![Description](image_10297.png)
+![Description](image_10298.png)
+![Description](image_10299.png)
+![Description](image_10300.png)
+![Description](image_10301.png)
+![Description](image_10302.png)
+![Description](image_10303.png)
+![Description](image_10304.png)
+![Description](image_10305.png)
+![Description](image_10306.png)
+![Description](image_10307.png)
+![Description](image_10308.png)
+![Description](image_10309.png)
+![Description](image_10310.png)
+![Description](image_10311.png)
+![Description](image_10312.jpeg)
+![Description](image_10313.png)
+![Description](image_10314.png)
+![Description](image_10315.png)
+![Description](image_10316.png)
+![Description](image_10317.png)
+![Description](image_10318.png)
+![Description](image_10319.png)
+![Description](image_10320.png)
+![Description](image_10321.png)
+![Description](image_10322.png)
+![Description](image_10323.png)
+![Description](image_10324.png)
+![Description](image_10325.png)
+![Description](image_10326.png)
+![Description](image_10327.png)
+![Description](image_10328.png)
+![Description](image_10329.png)
+![Description](image_10330.png)
+![Description](image_10331.png)
+![Description](image_10332.png)
+![Description](image_10333.png)
+![Description](image_10334.png)
+![Description](image_10335.png)
+![Description](image_10336.png)
+![Description](image_10337.png)
+![Description](image_10338.png)
+![Description](image_10339.png)
+![Description](image_10340.png)
+![Description](image_10341.png)
+![Description](image_10342.png)
+![Description](image_10343.png)
+![Description](image_10344.png)
+![Description](image_10345.png)
+![Description](image_10346.jpeg)
+![Description](image_10347.png)
+![Description](image_10348.png)
+![Description](image_10349.png)
+![Description](image_10350.png)
+![Description](image_10351.png)
+![Description](image_10352.png)
+![Description](image_10353.png)
+![Description](image_10354.png)
+![Description](image_10355.png)
+![Description](image_10356.png)
+![Description](image_10357.png)
+![Description](image_10358.png)
+![Description](image_10359.png)
+![Description](image_10360.png)
+![Description](image_10361.png)
+![Description](image_10362.png)
+![Description](image_10363.png)
+![Description](image_10364.png)
+![Description](image_10365.png)
+![Description](image_10366.png)
+![Description](image_10367.png)
+![Description](image_10368.png)
+![Description](image_10369.png)
+![Description](image_10370.png)
+![Description](image_10371.png)
+![Description](image_10372.png)
+![Description](image_10373.png)
 
 Πίνακας 8.3. Οι πολυσύλλαβοι φθόγγοι της παραλλαγής κατά το Παλαιό Σύστημα, ως εν δυνάμει βάσεις για τους ήχους της
 βυζαντινής οκταηχίας, και αντιστοιχίες στο Νέο Σύστημα, στο αλφαβητικό σύστημα για μεταγραμματισμό, και στο σολφέζ
@@ -852,11 +852,11 @@ Mέσα από διευρυμένες παλαιογραφικές αναλύσ�
 
 ## Ἦχος α΄ ἔσω
 
-![Description](/resources/image_10374.jpeg)
+![Description](image_10374.jpeg)
 
 a G F E Da
 
-![Description](/resources/image_10375.jpeg)
+![Description](image_10375.jpeg)
 
 a G F E D
 
@@ -894,21 +894,21 @@ a G F E D
 |Νενανώ (τριφωνία πλαγίου του δευτέρου)||Όμοια μαρτυρία: (Α 139 sup., φ. 63α)|
 |Νανα||επήχημα (Raasted, επιμ., 1983, Hagiopolites, § 45, ενήχημα 15-18 και σ.|
 
-![Description](/resources/image_10376.jpeg)
-![Description](/resources/image_10377.jpeg)
-![Description](/resources/image_10378.jpeg)
-![Description](/resources/image_10379.jpeg)
-![Description](/resources/image_10380.jpeg)
-![Description](/resources/image_10381.jpeg)
-![Description](/resources/image_10382.jpeg)
-![Description](/resources/image_10383.jpeg)
-![Description](/resources/image_10384.jpeg)
-![Description](/resources/image_10385.jpeg)
-![Description](/resources/image_10386.jpeg)
+![Description](image_10376.jpeg)
+![Description](image_10377.jpeg)
+![Description](image_10378.jpeg)
+![Description](image_10379.jpeg)
+![Description](image_10380.jpeg)
+![Description](image_10381.jpeg)
+![Description](image_10382.jpeg)
+![Description](image_10383.jpeg)
+![Description](image_10384.jpeg)
+![Description](image_10385.jpeg)
+![Description](image_10386.jpeg)
 
 51-52).
 
-![Description](/resources/image_10387.jpeg)
+![Description](image_10387.jpeg)
 
 στήλες
 Πίνακας 8.4. Συνηθισμένες μαρτυρίες και τα αντίστοιχα απηχήματα της βυζαντινής οκταηχίας κατά το Παλαιό Σύστημα,
@@ -917,15 +917,15 @@ a G F E D
 
 418
 
-![Description](/resources/image_10388.jpeg)
-![Description](/resources/image_10389.jpeg)
-![Description](/resources/image_10390.jpeg)
-![Description](/resources/image_10391.jpeg)
-![Description](/resources/image_10392.jpeg)
-![Description](/resources/image_10393.jpeg)
-![Description](/resources/image_10394.jpeg)
-![Description](/resources/image_10395.jpeg)
-![Description](/resources/image_10396.jpeg)
+![Description](image_10388.jpeg)
+![Description](image_10389.jpeg)
+![Description](image_10390.jpeg)
+![Description](image_10391.jpeg)
+![Description](image_10392.jpeg)
+![Description](image_10393.jpeg)
+![Description](image_10394.jpeg)
+![Description](image_10395.jpeg)
+![Description](image_10396.jpeg)
 
 Εκτός από τις μαρτυρίες οι οποίες συμπεριλήφθηκαν στον Πίνακα 8.4. και οι οποίες αποτελούν την
 ακριβή βραχυγραφία αντίστοιχων απηχημάτων, στα μεταβυζαντινά χειρόγραφα αρχίζουν και εμφανίζονται
@@ -934,7 +934,7 @@ a G F E D
 η πληροφορία περί της ακριβούς αντιστοιχίας ανάμεσα στη γραφική μορφή μιας μαρτυρίας και στο απήχημα
 που της αναλογεί.
 
-![Description](/resources/image_10397.jpeg)
+![Description](image_10397.jpeg)
 
 Πίνακας 8.5. Μαρτυρίες κατά το σύστημα του τροχού. Με κόκκινο οι μαρτυρίες οι οποίες μπορούν να λειτουργήσουν ως
 βραχυγραφίες αντίστοιχων απηχημάτων. Με γαλάζιο, μεταγενέστερες γραφικές μορφές με ανακρίβειες, όπου χάθηκε ο
@@ -964,7 +964,7 @@ a G F E D
 
 σ. 44): βλ. Εικόνα 8.14.
 
-![Description](/resources/image_10398.jpeg)
+![Description](image_10398.jpeg)
 
 Εικόνα 8.14. Η σχέση μεσότητας ανάμεσα στους οκτώ ήχους, σύμφωνα με την Προθεωρία της Παπαδικής.xxiv
 
@@ -977,8 +977,8 @@ a G F E D
 χαρακτηριστική του χρήση είναι ως μεσομαρτυρία σε κομμάτια τα οποία ανήκουν στην οικογένεια του δ΄
 ήχου. Θα μπορούσε να ερμηνευτεί ως μια διατονική εκδοχή του μέσου του δ΄ ήχου.
 
-![Description](/resources/image_10399.jpeg)
-![Description](/resources/image_10400.jpeg)
+![Description](image_10399.jpeg)
+![Description](image_10400.jpeg)
 
 Εικόνα 8.15. Η μαρτυρία του λεγέτου, σύμφωνα με το Καλοφωνικό Στιχηράριο της Ι. Μητροπόλεως Ζακύνθου, αρ. χφου 7,
 
@@ -1000,49 +1000,49 @@ a G F E D
 |Μουσική υφή και στυλ: απηχήματα στη μουσική ροή|• του παλαιού, κλασικού ρεπερτορίου:  απλούστερα (Ειρμολόγιον, Στιχηράριον)  πιο σύνθετα, πιο μελισματικά (Ψαλτικόν, Ασματικόν, Άσμα) • της καλοφωνίας|
 |Λειτουργικότητα στη μουσική θεωρία και διδακτική|• μικρά: για την ανάδειξη πολυσύλλαβων Απλούς Δένδρο της φθόγγων, τροχός, Παραλλαγής, ως εν δυνάμει βάσεων των οκτώ ήχων, κυρίων παραλλαγή Αἱ στην ανιούσα κίνηση και πλαγίων στην κατιούσα κομματιών παραλλαγαί, • μεγάλα: για την εν ενεργεία ανάδειξη ήχων, με Σύνθετος τετραφωνικές καθοδικές-ανοδικές κινήσεις τροχός Αγ. Ιωάννου Κουκουζέλη|
 
-![Description](/resources/image_10401.png)
-![Description](/resources/image_10402.png)
-![Description](/resources/image_10403.png)
-![Description](/resources/image_10404.png)
-![Description](/resources/image_10405.png)
-![Description](/resources/image_10406.png)
-![Description](/resources/image_10407.png)
-![Description](/resources/image_10408.png)
-![Description](/resources/image_10409.png)
-![Description](/resources/image_10410.png)
-![Description](/resources/image_10411.png)
-![Description](/resources/image_10412.png)
-![Description](/resources/image_10413.png)
-![Description](/resources/image_10414.png)
-![Description](/resources/image_10415.png)
-![Description](/resources/image_10416.png)
-![Description](/resources/image_10417.jpeg)
-![Description](/resources/image_10418.png)
-![Description](/resources/image_10419.png)
-![Description](/resources/image_10420.png)
-![Description](/resources/image_10421.png)
-![Description](/resources/image_10422.png)
-![Description](/resources/image_10423.png)
-![Description](/resources/image_10424.png)
-![Description](/resources/image_10425.png)
-![Description](/resources/image_10426.png)
-![Description](/resources/image_10427.png)
-![Description](/resources/image_10428.png)
-![Description](/resources/image_10429.png)
-![Description](/resources/image_10430.png)
-![Description](/resources/image_10431.png)
-![Description](/resources/image_10432.png)
-![Description](/resources/image_10433.png)
-![Description](/resources/image_10434.png)
-![Description](/resources/image_10435.png)
-![Description](/resources/image_10436.jpeg)
+![Description](image_10401.png)
+![Description](image_10402.png)
+![Description](image_10403.png)
+![Description](image_10404.png)
+![Description](image_10405.png)
+![Description](image_10406.png)
+![Description](image_10407.png)
+![Description](image_10408.png)
+![Description](image_10409.png)
+![Description](image_10410.png)
+![Description](image_10411.png)
+![Description](image_10412.png)
+![Description](image_10413.png)
+![Description](image_10414.png)
+![Description](image_10415.png)
+![Description](image_10416.png)
+![Description](image_10417.jpeg)
+![Description](image_10418.png)
+![Description](image_10419.png)
+![Description](image_10420.png)
+![Description](image_10421.png)
+![Description](image_10422.png)
+![Description](image_10423.png)
+![Description](image_10424.png)
+![Description](image_10425.png)
+![Description](image_10426.png)
+![Description](image_10427.png)
+![Description](image_10428.png)
+![Description](image_10429.png)
+![Description](image_10430.png)
+![Description](image_10431.png)
+![Description](image_10432.png)
+![Description](image_10433.png)
+![Description](image_10434.png)
+![Description](image_10435.png)
+![Description](image_10436.jpeg)
 
 Πίνακας 8.6. Μια ανοιχτή τυπολογία απηχημάτων.
 
 Λίστες με ποικίλα απηχήματα βρίσκονται ήδη στις παλαιότερες μορφές προθεωρίας της Παπαδικής,
 όπως Σινά 1218 και Αγ. Πετρούπολης 945: βλ. Εικόνες 8.16-17.
 
-![Description](/resources/image_10437.png)
+![Description](image_10437.png)
 
 Εικόνα 8.16. Αντιγραφή από την αρχαιότερη σήμερα γνωστή λίστα απηχημάτων σε πρώιμη μεσοβυζαντινή σημειογραφία, η
 οποία βρίσκεται στο τέλος του Στιχηραρίου της Ι.Μ. Αγ. Αικατερίνης στο Σινά, αρ. 1218, φ. 271α, μετά τον κολοφώνα, ο
@@ -1059,8 +1059,8 @@ a G F E D
 στο τέλος του Στιχηραρίου Σινά 1218 έχει προστεθεί από μετανέστερο χέρι (13ου αι.). Ο J. Raasted όμως
 αποδίδει τη λίστα στον κυρίως γραφέα Νικηφόρο.
 
-![Description](/resources/image_10438.jpeg)
-![Description](/resources/image_10439.jpeg)
+![Description](image_10438.jpeg)
+![Description](image_10439.jpeg)
 
 Εικόνα 8.17. Πρωτοπαπαδική, από τον κώδικα Petropolitanus gr. 495, α΄ μισό 13ου αι., γραφέας Νεόφυτος Ιερομόναχος
 από τη Δαμασκό, φ. 4α-β, με λίστα απηχημάτων, με τον τίτλο: «νηχίσματα τῶν ὀκτὼ ἤχων». Περιέχει τόσο απλές
@@ -1075,7 +1075,7 @@ a G F E D
 παρουσιάζεται μέσα από μια καθοδική-ανοδική τετραφωνική κίνηση, πάνω στις ηχηματικές συλλαβές των
 κυρίων ήχων: βλ. Εικόνα 8.18.
 
-![Description](/resources/image_10440.jpeg)
+![Description](image_10440.jpeg)
 
 Εικόνα 8.18. «Αἱ παραλλαγαὶ τ(ῶν) η΄ ἤχων» από την Προθεωρία του χφου ΕΒΕ 2458, φ. 4v, έτ. 1336.xxvii
 
@@ -1087,14 +1087,14 @@ a G F E D
 
 423
 
-![Description](/resources/image_10441.jpeg)
+![Description](image_10441.jpeg)
 
 Εικόνα 8.19. «Ἠχήματα κατ' ἦχον», από την Προθεωρία του χφου ΕΒΕ 2458, φ. 6r, έτ. 1336. © Εθνική Βιβλιοθήκη
 της Ελλάδος.xxix
 
 424
 
-![Description](/resources/image_10442.jpeg)
+![Description](image_10442.jpeg)
 
 Εικόνα 8.20. Εκτεταμένο μελισματικό (καλοφωνικό) ήχημα του α΄ ήχου από την Προθεωρία της Παπαδικής ΕΒΕ 2458, φ.
 6r, έτ. 1336, με μεταφορά των δομικών φθόγγων στο πεντάγραμμο. Στο τέλος της δεύτερης σειράς φαίνεται η αρχή του α΄
@@ -1122,7 +1122,7 @@ a G F E D
 
 425
 
-![Description](/resources/image_10443.jpeg)
+![Description](image_10443.jpeg)
 
 Πίνακας 8.7. Σχήματα φθορών στη μεσοβυζαντινή σημειογραφία, με βάση Προθεωρίες της Παπαδικής από
 χειρόγραφα που διασώζονται σε ρουμανικές βιβλιοθήκες. Με κόκκινο οι συνηθισμένες μορφές, με σκούρο οι πιο
@@ -1154,7 +1154,7 @@ Tillyard, στη σειρά Transcripta των Μonumenta Musicae Byzantinae.xxx
 Χαρσανιώτου. Σήμερα φυλάσσεται στη Bιβλιοθήκη Arts & Social Studies, Cardiff University (πρβλ.
 καταλογογράφηση σε: Γιαννόπουλος, 2008, σ. 401-409, με περαιτέρω βιβλιογραφία).
 
-![Description](/resources/image_10444.jpeg)
+![Description](image_10444.jpeg)
 
 Εικόνα 8.21. Κώδικας «Περίβλεπτος», αρχές 14ου αι., τ. Β΄, φ. 100α, με την αρχή των εσπερίων στιχηρών του α΄ ήχου.
 Περιλήφθηκε στην παρούσα εργασία με την ευγενή παραχώρηση/by Courtesy of Cardiff University Library: Special
@@ -1162,28 +1162,28 @@ Collections and Archives.
 
 427
 
-![Description](/resources/image_10445.jpeg)
+![Description](image_10445.jpeg)
 
 Εικόνα 8.22. Κώδικας «Περίβλεπτος», αρχές 14ου αι., τ. Β΄, φ. 103α, με την αρχή των εσπερίων στιχηρών του β΄ ήχου.
 Mε την ευγενή παραχώρηση/by Courtesy of Cardiff University Library: Special Collections and Archives.
 
 428
 
-![Description](/resources/image_10446.jpeg)
+![Description](image_10446.jpeg)
 
 Εικόνα 8.23. Κώδικας «Περίβλεπτος», αρχές 14ου αι., τ. Β΄, φ. 107α, με την αρχή των εσπερίων στιχηρών του γ΄ ήχου.
 Mε την ευγενή παραχώρηση/by Courtesy of Cardiff University Library: Special Collections and Archives.
 
 429
 
-![Description](/resources/image_10447.jpeg)
+![Description](image_10447.jpeg)
 
 Εικόνα 8.24. Κώδικας «Περίβλεπτος», αρχές 14ου αι., τ. Β΄, φ. 110β, με την αρχή των εσπερίων στιχηρών του δ΄ ήχου.
 Mε την ευγενή παραχώρηση/by Courtesy of Cardiff University Library: Special Collections and Archives.
 
 430
 
-![Description](/resources/image_10448.jpeg)
+![Description](image_10448.jpeg)
 
 Εικόνα 8.25. Κώδικας «Περίβλεπτος», αρχές 14ου αι., τ. Β΄, φ. 115α, με την αρχή των εσπερίων στιχηρών του πλαγίου του
 πρώτου ήχου.
@@ -1191,21 +1191,21 @@ Mε την ευγενή παραχώρηση/by Courtesy of Cardiff University L
 
 431
 
-![Description](/resources/image_10449.jpeg)
+![Description](image_10449.jpeg)
 
 Εικόνα 8.26. Κώδικας «Περίβλεπτος», αρχές 14ου αι., τ. Β΄, φ. 119β, με την αρχή των εσπερίων στιχηρών του πλ. β΄ ήχου.
 Mε την ευγενή παραχώρηση/by Courtesy of Cardiff University Library: Special Collections and Archives.
 
 432
 
-![Description](/resources/image_10450.jpeg)
+![Description](image_10450.jpeg)
 
 Εικόνα 8.27. Κώδικας «Περίβλεπτος», αρχές 14ου αι., τ. Β΄, φ. 123β, με την αρχή των εσπερίων στιχηρών του βαρέος
 ήχου. Με την ευγενή παραχώρηση/by Courtesy of Cardiff University Library: Special Collections and Archives.
 
 433
 
-![Description](/resources/image_10451.jpeg)
+![Description](image_10451.jpeg)
 
 Εικόνα 8.28. Κώδικας «Περίβλεπτος», αρχές 14ου αι., τ. Β΄, φ. 127α, με την αρχή των εσπερίων στιχηρών του πλ. δ΄ ήχου.
 Mε την ευγενή παραχώρηση/by Courtesy of Cardiff University Library: Special Collections and Archives.
@@ -1221,7 +1221,7 @@ Mε την ευγενή παραχώρηση/by Courtesy of Cardiff University L
 κάθε μαρτυρία και το απήχημα το οποίο βραχυγραφείται, με βάση τον Πίνακα 8.4. Μετά μπορείτε να
 συγκρίνετε τα αποτελέσματά σας με την Εικόνα 8.29.β.
 
-![Description](/resources/image_10452.jpeg)
+![Description](image_10452.jpeg)
 
 Εικόνα 8.29.α. Οι αρκτικές μαρτυρίες και η αρχή των πρώτων αναστασίμων εσπερίων στιχηρών για κάθε ήχο, με βάση τον
 Κώδικα «Περίβλεπτο». Φόρμα για εξάσκηση εύρεσης του πρώτου φθόγγου ενός κομματιού σε μεσοβυζαντινή
@@ -1229,7 +1229,7 @@ Mε την ευγενή παραχώρηση/by Courtesy of Cardiff University L
 
 435
 
-![Description](/resources/image_10453.jpeg)
+![Description](image_10453.jpeg)
 
 Εικόνα 8.29.β. Οι αρκτικές μαρτυρίες και η αρχή των πρώτων αναστασίμων εσπερίων στιχηρών για κάθε ήχο, με βάση τον
 Κώδικα «Περίβλεπτο». Λύση της άσκησης.
@@ -1249,8 +1249,8 @@ Mε την ευγενή παραχώρηση/by Courtesy of Cardiff University L
 
 8.30.β.
 
-![Description](/resources/image_10454.png)
-![Description](/resources/image_10455.png)
+![Description](image_10454.png)
+![Description](image_10455.png)
 
 Εικόνες 8.30.α-β. Αριστερά: Αρκτική μαρτυρία του τρίτου αναστασίμου στιχηρού του γ΄ ήχου που λήγει στην τετραφωνία,
 σύμφωνα με τον Κώδικα Περίβλεπτο, με ένδειξη του αντίστοιχου απηχήματος και μεταγραμματισμό.  Δεξιά: δείγμα
@@ -1274,12 +1274,12 @@ Mε την ευγενή παραχώρηση/by Courtesy of Cardiff University L
 
 437
 
-![Description](/resources/image_10456.png)
-![Description](/resources/image_10457.png)
-![Description](/resources/image_10458.png)
+![Description](image_10456.png)
+![Description](image_10457.png)
+![Description](image_10458.png)
 
-![Description](/resources/image_10459.jpeg)
-![Description](/resources/image_10460.jpeg)
+![Description](image_10459.jpeg)
+![Description](image_10460.jpeg)
 
 Εικόνα 8.31. Το στιχηρό «Τὰς ἑσπερινὰς ἡμῶν εὐχάς», σε ήχο α΄, από το Sticherarium Ambrosianum A 139 sup., έτ.
 1341, φ. 272β, σε πλήρως εξελιγμένη μεσοβυζαντινή σημειογραφία, με βάση την ομοιότυπη έκδοση των Perria & Raasted
@@ -1302,7 +1302,7 @@ Mε την ευγενή παραχώρηση/by Courtesy of Cardiff University L
 σημάδι δείχνει τον πρώτο φθόγγο της επόμενης φράσης, όπως αυτό υπολογίζεται σε σχέση με τον τελευταίο
 φθόγγο του απηχήματος που αντιστοιχεί στη μαρτυρία:xxxiii βλ. Εικόνα 8.32.
 
-![Description](/resources/image_10461.jpeg)
+![Description](image_10461.jpeg)
 
 Η τετράφωνη ανάβαση με τα μαύρα έμφωνα (ολίγον και υψηλή δεξιά) δείχνει
 τον πρώτο φθόγγο της φράσης 5, σε σχέση με το ίσον που ήταν στο τέλος της
@@ -1333,7 +1333,7 @@ To κόκκινο μικρό ίσον επιβεβαιώνει τον πρώτο
 αθωνική σημειογραφία (Chartres), ενσωματώθηκαν στοιχεία για τις φωνές (διαστήματα), τους ήχους, τις
 φθορές και τα απηχήματα, με την εξής μορφή: βλ. Εικόνα 8.33.
 
-![Description](/resources/image_10462.jpeg)
+![Description](image_10462.jpeg)
 
 Εικόνα 8.33. Στοιχεία σχετικά με το τροπικό σύστημα στη λίστα μελωδημάτων από το τέλος του Στιχηραρίου Ι.Μ.Μ.
 Λαύρας Γ 67, φ. 159α (αρχές 11ου αι. [Floros]).xxxiv © για τη φωτογραφία από μικροταινία: Πατριαρχικό Ίδρυμα
@@ -1358,7 +1358,7 @@ Mερικά κεντρικά σημεία αυτής της διδασκαλία
 
 χωριστούν σε ενήχημα και επήχημα (ό.π., § 3): βλ. Εικόνα 8.34.
 
-![Description](/resources/image_10463.jpeg)
+![Description](image_10463.jpeg)
 
 Εικόνα 8.34. Μορφολογικά περί ηχημάτων, σύμφωνα με τον Αγιοπολίτη.
 Πηγή: Raasted, Jørgen. (Eπιμ., 1983). The Hagiopolites, A Byzantine Τreatise on Musical Theory. Preliminary Edition.
@@ -1370,8 +1370,8 @@ Cahiers de l' Institut du Moyen-Âge Grec et Latin, 45. Tα Cahiers εκδίδο
 Εξ αυτών αναφέρουμε παρακάτω σχήματα τροχών με ομόκεντρους κύκλους, οι οποίοι παρουσιάζουν
 τους τέσσερις κυρίους ήχους και τους ισάριθμους πλαγίους τους: Εικόνα 8.35.
 
-![Description](/resources/image_10464.jpeg)
-![Description](/resources/image_10465.jpeg)
+![Description](image_10464.jpeg)
+![Description](image_10465.jpeg)
 
 Εικόνα 8.35. Αντιγραφές από σχήματα τροχών του Αγιοπολίτη. Πηγή: Raasted, Jørgen. (Eπιμ., 1983). The Hagiopolites, A
 Byzantine Τreatise on Musical Theory. Preliminary Edition. Cahiers de l' Institut du Moyen-Âge Grec et Latin, 45, § 52,
@@ -1392,7 +1392,7 @@ Byzantine Τreatise on Musical Theory. Preliminary Edition. Cahiers de l' Instit
 καθώς το όνομά του αναγράφεται τμηματικά στο κέντρο των επιμέρους τροχών του διαγράμματος, ενίοτε και
 σε σχήμα σταυρού έξω από τους μεσαίους ομόκεντρους κύκλους: βλ. Εικόνα 8.36.
 
-![Description](/resources/image_10466.jpeg)
+![Description](image_10466.jpeg)
 
 - 
 
@@ -1422,8 +1422,8 @@ Byzantine Τreatise on Musical Theory. Preliminary Edition. Cahiers de l' Instit
 χρησιμοποιούνται τα σχήματα (όπως το ρολόϊ) και (αντίθετα προς την κίνηση του
 ρολογιού).
 
-![Description](/resources/image_10467.jpeg)
-![Description](/resources/image_10468.jpeg)
+![Description](image_10467.jpeg)
+![Description](image_10468.jpeg)
 
 Εικόνα 8.37.α. Μεταγραμματισμός του Σύνθετου Τροχού του Αγίου Ιωάννου του Κουκουζέλη, με βάση το χφο ΕΒΕ 2458,
 
@@ -1431,14 +1431,14 @@ Byzantine Τreatise on Musical Theory. Preliminary Edition. Cahiers de l' Instit
 
 443
 
-![Description](/resources/image_10469.jpeg)
+![Description](image_10469.jpeg)
 
 Περνώντας στους ομόκεντρους κύκλους, ξεκινάμε με το μικρότερο κύκλο στο κέντρο και βαδίζουμε
 προς τα έξω. Η κατεύθυνση της κυκλικής κίνησης ακολουθεί τους δείκτες ρολογιού. Στην κατιούσα κίνηση
 επιλέγουμε κάθε φορά τις μαύρες αποστρόφους, με τις κόκκινες μαρτυρίες πλαγίων ήχων, ενώ στην ανοδική
 επιστροφή επιλέγουμε τα μαύρα ολίγα, με τις κόκκινες μαρτυρίες κυρίων ήχων από κάτω:
 
-![Description](/resources/image_10470.jpeg)
+![Description](image_10470.jpeg)
 
 Εικόνα 8.37.β. Μεταγραμματισμός του Σύνθετου Τροχού του Αγίου Ιωάννου του Κουκουζέλη, με βάση το χφο ΕΒΕ 2458,
 
@@ -1451,7 +1451,7 @@ Byzantine Τreatise on Musical Theory. Preliminary Edition. Cahiers de l' Instit
 κατιούσες κινήσεις θα επιλέξουμε τις μαύρες αποστρόφους με τις μαρτυρίες πλαγίων ήχων από κάτω, ενώ για
 την ανοδική επιστροφή, τα μαύρα ολίγα με τις μαρτυρίες κυρίων ήχων:
 
-![Description](/resources/image_10471.jpeg)
+![Description](image_10471.jpeg)
 
 Εικόνα 8.37.γ. Μεταγραμματισμός του Σύνθετου Τροχού του Αγίου Ιωάννου του Κουκουζέλη, με βάση το χφο ΕΒΕ 2458,
 
@@ -1465,9 +1465,9 @@ Byzantine Τreatise on Musical Theory. Preliminary Edition. Cahiers de l' Instit
 από τις κινήσεις Κε-Πα-Κε, Ζω΄-Βου-Ζω΄, Νη΄-Γα-Νη΄, Πα΄-Δι-Πα΄, Βου΄-Κε-Βου΄. Σχηματικά, θα
 μπορούσε να παρουσιαστεί ως εξής: βλ. Εικόνα 8.38.
 
-![Description](/resources/image_10472.jpeg)
-![Description](/resources/image_10473.jpeg)
-![Description](/resources/image_10474.jpeg)
+![Description](image_10472.jpeg)
+![Description](image_10473.jpeg)
+![Description](image_10474.jpeg)
 
 Εικόνα 8.38. Μια συμπυκνωμένη στατική απεικόνιση του σκελετού του Σύνθετου Τροχού.
 Υποκάτω αναφέρονται οι ενδείξεις ήχων/μαρτυρίες, οι οποίες αλλάζουν κάθε φορά, ανάλογα με την κίνηση:
@@ -1483,7 +1483,7 @@ Byzantine Τreatise on Musical Theory. Preliminary Edition. Cahiers de l' Instit
 
 446
 
-![Description](/resources/image_10475.jpeg)
+![Description](image_10475.jpeg)
 
 Εικόνα 8.39. Η «δυσκολοτάτη παραλλαγή» στην Ανθολογία της Βασιλικής Βιβλιοθήκης της Κοπεγχάγης, NkS 4466 (4o), φ.
 14r, «γραμμένης μεταξύ 1679-1681» (Alexandrescu, 2013, σ. 37), από τον Ιωάννη Καμπαζουρνά, για χρήση στις
@@ -1499,7 +1499,7 @@ Byzantine Τreatise on Musical Theory. Preliminary Edition. Cahiers de l' Instit
 ὀκτὼ ἤχων. Συνήθως είναι ανώνυμο, ενίοτε όμως αποδίδεται επίσης στο μαΐστορα Ιωάννη Κουκουζέλη: βλ.
 Εικόνα 8.40.
 
-![Description](/resources/image_10476.png)
+![Description](image_10476.png)
 
 Το ακούτε & βλέπετε πατώντας 
 Εικόνα 8.40. Το Κανόνιον των οκτώ ήχων, από την Προθεωρία στο χφο της Ι.Μ. Δοχειαρίου αρ. 338, αυτόγραφο
@@ -1510,7 +1510,7 @@ Byzantine Τreatise on Musical Theory. Preliminary Edition. Cahiers de l' Instit
 των διεστώτων αριθμών στον Τροχό του Θέωνος (α΄+θ΄, β΄+η΄, γ΄+ζ΄ και δ΄+στ΄) οδηγεί κάθε φορά
 στον αριθμό δέκα, σύμβολο τελειότητας: βλ. Εικόνα 8.41.
 
-![Description](/resources/image_10477.jpeg)
+![Description](image_10477.jpeg)
 
 Εικόνα 8.41. Αντιγραφή από τον τροχό του μαθηματικού και Πλατωνικού φιλοσόφου Θέωνος του Σμυρναίου (2ος αι. μ.Χ.).
 Πηγή: Χαλδαιάκης (2014, σ. 172, εικ. 24).
@@ -1523,11 +1523,11 @@ Byzantine Τreatise on Musical Theory. Preliminary Edition. Cahiers de l' Instit
 
 2. χρωματική, η οποία εμφανίζεται σπάνια, κατά την όψιμη μεταβυζαντινή
 
-![Description](/resources/image_10478.jpeg)
+![Description](image_10478.jpeg)
 
 περίοδο: βλ. Εικόνες 8.42-43.
 
-![Description](/resources/image_10479.jpeg)
+![Description](image_10479.jpeg)
 
 Εικόνες 8.42-43. Αριστερά: Κανόνιον των οκτώ ήχων (διατονική εκδοχή). Δεξιά: κανόνιον του β΄ και πλ. β΄ ήχου
 (χρωματική εκδοχή). Τα δύο κανόνια αποτελούν ελεύθερη αντιγραφή από φωτογραφία μεταβυζαντινού χφου ιδιωτικής
@@ -1540,7 +1540,7 @@ Byzantine Τreatise on Musical Theory. Preliminary Edition. Cahiers de l' Instit
 (1832,
 ήχων, ακολουθώντας την εξής κατεύθυνση κίνησης: βλ. Εικόνα 8.44
 
-![Description](/resources/image_10480.jpeg)
+![Description](image_10480.jpeg)
 
 Εικόνα 8.44. Διαβάζοντας το Κανόνιο των οκτώ ήχων στη διατονική του εκδοχή. Για την πρωτότυπη εικόνα του τροχού,
 πρβλ. Κοnstantinou (2012, σ. 390).
@@ -1558,7 +1558,7 @@ Byzantine Τreatise on Musical Theory. Preliminary Edition. Cahiers de l' Instit
 
 2. στην κάτω σειρά με τους πολυσύλλαβους φθόγγους, στην αναλυτική γραφή της Νέας Μεθόδου:
 
-![Description](/resources/image_10481.jpeg)
+![Description](image_10481.jpeg)
 
 Εικόνα 8.45. Ο Απλούς Τροχός (διατονικός) σε αντιπαραβολή πηγών:
 
@@ -1577,7 +1577,7 @@ Byzantine Τreatise on Musical Theory. Preliminary Edition. Cahiers de l' Instit
 Ο σκελετός του Απλού Τροχού στη διατονική του εκδοχή αποτελείται από την κίνηση Πα-Βου-Γα-
 Δι-Γα-Βου-Πα-Νη-Πα. Σχηματικά, θα μπορούσε να παρουσιαστεί ως εξής: βλ. Εικόνα 8.46.
 
-![Description](/resources/image_10482.jpeg)
+![Description](image_10482.jpeg)
 
 Εικόνα 8.46. Οι βάσεις των οκτώ ήχων όπου κινείται ο Απλούς Τροχός στη διατονική του μορφή. Υποκάτω υπάρχουν οι
 αντίστοιχες μαρτυρίες: κυρίων ήχων στην ανοδική πορεία, πλαγίων ήχων στην καθοδική.
@@ -1587,13 +1587,13 @@ Byzantine Τreatise on Musical Theory. Preliminary Edition. Cahiers de l' Instit
 
 450
 
-![Description](/resources/image_10483.jpeg)
+![Description](image_10483.jpeg)
 
 Το ακούτε πατώντας 
 Εικόνα 8.47. Διαβάζοντας τον Τροχό των χρωματικών ήχων. Για την πρωτότυπη εικόνα του τροχού, πρβλ. Κοnstantinou
 (2012, σ. 390).
 
-![Description](/resources/image_10484.jpeg)
+![Description](image_10484.jpeg)
 
 Εικόνα 8.48. Ο Τροχός του β΄ & πλ. β΄ ήχου σε αντιπαραβολή πηγών: Α. τα σημάδια και οι μαρτυρίες σε μεσοβυζαντινή
 σημειογραφία, από χφο ιδιωτικής συλλογής (πανομοιότυπο σε Konstantinou, 2012, σ. 390), και μεταγραμματισμός. Β.
@@ -1610,7 +1610,7 @@ Byzantine Τreatise on Musical Theory. Preliminary Edition. Cahiers de l' Instit
 Πρόκειται για ένα διάγραμμα το οποίο συνδυάζει στοιχεία και από τους δύο τροχούς: το Σύνθετο και
 τον Απλό:xlii βλ. Εικόνα 8.49.
 
-![Description](/resources/image_10485.jpeg)
+![Description](image_10485.jpeg)
 
 ## Το ακούτε & βλέπετε πατώντας 
 
@@ -1635,7 +1635,7 @@ Byzantine Τreatise on Musical Theory. Preliminary Edition. Cahiers de l' Instit
 καταβάσει διὰ τοῦ ἀποστρόφου τὸ ἀνάπαλιν, τοὺς κυρίους ἤχους πλαγίους
 ἀπέδειξεν» (Αλυγιζάκης, 1985, σ. 232, σειρές 71-77).xliv Βλ. Εικόνα 8.50.
 
-![Description](/resources/image_10486.png)
+![Description](image_10486.png)
 
 Εικόνα 8.50. Η βασική αρχή της παραλλαγής, βασισμένη στο σύστημα του τροχού.
 
@@ -1672,7 +1672,7 @@ Byzantine Τreatise on Musical Theory. Preliminary Edition. Cahiers de l' Instit
 συστηματοποιήσεις.
 Πηγές: Zannos (1994, σ. 186), Μαυροειδής (1999, σ. 22), Καράς (1982, τ. Α΄, σ. 245).
 
-![Description](/resources/image_10487.jpeg)
+![Description](image_10487.jpeg)
 
 Εικόνα 8.51. Υποκατηγορίες του α΄ και του πλ. α΄ ήχου, με αφετηρία το σύστημα της επταφωνίας.
 Πηγές: όπως στον Πίνακα 8.8.
@@ -1707,7 +1707,7 @@ G), συνήθως δηλώνονται με μαρτυρία του β΄ ήχο
 διάφορα είδη μεταβολών (επιμ. Hannick & Wolfram, 1985, MMB CSRM I, σειρές 565-575. Βλ. και Raasted,
 1966, σ. 26).
 
-![Description](/resources/image_10488.jpeg)
+![Description](image_10488.jpeg)
 
 Εικόνα 8.52. Μαρτυρίες «από παραλλαγής» και «από μέλους» για το φθόγγο Δι: μια φαινομενική σύγκρουση.
 Πηγές: Χρυσάφης (επιμ. Conomos, 1985, MMB CSRM II, σειρές 216-538 και σ. 74). Alexandru (2000, τ. Ι, σ. 74).
@@ -1733,8 +1733,8 @@ G), συνήθως δηλώνονται με μαρτυρία του β΄ ήχο
 
 σ. 110-122) και παρακάτω Εικόνες 8.53-54.
 
-![Description](/resources/image_10489.png)
-![Description](/resources/image_10490.jpeg)
+![Description](image_10489.png)
+![Description](image_10490.jpeg)
 
 Εικόνες 8.53-54. Αριστερά: Ανώνυμος του χφου ΕΒΕ 968, 17ος αι. (Γιαννόπουλος), φ. 179β, με το κανόνιο του α΄ έσω
 ήχου. © Εθνική Βιβλιοθήκη της Ελλάδος, Αθήνα.  Δεξιά: Κανονάκι (kanun), κατασκευασμένο στην Κωνσταντινούπολη
@@ -1772,7 +1772,7 @@ G), συνήθως δηλώνονται με μαρτυρία του β΄ ήχο
 των αποστρόφων που βρίσκεται αριστέρα, πάνω από το ίσον. Το νενανω ακολουθεί πορεία όπως οι κύριοι
 ήχοι: βλ. Εικόνες 8.55-56.
 
-![Description](/resources/image_10491.jpeg)
+![Description](image_10491.jpeg)
 
 Το ακούτε πατώντας 
 Εικόνα 8.55. Ανιχνεύοντας το Κανόνιο του α΄ έσω ήχου, σύμφωνα με τον Ανώνυμο του χφου ΕΒΕ 968, 17ος αι.
@@ -1794,7 +1794,7 @@ G), συνήθως δηλώνονται με μαρτυρία του β΄ ήχο
 
 - 
 
-![Description](/resources/image_10492.jpeg)
+![Description](image_10492.jpeg)
 
 Μπορείτε να ακούσετε το πρώτο κανόνιο πατώντας 
 Εικόνα 8.56. Τα κανόνια του πλ. β΄ ήχου (πάνω) και του νενανω (κάτω), σύμφωνα με τον Ανώνυμο του χφου ΕΒΕ 968,
@@ -1816,7 +1816,7 @@ G), συνήθως δηλώνονται με μαρτυρία του β΄ ήχο
 αναιρείτο η συνηθισμένη αλληλουχία των πολυσύλλαβων φθόγγων. Ένα παράδειγμα από την περίφημη
 Μέθοδο Στιχηραρίου του Ξένου του Κορώνη μπορεί να διευκρινίσει τα λεγόμενα: βλ. Εικόνα 8.57.α.
 
-![Description](/resources/image_10493.jpeg)
+![Description](image_10493.jpeg)
 
 Εικόνα 8.57.α. Απόσπασμα από τη «Μέθοδο Στιχηραρίου» του Ξένου Κορώνη, από το χφο ΕΒΕ 2406, αυτόγραφο του
 Ματθαίου μοναχού και δομεστίκου από την Ι.Μ. Τιμίου Προδρόμου, Σέρρες, έτ. 1453, φ. 9r.
@@ -1829,7 +1829,7 @@ G), συνήθως δηλώνονται με μαρτυρία του β΄ ήχο
 
 459
 
-![Description](/resources/image_10494.jpeg)
+![Description](image_10494.jpeg)
 
 Εικόνα 8.57.β. Απόσπασμα από τη «Μέθοδο Στιχηραρίου» του Ξένου Κορώνη, σύμφωνα με το χφο ΕΒΕ 2406, φ. 9α
 (κώλα 18-21 από συνολικά 23 φράσεις πάνω στις λέξεις «Συμεὼν τὸν ἰσάγγελον»). Συνοδεύεται από μεταγραμματισμό,
@@ -1843,8 +1843,8 @@ G), συνήθως δηλώνονται με μαρτυρία του β΄ ήχο
 από το σύστημα κατά τριφωνία, το οποίο προσεγγίζεται μέσα από τη διπλοπαραλλαγή (εδώ το νανα είναι στο
 Δι-G):
 
-![Description](/resources/image_10495.jpeg)
-![Description](/resources/image_10496.jpeg)
+![Description](image_10495.jpeg)
+![Description](image_10496.jpeg)
 
 Εικόνα 8.58. Μαρτυρίες κατά το σύστημα του τροχού και κατά το σύστημα της τριφωνίας. Στην παραλλαγή, οι μαρτυρίες
 επαναλαμβάνονται σε διαστήματα πέμπτης, ενώ στη διπλοπαραλλαγή σε διαστήματα τετάρτης, σύμφωνα με τον κανόνα:
@@ -1864,7 +1864,7 @@ To ζήτημα των μαρτυριών, άρρηκτα συνδεδεμένο
 συστηματοποίησης της οκταηχίας, προσπαθώντας ταυτόχρονα να διασώζει τα πατροπαράδοτα ακούσματά
 της:
 
-![Description](/resources/image_10497.png)
+![Description](image_10497.png)
 
 Άλλαξε ο τρόπος της παραλλαγής: οι πολυσύλλαβοι φθόγγοι α[α]ες, ]εα ]ες κτλ.
 αντικαταστάθηκαν με τους μονοσύλλαβους φθόγγους Πα, Βου, Γα, Δι κτλ.
@@ -1894,15 +1894,15 @@ To ζήτημα των μαρτυριών, άρρηκτα συνδεδεμένο
 
 461
 
-![Description](/resources/image_10498.png)
-![Description](/resources/image_10499.png)
-![Description](/resources/image_10500.png)
-![Description](/resources/image_10501.png)
-![Description](/resources/image_10502.png)
-![Description](/resources/image_10503.png)
+![Description](image_10498.png)
+![Description](image_10499.png)
+![Description](image_10500.png)
+![Description](image_10501.png)
+![Description](image_10502.png)
+![Description](image_10503.png)
 
-![Description](/resources/image_10504.jpeg)
-![Description](/resources/image_10505.jpeg)
+![Description](image_10504.jpeg)
+![Description](image_10505.jpeg)
 
 Εικόνες 8.59-60. Κανόνια κλιμάκων του δευτέρου ήχου (αριστερά: 64 ηχομόρια συνολικά) και του πλ. β΄ ήχου (στη μέση:
 68 ηχομόρια συνολικά), σύμφωνα με το Χρύσανθο. Το πρόβλημα της ελλιπούς θεωρητικοποίησης του β΄ ήχου αναφέρεται
@@ -1921,8 +1921,8 @@ To ζήτημα των μαρτυριών, άρρηκτα συνδεδεμένο
 παλαιούς μουσικούς, καλλιεργώντας την ιστορική μνήμη, προς αποφυγή δημιουργίας χάσματος ανάμεσα
 στην παλαιότερη και τη νέα συστηματοποίηση των ήχων: βλ. Εικόνα 8.61.
 
-![Description](/resources/image_10506.jpeg)
-![Description](/resources/image_10507.jpeg)
+![Description](image_10506.jpeg)
+![Description](image_10507.jpeg)
 
 Εικόνα 8.61. Η ενιαία χρωματική παραλλαγή για το β΄ και πλ. β΄ ήχο κατά το Παλαιό Σύστημα, μεταγραμμένη στην
 αναλυτική γραφή του Νέου Συστήματος. Πηγή: Χρύσανθος (1832, § 246). Για περαιτέρω ανάγνωση σχετικά με την
@@ -1998,7 +1998,7 @@ To ζήτημα των μαρτυριών, άρρηκτα συνδεδεμένο
 Κριτήριο αξιολόγησης 13:
 Άσκηση περιγραφής του Σπαράγματος Zographense 21
 
-![Description](/resources/image_10508.jpeg)
+![Description](image_10508.jpeg)
 
 # 
 
@@ -2380,7 +2380,7 @@ xxv Η αρχή του ηχήματος μας είναι άγνωστη. Σίγ
 στην παλαιοβυζαντινή σημειογραφία, πρβλ. Troelsgård (1995).
 xxvi
 
-![Description](/resources/image_10509.jpeg)
+![Description](image_10509.jpeg)
 
 xxvii Για την περιγραφή αυτού του χφου, πρβλ. Στάθης (1989, σ. 169-188). Πολίτης και Πολίτη (1991, σ. 457-469).
 xxviii Για τη φωτογράφιση ευχαριστούμε τον κ. Δημοσθένη Σπανουδάκη.

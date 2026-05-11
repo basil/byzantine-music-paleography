@@ -52,7 +52,7 @@ of it, in the form of a music-educational presentation.vii
 
 227
 
-![Description](/resources/image_6496.jpeg)
+![Description](image_6496.jpeg)
 
 #    &  
 
@@ -116,7 +116,7 @@ transcription and proposed restoration of the text by P. Sarischouli (Figures 5.
 
 5.
 
-![Description](/resources/image_6497.jpeg)
+![Description](image_6497.jpeg)
 
 Figure 5.2.a. Papyrus Berolinensis 21319, side → (recto, running parallel to the fibres of the papyrus), 6th/7th or 8th c., of unknown provenance, with a fragment
 of a Theotokion troparion in a right-sloping majuscule book hand. A kind of primitive notation is visible, consisting of dots above some
@@ -139,7 +139,7 @@ Sources: The clarifications are based on Sarischouli (1995, pp. 48-56).
 
 5.
 
-![Description](/resources/image_6498.jpeg)
+![Description](image_6498.jpeg)
 
 Figure 5.2.b. Papyrus Berolinensis 21319, side ↓ (verso, writing running perpendicular to the fibres of the papyrus), 6th/7th or 8th c., of unknown provenance, with a fragment
 of two Theotokion troparia in a right-sloping majuscule book hand. In the third line there is an abbreviation of the word K(YΡΙΟ)Σ.
@@ -149,12 +149,12 @@ Sources: The clarifications are based on Sarischouli (1995, pp. 48-56).
 
 - © Staatliche Museen zu Berlin - Ägyptisches Museum und Papyrussammlung, Scan: Berliner Papyrusdatenbank, P 21319. 231
 
-![Description](/resources/image_6499.jpeg)
+![Description](image_6499.jpeg)
 
 Di
 
-![Description](/resources/image_6500.jpeg)
-![Description](/resources/image_6501.jpeg)
+![Description](image_6500.jpeg)
+![Description](image_6501.jpeg)
 
 Figures 5.3-4. Diplomatic transcription (left) and restoration of the text (right) of the Theotokion troparia from Papyrus Berolinensis 21319, by Panagiota
 Sarischouli. For the special symbols used in the edition, cf. ch. 2, section 2.5. of the present book.
@@ -200,10 +200,10 @@ Table 5.1 records the signs that appear in the five Coptic manuscripts.
 |Shape|Intervallic value|Shape|Intervallic value|Shape|Comments|
 ||1 voice||1 voice?|•|Dot placed above the text, perhaps as a sign|
 
-![Description](/resources/image_6502.jpeg)
-![Description](/resources/image_6503.jpeg)
-![Description](/resources/image_6504.jpeg)
-![Description](/resources/image_6505.jpeg)
+![Description](image_6502.jpeg)
+![Description](image_6503.jpeg)
+![Description](image_6504.jpeg)
+![Description](image_6505.jpeg)
 
 2 voices
 
@@ -211,8 +211,8 @@ Table 5.1 records the signs that appear in the five Coptic manuscripts.
 |---|---|---|---|
 ||4 voices||;|
 
-![Description](/resources/image_6506.jpeg)
-![Description](/resources/image_6507.jpeg)
+![Description](image_6506.jpeg)
+![Description](image_6507.jpeg)
 
 5 voices
 
@@ -225,11 +225,11 @@ voices?
 
 of repetition?
 
-![Description](/resources/image_6508.jpeg)
-![Description](/resources/image_6509.jpeg)
-![Description](/resources/image_6510.jpeg)
-![Description](/resources/image_6511.jpeg)
-![Description](/resources/image_6512.jpeg)
+![Description](image_6508.jpeg)
+![Description](image_6509.jpeg)
+![Description](image_6510.jpeg)
+![Description](image_6511.jpeg)
+![Description](image_6512.jpeg)
 
 Table 5.1. The signs of the notation of Hermoupolis and their possible intervallic values, always in relation to the
 base and not to the preceding note, according to I. Papathanasiou and N. Boukas.xiii
@@ -241,7 +241,7 @@ As an example for the study of this notation, the ms P. Rylands Copt. 25r was se
 the first musical record of the hymn Ἐπὶ σοὶ χαίρει, Κεχαριτωμένη (Figure 5.5).xiv The hymn
 is attributed to Saint John of Damascus (ca. 675-ca. 753/4).xv
 
-![Description](/resources/image_6513.jpeg)
+![Description](image_6513.jpeg)
 
 #   &
 
@@ -263,7 +263,7 @@ megalynarion of the Divine Liturgy of Basil the Great (Ἱερατικόν, 2004
 since the words of the hymn were a source of inspiration not only for Byzantine and post-Byzantine
 composers, but also for icon painters (see Figure 5.6).
 
-![Description](/resources/image_6514.png)
+![Description](image_6514.png)
 
 Figure 5.6. “Ἐπὶ σοὶ χαίρει,” iconographic sketch by G. Tzimopoulos & Aik. Ioannidou (2016), based on
 a corresponding post-Byzantine icon of the Cretan School, from Mezzojuso in Sicily (photograph in:
@@ -283,8 +283,8 @@ mode, the third mode, etc., follow in the same way, up to the plagal fourth mode
 At the same time, the Garrett 24 Palimpsest is also of special interest for
 tracing the beginnings of Byzantine notation: see Figure 5.7.
 
-![Description](/resources/image_6515.jpeg)
-![Description](/resources/image_6516.jpeg)
+![Description](image_6515.jpeg)
+![Description](image_6516.jpeg)
 
 Figure 5.7. The palimpsest codex of the Firestone Library, Princeton, Garrett Collection, no. 24, fol. 68v. The ms
 contains, as undertexts, fragments of various texts in Greek and a few leaves in Syriac. Among the
@@ -314,7 +314,7 @@ beginning of their final section, introducing the conclusion of the piece.xix A 
 Grottaferrata EγII with Middle Byzantine notation reveals that the heirmos Ὑμνῶ σε carries on the
 corresponding word the thesis known as thematismos eso (θεματισμός ἔσω): see Figure 5.8.
 
-![Description](/resources/image_6517.jpeg)
+![Description](image_6517.jpeg)
 
 # G# a h dc h
 
@@ -349,7 +349,7 @@ double or triple vertical strokes (British Library, Additional MS 24.378: Raaste
 Below is an example of a sticheron with Theta Notation, from the ms of the Holy Monastery of the Great
 Lavra Γ 12 of the 10th or early 11th c.: see Figure 5.9.
 
-![Description](/resources/image_6518.jpeg)
+![Description](image_6518.jpeg)
 
 # 
 
@@ -382,7 +382,7 @@ grave and others: see Figures 5.11-12.
 
 239
 
-![Description](/resources/image_6519.jpeg)
+![Description](image_6519.jpeg)
 
 Figure 5.10. “Double” notation in the Syro-Melkite manuscript Parisinus syriacus 136, fol. 161r (because the book
 is read from right to left), year 1521, with the sticheron “Τῶν μοναστῶν τὰ πλήθη,” in honor of Saint Anthony
@@ -391,8 +391,8 @@ France.
 
 240
 
-![Description](/resources/image_6520.jpeg)
-![Description](/resources/image_6521.jpeg)
+![Description](image_6520.jpeg)
+![Description](image_6521.jpeg)
 
 Figures 5.11a-b. Forms of primitive notation in a Syro-Melkite manuscript: Berlin, Sachau 100, 14th-15th c., fol. 145v (we first read the leaf that is
 on the right) and 146r (left), with the eighth Eothinon “Τὰ τῆς Μαρίας δάκρυα”.
@@ -401,12 +401,12 @@ Sources: <http://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN730225240
 
 241
 
-![Description](/resources/image_6522.jpeg)
+![Description](image_6522.jpeg)
 
 The collection of church music Berlin Sachau 100, 14th-15th c., presents, for example, in the same Syriac word , which corresponds
 to the Greek δι' ἧς, various neumatizations, perhaps in relation to different levels of melismaticity in musical performance (see Figure 5.12):
 
-![Description](/resources/image_6523.jpeg)
+![Description](image_6523.jpeg)
 
 1. 19v
 
@@ -416,7 +416,7 @@ fol. 33v
 
 fol. 71r
 
-![Description](/resources/image_6524.jpeg)
+![Description](image_6524.jpeg)
 
 Figure 5.12. Proto-Byzantine neumatizations in the Syro-Melkite ms Berlin, Sachau 100, 14th - 15th c. Apart from the black and red little strokes, on fol. 70r
 a black Θ or Φ is also visible.
@@ -425,8 +425,8 @@ and Raasted (1979, A, p. 18 and B, p. 55, para. 3). © Berlin, Staatsbibliothek 
 
 242
 
-![Description](/resources/image_6525.jpeg)
-![Description](/resources/image_6526.jpeg)
+![Description](image_6525.jpeg)
+![Description](image_6526.jpeg)
 
 # 8. Cypro-Palestinian Notation
 
@@ -439,7 +439,7 @@ This local musical notation operates with the acute, the grave, and the
 circumflex, which are placed in various combinations above the words of the hymnographic text:
 see Figures 5.13-15.
 
-![Description](/resources/image_6527.jpeg)
+![Description](image_6527.jpeg)
 
 Figure 5.13. Liturgical parchment fragment from the archive of D. Chr. Kapadochos, ms no. 1, fol. 2, second half of the 12th c., with
 Cypro-Palestinian notation. Possible provenance: from the “broader area of Cyprus-Palestine”
@@ -454,12 +454,12 @@ Hall, Academy of Athens, Publications of the Centre for Research in Greek Folklo
 
 102). Athens, p. 94, pl. A2.
 
-![Description](/resources/image_6528.jpeg)
+![Description](image_6528.jpeg)
 
 Figure 5.14. Detail of the Kapadochos 1 fragment, fol. 2. © Department of Music Studies of the National and
 Kapodistrian University of Athens. Photograph source: Papathanasiou (2003, p. 94, detail of pl. A2).
 
-![Description](/resources/image_6529.jpeg)
+![Description](image_6529.jpeg)
 
 Figure 5.15. A transcription of the upper troparion, with division into cola on the basis of the punctuation marks of the ms, and with
 correction of spelling errors. In the third line from the end, the first syllable of the word “θεουργω” is
@@ -480,7 +480,7 @@ As Alexandra Nikiforova and Tinatin Chronz emphasize, this manuscript constitute
 unique 9th-century collection, with readings, prayers, and chants of the Hagiopolite type, probably from
 the region of Egypt: see Figures 5.16-17.
 
-![Description](/resources/image_6530.jpeg)
+![Description](image_6530.jpeg)
 
 Figure 5.16. Codex Sinaiticus Liturgicus RNB Gr. 44, fol. 34v, 9th c., with the beginning of the reading from the Gospel according to
 Matthew 7, 1-3a,xxv in pointed oblique majuscule script, with double accents on some words.
@@ -493,7 +493,7 @@ Matthew 7, 1-3a,xxv in pointed oblique majuscule script, with double accents on 
 
 2.
 
-![Description](/resources/image_6531.jpeg)
+![Description](image_6531.jpeg)
 
 1.
 
@@ -520,7 +520,7 @@ readings (Apostolos and Gospel readings: see Figures 5.16-18), and
 a more complex and denser one, which appears in some prokeimena,xxvii and could possibly
 be described as a local (Egyptian?) variety of “Double” notation: see Figure 5.19.
 
-![Description](/resources/image_6532.jpeg)
+![Description](image_6532.jpeg)
 
 Figure 5.18. Copy from the codex Sinaiticus Liturgicus RNB Gr. 44, fol. 34v (fragment from the Gospel according to Matthew
 7, 2-3a),xxviii in pointed oblique majuscule script, with double accents on some words (resembling
@@ -528,7 +528,7 @@ Cypro-Palestinian notation). On the second syllable of the second line: small gr
 line the iota has either a trema/diaeresis (prosodic sign), or a diple. The former is the more probable, since above
 and to the right on the Τ there is a small grave. On the second syllable of the word ΒΛΕΠΕΙΣ there is a small circumflex.
 
-![Description](/resources/image_6533.jpeg)
+![Description](image_6533.jpeg)
 
 Figure 5.19. Copy from the codex Sinaiticus Liturgicus RNB Gr. 44, fol. 37r: Prokeimenon in the third mode (Psalm 70, 9)
 and verse (Psalm 30, 2),xxix with “Double” notation (of Egyptian type?).
@@ -538,11 +538,11 @@ are the following: see Table 5.2.
 
 # Simple signs
 
-![Description](/resources/image_6534.jpeg)
+![Description](image_6534.jpeg)
 
 # Composite signs
 
-![Description](/resources/image_6535.jpeg)
+![Description](image_6535.jpeg)
 
 247
 
@@ -563,7 +563,7 @@ In the fragment in question as well, in the sticheron Πάντα σου θαυμ
 more than one accent are found. In the same sticheron there is a “ΔΙΟ” between two punctuation marks and with a
 double grave on the final syllable (Figure 5.20).
 
-![Description](/resources/image_6536.jpeg)
+![Description](image_6536.jpeg)
 
 Figure 5.20. Sinai, New Finds MG 37, fragment of a Tropologion, 9th-10th c.: the word ΔΙΟ as an independent colon with
 a melisma on the final syllable.
@@ -576,7 +576,7 @@ neumatization of the syllables, with double acutes. In the penultimate word, “
 combination of double and single acute, which in Old Byzantine notation would become known by the
 name “dyo” (δύο):xxxi see Figure 5.21.
 
-![Description](/resources/image_6537.jpeg)
+![Description](image_6537.jpeg)
 
 Tropologion, 9th-10th c.: the end of the sticheron “Πάντα σου
 
@@ -611,7 +611,7 @@ of Alexandria (around the year 400 AD), there existed the Alexandrian system, ac
 unaccented syllables could be rendered with the grave, while accented syllables with an acute or circumflex,
 or even without an accent, leading in some cases to words with multiple prosodic signs: see Figure 5.22.
 
-![Description](/resources/image_6538.png)
+![Description](image_6538.png)
 
 Figure 5.22. Cases of accentuation, according to the Alexandrian system. The final example in minuscule
 script is from Byzantine sources, which mention the specific word as an example of an earlier form of
@@ -944,7 +944,7 @@ xxix Identification of the passages from: Nikiforova & Chronz (forthcoming).
 xxx Double bareiai on individual syllables for highlighting the structure of a period and for indicating the manner
 of its recitation we also saw in a patristic text from an unpublished Athonite manuscript, in the following form:
 
-![Description](/resources/image_6539.jpeg)
+![Description](image_6539.jpeg)
 
 We thank Mr St. Alexandrou for access to the photograph.
 xxxi Cf. the list of melodies from the manuscript Lavra Γ 67, fol. 159r: chap. 6,

@@ -98,7 +98,7 @@ weight: 20
 
 76
 
-![Description](/resources/image_2445.jpeg)
+![Description](image_2445.jpeg)
 
 # Εικόνα 2.2. Πάπυρος (Cyperus papyrus) στα Kew Gardens στο Λονδίνο
 
@@ -108,7 +108,7 @@ weight: 20
 παπύρινα φύλλα, τα οποία, κολλημένα μεταξύ τους, σχημάτιζαν παπύρινους κυλίνδρους (ρολά) διάφορου
 μήκους (2-5 μέτρων)xv και ποικίλης ποιότητας: βλ. Εικ. 2.3.xvi
 
-![Description](/resources/image_2446.png)
+![Description](image_2446.png)
 
 ## Εικόνα 2.3. Μελετώντας παπύρους σε μια ελληνιστική βιβλιοθήκη: αντίγραφο Γεωργίου Τζημόπουλου & Αικατερίνας
 
@@ -129,7 +129,7 @@ weight: 20
 πυρκαγιά της, κατά τον εμφύλιο πόλεμο στην Αίγυπτο μεταξύ Κλεοπάτρας και του αδελφού της Πτολεμαίου
 ΙΓ΄, στον οποίο επέμβη δραστικά ο Ιούλιος Καίσαρ, το έτος 48 π.Χ.xviii (βλ. Χάρτη 2.1).
 
-![Description](/resources/image_2447.jpeg)
+![Description](image_2447.jpeg)
 
 Χάρτης Μερικά πολύ γνωστά κέντρα παραγωγής και διακίνησης υλικού γραφής και μεγάλες βιβλιοθήκες κατά την
 
@@ -160,7 +160,7 @@ Grenfell και Arthur Hunt από το Queen's College της Οξφόρδης 
 
 78
 
-![Description](/resources/image_2448.jpeg)
+![Description](image_2448.jpeg)
 
 Εικόνα 2.4. Ο Πάπυρος του Δερβενίου (τέλη 4ου αι. π.Χ.), που προέρχεται από τον Τάφο Α Δερβενίου. Ο κύλινδρος
 παπύρου είναι σε απανθρακωμένη μορφή, λόγω της πυράς της ταφής (Τσαντσάνογλου, 2013, σ. 8). Είναι γνωστός και ως
@@ -193,8 +193,8 @@ H μεγάλη πλειοψηφία των παπύρων δεν έχει ακό
 
 79
 
-![Description](/resources/image_2449.jpeg)
-![Description](/resources/image_2450.jpeg)
+![Description](image_2449.jpeg)
+![Description](image_2450.jpeg)
 
 Εικόνες 2.5-6. Αριστερά: Τεντωμένο δέρμα κατσικιού για κατασκευή περγαμηνής. Δεξιά: Jost Amman και Hans Sachs,
 Φρανκφούρτη, 1568: Η κατασκευή της περγαμηνής.
@@ -204,7 +204,7 @@ H μεγάλη πλειοψηφία των παπύρων δεν έχει ακό
 Το όνομα περγαμηνή συσχετίζεται ήδη από την Αρχαιότητα με την πόλη Πέργαμος στη δυτική Μικρά
 (βλ. Χαρτές 2.1. και 2.2).
 
-![Description](/resources/image_2451.jpeg)
+![Description](image_2451.jpeg)
 
 Ασία
 
@@ -238,7 +238,7 @@ purpurei-πορφυροί κώδικες του χρυσού αιώνα του �
 πάνω στα οποία τα κείμενα είναι γραμμένα με γράμματα χρυσά ή/και αργυρά. Πολλές φορές, τέτοια
 χειρόγραφα είναι πλουσίως κατακοσμημένα με πολύχρωμες μικρογραφίες (βλ. Εικόνα 2.7).xxxiv
 
-![Description](/resources/image_2452.jpeg)
+![Description](image_2452.jpeg)
 
 Εικόνα 2.7. Codex purpureus Rossanensis, μέσα 6ου αι., φ. 8β, με μεγαλογράμματη γραφή και μικρογραφία απεικονίζοντας
 τον Κύριο Ιησού Χριστό μπροστά στον Πιλάτο. Μουσείο Αρχιεπισκοπής Rossano, Καλαβρία της Ιταλίας. Πιθ. προέλευση
@@ -258,7 +258,7 @@ purpurei-πορφυροί κώδικες του χρυσού αιώνα του �
 μπαμπάκι. Ο τρόπος κατασκευής του χαρτιού (βλ. Εικόνα 2.8) έμεινε μυστικός μέχρι τα μέσα του 8ου αιώνα,
 όταν το έμαθαν οι Άραβες της Βαγδάτης από αιχμαλώτους Κινέζους κατασκευαστές χαρτιού.xxxvi
 
-![Description](/resources/image_2453.jpeg)
+![Description](image_2453.jpeg)
 
 Εικόνα 2.8. Η παραδοσιακή διαδικασία παραγωγής χαρτιού στην Κίνα, με βάση μερικά σχέδια του 17ου αιώνα.
 Πηγές: <https://commons.wikimedia.org/wiki/File:Making_Paper.gif> (8.8.2016). Gaur (1994, σ. 41-42).xxxvii
@@ -286,7 +286,7 @@ purpurei-πορφυροί κώδικες του χρυσού αιώνα του �
 Οι υδάτινες γραμμές, οι ραβδώσεις και τα υδατόσημα φαίνονται καθαρά όταν κρατάμε το χαρτί προς
 το φως του ηλίου ή μιας λάμπας: βλ. Εικόνα 2.9.
 
-![Description](/resources/image_2454.jpeg)
+![Description](image_2454.jpeg)
 
 Εικόνα 2.9. Απόσπασμα σύγχρονου χαρτιού με υδατόσημο.xl
 
@@ -295,7 +295,7 @@ purpurei-πορφυροί κώδικες του χρυσού αιώνα του �
 Ένα βασικό λεξικό, με πάνω από 16.000 σχέδια υδατοσήμων από τα τέλη του 13ου αιώνα μέχρι το 1600,
 προσέφερε στην επιστημονική κοινότητα ο Γάλλος παλαιογράφος C.M. Briquet (βλ.Εικόνα 2.10).xli
 
-![Description](/resources/image_2455.jpeg)
+![Description](image_2455.jpeg)
 
 Εικόνες 2.10. Σχέδια υδατοσήμων με το μοτίβο του δικέφαλου αετού. Πηγή: Briquet (1907, τ. Α΄, ψηφιακή σ. 304, σχέδια
 
@@ -313,7 +313,7 @@ purpurei-πορφυροί κώδικες του χρυσού αιώνα του �
 σε κρατικά έγγραφα, ήταν για μεγάλο διάστημα το προνόμοιο του αυτοκράτορα (βλ. Εικόνα 2.11) και η
 κατάχρησή του τιμωρούνταν με αυστηρές ποινές.xliii
 
-![Description](/resources/image_2456.jpeg)
+![Description](image_2456.jpeg)
 
 Εικόνα 2.11. Απόσπασμα από χρυσόβουλλο του Αρχείου της Ι.Μ. Ιβήρων, 14 Ιουλίου 1351, σε περγαμηνή, με την
 αυτοκρατορική υπογραφή σε κόκκινο μελάνι: «† Ἰω(ά)ν(ης) ἐν χ(ριστ)ῷ τῷ θ(ε)ῷ πιστὸς βασιλεὺς καὶ
@@ -340,7 +340,7 @@ of Europe Thessaloniki 1997, σ. 516-517, εικ. 13.17. © Ιερά Μονή Ι
 
 κοσμούν τα πολυτελή βυζαντινά και μεταβυζαντινά χειρόγραφα, μουσικά ή άλλα.xlv
 
-![Description](/resources/image_2457.jpeg)
+![Description](image_2457.jpeg)
 
 Εικόνα 2.12. Χρήση μαύρου και κόκκινου μελανιού σε βυζαντινά μουσικά χειρόγραφα: Η πρώτη χρονολογημένη
 Παπαδική, χφο ΕΒΕ 2458, φ. 11r, έτ. 1336: «† Ἀκολουθίαι συντεθειμέν(αι) παρὰ τοῦ μαΐστ(ο)ρο(ς) κυρ(οῦ)
@@ -356,7 +356,7 @@ of Europe Thessaloniki 1997, σ. 516-517, εικ. 13.17. © Ιερά Μονή Ι
 
 85
 
-![Description](/resources/image_2458.jpeg)
+![Description](image_2458.jpeg)
 
 Εικόνα 2.13. Ο Ευαγγελιστής Λουκάς. Αντίγραφο Γεωργίου Τζημόπουλου & Αικατερίνης Ιωαννίδου (2016), από
 τοιχογραφία του Μανουήλ Πανσέληνου στο Πρωτάτο, γύρω στο 1290. Από υλικά και όργανα γραφής απεικονίζονται το
@@ -398,8 +398,8 @@ of Europe Thessaloniki 1997, σ. 516-517, εικ. 13.17. © Ιερά Μονή Ι
 διπλωματικά έγγραφα (π.χ. χρυσόβουλλα), για υμνογραφικά κείμενα όπως το κοντάκιο, ή και για άλλα
 λειτουργικά βιβλία, όπως π.χ. τις διάφορες Θείες Λειτουργίες του βυζαντινού τύπου.
 
-![Description](/resources/image_2459.jpeg)
-![Description](/resources/image_2460.jpeg)
+![Description](image_2459.jpeg)
+![Description](image_2460.jpeg)
 
 Εικόνες 2.14-15. Αριστερά: Βυζαντινό λειτουργικό ειλητάριο σε μικρογράμματη γραφή, 13ος αι., Βυζαντινό & Χριστιανικό
 Μουσείο Αθηνών.  Δεξιά: Χριστός Παντοκράτωρ, εγκαυστική εικόνα από την Ι.Μ. Αγίας Αικατερίνης στο Σινά, α΄ μισό
@@ -430,7 +430,7 @@ _Parchement_scroll%2C_13th_century_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_12.jpg
 Ξηροποτάμου κ.ά.), της Ι.Μ. Αγίας Αικατερίνης στο Σινά, διάφορων μονών της Κάτω Ιταλίας, Κρήτης,
 Κύπρου, των Παραδουναβίων Ηγεμονιών κ.ά.liii
 
-![Description](/resources/image_2461.png)
+![Description](image_2461.png)
 
 Χάρτης 2.3. Τοποθεσίες της Ιεράς Μονής Στουδίου (νοτιοδυτικά) και της Ιεράς Μονής Οδηγών/Οδηγήτριας (ανατολικά)
 στη Βυζαντινή Κωνσταντινούπολη, όπου λειτουργούσαν σημαντικά scriptoria.
@@ -467,19 +467,19 @@ _Parchement_scroll%2C_13th_century_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_12.jpg
 δίφυλλα συρραμένα μεταξύ τους. Η πιο συνηθισμένη μορφή τεύχους είναι το τετράδιον, το οποίο
 αποτελείται από 4 δίφυλλα = 8 φύλλα = 16 σελίδες (βλ. Σχήμα 2.8).
 
-![Description](/resources/image_2462.jpeg)
-![Description](/resources/image_2463.jpeg)
-![Description](/resources/image_2464.jpeg)
+![Description](image_2462.jpeg)
+![Description](image_2463.jpeg)
+![Description](image_2464.jpeg)
 
 Σχήματα 2.1-3. Από την επεξεργασμένη δορά ενός προβάτου στα τέσσερα φύλλα ενός κώδικα: η πιο συνηθισμένη μορφή
 διπλώματος μιας περγαμηνής σε τέσσερα φύλλα (in-quarto). Με το δίπλωμα σχηματίζονται πρώτα δύο δίφυλλα (ένα
 δυάδιο) και μετά τέσσερα φύλλα. Τα τέσσερα φύλλα αριθμούνται με τις δύο όψεις τους, δηλαδή ως φ. 1α ή 1r (recto) και 1β
 ή 1v (verso), 2a και 2β (ή 2r και 2v), 3a και 3β (ή 3r-v), 4α-β (ή 4r-v), και αποτελούν συνολικά οκτώ σελίδες.lvi
 
-![Description](/resources/image_2465.jpeg)
-![Description](/resources/image_2466.jpeg)
-![Description](/resources/image_2467.jpeg)
-![Description](/resources/image_2468.jpeg)
+![Description](image_2465.jpeg)
+![Description](image_2466.jpeg)
+![Description](image_2467.jpeg)
+![Description](image_2468.jpeg)
 
 Σχήματα 2.4-7. Από την επεξεργασμένη δορά π.χ. ενός μοσχαριού στα οκτώ φύλλα ενός κώδικα: μια συνηθισμένη μορφή
 διπλώματος μιας περγαμηνής σε οκτώ φύλλα (in-οctavo). Με το δίπλωμα σχηματίζεται πρώτα ένα μεγάλο δίφυλλο (δυάδιο),
@@ -489,7 +489,7 @@ _Parchement_scroll%2C_13th_century_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_12.jpg
 το οποίο με τη σειρά του διπλώνεται ακόμα δύο φορές για να δημιουργήσει ένα τετράδιο. Τα οκτώ φύλλα που προκύπτουν,
 αριθμούνται με τις δύο όψεις τους από το 1α ως το 8β (ή 1r-8v). Συνολικά έχουμε 16 σελίδες.lvii
 
-![Description](/resources/image_2469.jpeg)
+![Description](image_2469.jpeg)
 
 Σχήμα 2.8. Τέσσερα δίφυλλα συναρμολογούνται για τη σύνθεση ενός τετραδίου τεύχους.lviii
 
@@ -507,8 +507,8 @@ _Parchement_scroll%2C_13th_century_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_12.jpg
 κωδίκων, μπορεί να βρεθεί στο θεμελιώδες έργο του Julien Leroy, σε επεξεργασία του J.-H. Sautel (1995), με
 τίτλο: Répertoire de réglures dans les manuscrits grecs sur parchemin (βλ. Σχήματα 2.9-10).
 
-![Description](/resources/image_2470.jpeg)
-![Description](/resources/image_2471.jpeg)
+![Description](image_2470.jpeg)
+![Description](image_2471.jpeg)
 
 Σχήματα 2.9-10. Δύο παραδείγματα τυποποιημένων σχεδίων χαράκωσης. Το σχέδιο αριστερά (Leroy-Sautel 00C1)
 τεκμηριώνεται π.χ. στο χφο Vaticanus graecus 1660, 10ος αι. φ. 1-393, με αγιογραφικά κείμενα, γραφέας: Ιωάννης στην
@@ -548,14 +548,14 @@ _Parchement_scroll%2C_13th_century_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_12.jpg
 σχέδια ή του πλευρικού πάχους του βιβλίου με την καταγραφή του συγγραφέα ή του τίτλου του
 κώδικα κτλ.lxi (βλ. Εικόνες 2.16-17).
 
-![Description](/resources/image_2472.jpeg)
-![Description](/resources/image_2473.jpeg)
+![Description](image_2472.jpeg)
+![Description](image_2473.jpeg)
 
 Εικόνα 2.16. Υστεροβυζαντινή στάχωση από μετάξι, με γόμφους, σε αντιγραφή (σκίτσο των Γεωργίου Τζημόπουλου &
 Αικατερίνης Ιωαννίδου [2016]). Στη ράχη του βιβλίου (βλ. αριστερά, κάτω) διακρίνεται το μονόγραμμα των Παλαιολόγων:
 ΠΑΛΓ. lxii
 
-![Description](/resources/image_2474.jpeg)
+![Description](image_2474.jpeg)
 
 Εικόνα 2.17. Μεταβυζαντινή στάχωση από δέρμα, με έντυπες σφραγίδες και με κλείστρ (διασώθηκε μόνο μία). Ανθολόγιο
 του Ευσταθίου, Πρωτοψάλτου της Ι.Μ. Πούτνας (Μολδαβία της Ρουμανίας), έτ. 1511, το οποίο διασώζεται στο Κρατικό
@@ -566,7 +566,7 @@ _Parchement_scroll%2C_13th_century_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_12.jpg
 
 91
 
-![Description](/resources/image_2475.jpeg)
+![Description](image_2475.jpeg)
 
 Εικόνα 2.18. Πολυτελής σύγχρονη βιβλιοδεσία Ευαγγελίου, σε βυζαντινό στυλ: στάχωση με χρυσό, μαργαριτάρια, πετρίδια,
 εικονίδια, και με την επιγραφή: «Ι(ΗCOY)C X(ΡΙCTO)C NIKA», σε σταυροειδές σχήμα.lxiv
@@ -585,7 +585,7 @@ _Parchement_scroll%2C_13th_century_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_12.jpg
 
 92
 
-![Description](/resources/image_2476.jpeg)
+![Description](image_2476.jpeg)
 
 Εικόνα 2.19. Μικρογραφία του Παντοκράτορα στην αρχή του Μεγάλου Εσπερινού, από την Ανθολογία της Ι. Μ.
 Παντοκράτορος, αρ. 206, φ. 25α (στο ανοιχτό βιβλίο φαίνεται απόσπασμα από το κατά Ματθαίον Ευαγγέλιο, κεφ. 11, 29.2,
@@ -639,7 +639,7 @@ applied to spectral images) κ.ά. Οι διάφορες τεχνικές στη
 
 94
 
-![Description](/resources/image_2477.jpeg)
+![Description](image_2477.jpeg)
 
 Εικόνα 2.20. Ψευδοχρωματιστή εικόνα (Pseudocolor image) από τον παλίμψηστο κώδικα Nitriensis, British Library, Add.
 17211, φ. 20α ( τέλη 5ου αι., πιθ. Αίγυπτος, Νιτρία).
@@ -895,606 +895,606 @@ del Millenario della Fondazione dell'Abbazia di S. Nilo a Grottaferrata.
 ||||Εικόνα 2.20. Δείγμα γραφειοκρατικής γραφής, σε απόσπασμα (αντιγραφή), από αυτοκρατορικό έγγραφο, Κωνσταντίνος Ι΄ Δούκας, έτ. 1060lxxxix||
 |Βιβλιακή|Γραφή ιδιαίτερων απαιτήσεων σε παπύρινους κυλίνδρους και σε κώδικες. Παρουσιάζει δύο τύπους: 1. ΜΕΓΑΛΟΓΡΑΜΜΑΤΗ ΒΙΒΛΙΑΚΗ, 2. μικρογράμματη βιβλιακή. Και οι δύο τύποι εμφανίζουν πολλά επιμέρους είδη: βλ. παρακάτω, Πίνακες 2.4 και 2.7.|καταγραφή-αντιγραφή κειμένων όλων των πεδίων του επιστητού (θεολογικά, νομικά, λογοτεχνικά, επιστημο-νικά, μουσικά κ.ά.)|σαφήνεια, κομψότητα, προσεγμένες αναλογίες, ευθυγράμμιση των γραμμάτων|Τα διάφορα είδη βιβλιακής γραφής υπακούουν σε αυστηρούς κανόνες, οι οποίοι καθόριζαν τις παραδόσεις των εκάστοτε βιβλιογραφικών εργαστηρίων (scriptoria).|
 
-![Description](/resources/image_2478.png)
-![Description](/resources/image_2479.png)
-![Description](/resources/image_2480.png)
-![Description](/resources/image_2481.png)
-![Description](/resources/image_2482.png)
-![Description](/resources/image_2483.png)
-![Description](/resources/image_2484.png)
-![Description](/resources/image_2485.png)
-![Description](/resources/image_2486.png)
-![Description](/resources/image_2487.png)
-![Description](/resources/image_2488.png)
-![Description](/resources/image_2489.png)
-![Description](/resources/image_2490.png)
-![Description](/resources/image_2491.png)
-![Description](/resources/image_2492.png)
-![Description](/resources/image_2493.png)
-![Description](/resources/image_2494.png)
-![Description](/resources/image_2495.png)
-![Description](/resources/image_2496.png)
-![Description](/resources/image_2497.png)
-![Description](/resources/image_2498.png)
-![Description](/resources/image_2499.png)
-![Description](/resources/image_2500.png)
-![Description](/resources/image_2501.png)
-![Description](/resources/image_2502.png)
-![Description](/resources/image_2503.png)
-![Description](/resources/image_2504.png)
-![Description](/resources/image_2505.png)
-![Description](/resources/image_2506.png)
-![Description](/resources/image_2507.png)
-![Description](/resources/image_2508.png)
-![Description](/resources/image_2509.png)
-![Description](/resources/image_2510.png)
-![Description](/resources/image_2511.png)
-![Description](/resources/image_2512.png)
-![Description](/resources/image_2513.png)
-![Description](/resources/image_2514.png)
-![Description](/resources/image_2515.png)
-![Description](/resources/image_2516.png)
-![Description](/resources/image_2517.png)
-![Description](/resources/image_2518.png)
-![Description](/resources/image_2519.png)
-![Description](/resources/image_2520.png)
-![Description](/resources/image_2521.png)
-![Description](/resources/image_2522.png)
-![Description](/resources/image_2523.png)
-![Description](/resources/image_2524.png)
-![Description](/resources/image_2525.png)
-![Description](/resources/image_2526.png)
-![Description](/resources/image_2527.png)
-![Description](/resources/image_2528.png)
-![Description](/resources/image_2529.png)
-![Description](/resources/image_2530.png)
-![Description](/resources/image_2531.png)
-![Description](/resources/image_2532.png)
-![Description](/resources/image_2533.png)
-![Description](/resources/image_2534.png)
-![Description](/resources/image_2535.png)
-![Description](/resources/image_2536.png)
-![Description](/resources/image_2537.png)
-![Description](/resources/image_2538.png)
-![Description](/resources/image_2539.png)
-![Description](/resources/image_2540.png)
-![Description](/resources/image_2541.png)
-![Description](/resources/image_2542.png)
-![Description](/resources/image_2543.png)
-![Description](/resources/image_2544.png)
-![Description](/resources/image_2545.png)
-![Description](/resources/image_2546.png)
-![Description](/resources/image_2547.png)
-![Description](/resources/image_2548.png)
-![Description](/resources/image_2549.png)
-![Description](/resources/image_2550.png)
-![Description](/resources/image_2551.png)
-![Description](/resources/image_2552.png)
-![Description](/resources/image_2553.png)
-![Description](/resources/image_2554.png)
-![Description](/resources/image_2555.png)
-![Description](/resources/image_2556.png)
-![Description](/resources/image_2557.png)
-![Description](/resources/image_2558.png)
-![Description](/resources/image_2559.png)
-![Description](/resources/image_2560.png)
-![Description](/resources/image_2561.png)
-![Description](/resources/image_2562.png)
-![Description](/resources/image_2563.png)
-![Description](/resources/image_2564.png)
-![Description](/resources/image_2565.png)
-![Description](/resources/image_2566.png)
-![Description](/resources/image_2567.png)
-![Description](/resources/image_2568.png)
-![Description](/resources/image_2569.png)
-![Description](/resources/image_2570.png)
-![Description](/resources/image_2571.png)
-![Description](/resources/image_2572.png)
-![Description](/resources/image_2573.png)
-![Description](/resources/image_2574.png)
-![Description](/resources/image_2575.png)
-![Description](/resources/image_2576.png)
-![Description](/resources/image_2577.png)
-![Description](/resources/image_2578.png)
-![Description](/resources/image_2579.png)
-![Description](/resources/image_2580.png)
-![Description](/resources/image_2581.png)
-![Description](/resources/image_2582.png)
-![Description](/resources/image_2583.png)
-![Description](/resources/image_2584.png)
-![Description](/resources/image_2585.png)
-![Description](/resources/image_2586.png)
-![Description](/resources/image_2587.png)
-![Description](/resources/image_2588.png)
-![Description](/resources/image_2589.png)
-![Description](/resources/image_2590.png)
-![Description](/resources/image_2591.png)
-![Description](/resources/image_2592.png)
-![Description](/resources/image_2593.png)
-![Description](/resources/image_2594.png)
-![Description](/resources/image_2595.png)
-![Description](/resources/image_2596.png)
-![Description](/resources/image_2597.png)
-![Description](/resources/image_2598.png)
-![Description](/resources/image_2599.png)
-![Description](/resources/image_2600.png)
-![Description](/resources/image_2601.png)
-![Description](/resources/image_2602.png)
-![Description](/resources/image_2603.png)
-![Description](/resources/image_2604.png)
-![Description](/resources/image_2605.png)
-![Description](/resources/image_2606.png)
-![Description](/resources/image_2607.png)
-![Description](/resources/image_2608.png)
-![Description](/resources/image_2609.png)
-![Description](/resources/image_2610.png)
-![Description](/resources/image_2611.png)
-![Description](/resources/image_2612.png)
-![Description](/resources/image_2613.png)
-![Description](/resources/image_2614.png)
-![Description](/resources/image_2615.png)
-![Description](/resources/image_2616.png)
-![Description](/resources/image_2617.png)
-![Description](/resources/image_2618.png)
-![Description](/resources/image_2619.png)
-![Description](/resources/image_2620.png)
-![Description](/resources/image_2621.png)
-![Description](/resources/image_2622.png)
-![Description](/resources/image_2623.png)
-![Description](/resources/image_2624.png)
-![Description](/resources/image_2625.png)
-![Description](/resources/image_2626.png)
-![Description](/resources/image_2627.png)
-![Description](/resources/image_2628.png)
-![Description](/resources/image_2629.png)
-![Description](/resources/image_2630.png)
-![Description](/resources/image_2631.png)
-![Description](/resources/image_2632.png)
-![Description](/resources/image_2633.png)
-![Description](/resources/image_2634.png)
-![Description](/resources/image_2635.png)
-![Description](/resources/image_2636.png)
-![Description](/resources/image_2637.png)
-![Description](/resources/image_2638.png)
-![Description](/resources/image_2639.png)
-![Description](/resources/image_2640.png)
-![Description](/resources/image_2641.png)
-![Description](/resources/image_2642.png)
-![Description](/resources/image_2643.png)
-![Description](/resources/image_2644.png)
-![Description](/resources/image_2645.png)
-![Description](/resources/image_2646.png)
-![Description](/resources/image_2647.png)
-![Description](/resources/image_2648.png)
-![Description](/resources/image_2649.png)
-![Description](/resources/image_2650.png)
-![Description](/resources/image_2651.png)
-![Description](/resources/image_2652.png)
-![Description](/resources/image_2653.png)
-![Description](/resources/image_2654.png)
-![Description](/resources/image_2655.png)
-![Description](/resources/image_2656.png)
-![Description](/resources/image_2657.png)
-![Description](/resources/image_2658.png)
-![Description](/resources/image_2659.png)
-![Description](/resources/image_2660.png)
-![Description](/resources/image_2661.png)
-![Description](/resources/image_2662.png)
-![Description](/resources/image_2663.png)
-![Description](/resources/image_2664.png)
-![Description](/resources/image_2665.png)
-![Description](/resources/image_2666.png)
-![Description](/resources/image_2667.png)
-![Description](/resources/image_2668.png)
-![Description](/resources/image_2669.png)
-![Description](/resources/image_2670.png)
-![Description](/resources/image_2671.jpeg)
-![Description](/resources/image_2672.jpeg)
-![Description](/resources/image_2673.jpeg)
-![Description](/resources/image_2674.jpeg)
-![Description](/resources/image_2675.jpeg)
-![Description](/resources/image_2676.jpeg)
-![Description](/resources/image_2677.jpeg)
-![Description](/resources/image_2678.jpeg)
-![Description](/resources/image_2679.jpeg)
-![Description](/resources/image_2680.jpeg)
-![Description](/resources/image_2681.jpeg)
-![Description](/resources/image_2682.jpeg)
-![Description](/resources/image_2683.jpeg)
-![Description](/resources/image_2684.jpeg)
-![Description](/resources/image_2685.jpeg)
-![Description](/resources/image_2686.jpeg)
-![Description](/resources/image_2687.jpeg)
-![Description](/resources/image_2688.jpeg)
-![Description](/resources/image_2689.jpeg)
-![Description](/resources/image_2690.jpeg)
-![Description](/resources/image_2691.jpeg)
-![Description](/resources/image_2692.jpeg)
-![Description](/resources/image_2693.jpeg)
-![Description](/resources/image_2694.jpeg)
-![Description](/resources/image_2695.jpeg)
-![Description](/resources/image_2696.jpeg)
-![Description](/resources/image_2697.jpeg)
-![Description](/resources/image_2698.jpeg)
-![Description](/resources/image_2699.jpeg)
-![Description](/resources/image_2700.jpeg)
-![Description](/resources/image_2701.jpeg)
-![Description](/resources/image_2702.jpeg)
-![Description](/resources/image_2703.jpeg)
-![Description](/resources/image_2704.jpeg)
-![Description](/resources/image_2705.jpeg)
-![Description](/resources/image_2706.jpeg)
-![Description](/resources/image_2707.jpeg)
-![Description](/resources/image_2708.jpeg)
-![Description](/resources/image_2709.jpeg)
-![Description](/resources/image_2710.jpeg)
-![Description](/resources/image_2711.jpeg)
-![Description](/resources/image_2712.jpeg)
-![Description](/resources/image_2713.jpeg)
-![Description](/resources/image_2714.jpeg)
-![Description](/resources/image_2715.jpeg)
-![Description](/resources/image_2716.jpeg)
-![Description](/resources/image_2717.jpeg)
-![Description](/resources/image_2718.jpeg)
-![Description](/resources/image_2719.jpeg)
-![Description](/resources/image_2720.jpeg)
-![Description](/resources/image_2721.jpeg)
-![Description](/resources/image_2722.jpeg)
-![Description](/resources/image_2723.jpeg)
-![Description](/resources/image_2724.jpeg)
-![Description](/resources/image_2725.jpeg)
-![Description](/resources/image_2726.jpeg)
-![Description](/resources/image_2727.jpeg)
-![Description](/resources/image_2728.jpeg)
-![Description](/resources/image_2729.jpeg)
-![Description](/resources/image_2730.jpeg)
-![Description](/resources/image_2731.jpeg)
-![Description](/resources/image_2732.jpeg)
-![Description](/resources/image_2733.jpeg)
-![Description](/resources/image_2734.jpeg)
-![Description](/resources/image_2735.jpeg)
-![Description](/resources/image_2736.jpeg)
-![Description](/resources/image_2737.jpeg)
-![Description](/resources/image_2738.jpeg)
-![Description](/resources/image_2739.jpeg)
-![Description](/resources/image_2740.jpeg)
-![Description](/resources/image_2741.jpeg)
-![Description](/resources/image_2742.jpeg)
-![Description](/resources/image_2743.jpeg)
-![Description](/resources/image_2744.jpeg)
-![Description](/resources/image_2745.jpeg)
-![Description](/resources/image_2746.jpeg)
-![Description](/resources/image_2747.jpeg)
-![Description](/resources/image_2748.jpeg)
-![Description](/resources/image_2749.jpeg)
-![Description](/resources/image_2750.jpeg)
-![Description](/resources/image_2751.jpeg)
-![Description](/resources/image_2752.jpeg)
-![Description](/resources/image_2753.jpeg)
-![Description](/resources/image_2754.jpeg)
-![Description](/resources/image_2755.jpeg)
-![Description](/resources/image_2756.jpeg)
-![Description](/resources/image_2757.jpeg)
-![Description](/resources/image_2758.jpeg)
-![Description](/resources/image_2759.jpeg)
-![Description](/resources/image_2760.jpeg)
-![Description](/resources/image_2761.jpeg)
-![Description](/resources/image_2762.jpeg)
-![Description](/resources/image_2763.jpeg)
-![Description](/resources/image_2764.jpeg)
-![Description](/resources/image_2765.jpeg)
-![Description](/resources/image_2766.jpeg)
-![Description](/resources/image_2767.jpeg)
-![Description](/resources/image_2768.jpeg)
-![Description](/resources/image_2769.jpeg)
-![Description](/resources/image_2770.jpeg)
-![Description](/resources/image_2771.jpeg)
-![Description](/resources/image_2772.jpeg)
-![Description](/resources/image_2773.jpeg)
-![Description](/resources/image_2774.jpeg)
-![Description](/resources/image_2775.jpeg)
-![Description](/resources/image_2776.jpeg)
-![Description](/resources/image_2777.jpeg)
-![Description](/resources/image_2778.jpeg)
-![Description](/resources/image_2779.jpeg)
-![Description](/resources/image_2780.jpeg)
-![Description](/resources/image_2781.jpeg)
-![Description](/resources/image_2782.jpeg)
-![Description](/resources/image_2783.jpeg)
-![Description](/resources/image_2784.jpeg)
-![Description](/resources/image_2785.jpeg)
-![Description](/resources/image_2786.jpeg)
-![Description](/resources/image_2787.jpeg)
-![Description](/resources/image_2788.jpeg)
-![Description](/resources/image_2789.jpeg)
-![Description](/resources/image_2790.jpeg)
-![Description](/resources/image_2791.jpeg)
-![Description](/resources/image_2792.jpeg)
-![Description](/resources/image_2793.jpeg)
-![Description](/resources/image_2794.jpeg)
-![Description](/resources/image_2795.jpeg)
-![Description](/resources/image_2796.jpeg)
-![Description](/resources/image_2797.jpeg)
-![Description](/resources/image_2798.jpeg)
-![Description](/resources/image_2799.jpeg)
-![Description](/resources/image_2800.jpeg)
-![Description](/resources/image_2801.jpeg)
-![Description](/resources/image_2802.jpeg)
-![Description](/resources/image_2803.jpeg)
-![Description](/resources/image_2804.jpeg)
-![Description](/resources/image_2805.jpeg)
-![Description](/resources/image_2806.jpeg)
-![Description](/resources/image_2807.jpeg)
-![Description](/resources/image_2808.jpeg)
-![Description](/resources/image_2809.jpeg)
-![Description](/resources/image_2810.jpeg)
-![Description](/resources/image_2811.jpeg)
-![Description](/resources/image_2812.jpeg)
-![Description](/resources/image_2813.jpeg)
-![Description](/resources/image_2814.jpeg)
-![Description](/resources/image_2815.jpeg)
-![Description](/resources/image_2816.jpeg)
-![Description](/resources/image_2817.jpeg)
-![Description](/resources/image_2818.jpeg)
-![Description](/resources/image_2819.jpeg)
-![Description](/resources/image_2820.jpeg)
-![Description](/resources/image_2821.jpeg)
-![Description](/resources/image_2822.jpeg)
-![Description](/resources/image_2823.jpeg)
-![Description](/resources/image_2824.jpeg)
-![Description](/resources/image_2825.jpeg)
-![Description](/resources/image_2826.jpeg)
-![Description](/resources/image_2827.jpeg)
-![Description](/resources/image_2828.jpeg)
-![Description](/resources/image_2829.jpeg)
-![Description](/resources/image_2830.jpeg)
-![Description](/resources/image_2831.jpeg)
-![Description](/resources/image_2832.jpeg)
-![Description](/resources/image_2833.jpeg)
-![Description](/resources/image_2834.jpeg)
-![Description](/resources/image_2835.jpeg)
-![Description](/resources/image_2836.jpeg)
-![Description](/resources/image_2837.jpeg)
-![Description](/resources/image_2838.jpeg)
-![Description](/resources/image_2839.jpeg)
-![Description](/resources/image_2840.jpeg)
-![Description](/resources/image_2841.jpeg)
-![Description](/resources/image_2842.jpeg)
-![Description](/resources/image_2843.jpeg)
-![Description](/resources/image_2844.jpeg)
-![Description](/resources/image_2845.jpeg)
-![Description](/resources/image_2846.jpeg)
-![Description](/resources/image_2847.jpeg)
-![Description](/resources/image_2848.jpeg)
-![Description](/resources/image_2849.jpeg)
-![Description](/resources/image_2850.jpeg)
-![Description](/resources/image_2851.jpeg)
-![Description](/resources/image_2852.jpeg)
-![Description](/resources/image_2853.jpeg)
-![Description](/resources/image_2854.jpeg)
-![Description](/resources/image_2855.jpeg)
-![Description](/resources/image_2856.jpeg)
-![Description](/resources/image_2857.jpeg)
-![Description](/resources/image_2858.jpeg)
-![Description](/resources/image_2859.jpeg)
-![Description](/resources/image_2860.jpeg)
-![Description](/resources/image_2861.jpeg)
-![Description](/resources/image_2862.jpeg)
-![Description](/resources/image_2863.jpeg)
-![Description](/resources/image_2864.jpeg)
-![Description](/resources/image_2865.jpeg)
-![Description](/resources/image_2866.jpeg)
-![Description](/resources/image_2867.jpeg)
-![Description](/resources/image_2868.jpeg)
-![Description](/resources/image_2869.jpeg)
-![Description](/resources/image_2870.jpeg)
-![Description](/resources/image_2871.jpeg)
-![Description](/resources/image_2872.jpeg)
-![Description](/resources/image_2873.jpeg)
-![Description](/resources/image_2874.jpeg)
-![Description](/resources/image_2875.jpeg)
-![Description](/resources/image_2876.jpeg)
-![Description](/resources/image_2877.jpeg)
-![Description](/resources/image_2878.jpeg)
-![Description](/resources/image_2879.jpeg)
-![Description](/resources/image_2880.jpeg)
-![Description](/resources/image_2881.jpeg)
-![Description](/resources/image_2882.jpeg)
-![Description](/resources/image_2883.jpeg)
-![Description](/resources/image_2884.jpeg)
-![Description](/resources/image_2885.jpeg)
-![Description](/resources/image_2886.jpeg)
-![Description](/resources/image_2887.jpeg)
-![Description](/resources/image_2888.jpeg)
-![Description](/resources/image_2889.jpeg)
-![Description](/resources/image_2890.jpeg)
-![Description](/resources/image_2891.jpeg)
-![Description](/resources/image_2892.jpeg)
-![Description](/resources/image_2893.jpeg)
-![Description](/resources/image_2894.jpeg)
-![Description](/resources/image_2895.jpeg)
-![Description](/resources/image_2896.jpeg)
-![Description](/resources/image_2897.jpeg)
-![Description](/resources/image_2898.jpeg)
-![Description](/resources/image_2899.jpeg)
-![Description](/resources/image_2900.jpeg)
-![Description](/resources/image_2901.jpeg)
-![Description](/resources/image_2902.jpeg)
-![Description](/resources/image_2903.jpeg)
-![Description](/resources/image_2904.jpeg)
-![Description](/resources/image_2905.jpeg)
-![Description](/resources/image_2906.jpeg)
-![Description](/resources/image_2907.jpeg)
-![Description](/resources/image_2908.jpeg)
-![Description](/resources/image_2909.jpeg)
-![Description](/resources/image_2910.jpeg)
-![Description](/resources/image_2911.jpeg)
-![Description](/resources/image_2912.jpeg)
-![Description](/resources/image_2913.jpeg)
-![Description](/resources/image_2914.jpeg)
-![Description](/resources/image_2915.jpeg)
-![Description](/resources/image_2916.jpeg)
-![Description](/resources/image_2917.jpeg)
-![Description](/resources/image_2918.jpeg)
-![Description](/resources/image_2919.jpeg)
-![Description](/resources/image_2920.jpeg)
-![Description](/resources/image_2921.jpeg)
-![Description](/resources/image_2922.jpeg)
-![Description](/resources/image_2923.jpeg)
-![Description](/resources/image_2924.jpeg)
-![Description](/resources/image_2925.jpeg)
-![Description](/resources/image_2926.jpeg)
-![Description](/resources/image_2927.jpeg)
-![Description](/resources/image_2928.jpeg)
-![Description](/resources/image_2929.jpeg)
-![Description](/resources/image_2930.jpeg)
-![Description](/resources/image_2931.jpeg)
-![Description](/resources/image_2932.jpeg)
-![Description](/resources/image_2933.jpeg)
-![Description](/resources/image_2934.jpeg)
-![Description](/resources/image_2935.jpeg)
-![Description](/resources/image_2936.jpeg)
-![Description](/resources/image_2937.jpeg)
-![Description](/resources/image_2938.jpeg)
-![Description](/resources/image_2939.jpeg)
-![Description](/resources/image_2940.jpeg)
-![Description](/resources/image_2941.jpeg)
-![Description](/resources/image_2942.jpeg)
-![Description](/resources/image_2943.jpeg)
-![Description](/resources/image_2944.jpeg)
-![Description](/resources/image_2945.jpeg)
-![Description](/resources/image_2946.jpeg)
-![Description](/resources/image_2947.jpeg)
-![Description](/resources/image_2948.jpeg)
-![Description](/resources/image_2949.jpeg)
-![Description](/resources/image_2950.jpeg)
-![Description](/resources/image_2951.jpeg)
-![Description](/resources/image_2952.jpeg)
-![Description](/resources/image_2953.jpeg)
-![Description](/resources/image_2954.jpeg)
-![Description](/resources/image_2955.jpeg)
-![Description](/resources/image_2956.jpeg)
-![Description](/resources/image_2957.jpeg)
-![Description](/resources/image_2958.jpeg)
-![Description](/resources/image_2959.jpeg)
-![Description](/resources/image_2960.jpeg)
-![Description](/resources/image_2961.jpeg)
-![Description](/resources/image_2962.jpeg)
-![Description](/resources/image_2963.jpeg)
-![Description](/resources/image_2964.jpeg)
-![Description](/resources/image_2965.jpeg)
-![Description](/resources/image_2966.jpeg)
-![Description](/resources/image_2967.jpeg)
-![Description](/resources/image_2968.jpeg)
-![Description](/resources/image_2969.jpeg)
-![Description](/resources/image_2970.jpeg)
-![Description](/resources/image_2971.jpeg)
-![Description](/resources/image_2972.jpeg)
-![Description](/resources/image_2973.jpeg)
-![Description](/resources/image_2974.jpeg)
-![Description](/resources/image_2975.jpeg)
-![Description](/resources/image_2976.jpeg)
-![Description](/resources/image_2977.jpeg)
-![Description](/resources/image_2978.jpeg)
-![Description](/resources/image_2979.jpeg)
-![Description](/resources/image_2980.jpeg)
-![Description](/resources/image_2981.jpeg)
-![Description](/resources/image_2982.jpeg)
-![Description](/resources/image_2983.jpeg)
-![Description](/resources/image_2984.jpeg)
-![Description](/resources/image_2985.jpeg)
-![Description](/resources/image_2986.jpeg)
-![Description](/resources/image_2987.jpeg)
-![Description](/resources/image_2988.jpeg)
-![Description](/resources/image_2989.jpeg)
-![Description](/resources/image_2990.jpeg)
-![Description](/resources/image_2991.jpeg)
-![Description](/resources/image_2992.jpeg)
-![Description](/resources/image_2993.jpeg)
-![Description](/resources/image_2994.jpeg)
-![Description](/resources/image_2995.jpeg)
-![Description](/resources/image_2996.jpeg)
-![Description](/resources/image_2997.jpeg)
-![Description](/resources/image_2998.jpeg)
-![Description](/resources/image_2999.jpeg)
-![Description](/resources/image_3000.jpeg)
-![Description](/resources/image_3001.jpeg)
-![Description](/resources/image_3002.jpeg)
-![Description](/resources/image_3003.jpeg)
-![Description](/resources/image_3004.jpeg)
-![Description](/resources/image_3005.jpeg)
-![Description](/resources/image_3006.jpeg)
-![Description](/resources/image_3007.jpeg)
-![Description](/resources/image_3008.jpeg)
-![Description](/resources/image_3009.jpeg)
-![Description](/resources/image_3010.jpeg)
-![Description](/resources/image_3011.jpeg)
-![Description](/resources/image_3012.jpeg)
-![Description](/resources/image_3013.jpeg)
-![Description](/resources/image_3014.jpeg)
-![Description](/resources/image_3015.jpeg)
-![Description](/resources/image_3016.jpeg)
-![Description](/resources/image_3017.jpeg)
-![Description](/resources/image_3018.jpeg)
-![Description](/resources/image_3019.jpeg)
-![Description](/resources/image_3020.jpeg)
-![Description](/resources/image_3021.jpeg)
-![Description](/resources/image_3022.jpeg)
-![Description](/resources/image_3023.jpeg)
-![Description](/resources/image_3024.jpeg)
-![Description](/resources/image_3025.jpeg)
-![Description](/resources/image_3026.jpeg)
-![Description](/resources/image_3027.jpeg)
-![Description](/resources/image_3028.jpeg)
-![Description](/resources/image_3029.jpeg)
-![Description](/resources/image_3030.jpeg)
-![Description](/resources/image_3031.jpeg)
-![Description](/resources/image_3032.jpeg)
+![Description](image_2478.png)
+![Description](image_2479.png)
+![Description](image_2480.png)
+![Description](image_2481.png)
+![Description](image_2482.png)
+![Description](image_2483.png)
+![Description](image_2484.png)
+![Description](image_2485.png)
+![Description](image_2486.png)
+![Description](image_2487.png)
+![Description](image_2488.png)
+![Description](image_2489.png)
+![Description](image_2490.png)
+![Description](image_2491.png)
+![Description](image_2492.png)
+![Description](image_2493.png)
+![Description](image_2494.png)
+![Description](image_2495.png)
+![Description](image_2496.png)
+![Description](image_2497.png)
+![Description](image_2498.png)
+![Description](image_2499.png)
+![Description](image_2500.png)
+![Description](image_2501.png)
+![Description](image_2502.png)
+![Description](image_2503.png)
+![Description](image_2504.png)
+![Description](image_2505.png)
+![Description](image_2506.png)
+![Description](image_2507.png)
+![Description](image_2508.png)
+![Description](image_2509.png)
+![Description](image_2510.png)
+![Description](image_2511.png)
+![Description](image_2512.png)
+![Description](image_2513.png)
+![Description](image_2514.png)
+![Description](image_2515.png)
+![Description](image_2516.png)
+![Description](image_2517.png)
+![Description](image_2518.png)
+![Description](image_2519.png)
+![Description](image_2520.png)
+![Description](image_2521.png)
+![Description](image_2522.png)
+![Description](image_2523.png)
+![Description](image_2524.png)
+![Description](image_2525.png)
+![Description](image_2526.png)
+![Description](image_2527.png)
+![Description](image_2528.png)
+![Description](image_2529.png)
+![Description](image_2530.png)
+![Description](image_2531.png)
+![Description](image_2532.png)
+![Description](image_2533.png)
+![Description](image_2534.png)
+![Description](image_2535.png)
+![Description](image_2536.png)
+![Description](image_2537.png)
+![Description](image_2538.png)
+![Description](image_2539.png)
+![Description](image_2540.png)
+![Description](image_2541.png)
+![Description](image_2542.png)
+![Description](image_2543.png)
+![Description](image_2544.png)
+![Description](image_2545.png)
+![Description](image_2546.png)
+![Description](image_2547.png)
+![Description](image_2548.png)
+![Description](image_2549.png)
+![Description](image_2550.png)
+![Description](image_2551.png)
+![Description](image_2552.png)
+![Description](image_2553.png)
+![Description](image_2554.png)
+![Description](image_2555.png)
+![Description](image_2556.png)
+![Description](image_2557.png)
+![Description](image_2558.png)
+![Description](image_2559.png)
+![Description](image_2560.png)
+![Description](image_2561.png)
+![Description](image_2562.png)
+![Description](image_2563.png)
+![Description](image_2564.png)
+![Description](image_2565.png)
+![Description](image_2566.png)
+![Description](image_2567.png)
+![Description](image_2568.png)
+![Description](image_2569.png)
+![Description](image_2570.png)
+![Description](image_2571.png)
+![Description](image_2572.png)
+![Description](image_2573.png)
+![Description](image_2574.png)
+![Description](image_2575.png)
+![Description](image_2576.png)
+![Description](image_2577.png)
+![Description](image_2578.png)
+![Description](image_2579.png)
+![Description](image_2580.png)
+![Description](image_2581.png)
+![Description](image_2582.png)
+![Description](image_2583.png)
+![Description](image_2584.png)
+![Description](image_2585.png)
+![Description](image_2586.png)
+![Description](image_2587.png)
+![Description](image_2588.png)
+![Description](image_2589.png)
+![Description](image_2590.png)
+![Description](image_2591.png)
+![Description](image_2592.png)
+![Description](image_2593.png)
+![Description](image_2594.png)
+![Description](image_2595.png)
+![Description](image_2596.png)
+![Description](image_2597.png)
+![Description](image_2598.png)
+![Description](image_2599.png)
+![Description](image_2600.png)
+![Description](image_2601.png)
+![Description](image_2602.png)
+![Description](image_2603.png)
+![Description](image_2604.png)
+![Description](image_2605.png)
+![Description](image_2606.png)
+![Description](image_2607.png)
+![Description](image_2608.png)
+![Description](image_2609.png)
+![Description](image_2610.png)
+![Description](image_2611.png)
+![Description](image_2612.png)
+![Description](image_2613.png)
+![Description](image_2614.png)
+![Description](image_2615.png)
+![Description](image_2616.png)
+![Description](image_2617.png)
+![Description](image_2618.png)
+![Description](image_2619.png)
+![Description](image_2620.png)
+![Description](image_2621.png)
+![Description](image_2622.png)
+![Description](image_2623.png)
+![Description](image_2624.png)
+![Description](image_2625.png)
+![Description](image_2626.png)
+![Description](image_2627.png)
+![Description](image_2628.png)
+![Description](image_2629.png)
+![Description](image_2630.png)
+![Description](image_2631.png)
+![Description](image_2632.png)
+![Description](image_2633.png)
+![Description](image_2634.png)
+![Description](image_2635.png)
+![Description](image_2636.png)
+![Description](image_2637.png)
+![Description](image_2638.png)
+![Description](image_2639.png)
+![Description](image_2640.png)
+![Description](image_2641.png)
+![Description](image_2642.png)
+![Description](image_2643.png)
+![Description](image_2644.png)
+![Description](image_2645.png)
+![Description](image_2646.png)
+![Description](image_2647.png)
+![Description](image_2648.png)
+![Description](image_2649.png)
+![Description](image_2650.png)
+![Description](image_2651.png)
+![Description](image_2652.png)
+![Description](image_2653.png)
+![Description](image_2654.png)
+![Description](image_2655.png)
+![Description](image_2656.png)
+![Description](image_2657.png)
+![Description](image_2658.png)
+![Description](image_2659.png)
+![Description](image_2660.png)
+![Description](image_2661.png)
+![Description](image_2662.png)
+![Description](image_2663.png)
+![Description](image_2664.png)
+![Description](image_2665.png)
+![Description](image_2666.png)
+![Description](image_2667.png)
+![Description](image_2668.png)
+![Description](image_2669.png)
+![Description](image_2670.png)
+![Description](image_2671.jpeg)
+![Description](image_2672.jpeg)
+![Description](image_2673.jpeg)
+![Description](image_2674.jpeg)
+![Description](image_2675.jpeg)
+![Description](image_2676.jpeg)
+![Description](image_2677.jpeg)
+![Description](image_2678.jpeg)
+![Description](image_2679.jpeg)
+![Description](image_2680.jpeg)
+![Description](image_2681.jpeg)
+![Description](image_2682.jpeg)
+![Description](image_2683.jpeg)
+![Description](image_2684.jpeg)
+![Description](image_2685.jpeg)
+![Description](image_2686.jpeg)
+![Description](image_2687.jpeg)
+![Description](image_2688.jpeg)
+![Description](image_2689.jpeg)
+![Description](image_2690.jpeg)
+![Description](image_2691.jpeg)
+![Description](image_2692.jpeg)
+![Description](image_2693.jpeg)
+![Description](image_2694.jpeg)
+![Description](image_2695.jpeg)
+![Description](image_2696.jpeg)
+![Description](image_2697.jpeg)
+![Description](image_2698.jpeg)
+![Description](image_2699.jpeg)
+![Description](image_2700.jpeg)
+![Description](image_2701.jpeg)
+![Description](image_2702.jpeg)
+![Description](image_2703.jpeg)
+![Description](image_2704.jpeg)
+![Description](image_2705.jpeg)
+![Description](image_2706.jpeg)
+![Description](image_2707.jpeg)
+![Description](image_2708.jpeg)
+![Description](image_2709.jpeg)
+![Description](image_2710.jpeg)
+![Description](image_2711.jpeg)
+![Description](image_2712.jpeg)
+![Description](image_2713.jpeg)
+![Description](image_2714.jpeg)
+![Description](image_2715.jpeg)
+![Description](image_2716.jpeg)
+![Description](image_2717.jpeg)
+![Description](image_2718.jpeg)
+![Description](image_2719.jpeg)
+![Description](image_2720.jpeg)
+![Description](image_2721.jpeg)
+![Description](image_2722.jpeg)
+![Description](image_2723.jpeg)
+![Description](image_2724.jpeg)
+![Description](image_2725.jpeg)
+![Description](image_2726.jpeg)
+![Description](image_2727.jpeg)
+![Description](image_2728.jpeg)
+![Description](image_2729.jpeg)
+![Description](image_2730.jpeg)
+![Description](image_2731.jpeg)
+![Description](image_2732.jpeg)
+![Description](image_2733.jpeg)
+![Description](image_2734.jpeg)
+![Description](image_2735.jpeg)
+![Description](image_2736.jpeg)
+![Description](image_2737.jpeg)
+![Description](image_2738.jpeg)
+![Description](image_2739.jpeg)
+![Description](image_2740.jpeg)
+![Description](image_2741.jpeg)
+![Description](image_2742.jpeg)
+![Description](image_2743.jpeg)
+![Description](image_2744.jpeg)
+![Description](image_2745.jpeg)
+![Description](image_2746.jpeg)
+![Description](image_2747.jpeg)
+![Description](image_2748.jpeg)
+![Description](image_2749.jpeg)
+![Description](image_2750.jpeg)
+![Description](image_2751.jpeg)
+![Description](image_2752.jpeg)
+![Description](image_2753.jpeg)
+![Description](image_2754.jpeg)
+![Description](image_2755.jpeg)
+![Description](image_2756.jpeg)
+![Description](image_2757.jpeg)
+![Description](image_2758.jpeg)
+![Description](image_2759.jpeg)
+![Description](image_2760.jpeg)
+![Description](image_2761.jpeg)
+![Description](image_2762.jpeg)
+![Description](image_2763.jpeg)
+![Description](image_2764.jpeg)
+![Description](image_2765.jpeg)
+![Description](image_2766.jpeg)
+![Description](image_2767.jpeg)
+![Description](image_2768.jpeg)
+![Description](image_2769.jpeg)
+![Description](image_2770.jpeg)
+![Description](image_2771.jpeg)
+![Description](image_2772.jpeg)
+![Description](image_2773.jpeg)
+![Description](image_2774.jpeg)
+![Description](image_2775.jpeg)
+![Description](image_2776.jpeg)
+![Description](image_2777.jpeg)
+![Description](image_2778.jpeg)
+![Description](image_2779.jpeg)
+![Description](image_2780.jpeg)
+![Description](image_2781.jpeg)
+![Description](image_2782.jpeg)
+![Description](image_2783.jpeg)
+![Description](image_2784.jpeg)
+![Description](image_2785.jpeg)
+![Description](image_2786.jpeg)
+![Description](image_2787.jpeg)
+![Description](image_2788.jpeg)
+![Description](image_2789.jpeg)
+![Description](image_2790.jpeg)
+![Description](image_2791.jpeg)
+![Description](image_2792.jpeg)
+![Description](image_2793.jpeg)
+![Description](image_2794.jpeg)
+![Description](image_2795.jpeg)
+![Description](image_2796.jpeg)
+![Description](image_2797.jpeg)
+![Description](image_2798.jpeg)
+![Description](image_2799.jpeg)
+![Description](image_2800.jpeg)
+![Description](image_2801.jpeg)
+![Description](image_2802.jpeg)
+![Description](image_2803.jpeg)
+![Description](image_2804.jpeg)
+![Description](image_2805.jpeg)
+![Description](image_2806.jpeg)
+![Description](image_2807.jpeg)
+![Description](image_2808.jpeg)
+![Description](image_2809.jpeg)
+![Description](image_2810.jpeg)
+![Description](image_2811.jpeg)
+![Description](image_2812.jpeg)
+![Description](image_2813.jpeg)
+![Description](image_2814.jpeg)
+![Description](image_2815.jpeg)
+![Description](image_2816.jpeg)
+![Description](image_2817.jpeg)
+![Description](image_2818.jpeg)
+![Description](image_2819.jpeg)
+![Description](image_2820.jpeg)
+![Description](image_2821.jpeg)
+![Description](image_2822.jpeg)
+![Description](image_2823.jpeg)
+![Description](image_2824.jpeg)
+![Description](image_2825.jpeg)
+![Description](image_2826.jpeg)
+![Description](image_2827.jpeg)
+![Description](image_2828.jpeg)
+![Description](image_2829.jpeg)
+![Description](image_2830.jpeg)
+![Description](image_2831.jpeg)
+![Description](image_2832.jpeg)
+![Description](image_2833.jpeg)
+![Description](image_2834.jpeg)
+![Description](image_2835.jpeg)
+![Description](image_2836.jpeg)
+![Description](image_2837.jpeg)
+![Description](image_2838.jpeg)
+![Description](image_2839.jpeg)
+![Description](image_2840.jpeg)
+![Description](image_2841.jpeg)
+![Description](image_2842.jpeg)
+![Description](image_2843.jpeg)
+![Description](image_2844.jpeg)
+![Description](image_2845.jpeg)
+![Description](image_2846.jpeg)
+![Description](image_2847.jpeg)
+![Description](image_2848.jpeg)
+![Description](image_2849.jpeg)
+![Description](image_2850.jpeg)
+![Description](image_2851.jpeg)
+![Description](image_2852.jpeg)
+![Description](image_2853.jpeg)
+![Description](image_2854.jpeg)
+![Description](image_2855.jpeg)
+![Description](image_2856.jpeg)
+![Description](image_2857.jpeg)
+![Description](image_2858.jpeg)
+![Description](image_2859.jpeg)
+![Description](image_2860.jpeg)
+![Description](image_2861.jpeg)
+![Description](image_2862.jpeg)
+![Description](image_2863.jpeg)
+![Description](image_2864.jpeg)
+![Description](image_2865.jpeg)
+![Description](image_2866.jpeg)
+![Description](image_2867.jpeg)
+![Description](image_2868.jpeg)
+![Description](image_2869.jpeg)
+![Description](image_2870.jpeg)
+![Description](image_2871.jpeg)
+![Description](image_2872.jpeg)
+![Description](image_2873.jpeg)
+![Description](image_2874.jpeg)
+![Description](image_2875.jpeg)
+![Description](image_2876.jpeg)
+![Description](image_2877.jpeg)
+![Description](image_2878.jpeg)
+![Description](image_2879.jpeg)
+![Description](image_2880.jpeg)
+![Description](image_2881.jpeg)
+![Description](image_2882.jpeg)
+![Description](image_2883.jpeg)
+![Description](image_2884.jpeg)
+![Description](image_2885.jpeg)
+![Description](image_2886.jpeg)
+![Description](image_2887.jpeg)
+![Description](image_2888.jpeg)
+![Description](image_2889.jpeg)
+![Description](image_2890.jpeg)
+![Description](image_2891.jpeg)
+![Description](image_2892.jpeg)
+![Description](image_2893.jpeg)
+![Description](image_2894.jpeg)
+![Description](image_2895.jpeg)
+![Description](image_2896.jpeg)
+![Description](image_2897.jpeg)
+![Description](image_2898.jpeg)
+![Description](image_2899.jpeg)
+![Description](image_2900.jpeg)
+![Description](image_2901.jpeg)
+![Description](image_2902.jpeg)
+![Description](image_2903.jpeg)
+![Description](image_2904.jpeg)
+![Description](image_2905.jpeg)
+![Description](image_2906.jpeg)
+![Description](image_2907.jpeg)
+![Description](image_2908.jpeg)
+![Description](image_2909.jpeg)
+![Description](image_2910.jpeg)
+![Description](image_2911.jpeg)
+![Description](image_2912.jpeg)
+![Description](image_2913.jpeg)
+![Description](image_2914.jpeg)
+![Description](image_2915.jpeg)
+![Description](image_2916.jpeg)
+![Description](image_2917.jpeg)
+![Description](image_2918.jpeg)
+![Description](image_2919.jpeg)
+![Description](image_2920.jpeg)
+![Description](image_2921.jpeg)
+![Description](image_2922.jpeg)
+![Description](image_2923.jpeg)
+![Description](image_2924.jpeg)
+![Description](image_2925.jpeg)
+![Description](image_2926.jpeg)
+![Description](image_2927.jpeg)
+![Description](image_2928.jpeg)
+![Description](image_2929.jpeg)
+![Description](image_2930.jpeg)
+![Description](image_2931.jpeg)
+![Description](image_2932.jpeg)
+![Description](image_2933.jpeg)
+![Description](image_2934.jpeg)
+![Description](image_2935.jpeg)
+![Description](image_2936.jpeg)
+![Description](image_2937.jpeg)
+![Description](image_2938.jpeg)
+![Description](image_2939.jpeg)
+![Description](image_2940.jpeg)
+![Description](image_2941.jpeg)
+![Description](image_2942.jpeg)
+![Description](image_2943.jpeg)
+![Description](image_2944.jpeg)
+![Description](image_2945.jpeg)
+![Description](image_2946.jpeg)
+![Description](image_2947.jpeg)
+![Description](image_2948.jpeg)
+![Description](image_2949.jpeg)
+![Description](image_2950.jpeg)
+![Description](image_2951.jpeg)
+![Description](image_2952.jpeg)
+![Description](image_2953.jpeg)
+![Description](image_2954.jpeg)
+![Description](image_2955.jpeg)
+![Description](image_2956.jpeg)
+![Description](image_2957.jpeg)
+![Description](image_2958.jpeg)
+![Description](image_2959.jpeg)
+![Description](image_2960.jpeg)
+![Description](image_2961.jpeg)
+![Description](image_2962.jpeg)
+![Description](image_2963.jpeg)
+![Description](image_2964.jpeg)
+![Description](image_2965.jpeg)
+![Description](image_2966.jpeg)
+![Description](image_2967.jpeg)
+![Description](image_2968.jpeg)
+![Description](image_2969.jpeg)
+![Description](image_2970.jpeg)
+![Description](image_2971.jpeg)
+![Description](image_2972.jpeg)
+![Description](image_2973.jpeg)
+![Description](image_2974.jpeg)
+![Description](image_2975.jpeg)
+![Description](image_2976.jpeg)
+![Description](image_2977.jpeg)
+![Description](image_2978.jpeg)
+![Description](image_2979.jpeg)
+![Description](image_2980.jpeg)
+![Description](image_2981.jpeg)
+![Description](image_2982.jpeg)
+![Description](image_2983.jpeg)
+![Description](image_2984.jpeg)
+![Description](image_2985.jpeg)
+![Description](image_2986.jpeg)
+![Description](image_2987.jpeg)
+![Description](image_2988.jpeg)
+![Description](image_2989.jpeg)
+![Description](image_2990.jpeg)
+![Description](image_2991.jpeg)
+![Description](image_2992.jpeg)
+![Description](image_2993.jpeg)
+![Description](image_2994.jpeg)
+![Description](image_2995.jpeg)
+![Description](image_2996.jpeg)
+![Description](image_2997.jpeg)
+![Description](image_2998.jpeg)
+![Description](image_2999.jpeg)
+![Description](image_3000.jpeg)
+![Description](image_3001.jpeg)
+![Description](image_3002.jpeg)
+![Description](image_3003.jpeg)
+![Description](image_3004.jpeg)
+![Description](image_3005.jpeg)
+![Description](image_3006.jpeg)
+![Description](image_3007.jpeg)
+![Description](image_3008.jpeg)
+![Description](image_3009.jpeg)
+![Description](image_3010.jpeg)
+![Description](image_3011.jpeg)
+![Description](image_3012.jpeg)
+![Description](image_3013.jpeg)
+![Description](image_3014.jpeg)
+![Description](image_3015.jpeg)
+![Description](image_3016.jpeg)
+![Description](image_3017.jpeg)
+![Description](image_3018.jpeg)
+![Description](image_3019.jpeg)
+![Description](image_3020.jpeg)
+![Description](image_3021.jpeg)
+![Description](image_3022.jpeg)
+![Description](image_3023.jpeg)
+![Description](image_3024.jpeg)
+![Description](image_3025.jpeg)
+![Description](image_3026.jpeg)
+![Description](image_3027.jpeg)
+![Description](image_3028.jpeg)
+![Description](image_3029.jpeg)
+![Description](image_3030.jpeg)
+![Description](image_3031.jpeg)
+![Description](image_3032.jpeg)
 
 Πίνακας 2.1. Κατηγορίες ελληνικής γραφήςxc
 
 100
 
-![Description](/resources/image_3033.jpeg)
-![Description](/resources/image_3034.jpeg)
-![Description](/resources/image_3035.jpeg)
-![Description](/resources/image_3036.jpeg)
-![Description](/resources/image_3037.jpeg)
-![Description](/resources/image_3038.jpeg)
-![Description](/resources/image_3039.jpeg)
-![Description](/resources/image_3040.jpeg)
-![Description](/resources/image_3041.jpeg)
-![Description](/resources/image_3042.jpeg)
-![Description](/resources/image_3043.jpeg)
-![Description](/resources/image_3044.jpeg)
-![Description](/resources/image_3045.jpeg)
-![Description](/resources/image_3046.jpeg)
-![Description](/resources/image_3047.jpeg)
-![Description](/resources/image_3048.jpeg)
-![Description](/resources/image_3049.jpeg)
-![Description](/resources/image_3050.jpeg)
-![Description](/resources/image_3051.jpeg)
-![Description](/resources/image_3052.jpeg)
-![Description](/resources/image_3053.jpeg)
-![Description](/resources/image_3054.jpeg)
-![Description](/resources/image_3055.jpeg)
-![Description](/resources/image_3056.jpeg)
-![Description](/resources/image_3057.jpeg)
-![Description](/resources/image_3058.jpeg)
-![Description](/resources/image_3059.jpeg)
-![Description](/resources/image_3060.png)
-![Description](/resources/image_3061.jpeg)
-![Description](/resources/image_3062.png)
-![Description](/resources/image_3063.png)
-![Description](/resources/image_3064.png)
-![Description](/resources/image_3065.png)
-![Description](/resources/image_3066.png)
-![Description](/resources/image_3067.png)
-![Description](/resources/image_3068.png)
-![Description](/resources/image_3069.png)
-![Description](/resources/image_3070.png)
-![Description](/resources/image_3071.png)
-![Description](/resources/image_3072.jpeg)
+![Description](image_3033.jpeg)
+![Description](image_3034.jpeg)
+![Description](image_3035.jpeg)
+![Description](image_3036.jpeg)
+![Description](image_3037.jpeg)
+![Description](image_3038.jpeg)
+![Description](image_3039.jpeg)
+![Description](image_3040.jpeg)
+![Description](image_3041.jpeg)
+![Description](image_3042.jpeg)
+![Description](image_3043.jpeg)
+![Description](image_3044.jpeg)
+![Description](image_3045.jpeg)
+![Description](image_3046.jpeg)
+![Description](image_3047.jpeg)
+![Description](image_3048.jpeg)
+![Description](image_3049.jpeg)
+![Description](image_3050.jpeg)
+![Description](image_3051.jpeg)
+![Description](image_3052.jpeg)
+![Description](image_3053.jpeg)
+![Description](image_3054.jpeg)
+![Description](image_3055.jpeg)
+![Description](image_3056.jpeg)
+![Description](image_3057.jpeg)
+![Description](image_3058.jpeg)
+![Description](image_3059.jpeg)
+![Description](image_3060.png)
+![Description](image_3061.jpeg)
+![Description](image_3062.png)
+![Description](image_3063.png)
+![Description](image_3064.png)
+![Description](image_3065.png)
+![Description](image_3066.png)
+![Description](image_3067.png)
+![Description](image_3068.png)
+![Description](image_3069.png)
+![Description](image_3070.png)
+![Description](image_3071.png)
+![Description](image_3072.jpeg)
 
 Ανάμεσα στις διάφορες κατηγορίες γραφών υπάρχουν πολλές αλληλοεπιδράσεις και επίσης,
 ενδιάμεσα στάδια.
@@ -1539,28 +1539,28 @@ del Millenario della Fondazione dell'Abbazia di S. Nilo a Grottaferrata.
 
 102
 
-![Description](/resources/image_3073.jpeg)
-![Description](/resources/image_3074.jpeg)
-![Description](/resources/image_3075.jpeg)
-![Description](/resources/image_3076.jpeg)
-![Description](/resources/image_3077.jpeg)
-![Description](/resources/image_3078.jpeg)
-![Description](/resources/image_3079.jpeg)
-![Description](/resources/image_3080.jpeg)
-![Description](/resources/image_3081.jpeg)
-![Description](/resources/image_3082.jpeg)
-![Description](/resources/image_3083.jpeg)
-![Description](/resources/image_3084.jpeg)
-![Description](/resources/image_3085.jpeg)
-![Description](/resources/image_3086.jpeg)
+![Description](image_3073.jpeg)
+![Description](image_3074.jpeg)
+![Description](image_3075.jpeg)
+![Description](image_3076.jpeg)
+![Description](image_3077.jpeg)
+![Description](image_3078.jpeg)
+![Description](image_3079.jpeg)
+![Description](image_3080.jpeg)
+![Description](image_3081.jpeg)
+![Description](image_3082.jpeg)
+![Description](image_3083.jpeg)
+![Description](image_3084.jpeg)
+![Description](image_3085.jpeg)
+![Description](image_3086.jpeg)
 
 |Επιλογή διάφορων άλλων βοηθητικών σημείων για την ανάγνωση των κειμένων|Κορωνίς τρῆμα/διαίρεσις ἰῶτα προσγεγραμμένον/ ὑπογεγραμμένον οριζόντια γραμμή|ωι ῳ|κράση (= ανάμειξη δύο φωνηέντων), π.χ. τὰ ἐκεῖ -> τἀκεῖ διαλυτικά, τα οποία τίθενται συνήθως στο ϊ ή στο ϋ το οποίο στέκεται μετά από ένα άλλο φωνήεν, για να δείξει ότι τα δύο φωνήεντα δεν αποτελούν ένα δίφθογγο, αλλά πρέπει να προφερθούν ξεχωριστά, π.χ. Μάϊος. τίθεται συνήθως πάνω από βραχυγραφίες, π.χ. (= ΙΗΣΟΥΣ), ή από αριθμογράμματα, π.χ. στις χρονολογίες: (5838, μετρημένο από τη δημιουργία του κόσμου = έτος 1453 από τη Γέννηση του Χριστού, βλ. και το κεφάλαιο 3)|Σε μερικά χειρόγραφα το ι ή το υ εμφανίζονται με τρήμα και όταν στέκονται μόνα τους (βλ. π.χ. το Ειρμολόγιο της Κρυπτοφέρρης ΕγΙΙ, φ. 16β: Χρϊστός). Στα παλαιότερα χειρόγραφα το ι εμφανίζεται ως προσγεγραμμένο ή παραλείπεται. Από τον 12ο/13ο αι. και μετά τίθεται ως υπογεγραμμένο. Στα μουσικά χειρόγραφα παραλείπεται συστηματικά.|
 |---|---|---|---|---|
 
-![Description](/resources/image_3087.jpeg)
-![Description](/resources/image_3088.jpeg)
-![Description](/resources/image_3089.jpeg)
-![Description](/resources/image_3090.jpeg)
+![Description](image_3087.jpeg)
+![Description](image_3088.jpeg)
+![Description](image_3089.jpeg)
+![Description](image_3090.jpeg)
 
 Πίνακας 2.3. Προσωδιακά σημάδια και άλλα βοηθητικά σημεία για την ανάγνωση των ελληνικών κειμένων: Μια σύνοψη.xcv
 Για την ιστορική εξέλιξη των προσωδιακών σημείων στο πλαίσιο του αλεξανδρινού συστήματος πρώτα και, από το 400 περ. μ.Χ. και μετά, του βυζαντινού συστήματος, βλ.
@@ -1607,7 +1607,7 @@ del Millenario della Fondazione dell'Abbazia di S. Nilo a Grottaferrata.
 ||Εικόνα 2.22. Απόσπασμα σε αντιγραφή, από τον Αλεξανδρινό κώδικα της Αγίας Γραφής, British Library, Londinensis gr. Royal 1 D. vii, φ. 569r, σε βιβλική μεγαλογράμματη γραφή.ci|
 ||- σε κώδικες από την Aίγυπτο: η βιβλική μεγαλογράμματη γραφή παρουσιάζεται σε δύο τύπους: α. αλεξανδρινός και β. αιγυπτονιτριακός (από τη Νιτρία). Για το δεύτερο τύπο βλ. το Παλίμψηστο του Εφραίμ (Parisinus gr. 9), με υποκείμενη γραφή του 5ου αι.: <http://gallica.bnf.fr/ark:/12148/btv1b8470433r/f14.image> (17.12.2014), καθώς και τον παλίμψηστο κώδικα Londinesis gr. Addit. 17211 (βλ. παραπάνω, Εικόνα 2.20). • Ειδική τοπική ομάδα αποτελούν οι πορφυροί κώδικες της Ιουστινιάνειας εποχής (βλ. παραπάνω). • Μετά τον 6ο αι. η βιβλική μεγαλογράμματη γραφή παρακμάζει.cii|
 
-![Description](/resources/image_3091.jpeg)
+![Description](image_3091.jpeg)
 
 105
 
@@ -1620,12 +1620,12 @@ del Millenario della Fondazione dell'Abbazia di S. Nilo a Grottaferrata.
 ||β. όρθια: βλ. το Ευαγγέλιο Venetus Marcianus gr. 12 του 9ου ή 10ου αι., το οποίο φέρνει και εκφωνητική σημειογραφία, στην Εικόνα 2.25.civ|
 ||Εικόνα 2.25. Απόσπασμα από το Ευαγγέλιο Venetus Marcianus gr. 12, φ. 218β, σε μεγαλογράμματη οξυκόρυφη όρθια γραφή και με εκφωνητική παρασημαντική.cv © Biblioteca Nazionale Marciana, Venezia.|
 
-![Description](/resources/image_3092.jpeg)
-![Description](/resources/image_3093.jpeg)
+![Description](image_3092.jpeg)
+![Description](image_3093.jpeg)
 
 106
 
-![Description](/resources/image_3094.png)
+![Description](image_3094.png)
 
 |Μεγαλογράμματη λειτουργική ή λειτουργική στρογγυλόσχημη|• Αποτελεί το τελευταίο ιστορικό είδος της μεγαλογράμματης γραφής. • Διατηρήθηκε μέχρι τον 11ο αι. περίπου. • Χρησιμοποιήθηκε στα λειτουργικά βιβλία: βλ. π.χ. το παλαιότερο διασωζόμενο Barberinus gr. 336, από το β΄ μισό του 8ου αι.cvi • Πολλά χειρόγραφα φέρουν και εκφωνητική σημειογραφία: βλ. π.χ. το Ευαγγέλιο του Βιβλιοθήκη Mihai Eminescu, αρ. 160/IV-34 του 10ου αι. στην Εικόνα 2.26. Eυχολόγιο του βυζαντινού τύπου: Codex Ιασίου, Κεντρική Πανεπιστημιακή|
 |---|---|
@@ -1667,8 +1667,8 @@ Auszeichnungsschriften).
 
 είναι η διπλογράμματη: πρβλ. Λίτσας (2001, σ. 74-75).
 
-![Description](/resources/image_3095.jpeg)
-![Description](/resources/image_3096.jpeg)
+![Description](image_3095.jpeg)
+![Description](image_3096.jpeg)
 
 Εικόνες 2.27-29. Επίλεκτες μεγαλογράμματες γραφές:1. πάνω:
 αλεξανδρινή.  2. Στη μέση: κωνσταντινουπολίτικη (όρθια
@@ -1682,8 +1682,8 @@ Vindob. Suppl. gr. 4, φ. 5α (για τις φωτογραφίες των πρ�
 
 107
 
-![Description](/resources/image_3097.jpeg)
-![Description](/resources/image_3098.jpeg)
+![Description](image_3097.jpeg)
+![Description](image_3098.jpeg)
 
 # 2.3. Η μικρογράμματη γραφήcix
 
@@ -1717,7 +1717,7 @@ Vindob. Suppl. gr. 4, φ. 5α (για τις φωτογραφίες των πρ�
 
 820/840
 
-![Description](/resources/image_3099.jpeg)
+![Description](image_3099.jpeg)
 
 Πίνακας 2.5 Σχήματα και εξελίξεις ελληνικών γραμμάτων της βυζαντινής επισεσυρμένης γραφής, ανάμεσα στον 6ο και το
 α΄ μισό του 9ου αι.: μια σύνοψη του E.M. Thompson.
@@ -1786,7 +1786,7 @@ H εξελικτή πορεία της βιβλιακής μικρογράμμα
 |Στουδιτική γραφή|• Το αρχαιότερο χρονολογημένο χειρόγραφο στην αμιγή μικρογράμματη γραφή είναι το Ευαγγέλιο Uspenskij (Petropolitanus graecus 219), του 835, το οποίο από τον Όσιο Νικόλαο το Εικόνα. 2.30.|
 |μικρογράμματη)|• Πιθανόν, αυτή η γραφή τυποποιήθηκε στην Ι.Μ. Στουδίου στην Κωνσταντινούπολη, κατά τα χρόνια της ηγουμενίας του Αγ. Θεοδώρου του Στουδίτου (759-826). • Σε αντίθεση με την επισεσυρμένη μικρογράμματη γραφή, στη στουδιτική γραφή κάθε γράμμα παρουσιάζεται με τη δική του φυσιογνωμία. Εμφανίζονται χαρακτηριστικά συμπλέγματα και συνδυασμοί γραμμάτων, οι λέξεις χωρίζονται μεταξύ τους και εισάγεται η συστηματική χρήση τόνων και πνευμάτων. Εικόνα 2.30. Απόσπασμα από το Τετραευαγγέλιο Uspenskij, σε στουδιτική γραφή, σ. 117. cxvii © Εθνική Βιβλιοθήκη της Ρωσίας, St. Petersburg.|
 
-![Description](/resources/image_3100.jpeg)
+![Description](image_3100.jpeg)
 
 Μαργαριτόπλεχτη
 (γερμ.: Perlschrift)
@@ -1820,7 +1820,7 @@ H εξελικτή πορεία της βιβλιακής μικρογράμμα
 
 111
 
-![Description](/resources/image_3101.jpeg)
+![Description](image_3101.jpeg)
 
 Σγουρή (γαλλ.:
 bouletée)
@@ -1831,11 +1831,11 @@ bouletée)
 αγκιστρoειδής (γερμ.:
 eckige Hackenschrift)
 
-![Description](/resources/image_3102.jpeg)
+![Description](image_3102.jpeg)
 
 - βλ. Εικόνα 2.33. Εικόνα 2.33. Αντιγραφή από τον κώδικα Vindobonensis Theologicus graecus 108, φ. 52α, α΄ μισό 10ου αι., σε μικρογράμματη «γωνιώδη αγκιστροειδή» γραφή.cxx
 
-![Description](/resources/image_3103.jpeg)
+![Description](image_3103.jpeg)
 
 # Λειτουργική
 
@@ -1849,7 +1849,7 @@ Vaticanus graecus 463, φ. 295α, έτ. 1062 (πρώτες
 
 στρογγυλόσχημη γραφή (βλ. δείγμα σε: Λίτσας, 2001, σ. 82-83). Βλ. και Εικόνα 2.34.
 
-![Description](/resources/image_3104.jpeg)
+![Description](image_3104.jpeg)
 
 = Μικρογράμματη γραφή με πολλές συντομογραφίες, π.χ. στον κώδ. Vatic. gr. 126 του 11ου αι.cxxii
 
@@ -1861,10 +1861,10 @@ Vaticanus graecus 463, φ. 295α, έτ. 1062 (πρώτες
 |---|---|
 |Ανισοστρόγγυλη (γερμ.: Fettaugen)|• Σε διάφορα χειρόγραφα της παλαιολόγειας εποχής, ο παλαιογράφος Herbert Hunger παρατήρησε τη χρήση γραμμάτων άνισου μεγέθους, από πολύ μικρά έως και υπερβολικά μεγάλα (ειδικά τα στρογγυλόσχημα γράμματα ο, ω, β, θ, σ). Βλ. π.χ. το χφο Vaticanus graecus 1899, φ. 148α, έτ. 1261- 1282, σε μικρογράμματη «ανισοστρόγγυλη» γραφή, αυτόγραφο της Θεοδώρας Παλαιολογίνας Καντακουζηνής Ραούλαινας (Λίτσας, 2001, σ. 96-97) και το απόσπασμα στην Εικόνα 2.36 παρακάτω. • Με βάση τη γενική εικόνα που παρουσιάζουν τέτοια χειρόγραφα, ο Hunger μίλησε για μια 'Fettaugen-Mode' («μόδα ματιών λίπους») σε χειρόγραφα του 13ου-14ου αιώνα.cxxvii Εικόνες 2.36-37. Απόσπασμα από το Τροπολόγιο στο χφο Vindobonense theol. gr. 146, φ. 24a, 13ος αι., σε ανισοστρόγγυλη, ελαφρώς δεξιοκλινή γραφή (πρβλ. και Αλυγιζάκης, 1985, πίν. 48). © Österreichische Nationalbibliothek, Wien.  Fettaugen (μάτια λίπους) σε μια σούπα.|
 
-![Description](/resources/image_3105.jpeg)
-![Description](/resources/image_3106.jpeg)
-![Description](/resources/image_3107.jpeg)
-![Description](/resources/image_3108.jpeg)
+![Description](image_3105.jpeg)
+![Description](image_3106.jpeg)
+![Description](image_3107.jpeg)
+![Description](image_3108.jpeg)
 
 113
 
@@ -1872,9 +1872,9 @@ Vaticanus graecus 463, φ. 295α, έτ. 1062 (πρώτες
 |---|---|
 |Μονής Οδηγών|• Μικρογράμματη γραφή η οποία αναπτύχθηκε στην Ιερά Μονή Οδηγών στην Κωνσταντινούπολη και χαρακτηρίζεται από στοιχεία όπως η «εναλλαγή μεγάλων και μικρών γραμμάτων, αναλογία κάθετων και διαγώνιων γραμμών, ελευθερία στην κατεύθυνση της γραφής, (...) σποραδική υπέρβαση των ορίων της γραμμένης επιφάνειας».cxxxi Πρβλ. Εικόνα 2.40. • Διασώζεται σε χφα του 14ου-16ου αι. Εικόνα 2.40. Σχήματα των γραμμάτων της γραφής «Οδηγών», σύμφωνα με τον κώδικα Vaticanus Chisianus gr. R V 29, φ. 242β, έτ. 1394. Στην τελευταία σειρά φαίνονται οι συνδυασμοί ει και εξ, ενώ το προτελευταίο, μεγάλο σχήμα είναι μια άλλη μορφή του γράμματος ζ.cxxxii|
 
-![Description](/resources/image_3109.jpeg)
-![Description](/resources/image_3110.jpeg)
-![Description](/resources/image_3111.jpeg)
+![Description](image_3109.jpeg)
+![Description](image_3110.jpeg)
+![Description](image_3111.jpeg)
 
 114
 
@@ -1882,12 +1882,12 @@ Vaticanus graecus 463, φ. 295α, έτ. 1062 (πρώτες
 |---|---|
 |Σχολής Λουκά Μποζέου|• Aπό βιβλιογραφικά κέντρα στη Ρουμανία είναι γνωστό ένα είδος ελληνικής μικρογράμματης γραφής, η οποία μπορεί να περιγραφεί ως «όρθια, τετραγωνική, ευμεγέθης». Τεκμηριώνεται σε χφα του 16ου-17ου αιώνα και ονομάστηκε της «Σχολής του Λουκά Μποζέου».cxxxviii Πρόκειται για τον λόγιο αρχιερέα Luca, επίσκοπο του Buzău (1583-1603) και Μητροπολίτη της Ουγγροβλαχίας (1603-1629).cxxxix Βλ. Εικόνα 2.43. Εικόνα 2.43. Aπόσπα- σμα από το χφο της Ι.Μ. Μ. Βατοπαιδίου, ελλ. 1048, φ. 104β, έτ. 1642, σε μικρογράμ- ματη γραφή της «Σχολής του Λουκά Μποζέου», με το βιβλιογραφικό υπόμνημα του αντιγρα- φέα, Ιακώβου αρχιε- ρέως.cxl © Ι.Μ.Μ. Βα- τοπαιδίου, Άγιον Όρος.|
 
-![Description](/resources/image_3112.jpeg)
-![Description](/resources/image_3113.jpeg)
+![Description](image_3112.jpeg)
+![Description](image_3113.jpeg)
 
 115
 
-![Description](/resources/image_3114.jpeg)
+![Description](image_3114.jpeg)
 
 Ξηροποτάμου ή
 Αγιορειτική α΄
@@ -1911,7 +1911,7 @@ Vaticanus graecus 463, φ. 295α, έτ. 1062 (πρώτες
 
 • Χαρακτηρίζεται ως «καλλιγραφική, δεξιοκλινής, γωνιώδης, ευμεγέθης»cxli (βλ. Εικόνα 2.44).
 
-![Description](/resources/image_3115.jpeg)
+![Description](image_3115.jpeg)
 
 Δείγμα
 μικρογράμματης
@@ -1921,7 +1921,7 @@ Vaticanus graecus 463, φ. 295α, έτ. 1062 (πρώτες
 
 # Εικόνα 2.45
 
-![Description](/resources/image_3116.jpeg)
+![Description](image_3116.jpeg)
 
 και μεταβυζαντινούς κώδικες,
 μέχρι περίπου το 17ο αιώνα,
@@ -1974,8 +1974,8 @@ Vaticanus graecus 463, φ. 295α, έτ. 1062 (πρώτες
 |καταγραφή ιερών ονομάτων (λατ. nomen sacrum - πληθ. nomina sacra), αλλά όχι μόνο.|ΒΑ(ΣΙΛΕ)ΥΣ ΔΑ(ΥΙ)Δ Θ(ΕΟΤΟ)ΚΟΣ Θ(ΕΟ)Σ Ι(ΣΡΑ)ΗΛ Ι(ΕΡΟΥΣΑ)ΛΗΜ Ι(ΗΣΟΥ)Σ Κ(ΥΡΙΟ)Σ Μ(ΗΤ)ΗΡ ΟΥ(ΡΑ)ΝΟΣ Π(ΑΤ)ΗΡ ΠΝ(ΕΥΜ)Α Σ(ΩΤ)ΗΡ ΣΤ(ΑΥΡΟ)Σ Υ(ΙΟ)Σ Χ(ΡΙΣΤΟ)Σ|
 ||Αυτές και άλλες λέξεις παράγωγες γράφονται συνήθως συνεπτυγμένες. Από το τέλος της σύμπτυξης φαίνεται η πτώση στην οποία βρίσκεται η αντίστοιχη λέξη (βλ. το παράδειγμα της λέξης «άνθρωπος», που θα μπορούσε να συνεχιστεί και στο πληθυντικό).|
 
-![Description](/resources/image_3117.jpeg)
-![Description](/resources/image_3118.jpeg)
+![Description](image_3117.jpeg)
+![Description](image_3118.jpeg)
 
 117
 
@@ -1986,7 +1986,7 @@ Vaticanus graecus 463, φ. 295α, έτ. 1062 (πρώτες
 Προθέσεις, σύνδεσμοι
 και επιρρήματα
 
-![Description](/resources/image_3119.jpeg)
+![Description](image_3119.jpeg)
 
 Συντόμευση του τέλους μιας λέξης,
 ιδίως σε καταλήξεις ουσιαστικών
@@ -2035,7 +2035,7 @@ Vaticanus graecus 463, φ. 295α, έτ. 1062 (πρώτες
 
 Μερικές κοινόχρηστες λέξεις
 
-![Description](/resources/image_3120.jpeg)
+![Description](image_3120.jpeg)
 
 ης
 ις
@@ -2073,13 +2073,13 @@ Vaticanus graecus 463, φ. 295α, έτ. 1062 (πρώτες
 
 ως
 
-![Description](/resources/image_3121.jpeg)
+![Description](image_3121.jpeg)
 
 118
 
 - Παραδείγματα συνδυασμών από τη μεγαλογράμματη γραφή:
 
-![Description](/resources/image_3122.jpeg)
+![Description](image_3122.jpeg)
 
 # 3. Συνένωση γραμμάτων
 
@@ -2108,8 +2108,8 @@ Vaticanus graecus 463, φ. 295α, έτ. 1062 (πρώτες
 
 • Παραδείγματα συμπλεγμάτων και συνδυασμών από τη μικοργράμματη γραφή:
 
-![Description](/resources/image_3123.jpeg)
-![Description](/resources/image_3124.jpeg)
+![Description](image_3123.jpeg)
+![Description](image_3124.jpeg)
 
 αγ
 
@@ -2234,7 +2234,7 @@ Vaticanus graecus 463, φ. 295α, έτ. 1062 (πρώτες
 
 ἐστίν
 
-![Description](/resources/image_3125.jpeg)
+![Description](image_3125.jpeg)
 
 Πίνακας 2.8. Είδη γραφικών διεργασιών για οικονομία χώρου και χρόνου: συμπτύξεις, αποκοπές,συνενώσεις γραμμάτων
 και ταχυγραφικά σύμβολα: ανοιχτές λίστες, σύμφωνα με τον E. Mioni.cxlvii
@@ -2289,8 +2289,8 @@ Vaticanus graecus 463, φ. 295α, έτ. 1062 (πρώτες
 
 120
 
-![Description](/resources/image_3126.jpeg)
-![Description](/resources/image_3127.jpeg)
+![Description](image_3126.jpeg)
+![Description](image_3127.jpeg)
 
 ...
 
@@ -2358,7 +2358,7 @@ vacat
 από τον Πάπυρο Rylands 470, σε πρώιμο στάδιο μεγαλογράμματης αλεξανδρινής
 γραφής
 
-![Description](/resources/image_3128.jpeg)
+![Description](image_3128.jpeg)
 
 ## 
 
@@ -2376,7 +2376,7 @@ cl
 
 122
 
-![Description](/resources/image_3129.jpeg)
+![Description](image_3129.jpeg)
 
 Εικόνα 2.46.β. Εικόνα με πρώιμο εικονογραφικό τύπο της Υπεραγίας Θεοτόκου με το Θείο Βρέφος, από το πρώτο μισό του
 6ου αι. Προηγείται του πολύ γνωστού βυζαντινού τύπου της Παναγίας Οδηγήτριας. Προέρχεται από την Ι. Μονή Αγίας
@@ -2415,7 +2415,7 @@ Royal 1 D.viii, φ. 97r-v, 3o τέταρτο 5ου αιώνα, σε μεγαλο
 
 # 
 
-![Description](/resources/image_3130.jpeg)
+![Description](image_3130.jpeg)
 
 Εικόνα 2.47.α. O Aλεξανδρινός κώδικας της Αγίας Γραφής, Londinensis gr. Royal 1 D.viii, φ. 97r (5oς αι.), σε
 μεγαλογράμματη βιβλική γραφή.cliv Φαίνεται το κείμενο του Αγ. Αποστόλου Παύλου, Α. Κορ. ιβ΄,3-ιγ΄,3. Στο
@@ -2426,7 +2426,7 @@ Royal 1 D.viii, φ. 97r-v, 3o τέταρτο 5ου αιώνα, σε μεγαλο
 
 124
 
-![Description](/resources/image_3131.png)
+![Description](image_3131.png)
 
 Εικόνα 2.47.β. O Aλεξανδρινός κώδικας της Αγίας Γραφής, Londinensis gr. Royal 1 D.viii, φ. 97v, με τη
 συνέχεια του Ύμνου της αγάπης (Α΄ Κορ. ιγ΄,4-13). Στο βελάκι ολοκληρώνεται ο ύμνος και έπεται το κεφ. ιδ΄,1-
@@ -2443,7 +2443,7 @@ Royal 1 D.viii, φ. 97r-v, 3o τέταρτο 5ου αιώνα, σε μεγαλο
 Δοξολογίας (Gloria) από τον Αλεξανδρινό κώδικα της Αγίας Γραφής, British Library,
 Londinensis gr. Royal 1 D.vii, σε μεγαλογράμματη βιβλική γραφή (γ΄ τέταρτο 5ου αι.).
 
-![Description](/resources/image_3132.jpeg)
+![Description](image_3132.jpeg)
 
 #   &
 
@@ -2472,7 +2472,7 @@ Museum, τ. ΙΙΙ. Βλ. φωτογραφίες υψηλής ευκρίνεια
 
 126
 
-![Description](/resources/image_3133.jpeg)
+![Description](image_3133.jpeg)
 
 Εικόνα 2.48.β. Londinensis gr. Royal 1 D.vii, φ. 569v (5oς αι.), σε μεγαλογράμματη βιβλική γραφή. Tέλος της Μεγάλης
 Δοξολογίας.
@@ -2493,7 +2493,7 @@ Museum, τ. ΙΙΙ. Βλ. φωτογραφίες υψηλής ευκρίνεια
 (Nikiforova, 2015, σ. 138, 141, 172. Géhin & Frøyshov, 2000, σ. 178-179. Αρχιεπ. Δαμιανός, Αρχιμ.
 Σωφρόνιος, Πελτίκογλου και Νικολόπουλος, 1998, φωτ. 11, 49).
 
-![Description](/resources/image_3134.jpeg)
+![Description](image_3134.jpeg)
 
 # 
 
@@ -2512,7 +2512,7 @@ Museum, τ. ΙΙΙ. Βλ. φωτογραφίες υψηλής ευκρίνεια
 Marcianus gr. 12, σε μεγαλογράμματη οξυκόρυφη όρθια γραφή, με εκφωνητική
 σημειογραφία.
 
-![Description](/resources/image_3135.jpeg)
+![Description](image_3135.jpeg)
 
 # 
 
@@ -2530,7 +2530,7 @@ Nazionale Marciana, Venezia.
 στουδιτική γραφή, το οποίο αποτελεί το πρώτο χρονολογημένο μνημείο με
 μικρογράμματη γραφή.
 
-![Description](/resources/image_3136.jpeg)
+![Description](image_3136.jpeg)
 
 # 
 
@@ -2547,7 +2547,7 @@ Nazionale Marciana, Venezia.
 
 130
 
-![Description](/resources/image_3137.jpeg)
+![Description](image_3137.jpeg)
 
 Eικόνα 2.52. Το δένδρο ή η ρίζα του Ιεσσαί: βιτρώ στο γοτθικό καθεδρικό ναό Chartres, Γαλλία, περ. έτ. 1145 - γνωστό
 ως το παλαιότερο τεκμήριο αυτού του εικονογραφικού τύπου. Παριστάνει τους προπάτορες του Χριστού, ξεκινώντας από
@@ -2558,7 +2558,7 @@ Eικόνα 2.52. Το δένδρο ή η ρίζα του Ιεσσαί: βιτρ
 
 131
 
-![Description](/resources/image_3138.jpeg)
+![Description](image_3138.jpeg)
 
 Εικόνα 2.53.α. To Τετραευαγγέλιο Uspenskij (Codex Petropolitanus graecus 219), έτ. 835, φ. 53r. Το παλαιότερο
 χρονολογημένο χειρόγραφο σε αμιγή μικρογράμματη γραφή (στουδιτική), γραμμένο από το Νικόλαο, μοναχό της Ι.Μ.
@@ -2570,7 +2570,7 @@ Eικόνα 2.52. Το δένδρο ή η ρίζα του Ιεσσαί: βιτρ
 κίνησης της φωνής κατά την εμμελή απαγγελία του κειμένου: Petrop.
 gr. 219, φ. 53r. Όμοια χρήση διπλής βαρείας παρατηρείται και στα
 
-![Description](/resources/image_3139.jpeg)
+![Description](image_3139.jpeg)
 
 φ. 69r, 73r, 78v, 80r, 105v. Πρβλ. και τη σημείωση τέλους xcvi στο
 
@@ -2578,7 +2578,7 @@ gr. 219, φ. 53r. Όμοια χρήση διπλής βαρείας παρατη
 
 132
 
-![Description](/resources/image_3140.jpeg)
+![Description](image_3140.jpeg)
 
 Εικόνα 2.54.α. To Τετραευαγγέλιο Uspenskij (Codex Petropolitanus graecus 219), έτ. 835, φ. 117r, με απόσπασμα από το
 Κατά Μάρκον Ευαγγέλιο στ, 4-10.
@@ -2588,7 +2588,7 @@ gr. 219, φ. 53r. Όμοια χρήση διπλής βαρείας παρατη
 ενδείξεις ειδικής κίνησης της φωνής κατά την ανάγνωση του
 κειμένου: Petrop. gr. 219, φ. 117r.
 
-![Description](/resources/image_3141.jpeg)
+![Description](image_3141.jpeg)
 
 133
 
@@ -2598,7 +2598,7 @@ gr. 219, φ. 53r. Όμοια χρήση διπλής βαρείας παρατη
 Ιεράς Μονής Μεγίστης Λαύρας του Αγίου Όρους, Δ 70, 10ος αι., γραμμένο από τον
 Ιωάννην, σε προστάδιο της Perlschrift.
 
-![Description](/resources/image_3142.jpeg)
+![Description](image_3142.jpeg)
 
 # 
 
@@ -2620,7 +2620,7 @@ catena (ερμηνευτική σειρά) στις ώες του χφου, γρ
 <http://digi.vatlib.it/view/MSS_Vat.gr.1613/0100> (27.10.2015).
 Έντυπες εκδόσεις: Follieri (1969, πίν. 20) και Λίτσας (2001, σ. 78-79).
 
-![Description](/resources/image_3143.jpeg)
+![Description](image_3143.jpeg)
 
 # 
 
@@ -2648,8 +2648,8 @@ catena (ερμηνευτική σειρά) στις ώες του χφου, γρ
 
 # 
 
-![Description](/resources/image_3144.jpeg)
-![Description](/resources/image_3145.jpeg)
+![Description](image_3144.jpeg)
+![Description](image_3145.jpeg)
 
 Εικόνα 2.57.α-β. Αγιασματάριο από το Σπουδαστήριο Κλασικής Φιλολογίας της Φιλοσοφικής Σχολής του Αριστοτελείου Πανεπιστημίου Θεσσαλονίκης, αρ. χφου 36, 17ος αι., φ.
 1α-β, σε λειτουργική δεξιοκλινή γραφή, με μικρογραφία της Αγίας Τριάδος εν μορφή Τριών Αγγέλων ευλογούντων το ύδωρ, και με διακοσμημένο πρωτόγραμμα.clix
@@ -2671,7 +2671,7 @@ catena (ερμηνευτική σειρά) στις ώες του χφου, γρ
 διαφορετική εκδοχή του κειμένου με τον ίδιο τίτλο, γραμμένη σε μικρογράμματη
 ελαφρώς δεξιοκλινή γραφή.
 
-![Description](/resources/image_3146.jpeg)
+![Description](image_3146.jpeg)
 
 # 
 

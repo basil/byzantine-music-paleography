@@ -25,13 +25,13 @@ weight: 90
 φθόγγων σε κάθε σημαδόφωνο, και 2. Μέλος, με την προφορά των συλλαβών του κειμένου σε κάθε
 φθογγόσημο (βλ. Εικόνες 9.1.-2).
 
-![Description](/resources/image_10510.jpeg)
+![Description](image_10510.jpeg)
 
 Εικόνα 9.1. Η διαδικασία εκμάθησης των κομματιών στη Νέα Μέθοδο: παραλλαγή και μέλος.
 Πηγή: Χρύσανθος εκ Μαδύτων (1821). Εἰσαγωγὴ εἰς τὸ θεωρητικὸν καὶ πρακτικὸν
 μουσικῆς. Παρίσι: Ριγνίου (επαν. Κουλτούρα), σ. 11.
 
-![Description](/resources/image_10511.jpeg)
+![Description](image_10511.jpeg)
 
 τῆς ἐκκλησιαστικῆς
 
@@ -48,13 +48,13 @@ weight: 90
 
 9.3.).
 
-![Description](/resources/image_10512.jpeg)
-![Description](/resources/image_10513.jpeg)
+![Description](image_10512.jpeg)
+![Description](image_10513.jpeg)
 
 473
 
-![Description](/resources/image_10514.jpeg)
-![Description](/resources/image_10515.jpeg)
+![Description](image_10514.jpeg)
+![Description](image_10515.jpeg)
 
 Εικόνα 9.3. Η διδακτική της Παλαιάς Μεθόδου, σύμφωνα με το Χρύσανθο: παραλλαγή - μετροφωνία - μέλος, με το
 παράδειγμα της πρώτης φράσης του αναστάσιμου στιχηρού του α΄ ήχου «Τὰς ἑσπερινὰς ἡμῶν εὐχάς», κείμενο Αγίου
@@ -72,7 +72,7 @@ weight: 90
 
 474
 
-![Description](/resources/image_10516.png)
+![Description](image_10516.png)
 
 Εικόνα 9.4. Βήματα στη σταδιοδρομία ενός ψάλτη του 15ου αιώνα, σύμφωνα με το Γαβριήλ Ιερομόναχο.iii
 
@@ -114,154 +114,154 @@ weight: 90
 
 475
 
-![Description](/resources/image_10517.png)
-![Description](/resources/image_10518.png)
-![Description](/resources/image_10519.png)
-![Description](/resources/image_10520.png)
-![Description](/resources/image_10521.png)
-![Description](/resources/image_10522.png)
-![Description](/resources/image_10523.png)
-![Description](/resources/image_10524.png)
-![Description](/resources/image_10525.png)
-![Description](/resources/image_10526.png)
-![Description](/resources/image_10527.png)
-![Description](/resources/image_10528.png)
-![Description](/resources/image_10529.png)
-![Description](/resources/image_10530.png)
-![Description](/resources/image_10531.png)
-![Description](/resources/image_10532.png)
-![Description](/resources/image_10533.png)
-![Description](/resources/image_10534.png)
-![Description](/resources/image_10535.png)
-![Description](/resources/image_10536.png)
-![Description](/resources/image_10537.png)
-![Description](/resources/image_10538.png)
-![Description](/resources/image_10539.png)
-![Description](/resources/image_10540.png)
-![Description](/resources/image_10541.png)
-![Description](/resources/image_10542.png)
-![Description](/resources/image_10543.png)
-![Description](/resources/image_10544.png)
-![Description](/resources/image_10545.png)
-![Description](/resources/image_10546.png)
-![Description](/resources/image_10547.png)
-![Description](/resources/image_10548.png)
-![Description](/resources/image_10549.png)
-![Description](/resources/image_10550.png)
-![Description](/resources/image_10551.png)
-![Description](/resources/image_10552.png)
-![Description](/resources/image_10553.png)
-![Description](/resources/image_10554.png)
-![Description](/resources/image_10555.png)
-![Description](/resources/image_10556.png)
-![Description](/resources/image_10557.png)
-![Description](/resources/image_10558.png)
-![Description](/resources/image_10559.png)
-![Description](/resources/image_10560.png)
-![Description](/resources/image_10561.png)
-![Description](/resources/image_10562.png)
-![Description](/resources/image_10563.png)
-![Description](/resources/image_10564.png)
-![Description](/resources/image_10565.png)
-![Description](/resources/image_10566.png)
-![Description](/resources/image_10567.png)
-![Description](/resources/image_10568.png)
-![Description](/resources/image_10569.png)
-![Description](/resources/image_10570.png)
-![Description](/resources/image_10571.png)
-![Description](/resources/image_10572.png)
-![Description](/resources/image_10573.png)
-![Description](/resources/image_10574.png)
-![Description](/resources/image_10575.png)
-![Description](/resources/image_10576.png)
-![Description](/resources/image_10577.png)
-![Description](/resources/image_10578.png)
-![Description](/resources/image_10579.png)
-![Description](/resources/image_10580.png)
-![Description](/resources/image_10581.png)
-![Description](/resources/image_10582.png)
-![Description](/resources/image_10583.png)
-![Description](/resources/image_10584.png)
-![Description](/resources/image_10585.png)
-![Description](/resources/image_10586.png)
-![Description](/resources/image_10587.png)
-![Description](/resources/image_10588.png)
-![Description](/resources/image_10589.png)
-![Description](/resources/image_10590.png)
-![Description](/resources/image_10591.png)
-![Description](/resources/image_10592.png)
-![Description](/resources/image_10593.png)
-![Description](/resources/image_10594.png)
-![Description](/resources/image_10595.png)
-![Description](/resources/image_10596.png)
-![Description](/resources/image_10597.png)
-![Description](/resources/image_10598.png)
-![Description](/resources/image_10599.png)
-![Description](/resources/image_10600.png)
-![Description](/resources/image_10601.png)
-![Description](/resources/image_10602.png)
-![Description](/resources/image_10603.png)
-![Description](/resources/image_10604.png)
-![Description](/resources/image_10605.png)
-![Description](/resources/image_10606.png)
-![Description](/resources/image_10607.png)
-![Description](/resources/image_10608.png)
-![Description](/resources/image_10609.png)
-![Description](/resources/image_10610.png)
-![Description](/resources/image_10611.png)
-![Description](/resources/image_10612.png)
-![Description](/resources/image_10613.png)
-![Description](/resources/image_10614.png)
-![Description](/resources/image_10615.png)
-![Description](/resources/image_10616.png)
-![Description](/resources/image_10617.png)
-![Description](/resources/image_10618.png)
-![Description](/resources/image_10619.png)
-![Description](/resources/image_10620.png)
-![Description](/resources/image_10621.png)
-![Description](/resources/image_10622.png)
-![Description](/resources/image_10623.png)
-![Description](/resources/image_10624.png)
-![Description](/resources/image_10625.png)
-![Description](/resources/image_10626.png)
-![Description](/resources/image_10627.png)
-![Description](/resources/image_10628.png)
-![Description](/resources/image_10629.png)
-![Description](/resources/image_10630.png)
-![Description](/resources/image_10631.png)
-![Description](/resources/image_10632.png)
-![Description](/resources/image_10633.png)
-![Description](/resources/image_10634.png)
-![Description](/resources/image_10635.png)
-![Description](/resources/image_10636.png)
-![Description](/resources/image_10637.png)
-![Description](/resources/image_10638.png)
-![Description](/resources/image_10639.png)
-![Description](/resources/image_10640.png)
-![Description](/resources/image_10641.png)
-![Description](/resources/image_10642.png)
-![Description](/resources/image_10643.png)
-![Description](/resources/image_10644.png)
-![Description](/resources/image_10645.png)
-![Description](/resources/image_10646.png)
-![Description](/resources/image_10647.png)
-![Description](/resources/image_10648.png)
-![Description](/resources/image_10649.png)
-![Description](/resources/image_10650.png)
-![Description](/resources/image_10651.png)
-![Description](/resources/image_10652.png)
-![Description](/resources/image_10653.png)
-![Description](/resources/image_10654.png)
-![Description](/resources/image_10655.png)
-![Description](/resources/image_10656.png)
-![Description](/resources/image_10657.png)
-![Description](/resources/image_10658.png)
-![Description](/resources/image_10659.png)
-![Description](/resources/image_10660.png)
-![Description](/resources/image_10661.png)
-![Description](/resources/image_10662.png)
-![Description](/resources/image_10663.png)
-![Description](/resources/image_10664.png)
+![Description](image_10517.png)
+![Description](image_10518.png)
+![Description](image_10519.png)
+![Description](image_10520.png)
+![Description](image_10521.png)
+![Description](image_10522.png)
+![Description](image_10523.png)
+![Description](image_10524.png)
+![Description](image_10525.png)
+![Description](image_10526.png)
+![Description](image_10527.png)
+![Description](image_10528.png)
+![Description](image_10529.png)
+![Description](image_10530.png)
+![Description](image_10531.png)
+![Description](image_10532.png)
+![Description](image_10533.png)
+![Description](image_10534.png)
+![Description](image_10535.png)
+![Description](image_10536.png)
+![Description](image_10537.png)
+![Description](image_10538.png)
+![Description](image_10539.png)
+![Description](image_10540.png)
+![Description](image_10541.png)
+![Description](image_10542.png)
+![Description](image_10543.png)
+![Description](image_10544.png)
+![Description](image_10545.png)
+![Description](image_10546.png)
+![Description](image_10547.png)
+![Description](image_10548.png)
+![Description](image_10549.png)
+![Description](image_10550.png)
+![Description](image_10551.png)
+![Description](image_10552.png)
+![Description](image_10553.png)
+![Description](image_10554.png)
+![Description](image_10555.png)
+![Description](image_10556.png)
+![Description](image_10557.png)
+![Description](image_10558.png)
+![Description](image_10559.png)
+![Description](image_10560.png)
+![Description](image_10561.png)
+![Description](image_10562.png)
+![Description](image_10563.png)
+![Description](image_10564.png)
+![Description](image_10565.png)
+![Description](image_10566.png)
+![Description](image_10567.png)
+![Description](image_10568.png)
+![Description](image_10569.png)
+![Description](image_10570.png)
+![Description](image_10571.png)
+![Description](image_10572.png)
+![Description](image_10573.png)
+![Description](image_10574.png)
+![Description](image_10575.png)
+![Description](image_10576.png)
+![Description](image_10577.png)
+![Description](image_10578.png)
+![Description](image_10579.png)
+![Description](image_10580.png)
+![Description](image_10581.png)
+![Description](image_10582.png)
+![Description](image_10583.png)
+![Description](image_10584.png)
+![Description](image_10585.png)
+![Description](image_10586.png)
+![Description](image_10587.png)
+![Description](image_10588.png)
+![Description](image_10589.png)
+![Description](image_10590.png)
+![Description](image_10591.png)
+![Description](image_10592.png)
+![Description](image_10593.png)
+![Description](image_10594.png)
+![Description](image_10595.png)
+![Description](image_10596.png)
+![Description](image_10597.png)
+![Description](image_10598.png)
+![Description](image_10599.png)
+![Description](image_10600.png)
+![Description](image_10601.png)
+![Description](image_10602.png)
+![Description](image_10603.png)
+![Description](image_10604.png)
+![Description](image_10605.png)
+![Description](image_10606.png)
+![Description](image_10607.png)
+![Description](image_10608.png)
+![Description](image_10609.png)
+![Description](image_10610.png)
+![Description](image_10611.png)
+![Description](image_10612.png)
+![Description](image_10613.png)
+![Description](image_10614.png)
+![Description](image_10615.png)
+![Description](image_10616.png)
+![Description](image_10617.png)
+![Description](image_10618.png)
+![Description](image_10619.png)
+![Description](image_10620.png)
+![Description](image_10621.png)
+![Description](image_10622.png)
+![Description](image_10623.png)
+![Description](image_10624.png)
+![Description](image_10625.png)
+![Description](image_10626.png)
+![Description](image_10627.png)
+![Description](image_10628.png)
+![Description](image_10629.png)
+![Description](image_10630.png)
+![Description](image_10631.png)
+![Description](image_10632.png)
+![Description](image_10633.png)
+![Description](image_10634.png)
+![Description](image_10635.png)
+![Description](image_10636.png)
+![Description](image_10637.png)
+![Description](image_10638.png)
+![Description](image_10639.png)
+![Description](image_10640.png)
+![Description](image_10641.png)
+![Description](image_10642.png)
+![Description](image_10643.png)
+![Description](image_10644.png)
+![Description](image_10645.png)
+![Description](image_10646.png)
+![Description](image_10647.png)
+![Description](image_10648.png)
+![Description](image_10649.png)
+![Description](image_10650.png)
+![Description](image_10651.png)
+![Description](image_10652.png)
+![Description](image_10653.png)
+![Description](image_10654.png)
+![Description](image_10655.png)
+![Description](image_10656.png)
+![Description](image_10657.png)
+![Description](image_10658.png)
+![Description](image_10659.png)
+![Description](image_10660.png)
+![Description](image_10661.png)
+![Description](image_10662.png)
+![Description](image_10663.png)
+![Description](image_10664.png)
 
 Μια άλλη σχηματική παράσταση του τριπλού διδακτικού βηματισμού κατά την Παλαιά Μέθοδο θα
 μπορούσε να πάρει και την παρακάτω μορφή (βλ. Εικόνα 9.5):
@@ -287,7 +287,7 @@ weight: 90
 Η περίπτωση του Θεματισμού
 από την αδιαστηματική αγιοπολίτικη σημειογραφία:
 
-![Description](/resources/image_10665.jpeg)
+![Description](image_10665.jpeg)
 
 # Coislin I-IV
 
@@ -295,7 +295,7 @@ weight: 90
 
 # στη διαστηματική μεσοβυζαντινή σημειογραφία
 
-![Description](/resources/image_10666.jpeg)
+![Description](image_10666.jpeg)
 
 Εικόνα 9.6. Η πορεία της βυζαντινής παρασημαντικής από την αδιαστηματικότητα προς τη διαστηματικότητα.
 Πηγές: Floros (1970, τ. ΙΙΙ, σ. 48). ΕΒΕ 2458, έτ. 1336, φ. 3r, απόσπασμα από το Μέγα Ίσον του Αγίου Ιωάννου του
@@ -306,7 +306,7 @@ weight: 90
 έγινε με την εκμετάλλευση του κάθετου άξονα της γραφής και την εισαγωγή γραμμών, οδηγώντας προς τη
 διαμόρφωση του πενταγράμμου (Εικόνα 9.7).
 
-![Description](/resources/image_10667.jpeg)
+![Description](image_10667.jpeg)
 
 Εικόνα 9.7. Διαστηματικότητα σε Ανατολή και Δύση: συμβολισμός («συμβατικά σημάδια σε οριζόντια γραμμή») και
 εικονικότητα (ένδειξη ύψους με βάση έναν κάθετο άξονα).
@@ -339,7 +339,7 @@ weight: 90
 
 - λεκτική, με σχετική διευκρίνιση δίπλα στο σημάδι (βλ. Εικόνα 9.9).
 
-![Description](/resources/image_10668.jpeg)
+![Description](image_10668.jpeg)
 
 Εικόνες 9.8-9. Αριθμητικές και λεκτικές ενδείξεις της διαστηματικής αξίας των φθογγοσήμων στην Προθεωρία της
 Παπαδικής. Αριστερά: κάτω από τους συνδυασμούς με το ίσον: «ἄφω(νον)», και μετά ενδείξεις για α΄ ή β΄ φωνές. Δεξιά:
@@ -373,8 +373,8 @@ weight: 90
 
 478
 
-![Description](/resources/image_10669.jpeg)
-![Description](/resources/image_10670.jpeg)
+![Description](image_10669.jpeg)
+![Description](image_10670.jpeg)
 
 Εικόνες 9.10-11. «Χορός τετραδεκαπύρσευτος» και άλλα στιχηρά εις τιμήν των Αγίων Τεσσαράκοντα Μαρτύρων της
 Σεβάστειας (αρχές 4ου αι. μ.Χ. Γιορτάζουν στις 9 Μαρτίου), από το Στιχηράριο της ΕΒΕ 884, φ. 155v, έτ. 1340/41, σε
@@ -386,7 +386,7 @@ weight: 90
 
 479
 
-![Description](/resources/image_10671.jpeg)
+![Description](image_10671.jpeg)
 
 Εικόνα 9.12. «Ἡ κύριος μετροφωνία τῆς παραλλαγ(ῆς):- ἦχος α΄∙ Χορὸς τετραδεκαπύρσευτος» και άλλες
 μέθοδοι από την Προθεωρία της Παπαδικής στο χφο ΕΒΕ 2401, φ. 20v, πιθ. 1452-1469 (Πολίτης & Πολίτη, 1991, σ. 314-
@@ -398,7 +398,7 @@ weight: 90
 Μια σύγκριση ανάμεσα στο στιχηρό και την άσκηση μετροφωνίας και παραλλαγής θα μπορούσε να
 πάρει την παρακάτω μορφή (βλ. Εικόνα 9.13):
 
-![Description](/resources/image_10672.jpeg)
+![Description](image_10672.jpeg)
 
 # Τα ακούτε πατώντας  
 
@@ -416,7 +416,7 @@ weight: 90
 τετραδεκαπύρσευτος στη Νέα Μέθοδο (βλ. Εικόνα 9.14), και έτσι έχουμε σήμερα τη δυνατότητα να
 αφουγκραστούμε το αργό μέλος του στιχηρού αυτού: Ακούτε την αρχή πατώντας 
 
-![Description](/resources/image_10673.jpeg)
+![Description](image_10673.jpeg)
 
 Εικόνα 9.14.α. Η εξήγηση του Χουρμουζίου Χαρτοφύλακα για το παλαιό στιχηρό «Χορὸς τετραδεκαπύρσευτος», σε
 ήχο α΄, με βάση το αυτόγραφό του ΜΠΤ 709, φ. 104α-β. Το κομμάτι χωρίστηκε σε μουσικοποιητικές φράσεις (κώλα) και
@@ -424,7 +424,7 @@ weight: 90
 
 482
 
-![Description](/resources/image_10674.jpeg)
+![Description](image_10674.jpeg)
 
 Εικόνα 9.14.β. Συνέχεια και τέλος της εξήγησης του Χουρμουζίου για το στιχηρό «Χορὸς τετραδεκαπύρσευτος», με
 βάση το αυτόγραφο ΜΠΤ 709, φ. 104β.
@@ -435,7 +435,7 @@ weight: 90
 
 483
 
-![Description](/resources/image_10675.jpeg)
+![Description](image_10675.jpeg)
 
 484
 
@@ -455,7 +455,7 @@ weight: 90
 παλαιό στιχηρό για την εορτή της Μετάστασης του Aγίου Ιωάννου του Ευαγγελιστού (26 Σεπτεμβρίου),xi
 ποίημα του Θεοφάνους (ΕΒΕ 884) ή του Στουδίτου (Α 139 sup.): βλ. Εικόνες 9.16-17.
 
-![Description](/resources/image_10676.jpeg)
+![Description](image_10676.jpeg)
 
 Εικόνα 9.16. Το στιχηρό «Θεολόγε παρθένε», σε ήχο β΄, από το Παλαιό Στιχηράριο διορθωμένο από τον Άγιο
 Ιωάννη Κουκουζέλη, χφο ΕΒΕ 884, φ. 37r, έτ. 1340/1. © Εθνική Βιβλιοθήκη της Ελλάδος.xii
@@ -467,7 +467,7 @@ weight: 90
 
 485
 
-![Description](/resources/image_10677.jpeg)
+![Description](image_10677.jpeg)
 
 Ακούτε τη μετροφωνία και την παραλλαγή (διατονικά), πατώντας  & .
 Εικόνα 9.17.α. «Στιχ(η)ρ(ὸν) παραλ<λ>αγιστὸν: ἦχος β΄∙ Θεολόγε παρθένε», στο χφο ΕΒΕ 928, φ. 167r, τέλη 15ου
@@ -475,7 +475,7 @@ weight: 90
 
 486
 
-![Description](/resources/image_10678.jpeg)
+![Description](image_10678.jpeg)
 
 Εικόνα 9.17.β. Συνέχεια του ίδιου παραλλαγιστού στιχηρού, χφο ΕΒΕ 928, φ. 167v, τέλη 15ου αι. (Conomos).
 
@@ -486,7 +486,7 @@ weight: 90
 Η αργή εξήγηση του Χουρμουζίου για το στιχηρό Θεολόγε παρθένε, στο παλαιό στυλ, καταχωρείται
 στην Εικόνα 9.18.
 
-![Description](/resources/image_10679.jpeg)
+![Description](image_10679.jpeg)
 
 Ακούτε την παραλλαγή και το μέλος της εξήγησης πατώντας  & .
 Εικόνα 9.18.α. Η εξήγηση του Χουρμουζίου Χαρτοφύλακα για το παλαιό στιχηρό «Θεολόγε παρθένε», σε ήχο β΄, με
@@ -495,7 +495,7 @@ weight: 90
 
 488
 
-![Description](/resources/image_10680.jpeg)
+![Description](image_10680.jpeg)
 
 Εικόνα 9.18.β. Συνέχεια και τέλος της εξήγησης του Χουρμουζίου για το στιχηρό «Θεολόγε παρθένε», με βάση το
 αυτόγραφό του ΜΠΤ 707, φ. 222β-223α.
@@ -513,7 +513,7 @@ weight: 90
 φθογγόσημα της μετροφωνίας τις μαρτυρίες με το σύστημα της τετραφωνίας, δηλ. του τροχού. Για το φθόγγο
 G θέτει τη μαρτυρία . Συνεπάγεται ότι εδώ ο φθόγγος G θα είναι φυσικός.
 
-![Description](/resources/image_10681.jpeg)
+![Description](image_10681.jpeg)
 
 Όπως αναφέρθηκε στο κεφάλαιο 8, ενότητα 3.5, αυτή η αντίφαση μας οδηγεί σε ένα πολύ ενδιαφέρον
 φαινόμενο της παλαιάς γραφής, το οποίο διάφοροι θεωρητικοί όπως ο Χρυσάφης ο Παλαιός (στίχοι 438-452)
@@ -528,22 +528,22 @@ G θέτει τη μαρτυρία . Συνεπάγεται ότι εδώ ο φ�
 
 489
 
-![Description](/resources/image_10682.jpeg)
+![Description](image_10682.jpeg)
 
 ἀπὸ παραλλαγῆς: πλ. δ'
 
-![Description](/resources/image_10683.jpeg)
+![Description](image_10683.jpeg)
 
 ἀπὸ μέλους
 
-![Description](/resources/image_10684.jpeg)
+![Description](image_10684.jpeg)
 
 Εικόνα 9.19. Η πρώτη φράση του στιχηρού «Θεολόγε παρθένε», ήχος β΄, από το χφο Α 139 sup., φ.23β, και η αντίστοιχη
 φράση του ομώνυμου «στιχηροῦ παραλλαγιστοῦ» από το χφο ΕΒΕ 928, φ. 167r, με μεταγραμματισμούς.
 
-![Description](/resources/image_10685.jpeg)
-![Description](/resources/image_10686.jpeg)
-![Description](/resources/image_10687.jpeg)
+![Description](image_10685.jpeg)
+![Description](image_10686.jpeg)
+![Description](image_10687.jpeg)
 
 Μετροφωνία ως απόδοση ενός
 τροπαρίου, μόνο με βαθμηδόν κινήσεις,
@@ -564,8 +564,8 @@ G θέτει τη μαρτυρία . Συνεπάγεται ότι εδώ ο φ�
 σε άλλα συστήματα εκτός του διατονικού τροχού. Έτσι, για το στιχηρό «Θεολόγε παρθένε» βρίσκεται πλέον
 αντίστοιχο κανόνιο με το συγκεκριμένο ήχο (β΄): βλ. Εικόνα 9.21.
 
-![Description](/resources/image_10688.jpeg)
-![Description](/resources/image_10689.jpeg)
+![Description](image_10688.jpeg)
+![Description](image_10689.jpeg)
 
 Εικόνα 9.21. Η αρχή του στιχηρού «Θεολόγε παρθένε» από το Sticherarium Ambrosianum A 139 sup., φ. 23v, με
 μεταγραμματισμό, και κανόνιον του β΄ ήχου, αντίγραφο από τον Ανύνυμο θεωρητικό του χφου ΕΒΕ 968, φ. 180v.
@@ -583,8 +583,8 @@ G θέτει τη μαρτυρία . Συνεπάγεται ότι εδώ ο φ�
 
 491
 
-![Description](/resources/image_10690.jpeg)
-![Description](/resources/image_10691.jpeg)
+![Description](image_10690.jpeg)
+![Description](image_10691.jpeg)
 
 Εικόνα 9.22. Η αρχή του στιχηρού «Θεολόγε παρθένε» από το Sticherarium Ambrosianum A 139 sup., φ. 23v, με
 μεταγραμματισμό, και η αργή εξήγηση του Χουρμουζίου, από το χφο ΕΒΕ 707, φ. 222r, με σχηματική μεταγραφή στο
@@ -610,7 +610,7 @@ G θέτει τη μαρτυρία . Συνεπάγεται ότι εδώ ο φ�
 
 492
 
-![Description](/resources/image_10692.jpeg)
+![Description](image_10692.jpeg)
 
 |1. ἦχ.|α΄ G a|a G a|a GF Ga a GF E FG a|
 |---|---|---|---|
@@ -619,10 +619,10 @@ G θέτει τη μαρτυρία . Συνεπάγεται ότι εδώ ο φ�
 |4.|Ga c|c G c|c F c ¦ἦχ. δ-π./δ΄ d c d|
 |5.|d ch cd|d ch|d d ch aG ah d|
 
-![Description](/resources/image_10693.jpeg)
-![Description](/resources/image_10694.jpeg)
-![Description](/resources/image_10695.jpeg)
-![Description](/resources/image_10696.jpeg)
+![Description](image_10693.jpeg)
+![Description](image_10694.jpeg)
+![Description](image_10695.jpeg)
+![Description](image_10696.jpeg)
 
 1. h: σύμφωνα με το χφο, ο μεταγραμματισμός θα έπρεπε να είναι : a. Διορθώσαμε όμως σε δίφωνη ανάβαση, κατ' αναλογίαν με την αντίστοιχη θέση
 στην αρχή της σειράς 4., καθώς στους ισασμούς ο τελικός φθόγγος της κάθε φόρμουλας συμπίπτει με τον πρώτο .
@@ -648,7 +648,7 @@ G θέτει τη μαρτυρία . Συνεπάγεται ότι εδώ ο φ�
 
 493
 
-![Description](/resources/image_10697.png)
+![Description](image_10697.png)
 
 Eικόνα 9.24.α. Απόσπασμα από τη «Μέθοδο της μετροφωνίας» του Γρηγορίου Μπούνη του Αλυάτη:
 παραδείγματα θέσεων για δύο φωνές (κ. 26-28). Σημάδια και κείμενο από την Προθεωρία του χφου
@@ -658,21 +658,21 @@ Eικόνα 9.24.α. Απόσπασμα από τη «Μέθοδο της μετ
 
 494
 
-![Description](/resources/image_10698.png)
+![Description](image_10698.png)
 
 Eικόνα 9.24.β. Απόσπασμα από τη «Μέθοδο της μετροφωνίας» του Γρηγορίου Μπούνη του Αλυάτη:
 παραδείγματα θέσεων για δύο φωνές (κ. 29-31).
 
 495
 
-![Description](/resources/image_10699.png)
+![Description](image_10699.png)
 
 Eικόνα 9.24.γ. Απόσπασμα από τη «Μέθοδο της μετροφωνίας» του Γρηγορίου Μπούνη του Αλυάτη:
 παραδείγματα θέσεων για δύο φωνές (κ. 32-34).
 
 496
 
-![Description](/resources/image_10700.png)
+![Description](image_10700.png)
 
 Eικόνα 9.24.δ. Απόσπασμα από τη «Μέθοδο της μετροφωνίας» του Γρηγορίου Μπούνη του Αλυάτη:
 παραδείγματα θέσεων για δύο φωνές (κ. 35, 45-46. Ενδιάμεσα μεσολαβούν θέσεις σε άλλα διαστηματικά
@@ -680,7 +680,7 @@ Eικόνα 9.24.δ. Απόσπασμα από τη «Μέθοδο της μετ
 
 497
 
-![Description](/resources/image_10701.png)
+![Description](image_10701.png)
 
 Eικόνα 9.24.ε. Απόσπασμα από τη Μέθοδο μετροφωνίας του Γρηγορίου Μπούνη του Αλυάτη: παραδείγματα
 θέσεων για δύο φωνές (κ.47-48).
@@ -709,7 +709,7 @@ Eικόνα 9.24.ε. Απόσπασμα από τη Μέθοδο μετροφω�
 |---|
 |Φωνές κατιούσες: -4 - 4 - 1 -1-1-1 - 1-1-1 = 19 - 2 - 2|
 
-![Description](/resources/image_10702.jpeg)
+![Description](image_10702.jpeg)
 
 Εικόνα 9.25. Η αρχή του Δ΄ Εωθινού σε ήχο δ΄, αντιγραφή από τους κώδικες: 1. Α 139 sup., φ. 299r, έτ. 1341 και 2. ΕΒΕ
 917, φ. 3r, έτ. 1500-1520, αυτόγραφο του Ακακίου Χαλκεόπουλου (Χατζηγιακουμής, 1980, σ. 113). Στον αρ. 3 δίνουμε μια
@@ -721,7 +721,7 @@ Eικόνα 9.24.ε. Απόσπασμα από τη Μέθοδο μετροφω�
 
 499
 
-![Description](/resources/image_10703.jpeg)
+![Description](image_10703.jpeg)
 
 Εικόνα 9.26. Κανόνιο μετροφωνίας στον Ανώνυμο του χφου ΕΒΕ 968, φ. 177r, 17ος αι. (Giannopoulos, 2013, σ. 98, 111-
 
@@ -753,7 +753,7 @@ Eικόνα 9.24.ε. Απόσπασμα από τη Μέθοδο μετροφω�
 
 ## Πα
 
-![Description](/resources/image_10704.jpeg)
+![Description](image_10704.jpeg)
 
 Ακούτε την αρχή του διαγράμματος πατώντας 
 Εικόνα 9.27. Το κανόνιο της μετροφωνίας στον Ανώνυμο του χφου ΕΒΕ 968, φ. 177r, με προσθήκη των αντίστοιχων
@@ -771,11 +771,11 @@ Eικόνα 9.24.ε. Απόσπασμα από τη Μέθοδο μετροφω�
 
 501
 
-![Description](/resources/image_10705.jpeg)
+![Description](image_10705.jpeg)
 
 -  Το πρωτότυπο στιχηρό (όπως το αναφέρει ο Χρύσανθος, 70)
 
-![Description](/resources/image_10706.jpeg)
+![Description](image_10706.jpeg)
 
 - Παραλλαγή, σύμφωνα με τον Χρύσανθο
 
@@ -792,8 +792,8 @@ Eικόνα 9.24.ε. Απόσπασμα από τη Μέθοδο μετροφω�
 
 502
 
-![Description](/resources/image_10707.jpeg)
-![Description](/resources/image_10708.jpeg)
+![Description](image_10707.jpeg)
+![Description](image_10708.jpeg)
 
 # 3. Μετροφωνία - Παραλλαγή - Μέλος: το παράδειγμα του απηχήματος του α΄ ήχου 503
 
@@ -801,12 +801,12 @@ Eικόνα 9.24.ε. Απόσπασμα από τη Μέθοδο μετροφω�
 
 Ένα
 
-![Description](/resources/image_10709.jpeg)
+![Description](image_10709.jpeg)
 
 1.
 
-![Description](/resources/image_10710.jpeg)
-![Description](/resources/image_10711.jpeg)
+![Description](image_10710.jpeg)
+![Description](image_10711.jpeg)
 
 Ακούτε τις γραμμές 2&3 και 4 
 
@@ -821,7 +821,7 @@ Eικόνα 9.24.ε. Απόσπασμα από τη Μέθοδο μετροφω�
 μέσα από τη μετροφωνία και παραλλαγή του, πως φθάνουμε στο μέλος του, με την τέχνη της αργής εξήγησης. Μια σχηματική παράσταση της σχέσης
 ανάμεσα στο αρχικό ίσον, τη μετροφωνία, την παραλλαγή και το μέλος του απηχήματος του α΄ ήχου δείχνει η Εικόνα 9.30.
 
-![Description](/resources/image_10712.jpeg)
+![Description](image_10712.jpeg)
 
 1.
 
@@ -829,7 +829,7 @@ Eικόνα 9.24.ε. Απόσπασμα από τη Μέθοδο μετροφω�
 
 3.
 
-![Description](/resources/image_10713.jpeg)
+![Description](image_10713.jpeg)
 
 Εικόνα 9.30. «Δώσε μου ένα κομμάτι, και θα σου δείξω πως γεννιέται από ένα ίσο» (Χρ. Σαμαράς).xxix Σχηματική απεικόνιση του μουσικού παραδείγματος της Εικόνας 9.29:
 
@@ -839,7 +839,7 @@ Eικόνα 9.24.ε. Απόσπασμα από τη Μέθοδο μετροφω�
 
 505
 
-![Description](/resources/image_10714.jpeg)
+![Description](image_10714.jpeg)
 
 # 4. Τα παλαιά απηχήματα των οκτώ ήχων και η αργή τους εξήγη, σύμφωνα με το Χρύσανθο
 
@@ -849,16 +849,16 @@ Eικόνα 9.24.ε. Απόσπασμα από τη Μέθοδο μετροφω�
 |Ήχος α΄ β΄ γ΄ δ΄|Παλαιά Μέθοδος|Εξήγηση στη Νέα Μέθοδο Πέτρου Πελοποννησίου:|
 |---|---|---|
 
-![Description](/resources/image_10715.jpeg)
-![Description](/resources/image_10716.jpeg)
-![Description](/resources/image_10717.jpeg)
-![Description](/resources/image_10718.jpeg)
-![Description](/resources/image_10719.jpeg)
-![Description](/resources/image_10720.jpeg)
-![Description](/resources/image_10721.jpeg)
-![Description](/resources/image_10722.jpeg)
-![Description](/resources/image_10723.jpeg)
-![Description](/resources/image_10724.jpeg)
+![Description](image_10715.jpeg)
+![Description](image_10716.jpeg)
+![Description](image_10717.jpeg)
+![Description](image_10718.jpeg)
+![Description](image_10719.jpeg)
+![Description](image_10720.jpeg)
+![Description](image_10721.jpeg)
+![Description](image_10722.jpeg)
+![Description](image_10723.jpeg)
+![Description](image_10724.jpeg)
 
 Πίνακας 9.2.α. Τα απηχήματα των κυρίων ήχων σε στενογραφική και αναλυτική γραφή, σύμφωνα με το Χρύσανθο, Θεωρητικὸν Μέγα (1832, §§ 309-312).
 
@@ -867,14 +867,14 @@ Eικόνα 9.24.ε. Απόσπασμα από τη Μέθοδο μετροφω�
 |Ήχος πλ. α΄ πλ. β΄ βα- ρύς πλ. δ΄|Παλαιά Μέθοδος|Εξήγηση στη Νέα Μέθοδο|
 |---|---|---|
 
-![Description](/resources/image_10725.jpeg)
-![Description](/resources/image_10726.jpeg)
-![Description](/resources/image_10727.jpeg)
-![Description](/resources/image_10728.jpeg)
-![Description](/resources/image_10729.jpeg)
-![Description](/resources/image_10730.jpeg)
-![Description](/resources/image_10731.jpeg)
-![Description](/resources/image_10732.jpeg)
+![Description](image_10725.jpeg)
+![Description](image_10726.jpeg)
+![Description](image_10727.jpeg)
+![Description](image_10728.jpeg)
+![Description](image_10729.jpeg)
+![Description](image_10730.jpeg)
+![Description](image_10731.jpeg)
+![Description](image_10732.jpeg)
 
 Πίνακας 9.2.β. Τα απηχήματα των πλαγίων ήχων σε στενογραφική και αναλυτική γραφή, σύμφωνα με το Χρύσανθο, Θεωρητικὸν Μέγα (1832, §§ 313-316).
 
@@ -890,16 +890,16 @@ Eικόνα 9.24.ε. Απόσπασμα από τη Μέθοδο μετροφω�
 νενα-
 νω
 
-![Description](/resources/image_10733.jpeg)
+![Description](image_10733.jpeg)
 
 Πίνακας 9.2.γ. Τα απηχήματα του λεγέτου και του νενανω σε στενογραφική και αναλυτική γραφή, σύμφωνα με το Χρύσανθο, Θεωρητικὸν Μέγα (1832, § 318). Για την
 ορθογραφία των νευμάτων του απηχήματος του νενανώ σε μεσοβυζαντινή γραφή, πρβλ. κεφ.8, Πίνακα 8.4. του παρόντος εγχειριδίου.
 
 508
 
-![Description](/resources/image_10734.jpeg)
-![Description](/resources/image_10735.jpeg)
-![Description](/resources/image_10736.jpeg)
+![Description](image_10734.jpeg)
+![Description](image_10735.jpeg)
+![Description](image_10736.jpeg)
 
 # 5. Συμπεράσματα για την έννοια της μετροφωνίας
 

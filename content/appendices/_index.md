@@ -55,9 +55,9 @@ weight: 1000
 
 i
 
-![Description](/resources/image_13496.png)
-![Description](/resources/image_13497.png)
-![Description](/resources/image_13498.png)
+![Description](image_13496.png)
+![Description](image_13497.png)
+![Description](image_13498.png)
 
 # 2. Περιεχόμενο, δομή, αρχές και προβληματισμοί6
 
@@ -359,11 +359,11 @@ Lε173 f.2v || GlykB | GlykB'' | Kouk, KoukExeg19 | Theod
 
 v
 
-![Description](/resources/image_13499.png)
-![Description](/resources/image_13500.png)
-![Description](/resources/image_13501.png)
-![Description](/resources/image_13502.png)
-![Description](/resources/image_13503.png)
+![Description](image_13499.png)
+![Description](image_13500.png)
+![Description](image_13501.png)
+![Description](image_13502.png)
+![Description](image_13503.png)
 
 Συμπληρωματικά: Dion570 φ.88v-89v.
 
@@ -480,223 +480,223 @@ ix
 
 x
 
-![Description](/resources/image_13504.jpeg)
+![Description](image_13504.jpeg)
 
-![Description](/resources/image_13505.jpeg)
+![Description](image_13505.jpeg)
 
-![Description](/resources/image_13506.jpeg)
+![Description](image_13506.jpeg)
 
-![Description](/resources/image_13507.jpeg)
+![Description](image_13507.jpeg)
 
-![Description](/resources/image_13508.jpeg)
+![Description](image_13508.jpeg)
 
-![Description](/resources/image_13509.jpeg)
+![Description](image_13509.jpeg)
 
-![Description](/resources/image_13510.jpeg)
+![Description](image_13510.jpeg)
 
-![Description](/resources/image_13511.jpeg)
+![Description](image_13511.jpeg)
 
-![Description](/resources/image_13512.jpeg)
+![Description](image_13512.jpeg)
 
-![Description](/resources/image_13513.jpeg)
+![Description](image_13513.jpeg)
 
-![Description](/resources/image_13514.jpeg)
+![Description](image_13514.jpeg)
 
-![Description](/resources/image_13515.jpeg)
+![Description](image_13515.jpeg)
 
-![Description](/resources/image_13516.jpeg)
+![Description](image_13516.jpeg)
 
-![Description](/resources/image_13517.jpeg)
+![Description](image_13517.jpeg)
 
-![Description](/resources/image_13518.jpeg)
+![Description](image_13518.jpeg)
 
-![Description](/resources/image_13519.jpeg)
+![Description](image_13519.jpeg)
 
-![Description](/resources/image_13520.jpeg)
+![Description](image_13520.jpeg)
 
-![Description](/resources/image_13521.jpeg)
+![Description](image_13521.jpeg)
 
-![Description](/resources/image_13522.jpeg)
+![Description](image_13522.jpeg)
 
-![Description](/resources/image_13523.jpeg)
+![Description](image_13523.jpeg)
 
-![Description](/resources/image_13524.jpeg)
+![Description](image_13524.jpeg)
 
-![Description](/resources/image_13525.jpeg)
+![Description](image_13525.jpeg)
 
-![Description](/resources/image_13526.jpeg)
+![Description](image_13526.jpeg)
 
-![Description](/resources/image_13527.jpeg)
+![Description](image_13527.jpeg)
 
-![Description](/resources/image_13528.jpeg)
+![Description](image_13528.jpeg)
 
-![Description](/resources/image_13529.jpeg)
+![Description](image_13529.jpeg)
 
-![Description](/resources/image_13530.jpeg)
+![Description](image_13530.jpeg)
 
-![Description](/resources/image_13531.jpeg)
+![Description](image_13531.jpeg)
 
-![Description](/resources/image_13532.jpeg)
+![Description](image_13532.jpeg)
 
-![Description](/resources/image_13533.jpeg)
+![Description](image_13533.jpeg)
 
-![Description](/resources/image_13534.jpeg)
+![Description](image_13534.jpeg)
 
-![Description](/resources/image_13535.jpeg)
+![Description](image_13535.jpeg)
 
-![Description](/resources/image_13536.jpeg)
+![Description](image_13536.jpeg)
 
-![Description](/resources/image_13537.jpeg)
+![Description](image_13537.jpeg)
 
-![Description](/resources/image_13538.jpeg)
+![Description](image_13538.jpeg)
 
-![Description](/resources/image_13539.jpeg)
+![Description](image_13539.jpeg)
 
-![Description](/resources/image_13540.jpeg)
+![Description](image_13540.jpeg)
 
-![Description](/resources/image_13541.jpeg)
+![Description](image_13541.jpeg)
 
-![Description](/resources/image_13542.jpeg)
+![Description](image_13542.jpeg)
 
-![Description](/resources/image_13543.jpeg)
+![Description](image_13543.jpeg)
 
-![Description](/resources/image_13544.jpeg)
+![Description](image_13544.jpeg)
 
-![Description](/resources/image_13545.jpeg)
+![Description](image_13545.jpeg)
 
-![Description](/resources/image_13546.jpeg)
+![Description](image_13546.jpeg)
 
-![Description](/resources/image_13547.jpeg)
+![Description](image_13547.jpeg)
 
-![Description](/resources/image_13548.jpeg)
+![Description](image_13548.jpeg)
 
-![Description](/resources/image_13549.jpeg)
+![Description](image_13549.jpeg)
 
-![Description](/resources/image_13550.jpeg)
+![Description](image_13550.jpeg)
 
-![Description](/resources/image_13551.jpeg)
+![Description](image_13551.jpeg)
 
-![Description](/resources/image_13552.jpeg)
+![Description](image_13552.jpeg)
 
-![Description](/resources/image_13553.jpeg)
+![Description](image_13553.jpeg)
 
-![Description](/resources/image_13554.jpeg)
+![Description](image_13554.jpeg)
 
-![Description](/resources/image_13555.jpeg)
+![Description](image_13555.jpeg)
 
-![Description](/resources/image_13556.jpeg)
+![Description](image_13556.jpeg)
 
-![Description](/resources/image_13557.jpeg)
+![Description](image_13557.jpeg)
 
-![Description](/resources/image_13558.jpeg)
+![Description](image_13558.jpeg)
 
-![Description](/resources/image_13559.jpeg)
+![Description](image_13559.jpeg)
 
-![Description](/resources/image_13560.jpeg)
+![Description](image_13560.jpeg)
 
-![Description](/resources/image_13561.jpeg)
+![Description](image_13561.jpeg)
 
-![Description](/resources/image_13562.jpeg)
+![Description](image_13562.jpeg)
 
-![Description](/resources/image_13563.jpeg)
+![Description](image_13563.jpeg)
 
-![Description](/resources/image_13564.jpeg)
+![Description](image_13564.jpeg)
 
-![Description](/resources/image_13565.jpeg)
+![Description](image_13565.jpeg)
 
-![Description](/resources/image_13566.jpeg)
+![Description](image_13566.jpeg)
 
-![Description](/resources/image_13567.jpeg)
+![Description](image_13567.jpeg)
 
-![Description](/resources/image_13568.jpeg)
+![Description](image_13568.jpeg)
 
-![Description](/resources/image_13569.jpeg)
+![Description](image_13569.jpeg)
 
-![Description](/resources/image_13570.jpeg)
+![Description](image_13570.jpeg)
 
-![Description](/resources/image_13571.jpeg)
+![Description](image_13571.jpeg)
 
-![Description](/resources/image_13572.jpeg)
+![Description](image_13572.jpeg)
 
-![Description](/resources/image_13573.jpeg)
+![Description](image_13573.jpeg)
 
-![Description](/resources/image_13574.jpeg)
+![Description](image_13574.jpeg)
 
-![Description](/resources/image_13575.jpeg)
+![Description](image_13575.jpeg)
 
-![Description](/resources/image_13576.jpeg)
+![Description](image_13576.jpeg)
 
-![Description](/resources/image_13577.jpeg)
+![Description](image_13577.jpeg)
 
-![Description](/resources/image_13578.jpeg)
+![Description](image_13578.jpeg)
 
-![Description](/resources/image_13579.jpeg)
+![Description](image_13579.jpeg)
 
-![Description](/resources/image_13580.jpeg)
+![Description](image_13580.jpeg)
 
-![Description](/resources/image_13581.jpeg)
+![Description](image_13581.jpeg)
 
-![Description](/resources/image_13582.jpeg)
+![Description](image_13582.jpeg)
 
-![Description](/resources/image_13583.jpeg)
+![Description](image_13583.jpeg)
 
-![Description](/resources/image_13584.jpeg)
+![Description](image_13584.jpeg)
 
-![Description](/resources/image_13585.jpeg)
+![Description](image_13585.jpeg)
 
-![Description](/resources/image_13586.jpeg)
+![Description](image_13586.jpeg)
 
-![Description](/resources/image_13587.jpeg)
+![Description](image_13587.jpeg)
 
-![Description](/resources/image_13588.jpeg)
+![Description](image_13588.jpeg)
 
-![Description](/resources/image_13589.jpeg)
+![Description](image_13589.jpeg)
 
-![Description](/resources/image_13590.jpeg)
+![Description](image_13590.jpeg)
 
-![Description](/resources/image_13591.jpeg)
+![Description](image_13591.jpeg)
 
-![Description](/resources/image_13592.jpeg)
+![Description](image_13592.jpeg)
 
-![Description](/resources/image_13593.jpeg)
+![Description](image_13593.jpeg)
 
-![Description](/resources/image_13594.jpeg)
+![Description](image_13594.jpeg)
 
-![Description](/resources/image_13595.jpeg)
+![Description](image_13595.jpeg)
 
-![Description](/resources/image_13596.jpeg)
+![Description](image_13596.jpeg)
 
-![Description](/resources/image_13597.jpeg)
+![Description](image_13597.jpeg)
 
-![Description](/resources/image_13598.jpeg)
+![Description](image_13598.jpeg)
 
-![Description](/resources/image_13599.jpeg)
+![Description](image_13599.jpeg)
 
-![Description](/resources/image_13600.jpeg)
+![Description](image_13600.jpeg)
 
-![Description](/resources/image_13601.jpeg)
+![Description](image_13601.jpeg)
 
-![Description](/resources/image_13602.jpeg)
+![Description](image_13602.jpeg)
 
-![Description](/resources/image_13603.jpeg)
+![Description](image_13603.jpeg)
 
-![Description](/resources/image_13604.jpeg)
+![Description](image_13604.jpeg)
 
-![Description](/resources/image_13605.jpeg)
+![Description](image_13605.jpeg)
 
-![Description](/resources/image_13606.jpeg)
+![Description](image_13606.jpeg)
 
-![Description](/resources/image_13607.jpeg)
+![Description](image_13607.jpeg)
 
-![Description](/resources/image_13608.jpeg)
+![Description](image_13608.jpeg)
 
-![Description](/resources/image_13609.jpeg)
+![Description](image_13609.jpeg)
 
-![Description](/resources/image_13610.jpeg)
+![Description](image_13610.jpeg)
 
-![Description](/resources/image_13611.jpeg)
+![Description](image_13611.jpeg)
 
-![Description](/resources/image_13612.jpeg)
+![Description](image_13612.jpeg)
 
 # Ευρετήρια για το Γλωσσάριο, τον Κατάλογο θέσεων και το Συνοπτικό πίνακα μεγάλων σημαδιών
 
@@ -2667,74 +2667,74 @@ Eγχειριδίου, και αναλύονται στο ίδιο Παράρτ�
 
 xxx
 
-![Description](/resources/image_13613.jpeg)
-![Description](/resources/image_13614.jpeg)
+![Description](image_13613.jpeg)
+![Description](image_13614.jpeg)
 
 1
 
-![Description](/resources/image_13615.jpeg)
-![Description](/resources/image_13616.jpeg)
+![Description](image_13615.jpeg)
+![Description](image_13616.jpeg)
 
 2
 
-![Description](/resources/image_13617.jpeg)
-![Description](/resources/image_13618.jpeg)
-![Description](/resources/image_13619.jpeg)
+![Description](image_13617.jpeg)
+![Description](image_13618.jpeg)
+![Description](image_13619.jpeg)
 
 3
 
-![Description](/resources/image_13620.jpeg)
-![Description](/resources/image_13621.jpeg)
+![Description](image_13620.jpeg)
+![Description](image_13621.jpeg)
 
 4
 
-![Description](/resources/image_13622.jpeg)
-![Description](/resources/image_13623.jpeg)
+![Description](image_13622.jpeg)
+![Description](image_13623.jpeg)
 
 5
 
-![Description](/resources/image_13624.jpeg)
-![Description](/resources/image_13625.jpeg)
-![Description](/resources/image_13626.jpeg)
-![Description](/resources/image_13627.jpeg)
+![Description](image_13624.jpeg)
+![Description](image_13625.jpeg)
+![Description](image_13626.jpeg)
+![Description](image_13627.jpeg)
 
 \# # # # #
 
-![Description](/resources/image_13628.jpeg)
+![Description](image_13628.jpeg)
 
 6
 
-![Description](/resources/image_13629.jpeg)
+![Description](image_13629.jpeg)
 
 7
 
-![Description](/resources/image_13630.jpeg)
-![Description](/resources/image_13631.jpeg)
+![Description](image_13630.jpeg)
+![Description](image_13631.jpeg)
 
 8
 
-![Description](/resources/image_13632.jpeg)
+![Description](image_13632.jpeg)
 
 9
 
-![Description](/resources/image_13633.jpeg)
+![Description](image_13633.jpeg)
 
-![Description](/resources/image_13634.jpeg)
-![Description](/resources/image_13635.jpeg)
+![Description](image_13634.jpeg)
+![Description](image_13635.jpeg)
 
 10
 
-![Description](/resources/image_13636.jpeg)
+![Description](image_13636.jpeg)
 
 \# ? #
 
-![Description](/resources/image_13637.jpeg)
-![Description](/resources/image_13638.jpeg)
-![Description](/resources/image_13639.jpeg)
+![Description](image_13637.jpeg)
+![Description](image_13638.jpeg)
+![Description](image_13639.jpeg)
 
 #
 
-![Description](/resources/image_13640.jpeg)
+![Description](image_13640.jpeg)
 
 #
 
@@ -2742,23 +2742,23 @@ xxx
 
 #
 
-![Description](/resources/image_13641.jpeg)
+![Description](image_13641.jpeg)
 
 11
 
-![Description](/resources/image_13642.jpeg)
-![Description](/resources/image_13643.jpeg)
+![Description](image_13642.jpeg)
+![Description](image_13643.jpeg)
 
 12
 
-![Description](/resources/image_13644.jpeg)
+![Description](image_13644.jpeg)
 
-![Description](/resources/image_13645.jpeg)
-![Description](/resources/image_13646.jpeg)
+![Description](image_13645.jpeg)
+![Description](image_13646.jpeg)
 
 13
 
-![Description](/resources/image_13647.jpeg)
+![Description](image_13647.jpeg)
 
 #
 
@@ -2768,231 +2768,231 @@ xxx
 
 #
 
-![Description](/resources/image_13648.jpeg)
-![Description](/resources/image_13649.jpeg)
+![Description](image_13648.jpeg)
+![Description](image_13649.jpeg)
 
 14
 
-![Description](/resources/image_13650.jpeg)
+![Description](image_13650.jpeg)
 
 #
 
 δαρτά
 
-![Description](/resources/image_13651.jpeg)
-![Description](/resources/image_13652.jpeg)
+![Description](image_13651.jpeg)
+![Description](image_13652.jpeg)
 
 15
 
-![Description](/resources/image_13653.jpeg)
-![Description](/resources/image_13654.jpeg)
-![Description](/resources/image_13655.jpeg)
-![Description](/resources/image_13656.jpeg)
+![Description](image_13653.jpeg)
+![Description](image_13654.jpeg)
+![Description](image_13655.jpeg)
+![Description](image_13656.jpeg)
 
 16
 
-![Description](/resources/image_13657.jpeg)
+![Description](image_13657.jpeg)
 
-![Description](/resources/image_13658.jpeg)
+![Description](image_13658.jpeg)
 
 17
 
-![Description](/resources/image_13659.jpeg)
+![Description](image_13659.jpeg)
 
-![Description](/resources/image_13660.jpeg)
+![Description](image_13660.jpeg)
 
 ἐπέγερμα #
 
-![Description](/resources/image_13661.jpeg)
-![Description](/resources/image_13662.jpeg)
+![Description](image_13661.jpeg)
+![Description](image_13662.jpeg)
 
 18
 
-![Description](/resources/image_13663.jpeg)
-![Description](/resources/image_13664.jpeg)
+![Description](image_13663.jpeg)
+![Description](image_13664.jpeg)
 
 19
 
-![Description](/resources/image_13665.jpeg)
-![Description](/resources/image_13666.jpeg)
+![Description](image_13665.jpeg)
+![Description](image_13666.jpeg)
 
 20
 
-![Description](/resources/image_13667.jpeg)
-![Description](/resources/image_13668.jpeg)
+![Description](image_13667.jpeg)
+![Description](image_13668.jpeg)
 
 21
 
-![Description](/resources/image_13669.jpeg)
-![Description](/resources/image_13670.jpeg)
+![Description](image_13669.jpeg)
+![Description](image_13670.jpeg)
 
 22
 
-![Description](/resources/image_13671.jpeg)
-![Description](/resources/image_13672.jpeg)
+![Description](image_13671.jpeg)
+![Description](image_13672.jpeg)
 
 23
 
-![Description](/resources/image_13673.jpeg)
+![Description](image_13673.jpeg)
 
-![Description](/resources/image_13674.jpeg)
-![Description](/resources/image_13675.jpeg)
+![Description](image_13674.jpeg)
+![Description](image_13675.jpeg)
 
 24
 
-![Description](/resources/image_13676.jpeg)
-![Description](/resources/image_13677.jpeg)
-![Description](/resources/image_13678.jpeg)
-![Description](/resources/image_13679.jpeg)
+![Description](image_13676.jpeg)
+![Description](image_13677.jpeg)
+![Description](image_13678.jpeg)
+![Description](image_13679.jpeg)
 
 25
 
-![Description](/resources/image_13680.jpeg)
-![Description](/resources/image_13681.jpeg)
+![Description](image_13680.jpeg)
+![Description](image_13681.jpeg)
 
 26
 
-![Description](/resources/image_13682.jpeg)
-![Description](/resources/image_13683.jpeg)
+![Description](image_13682.jpeg)
+![Description](image_13683.jpeg)
 
 27
 
-![Description](/resources/image_13684.jpeg)
-![Description](/resources/image_13685.jpeg)
-![Description](/resources/image_13686.jpeg)
-![Description](/resources/image_13687.jpeg)
+![Description](image_13684.jpeg)
+![Description](image_13685.jpeg)
+![Description](image_13686.jpeg)
+![Description](image_13687.jpeg)
 
 28
 
-![Description](/resources/image_13688.jpeg)
+![Description](image_13688.jpeg)
 
 29
 
-![Description](/resources/image_13689.jpeg)
+![Description](image_13689.jpeg)
 
 30
 
-![Description](/resources/image_13690.jpeg)
-![Description](/resources/image_13691.jpeg)
+![Description](image_13690.jpeg)
+![Description](image_13691.jpeg)
 
 31
 
-![Description](/resources/image_13692.jpeg)
-![Description](/resources/image_13693.jpeg)
-![Description](/resources/image_13694.jpeg)
+![Description](image_13692.jpeg)
+![Description](image_13693.jpeg)
+![Description](image_13694.jpeg)
 
 32
 
-![Description](/resources/image_13695.jpeg)
+![Description](image_13695.jpeg)
 
-![Description](/resources/image_13696.jpeg)
-![Description](/resources/image_13697.jpeg)
-![Description](/resources/image_13698.jpeg)
+![Description](image_13696.jpeg)
+![Description](image_13697.jpeg)
+![Description](image_13698.jpeg)
 
 \# #
 
 ορθιον μετα και αλλων
 
-![Description](/resources/image_13699.jpeg)
+![Description](image_13699.jpeg)
 
 σημαδιων
 
 \# #
 
-![Description](/resources/image_13700.jpeg)
+![Description](image_13700.jpeg)
 
 33
 
-![Description](/resources/image_13701.jpeg)
-![Description](/resources/image_13702.jpeg)
+![Description](image_13701.jpeg)
+![Description](image_13702.jpeg)
 
 34
 
-![Description](/resources/image_13703.jpeg)
-![Description](/resources/image_13704.jpeg)
+![Description](image_13703.jpeg)
+![Description](image_13704.jpeg)
 
 35
 
-![Description](/resources/image_13705.jpeg)
-![Description](/resources/image_13706.jpeg)
+![Description](image_13705.jpeg)
+![Description](image_13706.jpeg)
 
 36
 
-![Description](/resources/image_13707.jpeg)
-![Description](/resources/image_13708.jpeg)
+![Description](image_13707.jpeg)
+![Description](image_13708.jpeg)
 
 37
 
-![Description](/resources/image_13709.jpeg)
-![Description](/resources/image_13710.jpeg)
+![Description](image_13709.jpeg)
+![Description](image_13710.jpeg)
 
 38
 
-![Description](/resources/image_13711.jpeg)
-![Description](/resources/image_13712.jpeg)
-![Description](/resources/image_13713.jpeg)
+![Description](image_13711.jpeg)
+![Description](image_13712.jpeg)
+![Description](image_13713.jpeg)
 
 39
 
-![Description](/resources/image_13714.jpeg)
+![Description](image_13714.jpeg)
 
-![Description](/resources/image_13715.jpeg)
-![Description](/resources/image_13716.jpeg)
-![Description](/resources/image_13717.jpeg)
+![Description](image_13715.jpeg)
+![Description](image_13716.jpeg)
+![Description](image_13717.jpeg)
 
 40
 
-![Description](/resources/image_13718.jpeg)
-![Description](/resources/image_13719.jpeg)
-![Description](/resources/image_13720.jpeg)
+![Description](image_13718.jpeg)
+![Description](image_13719.jpeg)
+![Description](image_13720.jpeg)
 
 41
 
-![Description](/resources/image_13721.jpeg)
-![Description](/resources/image_13722.jpeg)
+![Description](image_13721.jpeg)
+![Description](image_13722.jpeg)
 
 42
 
-![Description](/resources/image_13723.jpeg)
-![Description](/resources/image_13724.jpeg)
-![Description](/resources/image_13725.jpeg)
+![Description](image_13723.jpeg)
+![Description](image_13724.jpeg)
+![Description](image_13725.jpeg)
 
 43
 
-![Description](/resources/image_13726.jpeg)
-![Description](/resources/image_13727.jpeg)
-![Description](/resources/image_13728.jpeg)
+![Description](image_13726.jpeg)
+![Description](image_13727.jpeg)
+![Description](image_13728.jpeg)
 
 44
 
-![Description](/resources/image_13729.jpeg)
-![Description](/resources/image_13730.jpeg)
+![Description](image_13729.jpeg)
+![Description](image_13730.jpeg)
 
 45
 
-![Description](/resources/image_13731.jpeg)
-![Description](/resources/image_13732.jpeg)
-![Description](/resources/image_13733.jpeg)
+![Description](image_13731.jpeg)
+![Description](image_13732.jpeg)
+![Description](image_13733.jpeg)
 
 46
 
-![Description](/resources/image_13734.jpeg)
-![Description](/resources/image_13735.jpeg)
+![Description](image_13734.jpeg)
+![Description](image_13735.jpeg)
 
 47
 
-![Description](/resources/image_13736.jpeg)
-![Description](/resources/image_13737.jpeg)
+![Description](image_13736.jpeg)
+![Description](image_13737.jpeg)
 
 48
 
-![Description](/resources/image_13738.jpeg)
-![Description](/resources/image_13739.jpeg)
-![Description](/resources/image_13740.jpeg)
+![Description](image_13738.jpeg)
+![Description](image_13739.jpeg)
+![Description](image_13740.jpeg)
 
 49
 
-![Description](/resources/image_13741.jpeg)
+![Description](image_13741.jpeg)
 
 50
 
@@ -3011,7 +3011,7 @@ xxx
 
 xxxi
 
-![Description](/resources/image_13742.png)
+![Description](image_13742.png)
 
 Εικόνα Π3.0. «Ῥόδον τὸ ἀμάραντον». Αντιγραφή μικρογραφίας από το χφο Biblioteca Academiei Române gr. 1096, f.
 178v.  Δεξιά: τροπάριο της α΄ Ωδής του Κανόνα του Ακαθίστου, ποίημα Αγίου Ιωσήφ του Υμνογράφου. Προσαρμογή
@@ -3036,8 +3036,8 @@ xxxii
 
 Πα Βου Γα Δι Κε Ζω΄ Νη΄ Πα΄
 
-![Description](/resources/image_13743.jpeg)
-![Description](/resources/image_13744.jpeg)
+![Description](image_13743.jpeg)
+![Description](image_13744.jpeg)
 
 Πίνακας Π.3.1. Το κανόνιο του α΄ ήχου στη Νέα Μέθοδο.
 
@@ -3047,7 +3047,7 @@ xxxii
 (διατονικό, χρωματικό ή εναρμόνιο) και τη χρόα (μαλακή ή σκληρή) στα οποία εντάσσεται ένας φθόγγος. Τα
 σύμβολα τα οποία χρησιμοποιούνται ως μαρτυρικά στο διατονικό γένος είναι τα εξής (βλ. Πίνακα Π.3.2).
 
-![Description](/resources/image_13745.jpeg)
+![Description](image_13745.jpeg)
 
 Πίνακας Π.3.2. Τα μαρτυρικά για το
 διατονικό γένος, σύμφωνα με τη Νέα Μέθοδο.
@@ -3083,9 +3083,9 @@ xxxii
 |||Βαθμηδόν κινήσεις μιάς φωνής (διάστημα δευτέρας, σύμφωνα με τη δυτικοευρωπαϊκή ορολογία)|Για το σχηματισμό πηδημάτων||
 |||Ολίγον|Κέντημα||
 
-![Description](/resources/image_13746.jpeg)
-![Description](/resources/image_13747.jpeg)
-![Description](/resources/image_13748.jpeg)
+![Description](image_13746.jpeg)
+![Description](image_13747.jpeg)
+![Description](image_13748.jpeg)
 
 Ανιούσες φωνές
 
@@ -3093,12 +3093,12 @@ xxxii
 |---|---|---|---|---|
 |||Υπορροή (δύο φωνές|συνεχόμενες)||
 
-![Description](/resources/image_13749.jpeg)
-![Description](/resources/image_13750.jpeg)
-![Description](/resources/image_13751.jpeg)
-![Description](/resources/image_13752.jpeg)
-![Description](/resources/image_13753.jpeg)
-![Description](/resources/image_13754.jpeg)
+![Description](image_13749.jpeg)
+![Description](image_13750.jpeg)
+![Description](image_13751.jpeg)
+![Description](image_13752.jpeg)
+![Description](image_13753.jpeg)
+![Description](image_13754.jpeg)
 
 Πεταστή
 
@@ -3106,7 +3106,7 @@ xxxii
 
 Υψηλή
 
-![Description](/resources/image_13755.jpeg)
+![Description](image_13755.jpeg)
 
 Τα δύο παραπάνω
 σημάδια δεν στέκονται
@@ -3131,9 +3131,9 @@ xxxii
 
 2
 
-![Description](/resources/image_13756.jpeg)
+![Description](image_13756.jpeg)
 
-![Description](/resources/image_13757.jpeg)
+![Description](image_13757.jpeg)
 
 Πίνακας Π.3.4. Σύνοψη των φωνητικών χαρακτήρων της Νέας Μεθόδου (οι πιο βασικές πλοκές).i
 
@@ -3143,7 +3143,7 @@ xxxii
 
 3.1. Τα συνηθέστερα σημάδια
 
-![Description](/resources/image_13758.jpeg)
+![Description](image_13758.jpeg)
 
 Πίνακας Π.3.5. Σύνοψη των πιο συχνά εμφανιζόμενων χαρακτήρων χρόνου της Νέας Μεθόδου, μαζί με τις αντίστοιχες μεταγραφές στη δυτικοευρωπαϊκή σημειογραφία.ii
 
@@ -3151,14 +3151,14 @@ xxxii
 
 # 3.2. Το σύστημα δήλωσης του ρυθμού στη Νέα Μέθοδο: μια γενική επισκόπηση
 
-![Description](/resources/image_13759.jpeg)
+![Description](image_13759.jpeg)
 
 Πίνακας Π.3.6.α. Επισήμανση του ρυθμού στη Νέα Μέθοδο και δυνατότητες μεταγραφής στη δυτικοευρωπαϊκή
 σημειογραφία.
 
 5
 
-![Description](/resources/image_13760.jpeg)
+![Description](image_13760.jpeg)
 
 Πίνακας Π.3.6.β. Ρυθμικά και μεταγραφικά (συνέχεια).iii
 
@@ -3166,7 +3166,7 @@ xxxii
 
 1. Άχρονες υποστάσεις - σημάδια τα οποία δηλώνουν ποικίλματα και έκφραση
 
-![Description](/resources/image_13761.jpeg)
+![Description](image_13761.jpeg)
 
 Πίνακας Π.3.7. Σύνοψη των βασικών χαρακτήρων ποιότητας (άχρονων υποστάσεων) της Νέας Μεθόδου.iv
 
@@ -3176,11 +3176,11 @@ xxxii
 
 ## 5.1. Έλξεις και Αλλοιώσεις. Οπλισμοί για τη μεταγραφή των ήχων της Νέας Μεθόδου στο πεντάγραμμοv
 
-![Description](/resources/image_13762.jpeg)
+![Description](image_13762.jpeg)
 
 Πίνακας Π.3.8. Έλξεις στο Νέο Σύστημα και αντίστοιχες αλλοιώσεις για τη μεταγραφή στο πεντάγραμμο.
 
-![Description](/resources/image_13763.jpeg)
+![Description](image_13763.jpeg)
 
 Πίνακας Π.3.9. Η σημασία των συμφραζομένων για μια σωστή μεταγραφή των αλλοιώσεων στο πεντάγραμμο: Οι
 βυζαντινές έλξεις λειτουργούν σχετικά με τον ήχο στον οποίο βρίσκονται, ενώ οι ευρωπαϊκές αλλοιώσεις λειτουργούν
@@ -3192,7 +3192,7 @@ xxxii
 
 8
 
-![Description](/resources/image_13764.jpeg)
+![Description](image_13764.jpeg)
 
 Πίνακας Π.3.10.α. Οπλισμοί για τις κλίμακες του α΄ και πλ.
 Πηγές Πινάκων Π.3.10.α-ε: Αλεξάνδρου, Μαρία. (2010).
@@ -3208,25 +3208,25 @@ Press, 64-68. Με την ευγενή παραχώρηση του
 
 9
 
-![Description](/resources/image_13765.jpeg)
+![Description](image_13765.jpeg)
 
 Πίνακας Π.3.10.β. Οπλισμοί για κλίμακες του β΄ ήχου.
 
 10
 
-![Description](/resources/image_13766.jpeg)
+![Description](image_13766.jpeg)
 
 Πίνακας Π.3.10.γ. Οπλισμοί για κλίμακες του πλ. β΄ ήχου.
 
 11
 
-![Description](/resources/image_13767.jpeg)
+![Description](image_13767.jpeg)
 
 Πίνακας Π.3.10.δ. Οπλισμοί για κλίμακες του γ΄ και βαρέος ήχου.
 
 12
 
-![Description](/resources/image_13768.jpeg)
+![Description](image_13768.jpeg)
 
 Πίνακας Π.3.10.ε. Οπλισμοί για κλίμακες του δ΄ και πλ. δ΄ ήχου.
 Σχετικά με το λεγόμενο λέγετο μαλακό χρωματικό χρειάζεται περαιτέρω
@@ -3238,7 +3238,7 @@ Press, 64-68. Με την ευγενή παραχώρηση του
 
 # 5.2. Μαρτυρίες φθόγγων
 
-![Description](/resources/image_13769.jpeg)
+![Description](image_13769.jpeg)
 
 Πίνακας Π.3.11. Σύνοψη μαρτυριών της Νέας Μεθόδου, με την ένδειξη αντίστοιχων αλλοιώσεων για μεταγραφή στο πεντάγραμμο.vii
 
@@ -3246,7 +3246,7 @@ Press, 64-68. Με την ευγενή παραχώρηση του
 
 # 5.3. Φθορές - σύμβολα μεταβολής
 
-![Description](/resources/image_13770.jpeg)
+![Description](image_13770.jpeg)
 
 Πίνακας Π.3.12. Σύνοψη φθορών της Νέας Μεθόδου, με την ένδειξη των αντίστοιχων ήχων και φθόγγων. Εάν μια φθορά τίθεται σε έναν άλλο φθόγγο από τον οικείο της,
 συνεπάγεται μια μετάθεση του αντίστοιχου ήχου σε άλλη μελωδική βαθμίδα. Σε τέτοιες περιπτώσεις δεν υιοθετείται ο οικείος οπλισμός του ήχου, αλλά πρέπει να μεταφερθεί
@@ -3262,7 +3262,7 @@ Press, 64-68. Με την ευγενή παραχώρηση του
 και προέρχονται από τη μονογραφία του Μ. Μαυροειδή, Οι μουσικοί τρόποι στην Ανατολική Μεσόγειο. Ο βυζαντινός ήχος, το αραβικό μακάμ, το τούρκικο
 μακάμ.ix Μια ανοιχτή συγκριτική λίστα σημείων αλλοίωσης σε διάφορες εργασίες ή από διάφορες μουσικολογικές συζητήσεις υπάρχει στον Πίνακα Π.3.13.
 
-![Description](/resources/image_13771.jpeg)
+![Description](image_13771.jpeg)
 
 Πίνακας Π.3.13. Σύγκριση συμβόλων για την πιστότερη μεταγραφή των μικροδιαστημάτων της βυζαντινής μουσικής στο πεντάγραμμο: Μια ανοιχτή λίστα.
 
@@ -3614,7 +3614,7 @@ c
 
 d
 
-![Description](/resources/image_13772.png)
+![Description](image_13772.png)
 
 Εικόνα 12.1. Κολοφώνας.i
 
