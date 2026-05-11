@@ -13,34 +13,24 @@ of Byzantine Music
 Musicological & artistic
 explorations
 
-
 Maria Alexandrou
 
 ![Description](/resources/image_002.jpeg)
 
 1
 
-
-
-
 Maria Alexandrou
 Tenured Assistant Professor, Aristotle University of Thessaloniki
 
-
 # Palaeography of Byzantine Music
-
 
 # Musicological &
 
-
 # artistic explorations
-
 
 revised edition
 
-
-# First,
-
+# First
 
 On the cover: Sticheron and miniature of Saint Demetrios, based on the manuscript of the Holy Monastery
 of Koutloumousiou, no. 412, fol. 35v, mid-14th c. (Stathis, 1993, p. 253). The sticheron was divided into musico-poetic
@@ -53,26 +43,20 @@ Perria & Raasted (eds., 1992), Sticherarium Ambrosianum, Pars Principalis, fol. 
 
 2
 
-
-
-
 # Written by
 
-
 Maria Alexandrou
-## Musical Examples
 
+## Musical Examples
 
 Byzantine Music Palaeography Group from the Department of Music Studies of Aristotle
 University of Thessaloniki: Demosthenes Spanoudakis, Dimos Papatzalakis, Apostolia Gorgolitsa,
 Symeon Kanakis, Alexia Kopsali, Maria Chaleplidou, Athanasios Delios, Adrian Sîrbu, Athanasios
 Axenopoulos, Maria Giagkitseri.
 
-
 Thessalonian Hymnodists, choirmaster Ioannis Liakos, Assistant Professor at the Higher
 Ecclesiastical Academy of Vella, Ioannina, and Protopsaltes at the Church of St Gregory
 Palamas, Thessaloniki
-
 
 Other members of the Palaeography Group and special participants in recordings and presentations of the
 Palaeography Group, which were taken into account, directly or indirectly, for the present work:, Mr. Emmanouil Giannopoulos,
@@ -87,86 +71,64 @@ Panagiotis, Tatiana Belyaeva, Doctoral candidate Ivan Mischenko, Eirini Saloniki
 members of the Floralia Ensemble from the Department of Religious Music of the University of Fine Arts «George
 Enescu» in Iași.
 
-
 Sound recordings: Fr. Christos Kotios, Konstantinos Kontos, Dimitris Christodoulidis, Konstantinos
 Panousakis.
 Critical reader
 Efstathios Makris
-## Publication Credits
 
+## Publication Credits
 
 LANGUAGE EDITING: Nektaria Klada
 EDITING: Ioannis Vamvakas, Demosthenes
 TECHNICAL PROCESSING: Anastasios Karakostas
 
-
 Spanoudakis
-
 
 GRAPHIC DESIGN
 
-
 ISBN: 978-960-603-450-3
+
 ## Palaeography of Byzantine Music / Maria Alexandrou
+
 ## Copyright © HEAL-Link, 2017
 
 This work is licensed under the terms of the Creative Commons public license: Attribution -
 NonCommercial - ShareAlike 4.0 International (CC BY-NC-SA 4.0). To view a copy of this license,
-visit the website https://creativecommons.org/licenses/by-nc-sa/4.0/deed
-
+visit the website <https://creativecommons.org/licenses/by-nc-sa/4.0/deed>
 
 The rights to the Byzantine and post-Byzantine manuscripts depicted in this handbook belong to the
 libraries mentioned in the relevant captions.
 
-
 HELLENIC ACADEMIC LIBRARIES LINK
 National Technical University of Athens
 9 Iroon Polytechniou Street, 15780 Zografou
-www.kallipos.gr
-
+<www.kallipos.gr>
 
 3
 
-
-
-
 To Saint Demetrios and Saint John Koukouzeles
-
 
 4
 
-
-
-
 # Table of contents
-
 
 Table of contents ......................................................................................................................... 5
 
-
 Table of abbreviations-acronyms ................................................................................................. 13
-
 
 Foreword by Constantin Floros ................................................................................................... 15
 
-
 Author’s foreword ......................................................................................................................... 16
-
 
 Chapter 1 - Introduction .................................................................................................................... 29
 
-
 1. General Definitions ...................................................................................................................... 29
-
 
 1.1. Palaeography ................................................................................................................................ 29
 
-
 1. Byzantine music ......................................................................................................................... 29
 
-
 1.3. Palaeography of Byzantine Music (I) and a golden piece of advice ................................................. 29
-
 
 1. Reflections on writing. Evolution and variety of scripts ............................................................... 30
 
@@ -180,9 +142,7 @@ Chapter 1 - Introduction .......................................................
 
 6. The world of Byzantine music manuscripts ............................................................................. 43
 
-
 7.1. Number of musical manuscripts and descriptive catalogues (I) ................................................... 43
-
 
 1. Typology of musical codices ....................................................................................................... 44
 
@@ -190,103 +150,70 @@ Chapter 1 - Introduction .......................................................
 
 3. Prolegomena on the methodology of the palaeography of Byzantine music ....................................... 60
 
-
 Assessment criteria for chapter 1 ............................................................................................. 61
-
 
 Bibliography for chapter 1 ........................................................................................................... 61
 Endnotes for chapter 1 ................................................................................................... 68
 
-
 Chapter 2 - Elements of Palaeography of the Greek Language and Byzantine Codicology
 ............................................................................................................................................................. 75
 
-
 1. Prolegomena ..................................................................................................................................... 75
-
 
 1.1. Palaeography of the Greek Language and its branches: Definitions ................................ 75
 
-
 1. Writing materials ......................................................................................................................... 76
-
 
 1.2.1. Papyrus ................................................................................................................................... 76
 
-
 1. Parchment ............................................................................................................................... 79
-
 
 1.2.3. Paper ....................................................................................................................................... 82
 
-
 1. Writing instruments and inks ........................................................................................................... 84
-
 
 1.4. Forms of manuscripts, book-production workshops, and the preparation of a codex ..................... 86
 
-
 1.4.1. Forms of manuscripts: from the roll to the codex ................................................................ 86
-
 
 5
 
-
-
-
 1. Book-production workshops .......................................................................................................... 88
-
 
 1.4.3. The preparation of a codex ....................................................................................................... 89
 
-
 1. Illustrated manuscripts ..................................................................................................... 92
-
 
 1.5. Palimpsests ................................................................................................................................... 94
 
-
 1.6. Elements of Byzantine Codicology and the liturgical contexts of Byzantine musical
 
-
 codices ............................................................................................................................................... 96
-
 
 1. Detailed descriptive catalogues of Byzantine music manuscripts (II) ................................. 98
 
 2. Typology of Greek alphabetic script ....................................................................................... 99
 
-
 2.1. Prolegomena .................................................................................................................................. 99
-
 
 1. Categories and types of Greek alphabetic script ......................................................... 99
 
-
 2.1.2. Continuous script, punctuation marks, and prosodic signs ............................................................ 101
-
 
 1. Majuscule script ............................................................................................................ 104
 
-
 2.3. Minuscule script .............................................................................................................. 108
-
 
 1. Aids for reading manuscripts ........................................................................................... 117
 
-
 2.5. Special symbols for the edition of manuscript sources ................................................................... 120
 
-
 Assessment criteria for chapter 2 ..................................................................................... 122
-
 
 Bibliography for chapter 2 ......................................................................................................... 138
 Endnotes for chapter 2 ................................................................................................. 145
 
-
 Chapter 3 - Issues in the dating of Byzantine and post-Byzantine manuscripts .............. 154
-
 
 1. Prolegomena: Colophons ................................................................................ 154
 
@@ -294,15 +221,11 @@ Chapter 3 - Issues in the dating of Byzantine and post-Byzantine manuscripts ...
 
 3. Dating systems in Byzantium.......................................................................................... 157
 
-
 3.1. Variety of chronological systems ............................................................................................ 157
-
 
 1. The Byzantine chronological system .............................................................................................. 157
 
-
 3.3. The indiction................................................................................................................................... 158
-
 
 1. Arithmetical operations for finding the date of Byzantine and post-Byzantine manuscripts ............................................................................................................................................................ 158
 
@@ -310,69 +233,48 @@ Chapter 3 - Issues in the dating of Byzantine and post-Byzantine manuscripts ...
 
 3. Dating manuscripts without a colophon ........................................................... 166
 
-
 Assessment criteria for chapter 3 ........................................................................................... 167
-
 
 Bibliography for chapter 3 ......................................................................................................... 170
 Endnotes for chapter 3 ................................................................................................. 171
 
-
 Chapter 4 - Ekphonetic notation ................................................................................. 174
-
 
 1. Introduction ........................................................................................................................................ 174
 
-
 1.1. Prolegomena ................................................................................................................................ 174
-
 
 1.2. Definitions.............................................................................................................................. 175
 
-
 6
-
-
-
 
 1. Sources of ekphonetic notation, chronological limits, periodization ................................ 176
 
-
 1.4. Hypotheses on the origin of Byzantine ekphonesis and ekphonetic notation .. 181
-
 
 1. Methodology for the study of ekphonetic notation ............................................................... 182
 
 2. The signs of ekphonetic notation ................................................................................. 183
 
-
 2.1. The Byzantine lists of ekphonetic sign-voices (σημαδόφωνα) ....................................................................... 183
-
 
 1. Outlining the corpus of ekphonetic sign-voices....................................................... 191
 
-
 2.3. The main characteristics of the pre-classical and classical system .............................. 192
-
 
 2.4. A case study: the use of ekphonetic neumes in the Vienna Gospel, suppl.
 
-
 gr. 128: an intermediate stage of development or a local tradition? ................................................................. 195
-
 
 1. Critical editions of liturgical texts with ekphonetic notation ....................................... 199
 
 2. Attempts to decipher ekphonetic notation ............................................ 204
 
-
 4.1. The general framework ......................................................................................................................... 204
-
 
 1. Explorations .................................................................................................................................. 205
 
 2. The present-day practice of ekphonesis .................................................................................................. 208
-
 
 Assessment criteria for chapter 4 ........................................................................................... 213
 Bibliography for chapter 4 ......................................................................................................... 218
@@ -380,16 +282,13 @@ Endnotes for chapter 4 .........................................................
 Chapter 5 - Beginnings of melodic and ekphonetic notations: Fragments and
 local notational systems ................................................................................................. 227
 
-
 1. Prolegomena ................................................................................................................................... 227
 
 2. Oxyrhynchus Papyrus no. 1786 with ancient Greek vocal alphabetic notation .... 227
 
 3. Early Christian hymns on papyri and ostraca, with elements of primitive notational systems ....... 229
 
-
 3.1. Some introductory remarks ........................................................................................................................... 229
-
 
 1. Papyrus Berolinensis 21319 ..................................................................................................... 229
 
@@ -405,275 +304,187 @@ local notational systems .......................................................
 
 7. In search of musical scripts in Greek Sinaitic manuscripts of the first Christian millennium ............................................................................................................................................................ 245
 
-
 Evaluation criteria for chapter 5 ........................................................................................... 250
-
 
 Bibliography for chapter 5 ......................................................................................................... 250
 Endnotes for chapter 5 ................................................................................................. 253
 
-
 Chapter 6 - Paleo-Byzantine notations........................................................................... 256
-
 
 1. Introduction ........................................................................................................................................ 256
 
-
 7
-
-
-
 
 1. Prolegomena, scholars, most ancient codices ............................................................................ 256
 
-
 1.2. Notational systems, chronological frameworks, and stages in the development of the Paleo-Byzantine
-
 
 notations ................................................................................................................................... 260
 
-
 1. The theoretical texts of the Paleo-Byzantine notations ........................................................................ 275
 
-
 2.1. Athonite notation (Chartres) ............................................................................................... 275
-
 
 1. Hagiopolite notation (Coislin) ........................................................................................... 277
 
 2. Toward a systematization of the full set of signs of Paleo-Byzantine notation.
 
-
 Methodological issues .................................................................................................................... 280
-
 
 1. Distinctive elements of the individual developmental phases of Paleo-Byzantine notation ..... 280
 
-
 3.2. Systematizing the full set of Paleo-Byzantine neumes ................................................ 283
-
 
 1. Research methodology ...................................................................................................................... 292
 
-
 .......................................................................................... 297
 
-
 Evaluation criteria for chapter 6
-
 
 Bibliography for chapter 6 ......................................................................................................... 300
 Endnotes for chapter 6 ................................................................................................. 302
 
-
 Chapter 7 - Middle Byzantine notation (A): Introduction .................................................... 305
-
 
 1. Prolegomena ................................................................................................................................... 305
 
-
 1.1. Dating and some milestones ............................................................................................... 305
-
 
 1. Significance and main characteristic ............................................................................................ 309
 
-
 1.3. Phases of development ............................................................................................................................ 310
-
 
 1. Tracing Middle Byzantine notation - The Protheoria of the Papadike ............................. 311
 
-
 2.1. The Proto-Papadike ...................................................................................................................... 312
-
 
 1. Studying late forms of the Protheoria of the Papadike ..................................................... 317
 
-
 2.2.1. Contents of the Protheoria of the Papadike .......................................................................... 317
-
 
 1. Late Middle Byzantine classification of signs ............................................................................ 318
 
 2. The signs of Middle Byzantine notation .......................................................................... 328
 
-
 3.1. The voiced signs of Middle Byzantine notation .......................................................... 328
-
 
 1. The voiceless signs of Middle Byzantine notation: a first look .............................. 334
 
 2. Methodology for the study of Middle Byzantine notation .............................................................. 336
 
+3. Methodology for the study of Middle Byzantine notation .............................................................. 336
 
-4. Methodology for the study of Middle Byzantine notation .............................................................. 336
-
-
-1. Transferring voiced signs to the staff or to an alphabetic system: possibilities and limits ............................................................................................................................................................ 336
-
+4. Transferring voiced signs to the staff or to an alphabetic system: possibilities and limits ............................................................................................................................................................ 336
 
 4.1.1. On terminology: transcription versus transnotation ............. 336
 
-
 1. Basic principles of alphabetic transnotation ....................................................................... 338
-
 
 4.1.3. Historical matters concerning transnotations ............................................................................................. 339
 
-
 1. Basic principles of open staff transnotation .................................................... 340
-
 
 4.2. Examples for first steps in working with Middle Byzantine notation ......................... 344
 
-
-5. Recapitulation - Conclusions .............................................................................................. 348
-
+1. Recapitulation - Conclusions .............................................................................................. 348
 
 8
 
-
-
-
 1. From the Old to the New System: Some manuscript samples from the Byzantine and
-
 
 post-Byzantine periods, from various genera and types of melodic composition ......................................................... 349
 
-
 Evaluation criteria for chapter 7 ........................................................................................... 392
-
 
 Bibliography for chapter 7 ......................................................................................................... 393
 Endnotes for chapter 7 ................................................................................................. 398
 
-
 Chapter 8 - Middle Byzantine notation (B): The oktoechos in the Old System ............ 401
-
 
 1. Prolegomena ................................................................................................................................... 401
 
-
 1.1. Definitional approaches...................................................................................................... 401
-
 
 1. Historical evidence concerning the Byzantine oktoechos .............................................................................. 403
 
 2. Theoretical foundations, martyrias, and intonations of the eight modes in the Old System .................... 408
 
-
 2.1. General range and the complete voice ............................................................................................... 408
-
 
 1. Theoretical foundations of the Byzantine oktoechos according to the Old System ..................................... 412
 
-
 2.3. Intonations, martyrias, parallages, and phthorai .......................................................................... 415
-
 
 1. Intonations, martyrias, parallage (I): Introductory remarks ................................................................ 415
 
-
 2.3.2. Martyrias and corresponding intonations ...................................................................................... 416
-
 
 1. Relationships and subcategories of modes (I) ......................................................................................... 420
 
-
 2.3.4. Intonations from a historical and a systematic perspective. Parallages (II) .................... 421
-
 
 1. Phthorai ...................................................................................................................................... 425
 
-
 2.3.6. Initial and medial martyrias: Examples from musical manuscripts .............................. 427
-
 
 1. Initial martyrias ................................................................................................................ 427
 
-
 2.3.6.2. Medial martyrias ....................................................................................................................... 437
 
-
-3. From the wheel to the scale: The development of music-theoretical thought concerning the
-
+1. From the wheel to the scale: The development of music-theoretical thought concerning the
 
 oktoechos, on the basis of Byzantine and post-Byzantine diagrams .......................................................... 440
 
-
 1. References in the Paleo-Byzantine theoretical texts concerning the oktoechos .......................................... 440
-
 
 3.2. The Composite Wheel of Saint John Koukouzeles - Parallage (III)................................. 442
 
-
 1. The Simple Wheel or the Kanonion of the Eight Modes .................................................................... 448
-
 
 3.4. The Tree of Parallage ......................................................................................................... 452
 
-
 1. Relationships and subcategories of modes (II) ............................................................................................ 453
-
 
 3.6. The question of chromaticism ....................................................................................................... 455
 
-
 1. The kanonia in the shape of a psaltery in the Anonymous author of manuscript EBE 968 ................................. 456
-
 
 3.8. Transposition and double parallage .................................................................................................... 459
 
-
 1. A paradigm shift in the systematization of the oktoechos: The New Method ...................... 461
-
 
 Evaluation criteria for chapter 8 ........................................................................................... 463
 
-
 Bibliography for chapter 8 ......................................................................................................... 465
 Endnotes for chapter 8 ................................................................................................. 469
-
 
 9
 Chapter 9 - Middle Byzantine Notation (III): Metrophonia (μετροφωνία) - Parallage (παραλλαγή) - Melos (μέλος), the
 didactic triptych of the Old System.............................................................................. 472
 
-
 1. Didactic approaches in the New and the Old System ............................................................ 472
 
 2. Seeking the meaning of metrophonia ...................................................................................... 476
 
-
 2.1. Prolegomena: The concept of intervallicity .......................................................................... 476
-
 
 1. Metrophonia in Byzantine and post-Byzantine theoretical writings ........................................................... 477
 
-
 2.2.1. Metrophonia in lists of signs............................................................................................... 478
-
 
 1. Metrophonia in didactic poems ......................................................................................... 478
 
-
 2.2.2.1. “Fourteen-torch-lit chorus”: An example of metrophonia, parallage, and melos
-
 
 in a diatonic mode ............................................................................................................................... 478
 
-
 1. “O Theologian, O Virgin”: The apparent conflict between from parallage - from melos .. 485
-
 
 2.2.2.3. Equalization (isasmos) of the eight modes ....................................................................................................... 492
 
-
 2.2.2.4. The “Method of Metrophonia” of Gregory Bounes Alyates: A brief
 
-
 reference ............................................................................................................................................ 493
-
 
 1. Metrophonia in musico-theoretical handbooks ......................................................................... 499
 
@@ -683,16 +494,12 @@ reference ......................................................................
 
 4. Conclusions on the concept of metrophonia ............................................................................. 509
 
-
 Assessment criteria for chapter 9 ........................................................................................... 509
-
 
 Bibliography for chapter 9 ......................................................................................................... 510
 Endnotes for chapter 9 ................................................................................................. 513
 
-
 Chapter 10 - Middle Byzantine Notation (IV): Cheironomy (χειρονομία), Great Signs, Theseis (θέσεις) .... 515
-
 
 1. Definitions and milestones in the historical development of cheironomy ............................................. 515
 
@@ -700,64 +507,43 @@ Chapter 10 - Middle Byzantine Notation (IV): Cheironomy (χειρονομία), 
 
 3. Examples of musico-theoretical, iconographic, practical, and comparative sources for the
 
-
 study of cheironomy ....................................................................................................................... 522
 
-
-4. “Hyperstaseis (υπερστάσεις)” and “great hypostases of cheironomy”. Interpretations and tables of great
-
+1. “Hyperstaseis (υπερστάσεις)” and “great hypostases of cheironomy”. Interpretations and tables of great
 
 signs ........................................................................................................................................... 525
 
-
-5. The role of the great signs and levels of shorthand in the Old System (I).
-
+1. The role of the great signs and levels of shorthand in the Old System (I).
 
 Musical theseis ................................................................................................................................. 542
 
-
-6. The Mega Ison of Saint John Koukouzeles. Levels of shorthand in the Old
-
+1. The Mega Ison of Saint John Koukouzeles. Levels of shorthand in the Old
 
 System (II) .................................................................................................................................... 544
 
-
-7. Some other instrumenta studiorum: a glossary of names of signs and theseis, and
-
+1. Some other instrumenta studiorum: a glossary of names of signs and theseis, and
 
 a catalogue of theseis ................................................................................................................... 562
 
-
-8. Seeking the quality of the great hypostases and other semadophones (σημααδοφώνων) in
-
+1. Seeking the quality of the great hypostases and other semadophones (σημααδοφώνων) in
 
 Middle Byzantine notation .......................................................................................................... 566
 
-
 Assessment criteria for chapter 10 ......................................................................................... 568
-
 
 Bibliography for chapter 10 ....................................................................................................... 569
 
-
 10
-
-
-
 
 Endnotes for chapter 10 ................................................................................................ 572
 
-
 Chapter 11 - Middle Byzantine Notation (V): Musical Exegesis ..................................... 575
-
 
 1. Defining musical exegesis ............................................................................................ 575
 
 2. Some milestones in the history of exegesis .................................................................................. 575
 
-
 2.1. Theoretical and practical sources in Byzantine musical notation (parasēmantikē). Known exegetes .................... 575
-
 
 1. Early sources in Slavic staff notations ........................................................ 580
 
@@ -767,95 +553,64 @@ Chapter 11 - Middle Byzantine Notation (V): Musical Exegesis ...................
 
 4. Examples of exegeses through comparisons of sources ...................................................... 585
 
-
 5.1. A typology of comparisons and some methodological issues ............................................ 585
-
 
 1. Heirmologic chants ......................................................................................................................... 587
 
-
 5.2.1. Heirmos and katabasia “All things were amazed”, legetos mode, in the more recent tradition:
-
 
 A comparison of sources ............................................................................................................... 587
 
-
 5.2.2. Heirmos and katabasia “The divine and ineffable beauty”, first mode, in diachronic development:
-
 
 A comparison of sources ............................................................................................................... 588
 
-
 1. Sticheraric chants......................................................................................................................... 603
-
 
 5.3.1. The last sticheron of the Great Hours of Great Friday, “Today he is hung
 
-
 upon the wood”, in plagal second mode ............................................................................................................... 603
-
 
 5.3.1.1. The old, Byzantine, classical style, from the Sticherarion edited by Saint John
 
-
 Koukouzeles, EBE 884 ............................................................................................................... 603
-
 
 5.3.1.2. The opening of the doxastikon “Today he is hung upon the wood”, in diachronic development:
 
-
 Comparison of sources ....................................................................................................................... 604
-
 
 5.3.2. The first sticheron of the Great Hours of Christmas, “Bethlehem, make ready”, in
 
-
 plagal fourth mode: Comparison of sources ........................................................................................................... 607
-
 
 1. Papadic chants ............................................................................................................................. 615
 
-
 5.4.1. Athenian Trisagion for the dead, in plagal second nenano mode ......................................................... 615
-
 
 5.4.2. From the eight-mode mathema “Theotokos Virgin” by Petros Bereketes: A thesis
 
-
 of the parakletike, in fourth mode .................................................................................................................. 617
-
 
 5.4.3. The opening of Petros Bereketes’ Cherubic Hymn, which is sung in all eight modes, from the
 
-
 same original notation ........................................................................................................................ 618
-
 
 1. More recent inquiries .................................................................................................................... 624
 
 2. Concluding comments on the exegesis of Middle Byzantine notation ............................... 626
 
-
 Assessment criteria for chapter 11 ......................................................................................... 629
-
 
 Bibliography ...................................................................................................................................... 655
 Endnotes for chapter 11 ................................................................................................ 660
 
-
 Index of Greek-language and foreign-language scholarly terms .......................................... 663
-
 
 Appendices
 
-
 11
 
-
-
-
 # Appendix 1. Glossary with names of signs and theseis in Byzantine, post-Byzantine, and modern theoretical writings .................................................................................................................. i
-
 
 1. Prolegomena .................................................................................................................................................. i
 
@@ -863,27 +618,20 @@ Appendices
 
 3. Sources and Bibliography for the Glossary, the Catalogue of theseis, and the Table of great
 
-
 signs .......................................................................................................................................................... iv
 
-
-4. Abbreviations and special symbols ............................................................................................................. x
-
+1. Abbreviations and special symbols ............................................................................................................. x
 
 GLOSSARY .............................................................................................................................................1-109
 Indexes for the Glossary, the Catalogue of theseis, and the Summary table of great signs ..... xi
 
-
 I. Manuscripts .................................................................................................................................................. xi
-
 
 II. Printed musical editions ..................................................................................................................... xiv
 III. Theoretical writings .............................................................................................................................................. xiv
 IV. Secondary bibliography .................................................................................................................... xvi
 
-
 V. Abbreviations ...........................................................................................................................................xxii
-
 
 Appendix 2. Catalogue of musical theseis of the Old Method, based on lists of neumes,
 didactic poems, and theoretical handbooks ........................................................................... xxx
@@ -891,15 +639,12 @@ Prolegomena ....................................................................
 CATALOGUE OF THESEIS .......................................................................................................................... 1-50
 Appendix 3. Aids for transcription from the New Method into staff notation ........... xxxi
 
-
 1. Prolegomena ..................................................................................................................................... 1
 
 2. The quantitative characters - signs that denote intervals ................................................ 2
 3. Temporal hypostases - signs which indicate rhythm ................................................................. 4
 
-
 3.1. The most common signs .......................................................................................................................... 4
-
 
 1. The system for indicating rhythm in the New Method: a general overview ...................................... 5
 
@@ -907,34 +652,24 @@ Appendix 3. Aids for transcription from the New Method into staff notation .....
 
 3. The Byzantine Oktoechos according to the New System .......................................................................................... 8
 
-
 5.1. Attractions and Alterations. Key signatures for the transcription of the modes of the New Method into staff notation
 ........................................................................................................................................................................... 8
 
-
 1. Pitch martyriai ................................................................................................................................ 14
 
-
 5.3. Phthorai - symbols of change ................................................................................................................. 15
-
 
 1. The question of transcribing microintervals ................................................................................... 16
 
 2. Aid for marking measures ...................................................................................................... 17
 
-
 Bibliography for Appendix 3 ............................................................................................................... 18
 Endnotes for Appendix 3 ....................................................................................................... 18
 Looking for the solutions to the exercises from the Assessment Criteria ......................................... a
 
-
 12
 
-
-
-
 # Table of abbreviations-acronyms
-
 
 |αγγλ.|English|
 |---|---|
@@ -969,11 +704,7 @@ Looking for the solutions to the exercises from the Assessment Criteria ........
 |παρ.|example|
 |πβ|Palaeo-Byzantine (notation)|
 
-
 13
-
-
-
 
 |περ.|approximately|
 |---|---|
@@ -999,20 +730,15 @@ Looking for the solutions to the exercises from the Assessment Criteria ........
 |sc.|sci-licet: that is, it is implied|
 |transl.|translated by|
 
-
 In addition to the above abbreviations, the following icons are also used:
-
 
 -  for exercise prompts, chiefly in the assessment criteria
 
 -  for files with contexts, for a better understanding of the exercises
 
-
  or  for recordings
 
-
  for videos
-
 
 for an exercise key. Whenever the above
 icons appear, the corresponding files, which
@@ -1022,14 +748,9 @@ carry out small exercises during the basic presentation of the material of the
 chapters. The solution to this type of exercise is usually incorporated
 into the presentation of the material of the respective chapter.
 
-
 14
 
-
-
-
 # Foreword by Honorary Professor Dr. Dr. h.c. mult. Constantin Floros
-
 
 The present Handbook for the Palaeography of Byzantine Music is the first
 extensive work on this subject in the Greek language. I am very pleased by this publication
@@ -1046,15 +767,11 @@ musical notation.
 I wish for this book, which was written primarily for students, the
 widest possible dissemination.
 
-
 15
 
-
-
-
 # Author’s Foreword
-## Some Historical Notes
 
+## Some Historical Notes
 
 For a musical culture in which music printing is scarcely two hundred years old, it follows that the
 manuscript tradition plays a central role (see Figure 0.1).
@@ -1064,28 +781,21 @@ manuscript tradition plays a central role (see Figure 0.1).
 Figure 0.1. Sample from the first printed book with Byzantine notation: Petros Peloponnesios, Doxastarion, ed.
 Petros Ephesios (Bucharest, 1820, repr. Koultoura).
 
-
 Indeed, elements of the history of Byzantine music, of the hymnographic and musical repertoire,
 of performance practices, of the history of music-theoretical thought, of morphology and analysis, of meta-aesthetics,
 of secular music, and, more broadly, elements of Greek culture and its radiance, would have
 remained a riddle to us if we did not have access to the manuscripts. The key to reading them and to
 their first interpretation is provided by the Palaeography of Byzantine Music (Figure 0.2).
 
-
 16
-
-
-
 
 Repertoire
 hymnogra-
 phic and
 musical
 
-
 History of
 Byz. music
-
 
 History
 of the tradition
@@ -1093,37 +803,29 @@ of musico-
 poetic
 texts
 
-
 Morphology
 and analysis
 
-
 #  Historical Meta-aesthetics performance practices
-
 
 Palaeography History
 Eastern music-theore-
 secular tical reflec-
 music tion
 
-
 History
 of liturgics,
 calendars
-
 
 Greek
 musical
 culture
 
-
 Radiance
 of Byz. music
 
-
 Figure 02. Fields of Byzantine Musicology, of Musicology more generally, and of Theology, which
 are nourished by the findings of research in the field of the Palaeography of Byzantine Music.
-
 
 Already Guido Adler, in his famous essay “The Scope, Method, and Aim of Musicology” (1885),
 places Musical Palaeography first among the fields of Historical Musicology
@@ -1132,8 +834,7 @@ places Musical Palaeography first among the fields of Historical Musicology
 ![Description](/resources/image_006.jpeg)
 
 Figure 0.3. Guido Adler (1855–1941), founder of the modern discipline of Musicology.
-Source: http://upload.wikimedia.org/wikipedia/commons/5/59/GuidoAdler.png (05.05.2016).
-
+Source: <http://upload.wikimedia.org/wikipedia/commons/5/59/GuidoAdler.png> (05.05.2016).
 
 |Historical (History of music according to periods, peoples, empires, countries, regions, cities, schools of art, artists)|Systematic (Determination of the basic laws that apply in the various branches of the art of music)|
 |---|---|
@@ -1667,7 +1368,6 @@ Source: http://upload.wikimedia.org/wikipedia/commons/5/59/GuidoAdler.png (05.05
 ![Description](/resources/image_529.png)
 
 B. Aesthetics of the art of music
-
 
 1. Comparison and evaluation of the laws and of their relationship with
 their recipients, with the aim of establishing the criteria of
@@ -2359,7 +2059,6 @@ the above
 ![Description](/resources/image_1208.jpeg)
 ![Description](/resources/image_1209.jpeg)
 
-
 ![Description](/resources/image_1210.jpeg)
 ![Description](/resources/image_1211.jpeg)
 ![Description](/resources/image_1212.jpeg)
@@ -2828,19 +2527,16 @@ the above
 
 1. Historical sequence of laws, C. Music Pedagogy and Didactics
 
-
 1. as manifested in the compositions of a period, (Systematization of the laws for the purpose of teaching)
 
-
-2. as taught by the theorists of that 1. Basic theory (Tonlehre)
+1. as taught by the theorists of that 1. Basic theory (Tonlehre)
 period, 2. Harmony
-3. forms of musical practice. 3. Counterpoint
-4. Composition
-5. Organology
-6. Didactics of singing and playing various musical
+1. forms of musical practice. 3. Counterpoint
+1. Composition
+1. Organology
+1. Didactics of singing and playing various musical
 instruments
 Auxiliary sciences
-
 
 |D. History of musical instruments|D. Musicology (Musikologie) (Investigation and comparison with an ethnographic purpose)i|
 |---|---|
@@ -3228,10 +2924,8 @@ Auxiliary sciences
 
 Table 0.1. The edifice of the Science of Music, according to Guido Adler (1885).ii
 
-
 The significance of Palaeography for Musicology in general is also underscored by the German
 musicologist Oskar Fleischer (1904, Vorbemerkung), a pioneer of the Palaeography of Byzantine Music:
-
 
 “An extraordinarily complex and multidimensional graphic system, with functions that seem to us
 almost entirely foreign, first had to be securely identified and presented. From the more than 50
@@ -3244,18 +2938,15 @@ Musicology without research into the practical musical art of the Middle Ages is
 without foundations and remains a false science, since it will not be able to present
 its own genesis.”iii
 
-
 In 1917, Konstantinos Psachos offered the scholarly community his well-known
 Parasemantike—a book that was widely used in Greece for the
 study of the Old Method (Figure 0.4).
-
 
 Figure 0.4. The cover of the 1st edition of the
 “Parasemantike of Byzantine Music,”
 a book that constitutes the opus magnum of
 Konstantinos Psachos and the basis of palaeographical
 research in Greece.
-
 
 18
 
@@ -3621,8 +3312,6 @@ research in Greece.
 ![Description](/resources/image_2412.jpeg)
 ![Description](/resources/image_2413.png)
 
-
-
 The methodological model put forward by Psachos, continuing the lines of Chrysanthos of
 Madytos and Georgios Violakis, is retrospective parallelism, according to which the study
 begins with present-day aural experience and gradually moves backward, toward the tracing of old manuscripts
@@ -3632,12 +3321,10 @@ begins with present-day aural experience and gradually moves backward, toward th
 
 Figure 0.5. Model for interpreting the Old Method, according to K. Psachos.iv
 
-
 Palaeography would remain at the centre of interest a few years later, in 1931, when
 the Monumenta Musicae Byzantinae (MMB) were founded in Copenhagen by C. Høeg, H.J.W.
 Tillyard, and E. Wellesz. The various publication series are all based on careful research into manuscripts
 of the Byzantine period and include:
-
 
 -  Facsimile editions of musical manuscripts (Série Principale),
 
@@ -3645,23 +3332,19 @@ of the Byzantine period and include:
 
 -  transcriptions into staff notation (Série Transcripta, discontinued in 1958. They were based on
 
-
 the reading of medieval manuscripts solely on the basis of the manuscripts and Byzantine music-theoretical
 texts, without the contribution of the oral tradition),
+
 -  critical editions of texts with ekphonetic notation (Série Lectionaria),
 
 -  critical editions of music-theoretical texts (Corpus Scriptorum de Re Musica, from 1985
-
 
 onwards).
 A renewed view of Middle Byzantine notation from the Copenhagen School was offered by Christian Troelsgård (2011) in the Subsidia series of MMB.v
 Correspondingly, the Institute of Byzantine Musicology in Athens (year of foundation: 1970), directed by Gregorios Stathis, has contributed enormously to the study of Byzantine musical manuscripts. In this context special mention should be made of the analytical descriptive catalogues by the aforementioned scholar and his students (Achilleas Chaldaiakis, Emmanouil Giannopoulos, Dimitrios Balageorgos, Flora Kritikou), most valuable instrumenta studiorum, through which the “ocean of Byzantine music”vi begins to become accessible to researchers, and a thousand names of composers, with tens of thousands of musical compositions, are catalogued, and thus opened up again for study, chanting, and admiration.vii
 The significance of Byzantine palaeography for the peoples of the West and of the Slavic world was brought to light by Constantin Floros, with his famous work Universale Neumenkunde (Holistic Neumatic Science, 1970. See Figure 0.6), while the importance of the post-Byzantine era for the dissemination of Greek ecclesiastical music down to our own day was powerfully demonstrated by Manolis Hatzigiakoumis (1980).
 
-
 19
-
-
 
 ![Description](/resources/image_2415.jpeg)
 ![Description](/resources/image_2416.jpeg)
@@ -3669,34 +3352,25 @@ The significance of Byzantine palaeography for the peoples of the West and of th
 
 Figure 0.6. K. Floros in his keynote address “The Influence of Byzantine Music on the West”, at the conference
 Crossroads: Greece as an intercultural pole of musical thought and creativity, Thessaloniki, 9 June 2011:
-http://crossroads.mus.auth.gr. Photograph: Demosthenes Spanoudakis. Next to it are shown the covers of two books by
+<http://crossroads.mus.auth.gr>. Photograph: Demosthenes Spanoudakis. Next to it are shown the covers of two books by
 Floros, which are English translations by Neil Moran of corresponding parts of Universale Neumenkunde.
-
 
 Crucial steps toward the interpretation of old Byzantine manuscripts were taken by Ioannis Arvanitis (2010), while issues concerning the teaching of palaeography concern all teachers of Byzantine music in institutions of higher education in Greece, Romania, Serbia, Bulgaria, Russia, Ukraine, Denmark, England, and elsewhere.
 Also, with the dissertation by Kyriakos Kalaitzidis (Kalaitzidis, 2012) on post-Byzantine musical manuscripts as a source of Eastern Secular Music, many other researchers from Turkey, Iraq, and other countries began to take an interest in the palaeography of Byzantine music.
 In other words, we see that within the open list of research fields-courses of Byzantine Musicology, the Palaeography of Byzantine Music has a stable and significant place (see Table 0.2).
-
 
 |Byzantine|Studies|
 |---|---|
 |Psaltic Art|Byzantine Musicology|
 |• Orthophony • Theory & Notation • Performance - Interpretation, Choir • Melodic composition • Typikon, Divine Worship • Didactics • Secular music in Byzantine notation • Computational musicology, Technology|• Epistemology • Codicology, Palaeography, Notation, Transcriptions • History - Historiography • Systematic studies: Theory & Analysis • Theology, Philosophy, Meta-aesthetics of B.M. • Applied Musicology • Secular music, Organology, Musical iconography & Literary sources • Comparative studies: Traditions of Byzantine music, B.M. & Folk Music, B.M. & Modern Greek Music • Anthropology, Ethnology, Sociology, Law and B.M. • B.M., Natural Sciences & Informatics • B.M. & Brain Sciences, Neuromusicology, Music Therapy|
 
-
 Table 0.2. Palaeography among other fields of Byzantine Music Studies today.viii
-
 
 20
 
-
-
-
 # A few words about the present digital handbook
 
-
 Palaeography is a lifetime’s work for a scholar. For this reason, the aim of the present handbook is none other than to offer an introduction to the Introduction to the Palaeography of Byzantine Music. In other words, it seeks to introduce readers to the fascinating work of palaeography, through the combined study of:
-
 
 -  Musical manuscripts,
 
@@ -3710,15 +3384,11 @@ Palaeography is a lifetime’s work for a scholar. For this reason, the aim of t
 
 -  Greek and international bibliography.
 
-
 of signs, glossaries, etc.,
-
 
 of scripts, types of musical codices,
 
-
 In addition, various openings are proposed, such as:
-
 
 -  Interartistic approaches,
 
@@ -3732,35 +3402,27 @@ In addition, various openings are proposed, such as:
 
 - musicology,
 
-
 What is proposed is the study of Palaeography within its broader contexts -
 Contextualized palaeography.
 
-
 By studying the present handbook, the reader:
-
 
 • will become acquainted with the basic stages in the development of Greek script and with the methodology for studying
 
-
 Greek texts in majuscule and minuscule script,
-
 
 - will develop skills regarding the dating of Byzantine musical manuscripts,
 
 - will become familiar with the various kinds of Greek musical notation, from the Oxyrhynchus Papyrus
 
-
 no. 1786 (second half of the 3rd century) to the New Method, having at his disposal lists of signs, examples for study (with prompts and solutions), audio examples and chanting exercises, mnemonic cards, etc.,
-
 
 • will come into contact with topics concerning the didactics of the Palaeography of Byzantine
 
-
 Music.
 The rich material of Palaeography can be studied through cyclical approaches: the beginner can focus on the mnemonic cards and on selected exercises for each chapter. The student who wishes to delve more deeply into the individual topics of Palaeography can proceed to a thorough study of each chapter, to the search for additional bibliography, and to the completion of all the exercises for each chapter.
-## Brief description of content
 
+## Brief description of content
 
 After the broader research framework of early notations has been presented, together with a general map of the various
 graphic systems used for the notation of Greek (and not only Greek) music from
@@ -3774,11 +3436,7 @@ the period from the beginning of the 10th century to 1820, an enormous number of
 (between seven and ten thousand), which contain Greek ecclesiastical music and many pieces
 of Eastern secular music (chap. 6).
 
-
 21
-
-
-
 
 Particular emphasis is placed on Middle Byzantine notation (mid-12th - first half of the 19th c.), which
 reflects Greek musical creation during the Middle Ages and the post-Byzantine period. The
@@ -3786,8 +3444,7 @@ central axes around which the teaching effort develops are the following: the so
 learning of the pitch signs (phthongosema), the oktoechos according to the Old System, the method of learning pieces in the
 Old System: metrophonia - parallage - melos, the art of cheironomia, musical exegesis (chap. 7-
 
-
-1.  A few exercises at the beginning
+1. A few exercises at the beginning
 
 -  You may begin by reading the text of a famous didactic poem:
 
@@ -3795,23 +3452,17 @@ Old System: metrophonia - parallage - melos, the art of cheironomia, musical exe
 
 #  &
 
-
 Figure 0.7.a. MS no. 32 of the Classical Philology Seminar of the Faculty of Philosophy of Aristotle
 University of Thessaloniki, p. 8. Protheoria and Anastasimatarion, 18th c., in the notation of the Old Method
 (late Middle Byzantine). In the photograph, lower part: beginning of the “Admonition” by Chrysaphes the Younger.
 
-
 © Central Library of Aristotle University of Thessaloniki.
 
-
 For a more detailed description and more photographs of the manuscript, see: Politis, Sotiroudis and Sakellaridou-
-Sotiroudi (1991, pp. 33-34). http://digital.lib.auth.gr/collection/Manuscripts?ln=el (no. 29, [ARC-2007-38231]) and
-http://digital.lib.auth.gr/record/80004/files/1.pdf (19.8.2016).
-
+Sotiroudi (1991, pp. 33-34). <http://digital.lib.auth.gr/collection/Manuscripts?ln=el> (no. 29, [ARC-2007-38231]) and
+<http://digital.lib.auth.gr/record/80004/files/1.pdf> (19.8.2016).
 
 22
-
-
 
 ![Description](/resources/image_2419.jpeg)
 
@@ -3820,10 +3471,7 @@ University of Thessaloniki, p. 9. Continuation and end of the “Admonition” b
 “All Saints,” in plagal 2nd nenano mode, by Xenos Korones. © Central Library of Aristotle University of
 Thessaloniki.
 
-
 23
-
-
 
 ![Description](/resources/image_2420.jpeg)
 
@@ -3831,14 +3479,9 @@ Figure 0.7.c. MS no. 32 of the Classical Philology Seminar of the Faculty of Phi
 University of Thessaloniki, p. 10. End of the method “All Saints” and the Kanonion of the oktoechos (the Simple
 Wheel). © Central Library of Aristotle University of Thessaloniki.
 
-
 24
 
-
-
-
-# Warm thanks...
-
+# Warm thanks
 
 First of all, I would like to thank the various Holy Monasteries, libraries, institutions and
 various bodies that gave their blessing and/or permission for publication for the manuscript material that
@@ -3893,11 +3536,7 @@ contributed to the present effort with joy and persistence. Warm thanks are due 
 members of the Byzantine Music Palaeography Group of the Department of Music Studies of
 Aristotle University of Thessaloniki, our beloved students, with whom, from time to time,
 
-
 25
-
-
-
 
 various lectures, masterclasses and other events were held, from which teaching material emerged and was
 selectively incorporated into the present edition. In particular, I would like to thank the doctoral candidate Mr. Dimos
@@ -3909,11 +3548,7 @@ A thousand thanks also to Mr. Ioannis Liakos and the Thessalonian Hymnodists for
 contribution to the recordings of the present handbook. A great thank you to the sound engineers, Father
 Christos Kotios, Mr. Konstantinos Panousakis, Mr. Konstantinos Kontos, member of the Laboratory Teaching Staff of the Department of Music Studies of Aristotle University of Thessaloniki, and
 
-
-
 Mr. Dimitris Christodoulidis, for their great patience and wholehearted support during lengthy
-
-
 
 recording sessions. I also owe many thanks to Mr. Ioannis Vamvakas, for valuable advice and
 countless hours in front of the computers, entering the musical examples in Finale. I would also like to thank
@@ -3934,15 +3569,11 @@ as well as my entire family of origin, for their tangible love.
 Finally, I would like to express many thanks to the collaborators of the KALLIPOS initiative, for their
 unstinting support, from the first steps in preparing the handbook to its completion.
 
-
 # Bibliography for the Prologue
-
 
 # Printed musical
 
-
 collections and scores
-
 
 Petros Peloponnesios. (1820). Short Doxastarion. Ed. Petros Ephesios. Bucharest (repr. Athens:
 Koultoura).
@@ -3953,16 +3584,13 @@ Genera and Types of Byzantine Psaltic Melopoeia, Proceedings of the Internationa
 Musicological and Psaltic Conference, Athens 15-19 October 2003 (pp. 25-30). Athens: Holy Synod of the
 Church of Greece - Foundation for Byzantine Musicology.
 
-
 Books and articles
-
 
 Alexandrou, Maria. (2015). Byzantine music studies: trends and currents in research and education
 today. In Ioannis Foulias, Petros Vouvaris, Giorgos Kitsios and Kostas Chardas (eds.), Music and
 Musicology. Present and future, Proceedings of an interdepartmental conference under the auspices of the Hellenic
 Musicological Society, Thessaloniki, 21-23 November 2014 (pp. 51-74). Thessaloniki: Hellenic
-Musicological Society: http://musicology.mus.auth.gr/wp-content/uploads/2015/10/ConfProc2014.pdf
-
+Musicological Society: <http://musicology.mus.auth.gr/wp-content/uploads/2015/10/ConfProc2014.pdf>
 
 (30.1.2017).
 Alexandru, Maria. (2016). Palaeography of Byzantine Music: Aspects of History and Teaching. Part of the article:
@@ -3970,14 +3598,10 @@ Academic Byzantine-Musicological Network. In Ioannis Fulias, Petros Vouvaris, Ko
 Kostas Chardas (eds.), 7th Interdepartmental Musicological Conference, Music, Discourse and the Arts, Proceedings
 of the interdepartmental conference under the auspices of the Hellenic Musicological Society, Corfu, 30 October - 1
 
-
 26
 
-
-
-
 November 2015 (pp. 197-201). Thessaloniki: Hellenic Musicological Society.
-http://musicology.mus.auth.gr/wp-content/uploads/2016/11/ConfProc2015.pdf (30.1.2017).
+<http://musicology.mus.auth.gr/wp-content/uploads/2016/11/ConfProc2015.pdf> (30.1.2017).
 Arvanitis, Ioannis. (2010). The rhythm of ecclesiastical melodies through palaeographical research and the exegesis
 of the old notation. Doctoral dissertation, 2 vols. Ionian University, Department of Music Studies.
 Corfu.
@@ -3989,16 +3613,14 @@ Char. Karangounis and Georgios Kouroupetroglou (eds.), The Psaltic Art as an Aut
 Scientific Branches - Related Scientific Fields - Interdisciplinary Collaborations, Cross-thematicity and
 Interaction, Proceedings of the 1st International Interdisciplinary Musicological Conference, 29 June - 3 July 2014,
 Volos (pp. 19-31). Volos: Volos Academy for Theological Studies, Department of Psaltic Art and Musicology.
-http://speech.di.uoa.gr/IMC2014/pdffull/22-33.pdf (18.12.2015).
+<http://speech.di.uoa.gr/IMC2014/pdffull/22-33.pdf> (18.12.2015).
 Karamanes, Evangelos. (Ed., 2013). Konstantinos Psachos: the Musician, the Scholar. Proceedings of a One-Day Conference, Eastern
 Hall of the Megaron of the Academy of Athens, 30 November 2007. Publications of the Hellenic Folklore Research Centre, 29. Athens: Academy of Athens.
 Balageorgos, Dimitrios and Kritikou, Flora. (2008). The manuscripts of Byzantine music, Sinai, Descriptive
 catalogue. Vol. I. Holy Synod of the Church of Greece, Foundation of Byzantine Musicology. Athens.
 Politis, Linos. (1991). Catalogue of manuscripts of the University of Thessaloniki. Edited and supplemented by
 
-
 P. Sotiroudis and A. Sakellaridou-Sotiroudis. Thessaloniki: Aristotle University of Thessaloniki,
-
 
 Central Library.
 Stathis, Gregorios. (1975). The manuscripts of Byzantine music, Mount Athos. Athens: Holy Synod of the Church of
@@ -4011,15 +3633,11 @@ Psachos, K. (1917). The parasemantic notation of Byzantine music, that is, a his
 notation of Byzantine music from the first Christian centuries to our own times.
 Athens: Sakellariou.
 
-
 Adler, Guido. (1885). Umfang, Methode und Ziel der Musikwissenschaft. Vierteljahrsschrift für Musikwissenschaft, 1, 5-
 
-
-1. : http://musicology.ff.cuni.cz/pdf/gabrielova/ Adler_UmfangMethodeUndZielDerMusikwissenschaft.pdf
-
+1. : <http://musicology.ff.cuni.cz/pdf/gabrielova/> Adler_UmfangMethodeUndZielDerMusikwissenschaft.pdf
 
 (7.6.2015).
-
 
 Fleischer, Oskar. (1904). Die spätgriechische Tonschrift. Berlin: Georg Reimer.
 Floros, Constantin. (1970). Universale Neumenkunde. 3 vols. Kassel: Bärenreiter Antiquariat, Kassel-Wilhelmshöhe.
@@ -4034,7 +3652,7 @@ Maria Alexandru, Giorgos Kitsios, and Emmanouil Giannopoulos (eds.), Crossroads 
 pole of musical thought and creativity, International Musicological Conference, June 6-10, 2011, Conference
 Proceedings, Aristotle University of Thessaloniki - School of Music Studies & IMS Regional Association for the
 Study of Music of the Balkans (pp. 1-11). Thessaloniki: electronically published by the School of Music Studies,
-Aristotle University of Thessaloniki: http://crossroads.mus.auth.gr
+Aristotle University of Thessaloniki: <http://crossroads.mus.auth.gr>
 Gheorghiță, Nicolae. (2006). Some observations on the structure of the Nouthesia pros mathetas by Chrysaphes the
 Younger from the gr. ms. no. 640 in the Library of the Romanian Academy (A.D. 1821). In Gregorios
 Anastasiou (ed.), Theory and Practice of the Psaltic Art, The Genera and Species of Byzantine
@@ -4045,41 +3663,30 @@ Kalaitzidis, Kyriakos. (2012). Post-Byzantine Music Manuscripts as a Source for 
 19th Century). Translated by Kiriaki Koubaroulis and Dimitri Koubaroulis. Istanbuler Texte und Studien 28,
 Orient Institut Istanbul. Würzburg: Ergon Verlag.
 
-
 27
-
-
-
 
 Mugglestone, Erica. (1981). Guido Adler's "The Scope, Method, and Aim of Musicology" (1885): An English
 Translation with an Historico-Analytical Commentary. Yearbook for Traditional Music, 14, 1-21:
-http://www.jstor.org/stable/768355 (14.11.2014).
+<http://www.jstor.org/stable/768355> (14.11.2014).
 Troelsgård, Christian. (2011). Byzantine Neumes. A New Introduction to the Middle Byzantine Musical Notation. MMB,
 Subsidia IX. Copenhagen: Tusculanum Press.
 
-
 Discography
-
 
 Stathis, Gregorios. (2005). “The Maïstores of the Psaltic Art”. Sing praises with understanding to God - II. 2nd International
 Musicological and Psaltic Conference “Theory and Practice of the Psaltic Art”. The Genera and
 Species of Byzantine Psaltic Melopoeia. Athens 15-19 October 2003. Chronicle and Chants.
 Athens: Foundation of Byzantine Musicology, pp. 20-27 and CD 1, track 1.
 
-
 # Remainder
-
 
 Webography
 
-
-http://en.wikipedia.org/wiki/Guido_Adler (7.6.2015).
-http://nmnovice.blogspot.gr/2009/05/blog-post_23.html
-http://www.ibyzmusic.gr/ (5.5.2016).
-
+<http://en.wikipedia.org/wiki/Guido_Adler> (7.6.2015).
+<http://nmnovice.blogspot.gr/2009/05/blog-post_23.html>
+<http://www.ibyzmusic.gr/> (5.5.2016).
 
 (25.3.2015).
-
 
 i Later, this field became known as Comparative Musicology or Ethnomusicology.
 ii The present table is a translation from: Adler (1885, pp. 16-17), in combination with: Mugglestone (1981), and
@@ -4096,8 +3703,7 @@ eine Scheinwissenschaft." (Fleischer, 1904, Vorbemerkung).
 iv Alexandru (2010, table 8). For more information on Psachos, cf. Karamanes (ed., 2013).
 v For a more detailed presentation of the MMB editions, cf. Troelsgård (2011, pp. 138-142).
 vi Expression of Professor Gregorios Stathis in a discussion in Copenhagen, July 2006.
-vii For further information, cf. http://www.ibyzmusic.gr/ (5.5.2016).
+vii For further information, cf. <http://www.ibyzmusic.gr/> (5.5.2016).
 viii Cf. Karangounis (2015) and Alexandru (2016, p. 199).
-
 
 28

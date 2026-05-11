@@ -46,7 +46,7 @@ License:| [Attribution - NonCommercial - ShareAlike 4.0 International (CC BY-NC-
 
 DOI| <http://dx.doi.org/10.57713/kallipos-684>
 Handle| <http://hdl.handle.net/11419/6487>
-Bibliographic Reference:| Alexandrou, M. (2017).  _Paleography of Byzantine Music_ [Undergraduate textbook]. Kallipos, Open Academic Editions. https://dx.doi.org/10.57713/kallipos-684
+Bibliographic Reference:| Alexandrou, M. (2017).  _Paleography of Byzantine Music_ [Undergraduate textbook]. Kallipos, Open Academic Editions. <https://dx.doi.org/10.57713/kallipos-684>
 Language:| Greek
 
 Consists of:
