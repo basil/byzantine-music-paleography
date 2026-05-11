@@ -2042,7 +2042,7 @@ musical iconography offers important information: see Figures 10.6-10.9.
 ![Description](image_12394.jpeg)
 ![Description](image_12395.jpeg)
 
-## Figures 10.6-7. Left: Mosaic icon of the Venerable Forerunner, from the Patriarchal Church of Saint George in
+Figures 10.6-7. Left: Mosaic icon of the Venerable Forerunner, from the Patriarchal Church of Saint George in
 
 the Phanar of Constantinople, around 1280, in a “classicizing tendency (...) of the first Palaiologan style,”
 probably originating from the church of the Holy Monastery of Pammakaristos in the Queen of Cities (Gkioles, 1994, pp. 257, 256,
@@ -2193,7 +2193,7 @@ antikenokylisma
 
 tromikon
 
-## Interpretation of Gabriel Hieromonk
+Interpretation of Gabriel Hieromonk
 
 “The diple, then, is for no other reason than to indicate to the singer
 
@@ -2465,7 +2465,7 @@ Middle Byzantine notation
 Athonite Hagiopolite Early and Fully developed, late, partly
 developed explanatory
 
-## gorgon-enarxis
+gorgon-enarxis
 
 New Method
 
@@ -2930,9 +2930,9 @@ In a second phase, the study of the epegermа could be extended by comparing thi
 in practical sources, within various repertoires and various periods.
 More specifically, the preliminary study of the epegermа could take the following form:
 
-## A. Etymology and Lexical Interpretations of Music Theorists
+### A. Etymology and Lexical Interpretations of Music Theorists
 
-## epegerma (ἐπέγερμα)lxii
+epegerma (ἐπέγερμα)lxii
 
  Name in Old Byzantine Athonite notation: apothema (ἀπόθεμα).
 
@@ -3037,7 +3037,7 @@ signs, at the end of Appendix 1 of the present
 
 ![Description](image_12452.jpeg)
 
-## B. Graphic forms
+### B. Graphic forms
 
 On the basis of the synoptic table of large signs that we saw in section 4 of the present chapter
 (Table 10.3), we can trace the following with regard to the diachronic development of the epegerma:
@@ -3071,7 +3071,7 @@ are used for ornaments of smaller compass. The sign of the epegerma is definitiv
 in the New Method, but its melodic content, the sound of the old formula, survives to this day
 in the psaltic tradition.
 
-## C. Formulas in didactic poems and lists of signs
+### C. Formulas in didactic poems and lists of signs
 
 The epegerma formula (ἐπέγερμα) also appears frequently in various cheironomic exercises and didactic poems of the Late Byzantine and post-Byzantine
 period. Below we can see several of its forms:
@@ -3247,7 +3247,7 @@ and
 
 of liturgical texts
 
-## Editions
+### Editions
 
 The Holy Twelve Days. (2004). Athens: Apostolic Diakonia of the Church of Greece.
 Goar, Jacobus. (Ed., 1730). Euchologion sive Rituale Graecorum (2nd ed.). Venice.

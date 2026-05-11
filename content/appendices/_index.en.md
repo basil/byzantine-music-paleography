@@ -227,7 +227,7 @@ repetitions could not be eliminated, so that the dictionary would not become dif
 
 ## 3. Sources and Bibliography for the Glossary, the Catalogue of Formulae (θέσεις) and the Table of Great Signs15
 
-## A. For the “Meaning” of the designations
+### A. For the “Meaning” of the designations
 
 The references are based on the following lexica (the order corresponds to the number of passages included in the
 glossary):
@@ -279,7 +279,7 @@ Koumanoudes, St. (1883). Collection of Words Not Included in the Greek Lexica. A
 
 iv
 
-## B. For the “Relations” of the designations with the terminology of ancient arts
+### B. For the “Relations” of the designations with the terminology of ancient arts
 
 - Grammar: Béc: Bécares Botas, Vicente. (1985). Diccionario de terminologia grammatical griega. Salamanca.
 
@@ -300,11 +300,11 @@ NicomEnch: Νicomachus Gerasenus. Encheiridion. Ed. C. Jan, Musici Scriptores Gr
 NicomExc: Νicomachus Gerasenus. Excerpta. Ed. C. Jan, Musici Scriptores Graeci. Leipzig, 1895, p. 266.
 Lexicon: Mich: Michaelides, Solon. (1978). The Music of Ancient Greece. An Encyclopaedia. London.
 
-## C. On the “Names,” Secondary and Rare Names, Peculiarities in the Form of the Names
+### C. On the “Names,” Secondary and Rare Names, Peculiarities in the Form of the Names
 
 Determining Terms, Theoretical Matters:
 
-## α. Lists of neumes
+#### α. Lists of neumes
 
 Palaeo-Byzantine notation (Pb):
 for Chartres notation: Lγ67, f.159r,
@@ -346,7 +346,7 @@ Neo-Byzantine notation (Nb):
 
 -  from KarasTheor.
 
-## b. Exercises in cheironomy and methods
+#### b. Exercises in cheironomy and methods
 
 Pe497 fols.4-6 | PsDamI 353-368 (edd. Wolfram & Hannick), together with Koutl461 fols.102-103v |
 Lε173 f.2v || GlykB | GlykB'' | Kouk, KoukExeg19 | Theod
@@ -2640,7 +2640,7 @@ xxix
 
 ## Catalogue of theseis (θέσεις) of the Old System, based on lists of neumes, didactic poems, and theoretical manuals1
 
-### Prolegomena
+## Prolegomena
 
 The Catalogue of theseis supplements the Glossary found in Appendix 1. It contains
 the characteristic combinations of emphona (ἔμφωνα) and aphona (ἄφωνα) signs of Middle Byzantine notation,
@@ -3122,7 +3122,7 @@ Table P.3.4. Summary of the vocal signs of the New Method (the most basic combin
 
 1. Temporal hypostases (έγχρονες υποστάσεις) - signs that indicate rhythm
 
-3.1. The most common signs
+### 3.1. The most common signs
 
 ![Description](image_13758.jpeg)
 
@@ -3130,7 +3130,7 @@ Table P.3.5. Summary of the most frequently occurring time signs of the New Meth
 
 4
 
-## 3.2. The system for indicating rhythm in the New Method: a general overview
+### 3.2. The system for indicating rhythm in the New Method: a general overview
 
 ![Description](image_13759.jpeg)
 
@@ -3155,7 +3155,7 @@ Table P.3.7. Summary of the basic quality signs (atemporal hypostases) of the Ne
 
 ## 5. The Byzantine Oktoechos according to the New System
 
-## 5.1. Attractions (ἔλξεις) and Accidentals. Key Signatures for the Transcription of the Echoi (ἦχοι) of the New Method into Staff Notationv
+### 5.1. Attractions (ἔλξεις) and Accidentals. Key Signatures for the Transcription of the Echoi (ἦχοι) of the New Method into Staff Notationv
 
 ![Description](image_13762.jpeg)
 
@@ -3208,7 +3208,7 @@ study is required in light of the oral tradition of the Ecumenical Patriarchate.
 
 13
 
-## 5.2. Pitch Martyriai (μαρτυρίες φθόγγων)
+### 5.2. Pitch Martyriai (μαρτυρίες φθόγγων)
 
 ![Description](image_13769.jpeg)
 
@@ -3216,7 +3216,7 @@ Table P.3.11. Summary of the martyriai of the New Method, with indication of cor
 
 14
 
-## 5.3. Phthorai (φθορές) - Symbols of Modulation
+### 5.3. Phthorai (φθορές) - Symbols of Modulation
 
 ![Description](image_13770.jpeg)
 
@@ -3227,7 +3227,7 @@ Assessment Criterion 6 of the present handbook).
 
 15
 
-## 5.4. The Question of Transcribing Microintervals
+### 5.4. The Question of Transcribing Microintervals
 
 The researcher may find in the Greek and international bibliography various ways of transcribing the microintervals of Byzantine music onto the
 staff. The symbols adopted in the present handbook are also used in contemporary scores of Eastern classical music
@@ -3363,7 +3363,7 @@ xi Table P.3.14 is based on: Karas (1982, vol. I, especially pp. 134-170). Konst
 
 ## Seeking the solutions to the exercises from the Assessment Criteria
 
-## Chapter 2
+### Chapter 2
 
 Assessment Criterion 1
 
@@ -3387,7 +3387,7 @@ Assessment Criterion 9
 
 Assessment Criterion 10
 
-## Chapter 3
+### Chapter 3
 
 Assessment criterion 2
 
@@ -3397,7 +3397,7 @@ Assessment criterion 4
 
 Assessment criterion 5
 
-## Chapter 4
+### Chapter 4
 
 Assessment Criterion 2
 
@@ -3414,11 +3414,11 @@ Assessment Criterion 4
 
 Assessment Criterion 5
 
-## Chapter 5
+### Chapter 5
 
 Assessment Criterion 3
 
-## Chapter 6
+### Chapter 6
 
 Assessment Criterion 1
 
@@ -3432,7 +3432,7 @@ Assessment Criterion 5
 
 Assessment Criterion 6
 
-## Chapter 7
+### Chapter 7
 
 Assessment Criterion 2
 
@@ -3471,7 +3471,7 @@ Assessment Criterion 9
 
 Assessment Criterion 10
 
-## Chapter 8
+### Chapter 8
 
 Assessment Criterion 3
 
@@ -3487,11 +3487,11 @@ Assessment Criterion 11
 
 Assessment Criterion 13
 
-## Chapter 9
+### Chapter 9
 
 Assessment Criterion 2
 
-## Chapter 10
+### Chapter 10
 
 Assessment Criterion 1
 
@@ -3513,7 +3513,7 @@ Assessment Criterion 2
 
 c
 
-## Chapter 11
+### Chapter 11
 
 Assessment Criterion 2
 

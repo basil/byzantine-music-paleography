@@ -15,7 +15,7 @@ Copenhagen: Tusculanum Press.
 
 ## 1. Prolegomena
 
-## 1.1. Dating and Some Milestones
+### 1.1. Dating and Some Milestones
 
 Middle Byzantine notation, more generally known also as the Old System, was in use for approximately seven
 centuries. It evolved out of the final stage of Old Byzantine Hagiopolitan
@@ -90,7 +90,7 @@ evolutionary stages in: Chatzigiakoumis (1980), Troelsgård (2011, pp. 95-
 116), Stathis (1975, 1976, 1993, 2015), idem (2006), Balageorgos & Kritikou (2008),
 Giannopoulos (2008, 2005a, 2005b, 2016), Chaldaiakis (2005), etc. (see references below, section 6).
 
-## 1.2. Significance and Main Characteristic
+### 1.2. Significance and Main Characteristic
 
 Between Old Byzantine and Middle Byzantine notation there intervenes a paradigm shift
 in the history of notation (Ger. notationsgeschichtlicher Paradigmenwechsel).v
@@ -123,7 +123,7 @@ and their successors are revealed as mere expansions of an already secured
 system, prompted by the ever greater and more urgent
 needs of a rapidly evolving musical style.”viii
 
-## 1.3. Phases of Development
+### 1.3. Phases of Development
 
 Although the next radical paradigm shift for Byzantine notation would take place with the
 New Method in 1814/15, Middle Byzantine notation nevertheless underwent a quiet and continuous development between the twelfth and the beginning of the
@@ -273,7 +273,7 @@ at the beginning of Anastasimatarion manuscripts.
 Below and in the next three chapters we shall examine various Protheoriai of the Papadike, for
 the learning of the basic elements concerning Middle Byzantine notation.
 
-## 2.1. The Protopapadikexv
+### 2.1. The Protopapadikexv
 
 The term Protopapadike was proposed by the Danish Byzantinomusicologist Christian Troelsgård, for the naming
 of the older versions of the Protheoria, which accompany the teaching and the developmental course
@@ -339,9 +339,9 @@ Figure 7.5.d. End of the Protheoria of the Papadike from ms Petr. gr. 495, fol. 
 
 316
 
-## 2.2. Studying Late Forms of the Protheoria of the Papadike
+### 2.2. Studying Late Forms of the Protheoria of the Papadike
 
-## 2.2.1. Contents of the Protheoria of the Papadike
+#### 2.2.1. Contents of the Protheoria of the Papadike
 
 During the 14th century, the Protheoria underwent many changes, until, from the beginning of the 15th century
 onward—at least with regard to its first part, which includes short excerpts of theoretical
@@ -386,7 +386,7 @@ Table 7.1. General outline of contents for Protheoriai of the Papadike, 14th–e
 
 317
 
-## 2.2.2. Late Middle Byzantine classification of signsxxi
+#### 2.2.2. Late Middle Byzantine classification of signsxxi
 
 We saw in the Protopapadike of Hieromonk Neophytos (Petr. gr. 495) that the 24 Middle Byzantine
 neumes, under the general designation tonoi, presented two subcategories:
@@ -528,7 +528,7 @@ Tardoxxiii and of Constantin Floros. The latter published it in facsimile plates
 of which the signs of Middle Byzantine notation will be presented below, in conjunction with
 corresponding sections from other Protheoriai: Tables 7.2-8 and Figures 7.5.-8.
 
-## 3.1. The Voiced Signs of Middle Byzantine Notation
+### 3.1. The Voiced Signs of Middle Byzantine Notation
 
 We begin with the voiced signs, that is, the neumes that record the intervals of the pieces:
 Table 7.2.
@@ -2329,7 +2329,7 @@ Table 7.5 General table with the metrophonic value of the voiced signs of Middle
 
 333
 
-## 3.2. The Aphonic Signs of Middle Byzantine Notation: a First Look
+### 3.2. The Aphonic Signs of Middle Byzantine Notation: a First Look
 
 The voiced signs were those neumes of Middle Byzantine notation that were related
 primarily to the structural level of a piece, i.e. to its quantitative dimension (Ger. Struktursinn),
@@ -2427,9 +2427,9 @@ II. Deepening the study of the piece by seeking its musical exegesis in the tran
 of the Three Teachers and other exegetes, a topic that will concern us mainly in chapters
 10 and 11.
 
-## 4.1. Transfers of Voiced Signs onto the Staff or into an Alphabetic System: Possibilities and Limits
+### 4.1. Transfers of Voiced Signs onto the Staff or into an Alphabetic System: Possibilities and Limits
 
-## 4.1.1. On Terminology: Transcription versus Transnotation
+#### 4.1.1. On Terminology: Transcription versus Transnotation
 
 Byzantine music is par excellence a tradition in which the oral element is the sine qua non for
 its correct learning (see Figure 7.9).
@@ -2889,7 +2889,7 @@ The formation of various kinds of transnotation as a scholarly tool for the stud
 the Christian medieval chant of the East is due to foreign scholars such as H. Tillyard, K.
 Levy, E. Jammers, J. Raasted, H. Husmann, M. Haas, and others.xxxi
 
-## 4.1.2. Basic Principles of Alphabetic Transnotation
+#### 4.1.2. Basic Principles of Alphabetic Transnotation
 
 Alphabetic transnotation was widely disseminated through the studies of J. Raasted during the decades 1960-
 1990. Referring to the Latin medieval theorist Pseudo-Odo, the Danish musicologist considered
@@ -2920,13 +2920,13 @@ the present work we shall use the symbol h for natural Zo΄, and the symbol b fo
 
 338
 
-## 4.1.3. Historical Notes on Transnotations
+#### 4.1.3. Historical Notes on Transnotations
 
 Between the third and fifth decades of the 20th century (until 1958), the collaborators of the Monumenta
 Musicae Byzantinae of Copenhagen had issued the series Transcripta, in which large
 strata of the Byzantine repertory were published in staff notation: see a sample in Figure 7.13.
 
-## Sticheron for the Entry into the Temple of the Most Holy Theotokos, transcribed into staff notation according to the transcription principles of the MMB
+Sticheron for the Entry into the Temple of the Most Holy Theotokos, transcribed into staff notation according to the transcription principles of the MMB
 
 ![Description](image_10002.jpeg)
 ![Description](image_10003.jpeg)
@@ -2975,7 +2975,7 @@ Middle Byzantine notation nor the remaining elements that concerned the level of
 transferred into staff notation. Various scholars add legati to indicate groups of pitches that together form various
 melodic theseis (e.g. the tromikon, etc.: see Troelsgård, 2011).
 
-## 4.1.4. Basic principles of open staff transnotation
+#### 4.1.4. Basic principles of open staff transnotation
 
 In the exercises and musical examples with Middle Byzantine notation in the present handbook
 we use both modern kinds of transnotation: alphabetic and new staff transnotation.
@@ -2998,9 +2998,9 @@ The compound signs that contain the kratema are transnotated similarly, that is:
 
 340
 
-## 1. For the ison & the sounded signs
+##### 1. For the ison & the sounded signs
 
-## 2. On the great retardations (argiai)
+##### 2. On the great retardations (argiai)
 
 ![Description](image_10006.jpeg)
 
@@ -3009,14 +3009,14 @@ The compound signs that contain the kratema are transnotated similarly, that is:
 ![Description](image_10007.jpeg)
 ![Description](image_10008.jpeg)
 
-## Kratēmo-hyporroon (κρατημοϋπόρροον) Kratēmo-katabatoanastama (κρατημοκαταβατοανάσταμα)
+Kratēmo-hyporroon (κρατημοϋπόρροον) Kratēmo-katabatoanastama (κρατημοκαταβατοανάσταμα)
 
 ![Description](image_10009.jpeg)
 ![Description](image_10010.jpeg)
 
 ## 6. On the klasma (κλάσμα)
 
-## argosyntheton (αργοσύνθετον)
+argosyntheton (αργοσύνθετον)
 
 Figures 7.15.1-6. Possibilities for staff transcription of the emphona (vocal signs) and the argiai (lengthening signs).
 
@@ -3062,9 +3062,9 @@ Figures 7.15.7–9. Possibilities for staff transnotation for the apostrophos be
 
 ![Description](image_10016.jpeg)
 
-## The clefs follow one another at the interval of a third: descending ascending
+The clefs follow one another at the interval of a third: descending ascending
 
-## do3 do1 do1 do1 do1 do1 do1 do1 do1 do1 Do
+do3 do1 do1 do1 do1 do1 do1 do1 do1 do1 Do
 
 ![Description](image_10017.jpeg)
 
@@ -3102,7 +3102,7 @@ staff. For further details, cf. Troelsgård, 2011.xli
 
 343
 
-## 4.2. Examples for First Steps in Working with Middle Byzantine Notation
+### 4.2. Examples for First Steps in Working with Middle Byzantine Notation
 
 The present section presents a few examples concerning the two types of transnotation
 currently used in the international literature: see Figures 7.17.a and b.
@@ -3726,7 +3726,7 @@ based on the Heirmologion Iviron 470 (transitional Middle Byzantine notation) �
 
 392
 
-## Assessment criterion 9
+### Assessment criterion 9
 
 Exercise in transnotation of the Paschal troparion “Christ is risen”, from
 the Sticherarion of Chrysaphes the Younger. Slow version, in late
@@ -3741,7 +3741,7 @@ the autograph of Demetrios Lotos from the island of Chios (MS Docheiariou Monast
 
 ## Bibliography for Chapter 7
 
-## Liturgical books and
+### Liturgical books and
 
 printed musical collections
 
@@ -3785,7 +3785,7 @@ Tardo, Lorenzo. (Ed., 1951). Hirmologium Cryptense. MMB, Facsimiles III, Pars Pr
 
 393
 
-## Catalogues of Byzantine and
+### Catalogues of Byzantine and
 
 post-Byzantine manuscripts
 

@@ -20,15 +20,15 @@ Maria Alexandrou
 Maria Alexandrou
 Tenured Assistant Professor, Aristotle University of Thessaloniki
 
-## Palaeography of Byzantine Music
+Palaeography of Byzantine Music
 
-## Musicological &
+Musicological &
 
-## artistic explorations
+artistic explorations
 
 revised edition
 
-## First
+First
 
 On the cover: Sticheron and miniature of Saint Demetrios, based on the manuscript of the Holy Monastery
 of Koutloumousiou, no. 412, fol. 35v, mid-14th c. (Stathis, 1993, p. 253). The sticheron was divided into musico-poetic
@@ -608,7 +608,7 @@ Appendices
 
 11
 
-## Appendix 1. Glossary with names of signs and theseis in Byzantine, post-Byzantine, and modern theoretical writings .................................................................................................................. i
+Appendix 1. Glossary with names of signs and theseis in Byzantine, post-Byzantine, and modern theoretical writings .................................................................................................................. i
 
 1. Prolegomena .................................................................................................................................................. i
 
@@ -769,7 +769,7 @@ widest possible dissemination.
 
 ## Author’s Foreword
 
-## Some Historical Notes
+### Some Historical Notes
 
 For a musical culture in which music printing is scarcely two hundred years old, it follows that the
 manuscript tradition plays a central role (see Figure 0.1).
@@ -3420,7 +3420,7 @@ no. 1786 (second half of the 3rd century) to the New Method, having at his dispo
 Music.
 The rich material of Palaeography can be studied through cyclical approaches: the beginner can focus on the mnemonic cards and on selected exercises for each chapter. The student who wishes to delve more deeply into the individual topics of Palaeography can proceed to a thorough study of each chapter, to the search for additional bibliography, and to the completion of all the exercises for each chapter.
 
-## Brief description of content
+### Brief description of content
 
 After the broader research framework of early notations has been presented, together with a general map of the various
 graphic systems used for the notation of Greek (and not only Greek) music from
@@ -3567,7 +3567,7 @@ unstinting support, from the first steps in preparing the handbook to its comple
 
 ## Bibliography for the Prologue
 
-## Printed musical
+### Printed musical
 
 collections and scores
 
@@ -3674,7 +3674,7 @@ Musicological and Psaltic Conference “Theory and Practice of the Psaltic Art�
 Species of Byzantine Psaltic Melopoeia. Athens 15-19 October 2003. Chronicle and Chants.
 Athens: Foundation of Byzantine Musicology, pp. 20-27 and CD 1, track 1.
 
-## Remainder
+### Remainder
 
 Webography
 

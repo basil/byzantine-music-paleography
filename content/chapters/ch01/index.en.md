@@ -8,13 +8,13 @@ In the present introductory chapter, basic concepts such as “Palaeography,” 
 
 ## 1. General Definitions
 
-## 1.1. Palaeography
+### 1.1. Palaeography
 
 The term Palaeography is known primarily from philology, where it denotes the discipline that
 “has as its object the reading, dating, and determination of the provenance of written
 texts from earlier periods, which survive on papyrus, parchment, or paper.”i
 
-## 1.2. Byzantine musicii
+### 1.2. Byzantine musicii
 
 The term Byzantine Music (B.M.) is used in various ways and may be defined from different
 perspectives:
@@ -26,7 +26,7 @@ perspectives:
 In the present handbook the term "Byzantine music" is used chiefly in its specific sense,
 since most of the written sources concern ecclesiastical music.
 
-## 1.3. Palaeography of Byzantine Music (I) and a Golden Piece of Advice
+### 1.3. Palaeography of Byzantine Music (I) and a Golden Piece of Advice
 
 The Palaeography of Byzantine Music is a fundamental branch of Byzantine Musical Studies.
 It deals with the manuscripts of Byzantine music and studies the various old forms of
@@ -159,7 +159,7 @@ many other scripts were created:
 Table 1.1 presents some of the best-known types of writing, according to P.
 Daniels:
 
-## Types of writing
+Types of writing
 
 1. Logo-syllabic
 
@@ -171,7 +171,7 @@ Daniels:
 
 1. Alphabet
 
-## What the characters of the script indicate
+What the characters of the script indicate
 
 specific words or syllables
 syllables (without graphic similarity for syllables
@@ -182,7 +182,7 @@ consonants and vowels
 
 Table 1.1. Typology of scripts (selection).xxii
 
-## Examples of Writing
+Examples of Writing
 
 Egyptian hieroglyphs
 
@@ -473,7 +473,7 @@ manuscripts.
 
 ## 7. The World of Byzantine Music Manuscripts
 
-## 7.1. Number of Musical Manuscripts and Descriptive Catalogues (I)
+### 7.1. Number of Musical Manuscripts and Descriptive Catalogues (I)
 
 The number of surviving manuscripts of Byzantine music is currently estimated at between 7,300 and
 
@@ -511,7 +511,7 @@ most important instrumenta studiorum (tools of study) of Byzantine Musicology. I
 the discovery of the various catalogues of Byzantine music is facilitated by the exceptionally useful article
 by Emmanouil Giannopoulos, “Basic Bibliography for the Manuscript Codices of Psaltic Art” (2016).
 
-## 7.2. Typology of Musical Codices
+### 7.2. Typology of Musical Codices
 
 The immense wealth of Byzantine hymnographylxii and of Byzantine and post-Byzantine music, together
 with the music-theoretical reflection that accompanied and regulated over the long term the processes of melourgia
@@ -556,7 +556,7 @@ mode.lxxxvi
 
 48
 
-## Papadike
+Papadike
 
 “The most important book
 of the Psaltic Art
@@ -704,7 +704,7 @@ and perfection of mb notation.
 
 Table 1.7.
 
-## On the Historical Development of Byzantine Musical Notation - a status quaestionis.cxi
+### On the Historical Development of Byzantine Musical Notation - a status quaestionis.cxi
 
 59
 
@@ -768,7 +768,7 @@ music.”cxvii
 
 ## Assessment Criteria for Chapter 1
 
-## Assessment Criterion 1. Create mnemonic cards for Chapter 1.  
+### Assessment Criterion 1. Create mnemonic cards for Chapter 1.  
 
 Assessment Criterion 2. Recapitulate some milestones in the development of scripts
 of the world and of Greek writing, on the basis of Video 1.1.
@@ -779,7 +779,7 @@ various important centers of production of writing material will be presented an
 ![Description](image_2443.jpeg)
 ![Description](image_2444.png)
 
-## ΔΑ_Πανόραμα χαρτών.mp4 
+ΔΑ_Πανόραμα χαρτών.mp4
 
 Video 1.1. Some important centers of the creation of culture and writing systems in Antiquity. © for the maps: Google
 earth. For the marking of the maps and the creation of the video we thank Demosthenes Spanoudakis.
@@ -870,7 +870,7 @@ MMB database: <http://www.igl.ku.dk/MMB/catbyz.htm> (13.2.2016).
 
 62
 
-## Books and articles
+### Books and articles
 
 Alexandru, Maria (2010). Exegeseis and transcriptions of Byzantine music. A brief introduction to
 their problematic. Thessaloniki: University Studio Press.

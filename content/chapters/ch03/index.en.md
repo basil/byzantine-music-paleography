@@ -66,11 +66,11 @@ The first, the acrophonic (etymologically from: akron + phōnē), uses the initi
 that denote the corresponding number (see Table 3.1) and was in use chiefly in Attica, from the
 sixth to the third century BC, but also down to the first century BC.
 
-## Symbol
+Symbol
 
 ![Description](image_3149.jpeg)
 
-## Meaning
+Meaning
 
 ONE
 Π(FIVE)
@@ -141,7 +141,7 @@ date of birth in Greek numeral-letters.
 
 ## 3. Systems of Dating in Byzantiumix
 
-## 3.1. Diversity of chronological systems
+### 3.1. Diversity of chronological systems
 
 The best-known chronological system in European culture today consists of reckoning
 years in relation to the Birth of Christ: so many years “from the birth of Christ”x/after Christ (in
@@ -181,7 +181,7 @@ last - the so-called Byzantine chronological system. In the Byzantine period it 
 with an indication of the indiction. The following sections deal in greater detail with these two systems and
 the way in which they are fitted together.
 
-## 3.2. The Byzantine chronological system
+### 3.2. The Byzantine chronological system
 
 The Byzantine chronological system is the most prevalent of the category of cosmological
 chronological systems, which have as their common denominator the fact that they take as their point of reference
@@ -203,7 +203,7 @@ beginning of the year from 25 March 5508 to 1 September of the year 5509.xviii A
 change lies in the adaptation of the Byzantine chronological system
 to another way of measuring time, the so-called indiction.
 
-## 3.3. The indiction (ἰνδικτιών)xix
+### 3.3. The indiction (ἰνδικτιών)xix
 
 In contrast to the cosmological chronological systems, which measure time almost “linearly,”
 from a fixed starting point (the creation of the world), the system of the indiction calculates the years on the basis
@@ -230,7 +230,7 @@ As mentioned above, the fact that the indiction began on 1 September also affect
 Byzantine chronological system, with the result that the latter transferred the beginning of the year from 25
 March to 1 September.xxiii
 
-## 3.4. Arithmetical operations for determining the date of Byzantine and post-Byzantine manuscripts
+### 3.4. Arithmetical operations for determining the date of Byzantine and post-Byzantine manuscripts
 
 Summarizing all the foregoing, we may arrive at the following important points for the
 dating of Byzantine and post-Byzantine sources:
@@ -377,7 +377,7 @@ the year ,στϠξα' is written in Arabic numerals as 6961. The corresponding s
 
 - 90 061 - 60 01 (which
 
-## coincides with the indication of the indiction in the manuscript)
+coincides with the indication of the indiction in the manuscript)
 
 Gr. Stathis, in an article on the survival of the Greek ecclesiastical musical tradition during
 the post-Byzantine period, comments on the above note as follows:
@@ -671,7 +671,7 @@ Pauly's Realencyclopädie der classischen Altertumswissenschaft unter Mitwirkung
 
 1. München: Deutscher Taschenbuch Verlag.
 
-## Webography
+### Webography
 
 <http://earthsky.org/earth/why-does-the-new-year-begin-on-january-1> (17.2.2016).
 <http://www.infoplease.com/spot/newyearhistory.html> (17.2.2016).
@@ -682,9 +682,7 @@ Pauly's Realencyclopädie der classischen Altertumswissenschaft unter Mitwirkung
 <https://el.wikipedia.org/wiki/Verba_volant,_scripta_manent> (17.2.2016).
 <https://en.wikipedia.org/wiki/Byzantine_calendar> (23.7.2015).
 
-## Endnotes
-
-## for Chapter 3
+## Endnotes for Chapter 3
 
 i Cf. Mioni (1998, pp. 103-107 and p. 155, note 37). Cf. also Babiniotis (2002, pp. 918-919).
 ii Oxford, Bodleian Library, Jesus College 33, fol. 319r, manuscript of the year 1635 (Giannopoulos, 2008, pp. 199-200).

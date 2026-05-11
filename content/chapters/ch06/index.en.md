@@ -15,7 +15,7 @@ ed. N. Avramopoulos. Thessaloniki: Ziti.
 
 ## 1. Introduction
 
-## 1.1. Preliminary Remarks, Scholars, the Earliest Codices
+### 1.1. Preliminary Remarks, Scholars, the Earliest Codices
 
 In the preceding chapter, we saw various musical notations, chiefly of the first Christian
 millennium, which had a limited circulation and have survived for the most part only fragmentarily.
@@ -119,7 +119,7 @@ Troelsgård & Wolfram, eds., 1999. Wolfram, ed., 2004),
 
 Byzantine Studies in Sofia (Hannick, Troelsgård, Kujumdzieva & Harkov, eds., 2012).
 
-## 1.2. Notational Systems, Chronological Frameworks, and Stages of Development of the Palaeo-Byzantine Notations
+### 1.2. Notational Systems, Chronological Frameworks, and Stages of Development of the Palaeo-Byzantine Notations
 
 Already in its archaic stage, in the Heirmologion Lavra B 32, Palaeo-Byzantine notation appears in
 two closely related forms, which were recognized as two families or daughter systems of the same—
@@ -1390,7 +1390,7 @@ neumatic systems:
 ![Description](image_7780.jpeg)
 ![Description](image_7781.png)
 
-## Table 6.1. Old Byzantine notations at a glance.ix
+Table 6.1. Old Byzantine notations at a glance.ix
 
 In Figures 6.3-17 there are various samples of the evolutionary stages of Old Byzantine
 notation. For more images with MSS in Old Byzantine notation, the reader may
@@ -1582,7 +1582,7 @@ of the melodies (early eleventh century [Floros]): Athonite notation (Chartres I
 Below we shall examine the sets of Old Byzantine signs and/or theseis (θέσεις; melodic formulae)
 that are mentioned in the two theoretical treatises.
 
-## 2.1. Athonite notation (Chartres)
+### 2.1. Athonite notation (Chartres)
 
 We begin by reading the famous list, which is found at the end of the Lavra Γ 67 Sticherarion, a
 codex that contains stichera of the Triodion, the Pentecostarion, and the Oktoechos. The sticheraric
@@ -1615,7 +1615,7 @@ for Patristic Studies, Thessaloniki.
 
 276
 
-## 2.2. Hagiopolitan notation (Coislin)
+### 2.2. Hagiopolitan notation (Coislin)
 
 A corresponding list of signs, this time for Hagiopolitan notation, is found in the oldest
 surviving manual of the Psaltic Art, which bears the title Book Hagiopolites compiled
@@ -1667,7 +1667,7 @@ fragment Petropolitanum graecum 495, fol. 1v. This MS, known as the
 
 ![Description](image_7817.jpeg)
 
-## Figure 6.20. The Hagiopolitan classification of the signs in question-and-answer form, according to the fragment
+Figure 6.20. The Hagiopolitan classification of the signs in question-and-answer form, according to the fragment
 
 Petropolitanum graecum 495, fol. 1v (excerpt), first half of the 13th century. © National Library of Russia, St.
 Petersburg.
@@ -1682,9 +1682,9 @@ Table 6.2):
 
 278
 
-## A. Tones
+### A. Tones
 
-## B. Semitones
+### B. Semitones
 
 ![Description](image_7818.jpeg)
 
@@ -1732,13 +1732,13 @@ the seismos
 
 1. the parakalesma
 
-## C. Pneumata (Πνεύματα)
+### C. Pneumata (Πνεύματα)
 
 1. the high sign (hypsēlē)
 
 2. the low sign (chamēlē)
 
-## D. Melodies (melē)
+### D. Melodies (melē)
 
 1. the
 
@@ -1805,7 +1805,7 @@ Before we proceed to consider the entire set of Paleo-Byzantine signs, it is nec
 to say a few things about the individual evolutionary phases of the two Paleo-Byzantine systems
 of musical writing.
 
-## 3.1. Distinctive features of the individual evolutionary phases of palaeo-Byzantine notation
+### 3.1. Distinctive features of the individual evolutionary phases of palaeo-Byzantine notation
 
 Byzantine musical notation, as a living cultural instrument, is in continuous evolution. Moreover,
 palaeographical research continually brings to light new sources, enriching our knowledge concerning the
@@ -1902,7 +1902,7 @@ Lavra D 28
 Table 6.3. The individual developmental phases of Athonite and Hagiopolite notation and their principal
 characteristics, according to Constantine Floros.xxxvii
 
-## 3.2. Systematising the complete set of palaeo-Byzantine neumes
+### 3.2. Systematising the complete set of palaeo-Byzantine neumes
 
 In his attempt to compile a complete and well-organised table of the palaeo-Byzantine
 signs encountered in theoretical and practical sources of the 10th-12th century, Constantine Floros
@@ -1920,9 +1920,9 @@ Psaltic Art, Floros adopted the categories of the “Tonoi” (“simple” and 
 from the Hagiopolites, and added, on the basis of palaeographical studies and with the help of theorists of
 Middle Byzantine notation, three other categories: “Letter-neumes,” “Theta and themata,” “Phthorai.”
 
-## A. SIMPLE TONOI and their combinations
+### A. SIMPLE TONOI and their combinations
 
-## a. Signs of repetition
+#### a. Signs of repetition
 
 ![Description](image_7828.jpeg)
 
@@ -1944,17 +1944,17 @@ d. Signs for two or more pitches
 
 284
 
-## B. HEMITONA or HEMIPHONA
+### B. HEMITONA or HEMIPHONA
 
 ![Description](image_7832.jpeg)
 
-## C. LETTER-NEUMES (LETTERS)
+### C. LETTER-NEUMES (LETTERS)
 
 ![Description](image_7833.jpeg)
 
 285
 
-## D. COMPOUND TONOI (COMPOSITE SIGNS)
+### D. COMPOUND TONOI (COMPOSITE SIGNS)
 
 1. Juxtapositions by means of doubling the fundamental signs
 
@@ -1986,31 +1986,31 @@ beginning (as a “head-neume”)
 
 287
 
-## ζ. Juxtapositions with the katabasma
+#### ζ. Juxtapositions with the katabasma
 
 ![Description](image_7840.jpeg)
 
-## η. Groups of compound neumes
+#### η. Groups of compound neumes
 
 ![Description](image_7841.jpeg)
 
 288
 
-## E. THETA and THEMATA
+### E. THETA and THEMATA
 
-## Group A Position of origin: Simple Thema
+#### Group A Position of origin: Simple Thema
 
 ![Description](image_7842.jpeg)
 
 289
 
-## Group B Position of origin: Thematismos
+#### Group B Position of origin: Thematismos
 
 ![Description](image_7843.jpeg)
 
 290
 
-## Group C
+Group C
 
 ![Description](image_7844.jpeg)
 
@@ -2018,7 +2018,7 @@ beginning (as a “head-neume”)
 
 ![Description](image_7845.jpeg)
 
-## Table 6.4. Summary of the Palaeo-Byzantine signs, based on the studies of Constantin Floros.xxxviii
+Table 6.4. Summary of the Palaeo-Byzantine signs, based on the studies of Constantin Floros.xxxviii
 
 291
 
@@ -2163,20 +2163,20 @@ Figure 6.28. Saint George the Great Martyr and Trophy-Bearer. Wonderworking icon
 
 © Holy Monastery of Zographou, Mount Athos.
 
-## Assessment criterion 6
+### Assessment criterion 6
 
 Exercise in comparing sources in Old Byzantine and Middle Byzantine
 notation, with the sticheron “You descended into Hades”. 
 
 299
 
-## Assessment criterion 7
+### Assessment criterion 7
 
-## Create mnemonic flashcards for Chapter 6
+### Create mnemonic flashcards for Chapter 6
 
 ## Bibliography for Chapter 6
 
-## Liturgical books and
+### Liturgical books and
 
 printed musical collections
 
@@ -2203,7 +2203,7 @@ Copenhagen: Ejnar Munksgaards Forlag.
 Wolfram. Gerda. (Ed., 1987). Sticherarium antiquum Vindobonense. Monumenta Musicae Byzantinae, Facsimiles X,
 Pars Principalis & Pars Suppletoria. Wien: Verlag der Österreichischen Akademie der Wissenschaften.
 
-## Theoretical Treatises
+### Theoretical Treatises
 
 Raasted, Jørgen. (Ed., 1983). The Hagiopolites, A Byzantine Treatise on Musical Theory. Preliminary Edition. Cahiers
 de l' Institut du Moyen-Âge Grec et Latin, 45.

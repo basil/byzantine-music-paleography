@@ -274,7 +274,7 @@ chapters of the book.
 
 ## 2. In Search of the Concept of Metrophony
 
-## 2.1. Prolegomena: the concept of diastematicity
+### 2.1. Prolegomena: the concept of diastematicity
 
 The concept of metrophony is directly combined with that of diastematicity, that is, with the capacity
 of a musical notation to record accurately the quantitative dimension of the intervals it
@@ -289,11 +289,11 @@ from the adiastematic Hagiopolitan notation:
 
 ![Description](image_10665.jpeg)
 
-## Coislin I-IV
+Coislin I-IV
 
-## Coislin V-VI
+Coislin V-VI
 
-## to the diastematic Middle Byzantine notation
+to the diastematic Middle Byzantine notation
 
 ![Description](image_10666.jpeg)
 
@@ -316,7 +316,7 @@ epoch” and lines added later, of two kinds: 1. lines incised in the parchment 
 pointed object (not visible in the image), with the key letters a (la) and e (mi) at the beginning of the line, and 2.
 colored lines in red (F - Fa) and green (c-do).vi
 
-## 2.2. Metrophony in Byzantine and post-Byzantine theoretical writings
+### 2.2. Metrophony in Byzantine and post-Byzantine theoretical writings
 
 Etymologically, the word metrophony derives from the verb “to measure” and the noun “voice” (φωνή), which, in the
 specific context denotes the interval of a second. In other words, metrophony is the
@@ -328,7 +328,7 @@ and in theoretical texts.
 
 477
 
-## 2.2.1. Metrophony in lists of signs
+#### 2.2.1. Metrophony in lists of signs
 
 In lists of signs, the concept of metrophony appears abstractly (for each sign separately) and
 takes the following forms:
@@ -348,7 +348,7 @@ Sources: Copies of excerpts from the Protheoriai of the mss.: left: Jerusalem, P
 Sabbas the Sanctified, ms. 602, fol. 11r, 14th c. (Papadopoulos-Kerameus), right: Holy Monastery of Iviron 970, fol. 2v, year 1686,
 autograph of Kosmas Makedonos (Stathis).vii
 
-## 2.2.2. Metrophonia (μετροφωνία) in didactic poems
+#### 2.2.2. Metrophonia (μετροφωνία) in didactic poems
 
 In didactic poems, the concept of metrophonia is combined with two types of exercises:
 
@@ -365,7 +365,7 @@ two, three, four, seven, ten, and eleven voices. Exercises of this kind may be b
 very long, the best known being the famous method of Gregory Bounes Alyates Ne houtos oun
 anebaine, in plagal fourth mode.
 
-## 2.2.2.1. “A choir lit by fourteen torches” (Χορός τετραδεκαπύρσευτος): an example of metrophony (μετροφωνία), parallage (παραλλαγή), and melos (μέλος) in a diatonic mode
+##### 2.2.2.1. “A choir lit by fourteen torches” (Χορός τετραδεκαπύρσευτος): an example of metrophony (μετροφωνία), parallage (παραλλαγή), and melos (μέλος) in a diatonic mode
 
 Taking as his point of departure the idiomelon of the Old Sticherarion “A choir lit by fourteen torches” in the first mode, in honour of the Holy
 Forty Martyrs of Sebaste (see Figures 9.10-11), an anonymous Byzantine teacher
@@ -400,7 +400,7 @@ take the following form (see Figure 9.13):
 
 ![Description](image_10672.jpeg)
 
-## Hear them by clicking  
+Hear them by clicking
 
 Figure 9.13. The first verse (cola 1-2) of the old sticheron “A choir lit by fourteen torches,” in mode 1:
 
@@ -449,7 +449,7 @@ schematic transcription. 6. Reductive analysis of the exegesis (primary time-uni
 contour, range). 7. Syllabic interpretation in the New Method and transcription onto the staff, according to
 the research of Ioannis Arvanitis (2003, 2010). 8. Reductive analysis of the preceding interpretation.x
 
-## 2.2.2.2. “O Virgin Theologian” (Θεολόγε παρθένε): the apparent conflict between “from parallage” (ἀπὸ παραλλαγῆς) and “from melos” (ἀπὸ μέλους)
+##### 2.2.2.2. “O Virgin Theologian” (Θεολόγε παρθένε): the apparent conflict between “from parallage” (ἀπὸ παραλλαγῆς) and “from melos” (ἀπὸ μέλους)
 
 A special case is the method “O Virgin Theologian,” in mode 2, which is based on the old sticheron of the same name
 for the feast of the Translation of Saint John the Evangelist (26 September),xi
@@ -601,7 +601,7 @@ whereas the plagal second is theoretically constructed from Pa. When the melos i
 diphony, we are in mode 2, and when melodic developments by triphony predominate, we turn toward
 the plagal, with pseudo-parallage (Ga = Pseudo-Di and Ni = Pseudo-Pa, where the piece ends).
 
-## 2.2.2.3. Isasmos (ἰσασμός) of the Eight Modes
+##### 2.2.2.3. Isasmos (ἰσασμός) of the Eight Modes
 
 Another aspect of metrophony is realized through the so-called isasmos of the eight modes. This is a
 method in which the modes are presented in pairs (the authentic mode and its plagal), chiefly through stepwise
@@ -631,7 +631,7 @@ Figure 9.23. The “Isasmos of the Eight Modes” from the Protheoria of the Pap
 (Politis & Politi, 1991), with the addition of alphabetic transnotation.xix © For the MS excerpts: National
 Library of Greece.
 
-2.2.2.4. Gregory Bounes Alyates’ “Method of metrophony”: a brief note
+##### 2.2.2.4. Gregory Bounes Alyates’ “Method of metrophony”: a brief note
 
 The largest and most complicated exercise in metrophony is due to Gregory Bounes Alyates, the last
 protopsaltes of Hagia Sophia in Constantinople before the Fall. It has a rich manuscript
@@ -694,7 +694,7 @@ be discussed in the next section.
 
 498
 
-## 2.2.3. Metrophony in music-theoretical handbooks
+#### 2.2.3. Metrophony in music-theoretical handbooks
 
 We have already seen above (section 1 of the present chapter) the importance that Gabriel
 Hieromonachos assigns to metrophony and parallage for learning the Psaltic Art.
@@ -737,21 +737,21 @@ visualizes the metrophonic structure of the piece through the use of a vertical 
 
 500
 
-## Pa΄
+Pa΄
 
-## Nē΄
+Nē΄
 
-## Zo΄
+Zo΄
 
-## Ke
+Ke
 
-## Di
+Di
 
-## Ga
+Ga
 
-## Vou
+Vou
 
-## Pa
+Pa
 
 ![Description](image_10704.jpeg)
 
@@ -880,11 +880,11 @@ Table 9.2.b. The intonation formulas of the plagal modes in stenographic and ana
 
 507
 
-## Mode Old Method
+Mode Old Method
 
-## Exegesis in the New Method
+Exegesis in the New Method
 
-### lege- tos
+lege- tos
 
 pl. 2nd
 nena-
@@ -929,7 +929,7 @@ preparation for a slow exegesis (Chrysanthos).
 
 ## Assessment criteria for Chapter 9
 
-## Assessment criterion 1
+### Assessment criterion 1
 
 Create indexing cards
 
@@ -939,36 +939,36 @@ for the central concepts of the present
 
 chapter.
 
-## Assessment criterion 2
+### Assessment criterion 2
 
 Study the method “The Fourteen-Beacon Choir” (Choros tetradekapyrseutos).
 
-## Assessment Criterion 3
+### Assessment Criterion 3
 
 Study the method “Theologe Parthene” and learn it as metrophonia, parallage, and melos, from Figures 9.16-22 and the associated files.
 
-## Assessment Criterion 4
+### Assessment Criterion 4
 
 Watch the presentation by the Byzantine Music Palaeography Group,
 entitled: Contemporary Questions and Answers on Key Concepts of
 Psaltic Art in the Old System: metrophonia (μετροφωνία), parallage (παραλλαγή), and melos (μέλος). 
 
-## Assessment Criterion 5
+### Assessment Criterion 5
 
 Study the example “It Was Deep Dawn,” from Figure 9.25.
 
 509
 
-## Assessment Criterion 6
+### Assessment Criterion 6
 
 Study the music-theoretical example “Our Evening Prayers” by
 Anonymous from MS EBE 968 and the corresponding one by Chrysanthos, from Figures
 
 9.3. and 9.26-28.
 
-## Assessment criterion 7
+### Assessment criterion 7
 
-## Learn by heart the intonation formula (απήχημα) of the first mode, together with its metrophony (μετροφωνία), parallage (παραλλαγή), and exegesis (εξήγηση) (Figure 9.29)
+Learn by heart the intonation formula (απήχημα) of the first mode, together with its metrophony (μετροφωνία), parallage (παραλλαγή), and exegesis (εξήγηση) (Figure 9.29)
 
 ## Bibliography for Chapter 9
 
@@ -1132,7 +1132,7 @@ Troelsgård, Christian. (2011). Byzantine Neumes. Α Νew Introduction to the Mi
 Subsidia IX. Copenhagen: Tusculanum Press.
 Zannos, Ioannis. (1994). Ichos und Makam. Orpheus 74. Bonn.
 
-## Webography
+### Webography
 
 <http://web.auth.gr/cim08>
 <http://www/catbyz.htm> (printed May 2000).

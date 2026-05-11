@@ -68,7 +68,7 @@ Cf. also: Adam, Sotiria. (2012). The Oxyrhynchus Papyrus. The End of One Era and
 
 ## 3. Early Christian hymns on papyri and ostraca, with elements of primordial notation systems
 
-## 3.1. Some Introductory Remarks
+### 3.1. Some Introductory Remarks
 
 Oxyrhynchus Papyrus 1786, discussed in the previous section, has remained to this day
 the only known witness to a Christian hymn with ancient Greek musical notation.
@@ -83,7 +83,7 @@ of prosodic signs, or various other symbols such as double or multiple acute acc
 hook-shaped forms, and others appear from time to time (cf. Papathanasiou & Boukas, 2003. Troelsgård, 2007. Sarischouli, 1995).
 Below we shall refer briefly to some of the most important finds.
 
-## 3.2. Papyrus Berolinensis 21319viii
+### 3.2. Papyrus Berolinensis 21319viii
 
 A special place among the papyri containing fragments of Byzantine hymnography is also occupied by
 Papyrus no. 21319 from the Egyptian Museum and Papyrus Collection of the State Museums of
@@ -306,7 +306,7 @@ corresponding word the thesis known as thematismos eso (θεματισμός ἔ
 
 ![Description](image_6517.jpeg)
 
-## G# a h dc h
+G# a h dc h
 
 Figure 5.8. The formula of the thematismos eso on the word “διό,” in the heirmos Ὑμνῶ σε, second mode, poem by Saint Kosmas
 the Melodist. Copy from the Heirmologion Grottaferrata EγII, year 1281, fol. 36r (Tardo, 1951, MMB 3. Raasted,
@@ -518,11 +518,11 @@ and verse (Psalm 30, 2),xxix with “Double” notation (of Egyptian type?).
 According to J.-B. Thibaut (1913, p. 17), the individual signs found in the codex in question
 are the following: see Table 5.2.
 
-## Simple signs
+Simple signs
 
 ![Description](image_6534.jpeg)
 
-## Composite signs
+Composite signs
 
 ![Description](image_6535.jpeg)
 
@@ -677,7 +677,7 @@ Spyridon of the Laura and Eustratiades, Sophronios. (1925). Catalogue of the Gre
 Laura on Mount Athos. Harvard Theological Studies XII. Cambridge: Harvard University Press. Repr. New York:
 Kraus Reprint Co., 1969.
 
-## Theoretical Treatises
+### Theoretical Treatises
 
 Alypius. Introduction to Music. (1995). Ed. Archim. Ath. Siamakis. Prespes.
 
@@ -820,7 +820,7 @@ West, Μ. L. (1999). Ancient Greek Music. Trans. Stathis Komninos. Athens: Papad
 What Do You Know About Icons? (2001 ). Transl. Rev. C. Terzopoulos. Holy Community of St. John the Baptist, Kareas
 Attiki 2001.
 
-## Recordings and Documentaries
+### Recordings and Documentaries
 
 Adam, Sotiria. (2012). The Oxyrhynchus Papyrus. The End of One Era and the Beginning of Another:
 <https://www.youtube.com/watch?v=X6cTHpXj-KU> (11.9.2016).

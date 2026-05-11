@@ -29,7 +29,7 @@ Medieval Music, 12, 15-42.
 
 ## 1. Introduction
 
-## 1.1. Prolegomena
+### 1.1. Prolegomena
 
 The so-called ekphonetic notation (ἐκφωνητική σημειογραφία) constitutes a stenographic and mnemonic guide for the intoned
 reading of texts of Holy Scripture.i Quite a few copies of the Gospel Book are
@@ -85,7 +85,7 @@ systems of ekphonetic script, to the question of critical editions of texts with
 notation and of the various attempts at transcribing it, as well as to the significance of present-day
 ekphonetic practice.
 
-## 1.2. Definitions
+### 1.2. Definitions
 
 The term ekphōnēsis (ἐκφώνησις, from the verb ἐκφωνέω) generally designates an act of public and loud
 recitation. In the context of the services of the Byzantine rite, it is combined with the intoned recitation (Lat.
@@ -100,7 +100,7 @@ signs are usually written in red ink, though there are also cases in which they 
 written in the same ink as the scriptural text (dark brown or black), especially in the older
 MSS.ix
 
-## 1.3. Sources of ekphonetic notation, chronological limits, periodization
+### 1.3. Sources of ekphonetic notation, chronological limits, periodization
 
 The study of ekphonetic notation is based chiefly on the following kinds of sources:
 
@@ -204,7 +204,7 @@ musical system, which led gradually, already from the 13th century, to the disso
 aforementioned pairs, to the reduction in the number of signs, to their purely graphic-
 decorative presence, and finally to their disappearance from liturgical books.xxii
 
-## 1.4. Hypotheses on the origin of Byzantine ekphonesis and ekphonetic notation
+### 1.4. Hypotheses on the origin of Byzantine ekphonesis and ekphonetic notation
 
 The strong convergence shown by the ekphonetic signs (sēmadophōna) at the graphic and terminological
 level with the prosodic signs of the ancient Greek language makes evident the dependence of this
@@ -238,7 +238,7 @@ recitation was born.
 
 181
 
-## 1.5. Methodology for the study of ekphonetic notation
+### 1.5. Methodology for the study of ekphonetic notation
 
 As mentioned above in section 1.3, study in the field of ekphonetic notation is based
 today on the combined analysis of data from:
@@ -296,7 +296,7 @@ may later wish to proceed toward this field.
 
 ## 2. The signs of ekphonetic notation
 
-## 2.1. The Byzantine Lists of Ekphonetic Sign-Formulas
+### 2.1. The Byzantine Lists of Ekphonetic Sign-Formulas
 
 The earliest Byzantine theoretical texts concerning the Psaltic Art consist of lists
 of a mnemonic-didactic character, containing names and shapes of signs—corresponding melodic
@@ -517,7 +517,7 @@ of the didactic ekphonetic poem from MS Sinai 8.xl
 
 190
 
-## 2.2. Sketching the Set of Ekphonetic Sign-Formulas
+### 2.2. Sketching the Set of Ekphonetic Sign-Formulas
 
 On the basis of the Byzantine lists of ekphonetic signs/formulas mentioned in
 the previous section and through the study of practical sources, various palaeographers proceeded to
@@ -2621,7 +2621,7 @@ with one sign placed at the beginning of the musico-rhetorical unit, and the oth
 In the next section, the modes of combination of the ekphonetic signs will be discussed through a
 historical consideration of this notation.
 
-## 2.3. The principal characteristics of the pre-classical and classical system
+### 2.3. The principal characteristics of the pre-classical and classical system
 
 It has already been mentioned that the pre-classical system of ekphonetic notation appears in Gospel Books, Apostolos lectionaries, and Prophetologia of the 9th–10th centuries, while the great flourishing of this system of notation is observed in corresponding codices of the 11th–12th centuries, with the classical system. More specifically,
 it is considered that, during the 12th century, ekphonetic notation reached the highest point of its
@@ -2763,7 +2763,7 @@ short line represents the text.
 
 ![Description](image_6010.jpeg)
 
-## Names of signs
+Names of signs
 
 Numerical Remarks
 code for
@@ -3613,7 +3613,7 @@ ekphonetic notation.
 
 ## 4. Attempts to Decipher Ekphonetic Notation
 
-## 4.1. The General Framework
+### 4.1. The General Framework
 
 We saw in the preceding sections that, with the help of the Byzantine catalogues–didactic poems on ekphonetic notation, we can identify by name the various pairs of signs that occur in the Gospels, the Apostolos, and the Prophetologia, and observe the frequency of their occurrence, as well as their relationship to the biblical text.
 Long engagement with ekphonetic notation led S. Martani to propose a revision of the way in which palaeographers analyse ekphonetic notation. More specifically, she proposes distinguishing between structural and ornamental neumes ('structural' and 'ornamental' neumes). The first category includes signs that display a high degree of stability in the way they are used and provide the framework of the recitation, while the second category includes signs that alternate more frequently, perhaps depending on local traditions or on the level of festivity
@@ -3653,7 +3653,7 @@ and noetically and psychically, or also rationally.»lxix
 
 204
 
-## 4.2. Investigations
+### 4.2. Investigations
 
 During the twentieth century, various attempts were made to transcribe or describe the meaning of the ekphonetic signs by scholars such as, for example, C. Høeg, E. Wellesz, Fr. Grigore Panțiru, Kostas Ioannidis, and Reinhard Flender.lxx
 Figures 4.13–14 show examples from the transcription proposals of the first two scholars mentioned.
@@ -3722,7 +3722,7 @@ In an effort to address this situation, Greek scholars and cantors devoted a ran
 ![Description](image_6483.jpeg)
 ![Description](image_6484.jpeg)
 
-## Figure 4.15. The basic tetrachord of emmelic recitation in soft diatonic form (first kanonion (κανόνιο)
+Figure 4.15. The basic tetrachord of emmelic recitation in soft diatonic form (first kanonion (κανόνιο)
 
 corresponding to the plagal fourth mode) and in the chroa of the kliton (see the corresponding phthora at the upper right in the second
 kanonion), in two versions: hard (second kanonion) and soft (third kanonion), according to A.
@@ -3732,7 +3732,7 @@ Alygizakis.lxxxiii
 
 ![Description](image_6486.jpeg)
 
-## Figure 4.16. Simon Karas identifies the mode in which traditional emmelic recitation (εμμελής απαγγελία) is performed as
+Figure 4.16. Simon Karas identifies the mode in which traditional emmelic recitation (εμμελής απαγγελία) is performed as
 
 a third tetraphonic enharmonic mode. He considers that the chroa (χρόα) of the enharmonic genus is of a single form and that the various other
 instantiations of the pitches Ke-Zo' which appear in ekphonetic practice (ἐκφωνητική πράξη) in the various rotational
@@ -3885,17 +3885,17 @@ a lamp with mild ultraviolet light. © Holy Monastery of Zografou, Mount Athos.x
 
 217
 
-## Assessment Criterion 5
+### Assessment Criterion 5
 
-## Exercise in the transcription and analysis of an ekphonetic reading in the present-day practice of intoned recitation  & 
+### Exercise in the transcription and analysis of an ekphonetic reading in the present-day practice of intoned recitation  & 
 
 ### Assessment criterion 6
 
-### Visit the website <http://www.csntm.org/Manuscripts.aspx> and make a list of manuscripts with ekphonetic notation that interest you
+Visit the website <http://www.csntm.org/Manuscripts.aspx> and make a list of manuscripts with ekphonetic notation that interest you
 
-### Bibliography for Chapter 4
+## Bibliography for Chapter 4
 
-### Holy
+Holy
 
 Scripture
 
@@ -4063,7 +4063,7 @@ Metropolitan Eirenaios Papamichael of Samos, Simon Karas and the Choir of the So
 National Music, Dimitris Papapostolis and Dimitris Karonis. Eds. M. Dragoumis, K. Drygianakis
 and Th. Moraitis. Athens: Centre for Asia Minor Studies.
 
-## Online resources and videos
+### Online resources and videos
 
 220
 
@@ -4080,9 +4080,7 @@ and Th. Moraitis. Athens: Centre for Asia Minor Studies.
 
 (10.9.2016)
 
-## Endnotes
-
-## for chapter 4
+## Endnotes for chapter 4
 
 i See Martani (2003a, p. 17). Floros (1998, p. 117).
 ii Galavaris (2002, p. 53). Cf. also Martani (2003a, pp. 15-22), and especially the following passage: "The Fourth Council of
@@ -4263,7 +4261,7 @@ lxvii 1978, p. 20 with n. 20.
 
 223
 
-## Aristides Quintilianus, De Musica (ed. Winnington-Ingram, 1963), Book I, chap. IV, p. 5, line 24–p. 6, line 7
+Aristides Quintilianus, De Musica (ed. Winnington-Ingram, 1963), Book I, chap. IV, p. 5, line 24–p. 6, line 7
 
 lxviii
 

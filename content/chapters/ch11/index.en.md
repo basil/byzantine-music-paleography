@@ -36,7 +36,7 @@ In other words, “exegesis of the old Byzantine notation is the complete writin
 
 ## 2. Some Milestones in the History of Exegesis
 
-## 2.1. Theoretical and practical sources in Byzantine notation. Known exegetes
+### 2.1. Theoretical and practical sources in Byzantine notation. Known exegetes
 
 The theorist who inaugurates the discourse on the more analytical notation of the sonic result
 is Akakios Chalkeopoulos, in his Akribologēmata (Ἀκριβολογήματα), at the beginning of the 16th c., with his references to terms
@@ -128,7 +128,7 @@ Figure 11.3. Continuation of the exegesis by Balasios Hiereus for the Athenian F
 
 579
 
-## 2.2. Early sources in Slavic staff notations
+### 2.2. Early sources in Slavic staff notations
 
 A most important category of practical sources for exploring the early stages and, more generally,
 the entire history of the musical exegesis of Byzantine and post-Byzantine repertoire consists of a
@@ -366,7 +366,7 @@ Table 11.1. An
 
 ## 5. Examples of exegeses through source comparisons
 
-## 5.1. A Typology of Collations and Some Methodological Issues
+### 5.1. A Typology of Collations and Some Methodological Issues
 
 Before we proceed to the individual examples, it should be clarified that, apart from the usual
 form of manuscript comparison that we have seen up to now, with all the sources, one beneath the other in
@@ -1213,11 +1213,11 @@ of traditional decoding of Middle Byzantine notation mentioned in Table 11.1.
 
 586
 
-1. Heirmologic melodies
+### 5.2. Heirmologic melodies
 
-5.2.1. Heirmos and katabasia “All things were amazed,” legetos mode, in the later tradition:
+#### 5.2.1. Heirmos and katabasia “All things were amazed,” legetos mode, in the later tradition: a collation of sources
 
-a collation of sources: Figure 11.6.
+Figure 11.6.
 
 ![Description](image_13416.jpeg)
 
@@ -1228,7 +1228,7 @@ syllable lasts 1 primary time-unit), while the katabasia has 1:2.
 
 587
 
-## 5.2.2. Heirmos and katabasia “The divine and ineffable beauty,” Mode I, in diachronic development: a collation of sources: Figures 11.7-8
+#### 5.2.2. Heirmos and katabasia “The divine and ineffable beauty,” Mode I, in diachronic development: a collation of sources: Figures 11.7-8
 
 ![Description](image_13417.jpeg)
 
@@ -1252,7 +1252,7 @@ in various melodic settings over the centuries. Source: Alexandrou, Maria. (2010
 Byzantine music. A brief introduction to the issues they raise. Thessaloniki: University Studio Press,
 2010, pp. 80-81. By kind permission of the aforementioned publishing house.
 
-## Below follow photographs from individual sources in the comparison and one additional manuscript, in chronological order: see Figures 11.9-19
+Below follow photographs from individual sources in the comparison and one additional manuscript, in chronological order: see Figures 11.9-19
 
 589
 
@@ -1356,7 +1356,7 @@ exegesis and correction by Chourmouzios
 Chartophylax. Constantinople:
 British Printing House of Kastrou in
 
-## Galata, repr. Athens: Koultoura, p. 4. 
+Galata, repr. Athens: Koultoura, p. 4.
 
 ![Description](image_13431.jpeg)
 
@@ -1389,11 +1389,11 @@ Sources: For the photograph: <https://commons.wikimedia.org/wiki/File:Istanbul_-
 
 602
 
-## 5.3. Sticheraric melodies
+### 5.3. Sticheraric melodies
 
-1. The last sticheron of the Great Hours of Great Friday, “Today he is hung upon the wood”, in plagal second mode
+#### 5.3.1. The last sticheron of the Great Hours of Great Friday, "Today he is hung upon the wood", in plagal second mode
 
-5.3.1.1. The old, Byzantine, classical style, from the Sticherarion edited by Saint John Koukouzeles, EBE 884
+##### 5.3.1.1. The old, Byzantine, classical style, from the Sticherarion edited by Saint John Koukouzeles, EBE 884
 
 ![Description](image_13434.jpeg)
 
@@ -1402,7 +1402,7 @@ developed notation. © National Library of Greece.
 
 603
 
-1. The beginning of the doxastikon “Today he is hung upon the wood” in diachronic development: comparison of sources: Figures 11.22.a-b.
+##### 5.3.1.2. The beginning of the doxastikon “Today he is hung upon the wood” in diachronic development: comparison of sources (Figures 11.22.a-b)
 
 ![Description](image_13435.jpeg)
 
@@ -1417,7 +1417,7 @@ Figure 11.22.b. Continuation of the comparison of sources for the beginning of t
 tree,” in plagal 2nd mode. The individual sources and brief comments are given below.
 605
 
-## Sources and other clarificationsxxviii for Figures 11.22.a-b
+Sources and other clarificationsxxviii for Figures 11.22.a-b
 
  Various styles of setting are compared: Old: nos. 1-6 | New embellishment by Chrysaphes the New and Germanos of New Patras: nos. 7-15 | “in a more concise manner, from
 
@@ -1505,7 +1505,7 @@ well as the new embellishment and Iakovos). For justificatory evidence concernin
 
 - Karas (1933, pp. 26-27): on the one hand, the multiplication of great signs in the new embellishment, and, on the other, the appearance of written exegesis, both in an era when the art of cheironomy was weakening, within the broader context of the dismantling of the grand Byzantine system of choirs during the Ottoman period: cf. also Spyrakou (2008, especially pp. 539-541).
 
-1. The first sticheron of the Great Hours of Christmas, “Bethlehem, make ready,” in plagal 4th mode: comparison of sources:
+#### 5.3.2. The first sticheron of the Great Hours of Christmas, “Bethlehem, make ready,” in plagal 4th mode: comparison of sources
 
 Figures 11.23-25
 
@@ -1627,11 +1627,11 @@ Figure 11.24.c. Continuation and conclusion of the comparison of the sticheron �
    and by Petros Peloponnesios  . Source of Figures 11.24.a-c: Alexandru (2000, vol. III, pp. 20, 35, 50).
 611
 
-## In Figures 11.24.a-c. the first colon of the sticheron “Bethlehem, make ready” was presented on the basis of the following sources
+In Figures 11.24.a-c. the first colon of the sticheron “Bethlehem, make ready” was presented on the basis of the following sources
 
 ![Description](image_13445.png)
 
-## Old style
+Old style
 
 - Manuscripts in Old Byzantine notation:
 
@@ -1733,7 +1733,9 @@ p. 91).
 
 614
 
-## 5.4. Papadic chants 5.4.1. Funeral Trisagion athēnaïkon (ἀθηναίϊκον), in plagal second mode nenanō
+### 5.4. Papadic chants
+
+#### 5.4.1. Funeral Trisagion athēnaïkon (ἀθηναίϊκον), in plagal second mode nenanō
 
 ![Description](image_13453.jpeg)
 
@@ -1785,7 +1787,7 @@ exegesis are indicated for each thesis.
 
 616
 
-## 5.4.2. From the “Theotoke Parthene” by Petros Bereketes: Parakletike thesis, in mode 4
+#### 5.4.2. From the “Theotoke Parthene” by Petros Bereketes: Parakletike thesis, in mode 4
 
 ![Description](image_13455.jpeg)
 
@@ -1816,7 +1818,7 @@ Publications.
 
 617
 
-## 5.4.3. The beginning of the Cheroubikon by Petros Bereketes, sung also in all eight modes, from the same original notation
+#### 5.4.3. The beginning of the Cheroubikon by Petros Bereketes, sung also in all eight modes, from the same original notation
 
 ![Description](image_13456.jpeg)
 
@@ -1869,14 +1871,14 @@ Here together with the exegesis for the fourth mode. Sources: Chatzigiakoumis (2
 
 ![Description](image_13460.jpeg)
 
-## Barys: “the ethos of the Barys mode tends toward the hesychastic” (Chrysanthos, Theoretikon, § 368)
+Barys: “the ethos of the Barys mode tends toward the hesychastic” (Chrysanthos, Theoretikon, § 368)
 
 Figure 11.28.e. Cheroubikon by Petros Bereketes, which is sung also in all eight modes, on the basis of a single record in late Middle Byzantine notation.
 Here together with the exegesis for the barys mode. Sources: Chatzigiakoumis (2002, pp. 131 and 95). Alexandru (2010, para. 15).
 
 622
 
-## The old shorthand notation
+The old shorthand notation
 
 ![Description](image_13461.jpeg)
 
@@ -2031,7 +2033,7 @@ Assessment criteria for Chapter 11
 
 Assessment criterion 1
 
-## “Christ is born” II 
+“Christ is born” II
 
 Assessment criterion 2
 “When Augustus ruled alone”
@@ -2054,9 +2056,9 @@ from ms EBE 884, fol. 106r, year 1340/1. © National Library of Greece.
 
 630
 
-## Assessment criterion 3
+### Assessment criterion 3
 
-## “Spring Has Dawned” II
+“Spring Has Dawned” II
 
 ![Description](image_13469.jpeg)
 
@@ -2139,13 +2141,13 @@ _Св._Троица_-_Google_Art_Project.jpg (17.12.2015).
 
 640
 
-## Assessment Criterion 5
+### Assessment Criterion 5
 
-## “With Golden Words”
+“With Golden Words”
 
-## Assessment Criterion 6
+### Assessment Criterion 6
 
-## “Let the Glory of the Lord Be”xxxvi
+“Let the Glory of the Lord Be”xxxvi
 
 ![Description](image_13481.jpeg)
 
@@ -2177,9 +2179,9 @@ Figure 11.43.c. “May the glory of the Lord be,” continuation and end of Chou
 
 644
 
-## Assessment Criterion 7
+### Assessment Criterion 7
 
-## “The glorious soldier”
+“The glorious soldier”
 
 ![Description](image_13485.jpeg)
 
@@ -2253,7 +2255,7 @@ Assessment criterion 8
 
 
 
-## Assessment criterion 9 Crossword with key concepts of Chapter 11xlii
+### Assessment criterion 9 Crossword with key concepts of Chapter 11xlii
 
 ## Bibliography for Chapter 11
 
@@ -2278,7 +2280,7 @@ Petros Peloponnesios. (1825). Heirmologion of Katabasia. Explained by Chourmouzi
 Constantinople: Kastrou in Galata (repr. Athens: Koultoura, 1982, together with the Heirmologion of Petros
 Byzantios).
 
-## Facsimile editions of musical manuscripts
+### Facsimile editions of musical manuscripts
 
 Follieri, Enrica, & Strunk, Oliver. (Eds., 1975). Triodium Athoum. MMB IX, Pars Suppletoria. Copenhagen:
 Munksgaard.
@@ -2325,7 +2327,7 @@ Yasinovskyi, Jurij. (1996). Ukrainski ta biloruski notolinijni Irmoloi 16-18 sto
 doslidjennja. Serija: Istorija ykrainskoi muziki. Vipusk 2: Djerela. Lviv: Vidavnitstvo Ottsiv Vasiliyan
 "Misioner", Institut Ykrainoznavstva im. Krip'Yakeviča nan Ykraini.
 
-## Theoretical works and
+### Theoretical works and
 
 studies on theoretical treatises
 
@@ -2797,11 +2799,7 @@ sticheron
 |colour, chromatic|chromaticism, chromatic|
 |Hours Great Hours|Ηοurs Imperial Hours|
 
-## Endnote
-
-## about
-
-## The Index
+## Endnote for the Index
 
 i This is an open-ended glossary, based on a selection of terms from all the bibliography cited in
 the present handbook. The translation for “dromos” was taken from: Panagiotidis, Panagiotis. (2003). Themes
