@@ -527,7 +527,7 @@ Exercise in transcribing a bibliographical note of the Byzantine period (Figure 
 
 ![Description](image_3160.jpeg)
 
-Figure 3.9. The colophon of the codex of the “Akolouthiai” (Papadike) ΕΒΕ 2458, fol. 176r. © National Library of
+Figure 3.9. The colophon of the codex of the “Akolouthiai” (Papadike) EBE 2458, fol. 176r. © National Library of
 Greece.xxxvi
 
 Assessment criterion 3
@@ -553,7 +553,7 @@ appears in the left margin of the
 
 following
 
-Figure 3.11. Monokondylia (below in the left margin of the manuscript) in codex ΕΒΕ 2155, Sticherarion, 14th cent., fol.
+Figure 3.11. Monokondylia (below in the left margin of the manuscript) in codex EBE 2155, Sticherarion, 14th cent., fol.
 69v (Politis and Politi, 1991, p. 181). © National Library of Greece.
 
 ## Bibliography for Chapter 3
@@ -602,7 +602,7 @@ his life and work. Insert to the vinyl records in the series Byzantine and Post-
 1. Sung by the Choir of Chanters “The Maistores of the Psaltic Art”, choir director Gr. Stathis. Athens:
 
 Holy Synod of the Church of Greece-IBM.
-Stathis, Gregorios. (1989a). The differentiation in chant as recorded in codex ΕΒΕ 2458 of
+Stathis, Gregorios. (1989a). The differentiation in chant as recorded in codex EBE 2458 of
 the year 1336. In Christian Thessaloniki, Palaiologan Period, 22nd Demetria, Scientific
 Symposium, Patriarchal Institute for Patristic Studies, Holy Monastery of Vlatades, 29-31 Oct. 1987 (pp.
 
@@ -619,7 +619,7 @@ Grumel, Venance. (1958). Traité d'études byzantines I. La Chronologie. Paris: 
 
 Kujumdzieva, Svetlana. (2004). John Koukouzeles' Sticherarion. The Formation of the Notated Anastasimatarion. Sofia:
 Gutenberg Publishing House (in Bulgarian, with English summary).
-Langenscheidts Großes Schulwörterbuch Lateinisch-Deutsch. (1991). Βearbeitet von Erich Pertsch auf der Grundlage
+Langenscheidts Großes Schulwörterbuch Lateinisch-Deutsch. (1991). Bearbeitet von Erich Pertsch auf der Grundlage
 von Menge-Güthling (erweiterte Neuausgabe, 8th ed.). Berlin, München, Wien, Zürich: Langenscheidt.
 Mioni, Elpidio. (1998). Introduction to Greek Palaeography. Trans. Nikolaos Panagiotakis (5th ed.).
 Athens: Cultural Foundation of the National Bank.
@@ -627,12 +627,12 @@ Pennington, Anne E. (1985). Music in Medieval Moldavia, 16th Century. With an Es
 Moisescu, Romanian version by Constantin Stihi-Boos. Bucharest: The Musical Publishing House.
 Raasted, Jørgen. (1997). Koukouzeles' Sticherarion. In Christian Troelsgård (ed.), Byzantine Chant. Tradition and
 Reform. Acts of a Meeting held at the Danish Institute at Athens, 1993, Monographs of the Danish Institute at
-Athens, vol. 2 (pp. 9-21). Aarhus: Αarhus University Press.
-Threatte, Leslie (1996). The Greek Alphabet. In P.T. Daniels and W. Bright (eds.), Τhe World's Writing Systems (pp.
+Athens, vol. 2 (pp. 9-21). Aarhus: Aarhus University Press.
+Threatte, Leslie (1996). The Greek Alphabet. In P.T. Daniels and W. Bright (eds.), The World's Writing Systems (pp.
 
 271-280). New York, Oxford: Oxford University Press.
 
-Ζiegler, Konrat and Sontheimer, Walther. (Eds., 1979). Der Kleine Pauly. Lexikon der Antike. Auf der Grundlage von
+Ziegler, Konrat and Sontheimer, Walther. (Eds., 1979). Der Kleine Pauly. Lexikon der Antike. Auf der Grundlage von
 Pauly's Realencyclopädie der classischen Altertumswissenschaft unter Mitwirkung zahlreicher Fachgelehrter, Bd.
 
 1. München: Deutscher Taschenbuch Verlag.
@@ -1606,7 +1606,7 @@ Stathis (1988).
 xxix Cf. Chatzigiakoumis (1980, p. 109). See also <http://www.lexigram.gr/lex/arch/ἰνδικτιῶνος#Hist1> (10.9.2016).
 xxx An image of this leaf was published in: Giannopoulos (2008, p. 200). The transcription of the colophon
 is based on the same Catalogue (p. 199). The orthographical errors have been corrected.
-xxxi Copy based on: Μioni (1998, p. 112). The year ,στωοα΄ = 6871 from the creation of the world corresponds to
+xxxi Copy based on: Mioni (1998, p. 112). The year ,στωοα΄ = 6871 from the creation of the world corresponds to
 the year 1362 from the Birth of Christ (6871-5509 because the month is December). The indiction is reported as “1st”,
 a correspondence that is also confirmed by the operation 6871 : 15 = 458, with remainder 1.
 xxxii The table was created according to the explanations of Mioni (1998, p. 112).

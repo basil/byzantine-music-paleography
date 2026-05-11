@@ -100,7 +100,7 @@ and of the Egyptians (hieroglyphics, ca. 3000 BC):
 Rather, prehistory is an absence of something: an absence of writing. So a better image of the
 'dawn of history might be an AM radio in the pre-dawn hours: you recognize wisps of words or
 music across the dial, interblending, and noise obscures even the few clear-channel stations.
-With the coming of the daylight, the static fades away, and signals emerge. Τhe first ones we
+With the coming of the daylight, the static fades away, and signals emerge. The first ones we
 find, when we switch on the radio of history about 3200 B.C.E., come from Mesopotamia, and
 those from Egypt soon emerge..."xv (see Map 1.1 and Figures 1.1-3).
 
@@ -761,10 +761,10 @@ VI. Copenhague: Munksgaard.
 Follieri, Enrica, & Strunk, Oliver. (Eds., 1975). Triodium Athoum. MMB IX, Pars Suppletoria. Copenhagen:
 Munksgaard.
 Høeg, Carsten. (Ed., 1956). Contacarium Ashburnhamense. MMB, Série principale IV. Copenhague: Munksgaard.
-Perria, Lidia, & Raasted, Jørgen. (Εds., 1992). Sticherarium Ambrosianum. MMB XI, Pars Principalis & Pars
-Suppletoria. Ηauniae: Munksgaard.
+Perria, Lidia, & Raasted, Jørgen. (Eds., 1992). Sticherarium Ambrosianum. MMB XI, Pars Principalis & Pars
+Suppletoria. Hauniae: Munksgaard.
 Strunk, Oliver. (Ed., 1966). Specimina Notationum Antiquiorum. MMB VII, Pars Suppletoria. Copenhagen: Munksgaard.
-Tardo, Lorenzo, Rev. (Ed., 1951). Hirmologium Cryptense. MMB ΙΙΙ, Pars Principalis & Pars Suppletoria. Roma.
+Tardo, Lorenzo, Rev. (Ed., 1951). Hirmologium Cryptense. MMB III, Pars Principalis & Pars Suppletoria. Roma.
 Wolfram, Gerda. (Ed., 1987). Sticherarium antiquum Vindobonense. MMB X, Pars Principalis & Pars Suppletoria. Wien:
 Verlag der Österreichischen Akademie der Wissenschaften.
 
@@ -924,7 +924,7 @@ Psachos, K. (1978). The notation of Byzantine music, that is, a historical and t
 notation of Byzantine music from the first Christian times to our own day
 (2nd ed. greatly enlarged, ed. G. Chatzitheodorou). Athens: Dionysos.
 
-Alexandru, Μaria. (2000). Studie über die 'grossen Zeichen' der byzantinischen musikalischen Notation, unter
+Alexandru, Maria. (2000). Studie über die 'grossen Zeichen' der byzantinischen musikalischen Notation, unter
 besonderer Berücksichtigung der Periode vom Ende des 12. bis Anfang des 19. Jahrhunderts. Doctoral
 dissertation. 3 vols. Kopenhagen: Universität Kopenhagen, Humanistische Fakultät.
 
@@ -939,7 +939,7 @@ anuale de comunicări ştiinţifice a Comisiei Române de Istorie şi Studiu al 
 Editura Arhiepiscopiei Dunării de Jos.
 Beck, Hans-Georg. (2000). The Byzantine millennium. Trans. Demosthenes Kourtovik (3rd ed.). Athens: Cultural
 Foundation of the National Bank.
-Bennett, Emmett L. (1996). Aegean Scripts. In P.T. Daniels and W. Bright (eds.), Τhe World's Writing Systems (pp. 125-
+Bennett, Emmett L. (1996). Aegean Scripts. In P.T. Daniels and W. Bright (eds.), The World's Writing Systems (pp. 125-
 
 133). New York, Oxford: Oxford University Press.
 
@@ -948,31 +948,31 @@ Sprache. Was Forscher über unsere ältesten Kulturgüter wissen. Spektrum der W
 Geschichte, Kultur, 3, 60-67: <http://www.spektrum.de/artikel/1037418> (10.2.2016).
 Cormack, Robin. (2000). Byzantine Art. Oxford History of Art. Oxford: University Press.
 Cormack, Robin, and Vassilaki, Maria (eds., 2008). Byzantium 330-1453. London: Royal Academy of Arts.
-Daniels, Peter T. (1996a). The Study of Writing Systems. In P.T. Daniels and W. Bright (eds.), Τhe World's Writing
+Daniels, Peter T. (1996a). The Study of Writing Systems. In P.T. Daniels and W. Bright (eds.), The World's Writing
 Systems (pp. 3-17). New York, Oxford: Oxford University Press.
 Daniels, Peter T. (1996b). Introductory text to the chapter "Ancient Near Eastern Writing Systems". In P.T. Daniels
-and W. Bright (eds.), Τhe World's Writing Systems (pp. 19-20). New York, Oxford: Oxford University Press.
-Daniels, Peter T. (1996c). Methods of Decipherment. In P.T. Daniels and W. Bright (eds.), Τhe World's Writing Systems
+and W. Bright (eds.), The World's Writing Systems (pp. 19-20). New York, Oxford: Oxford University Press.
+Daniels, Peter T. (1996c). Methods of Decipherment. In P.T. Daniels and W. Bright (eds.), The World's Writing Systems
 
 (pp. 141-159). New York, Oxford: Oxford University Press.
 
-Daniels, Peter T., and Bright, William. (Eds., 1996). Τhe World's Writing Systems. New York, Oxford: Oxford
+Daniels, Peter T., and Bright, William. (Eds., 1996). The World's Writing Systems. New York, Oxford: Oxford
 University Press.
 Doda, Alberto. (1995). Coislin Notation. Problems and Working Hypotheses. In Jørgen Raasted and Christian Troelsgård
 (eds.), Palaeobyzantine Notations. A Reconsideration of the Source Material (pp. 63-79). Hernen: A.A. Bredius
 Foundation.
-Ellingson, Τer. (1992). Notation. In Helen Myers (ed.), Ethnomusicology. Αn Introduction, The New Grove
+Ellingson, Ter. (1992). Notation. In Helen Myers (ed.), Ethnomusicology. An Introduction, The New Grove
 Handbooks in Music (pp. 153-164). London.
-Etymologicum Magnum Lexicon. (1848). Ed. Thomas Gaisford. Οxford (repr. Amsterdam: Adolf M. Hakkert, 1994).
+Etymologicum Magnum Lexicon. (1848). Ed. Thomas Gaisford. Oxford (repr. Amsterdam: Adolf M. Hakkert, 1994).
 Evans, Arthur J. (1952). Scripta minoa: the written documents of minoan Crete with special reference to the archives of
-Knossos. Vol. 2, The archives of Knossos: clay tablets inscribed in linear script B. Οxford: Clarendon Press.
+Knossos. Vol. 2, The archives of Knossos: clay tablets inscribed in linear script B. Oxford: Clarendon Press.
 <http://digi.ub.uni-heidelberg.de/diglit/evans1952/0003> (8.8.2017).
 Floros, Constantin. (1965 and 1967). Die Entzifferung der Kondakarien-Notation. Musik des Ostens, 3, 7-71, and 4, 12-
 
 1.
 
 Floros, Constantin. (1970). Universale Neumenkunde. 3 vols. Kassel: Bärenreiter Antiquariat, Kassel-Wilhelmshöhe.
-Floros, Constantin. (2009). Τhe Origins of Russian Music. Introduction to the Kondakarian Notation. Revised, Translated
+Floros, Constantin. (2009). The Origins of Russian Music. Introduction to the Kondakarian Notation. Revised, Translated
 and with a Chapter on Relationships between Latin, Byzantine and Slavonic Church Music by Neil K. Moran.
 Frankfurt am Main, Berlin, Bern, Bruxelles, New York, Oxford, Wien: Peter Lang.
 Floros, Constantin. (2011). The Origins of Western Notation. Revised and translated by Neil Moran. Frankfurt am Main,
@@ -1003,24 +1003,24 @@ Sachteil 7 (2nd ed., columns 1108-1156). Kassel, Basel, London, New York, Prag, 
 Metzler.
 Hornblower, Simon and Spawforth, Antony. (Eds., 2003). The Oxford Classical Dictionary (3rd ed. revised). Oxford:
 University Press.
-Ηorrocks, Geoffrey. (2010). Greek: A History of the Language and its Speakers (2nd ed.). West Sussex: Wiley-Blackwell.
+Horrocks, Geoffrey. (2010). Greek: A History of the Language and its Speakers (2nd ed.). West Sussex: Wiley-Blackwell.
 <https://smerdaleos.files.wordpress.com/2014/08/horrocks-2.pdf> (3.2.2017).
 Hunger, Herbert. (Ed., 1987-1994). Byzantine Literature. The learned secular literature of the
 Byzantines. Trans. L.K. Benakis et alii. 3 volumes. Athens: Cultural Foundation of the National Bank.
-Ηunger, Herbert. (1995). The World of the Byzantine Book. Writing and Reading in Byzantium. Trans. Giorgos
+Hunger, Herbert. (1995). The World of the Byzantine Book. Writing and Reading in Byzantium. Trans. Giorgos
 Vasilaros, ed. Taxiarches Kolias. Athens: Institute of the Book - M. Kardamitsa.
 Ignatenko, Evgenia. (2016). Griechisch-byzantinische Quellen der Oktoechos 1769 von Kallistrat aus Kiew. In Martin
 Czernin - Maria Pischlöger (eds.), Theorie und Geschichte der Monodie, Bd. 8, Bericht der Internationalen
 Tagung Wien 2014 (pp. 245-270). Brno.
-Jaschinski, Andreas. (Ed., 2001). Νοtation. MGG Prisma. Kassel, Basel, London, New York, Prag: Βärenreiter.
+Jaschinski, Andreas. (Ed., 2001). Notation. MGG Prisma. Kassel, Basel, London, New York, Prag: Bärenreiter.
 Stuttgart, Weimar: Metzler.
 Kalaitzidis, Kyriakos. (2012). Post-Byzantine Music Manuscripts as a Source for Oriental Secular Music (15th to Early
-19th Century). Τransl. Kiriaki Koubaroulis and Dimitri Koubaroulis. Istanbuler Texte und Studien 28, Orient
+19th Century). Transl. Kiriaki Koubaroulis and Dimitri Koubaroulis. Istanbuler Texte und Studien 28, Orient
 Institut Istanbul. Würzburg: Ergon Verlag.
 Kujumdzieva, Svetlana. (2001). Studying the Oktoechos: From the Oktoechos to the Anastasimatarion. Paper read at the
 XX International Byzantine Congress. Paris, 19-25 August, 2001:
 <http://musicart.imbm.bas.bg/p/en_kujumdzieva1.html> (13.2.2016).
-Κujumdzieva, Svetlana. (2010). The Library as Witness to Music History: The Case of the Sinai Musical Manuscripts.
+Kujumdzieva, Svetlana. (2010). The Library as Witness to Music History: The Case of the Sinai Musical Manuscripts.
 Lecture at: <http://www.loc.gov/today/cyberlc/feature_wdesc.php?rec=4927> (13.2.2016).
 Kujumdzieva, Svetlana. (2012). The Tropologion: Sources and Identifications of a Hymnographic Book. In Chr.
 Hannick, Chr. Troelsgård, Sv. Kujumdzieva (ed.-in-chief), St. Harkov (eds.), Byzantium without Borders:
@@ -1040,18 +1040,18 @@ Makrantonaki-Farasa, Maria. (2000). Glossary of Theological Terms, English-Greek
 Thessaloniki: Pournaras P. Publications.
 Makris, Eustathios. (1996). Die musikalische Tradition des Anastasimatarion im 16. und 17. Jahrhunderts. Doctoral
 dissertation. Wien: Geistsenswissenschaftliche Fakultät der Universität Wien.
-Mango, Cyril. (Ed., 2002). Τhe Oxford History of Byzantium. Oxford: University Press.
+Mango, Cyril. (Ed., 2002). The Oxford History of Byzantium. Oxford: University Press.
 Massip, Catherine. (2007). Le livre de musique. Conférences Léopold Delisle. Paris: Bibliothèque nationale de France.
-Μétrévéli, H., Tchankieva, Ts., Khevsouriani, L., and Van Esbroeck, M. (1981). Le plus ancien Tropologion Géorgien.
+Métrévéli, H., Tchankieva, Ts., Khevsouriani, L., and Van Esbroeck, M. (1981). Le plus ancien Tropologion Géorgien.
 Bedi Kartlisa, 39, 54-62.
 Michels, Ulrich. (2000-2001). Atlas of Music. Volume I. Diagrams G. Vogel, trans. Institute for Research in Music &
 Acoustics, translation ed. K. Moschos, musicological ed. P. Adam, K. Moschos (2nd ed.). Athens:
 Philippos Nakas.
 Mioni, Elpidio. (1998). Introduction to Greek Palaeography. Trans. Nikolaos Panagiotakis (5th ed.).
 Athens: Cultural Foundation of the National Bank.
-Möller, Hartmut. (2001). Einleitung. In Αndreas Jaschinski (ed.), Νοtation. MGG Prisma (pp. 15-23). Kassel, Basel,
-London, New York, Prag: Βärenreiter. Stuttgart, Weimar: Metzler.
-Nikiforova, Alexandra. (2015). The Oldest Greek Tropologion Sin.Gr. ΜΓ 56+5: Α New Witness to the Liturgy of
+Möller, Hartmut. (2001). Einleitung. In Andreas Jaschinski (ed.), Notation. MGG Prisma (pp. 15-23). Kassel, Basel,
+London, New York, Prag: Bärenreiter. Stuttgart, Weimar: Metzler.
+Nikiforova, Alexandra. (2015). The Oldest Greek Tropologion Sin.Gr. ΜΓ 56+5: A New Witness to the Liturgy of
 Jerusalem from outside Jerusalem with First Edition of the Text. Oriens Christianus, 98, 138-173.
 Nikiforova, Alexandra, and Chronz, Tinatin. (forthcoming). A New Approach to the "Codex Sinaiticus Liturgicus"
 RNB.Gr. 44: Introduction, Publication, Discussion.
@@ -1080,24 +1080,24 @@ Schrift und Sprache. Was Forscher über unsere ältesten Kulturgüter wissen. (2
 Archäologie, Geschichte, Kultur, 3.
 Seeger, Charles. (1958). Prescriptive and Descriptive Music-Writing. The Musical Quarterly, 44/2, 184-195. Repr. in
 Kay Kaufman Shelemy (ed.), The Garland Library of Readings in Ethnomusicology, A Core Collection of
-Important Ethnomusicological Articles in Seven Volumes (vol. 4, pp. 26-41). Νew York, London.
-Shkolnik, Ιrina. (1998). Byzantine Prosomoion Singing: Α General Survey of the Repertoire of the Notated Stichera
+Important Ethnomusicological Articles in Seven Volumes (vol. 4, pp. 26-41). New York, London.
+Shkolnik, Irina. (1998). Byzantine Prosomoion Singing: Α General Survey of the Repertoire of the Notated Stichera
 Models (Automela). In L. Dobszay (ed.), International Musicological Society, Study Group Cantus Planus,
 Papers Read at the 7th Meeting, Sopron, Hungary 1995 (pp. 521-536). Budapest: Hungarian Academy of Sciences,
 Institute for Musicology.
 Stökl Ben Ezra, Daniel. (2014). Interdisciplinary Perspectives from Material and Computer Sciences on the Dead Sea
 Scrolls and Beyond. Manuscript Cultures, 7, 92-103. <https://www.manuscript-cultures.uni->
 hamburg.de/MC/manuscript_cultures_no_7.pdf (1.9.2016).
-Strunk, Οliver. (1977a). Essays on Music in the Byzantine World. Ed. Kenneth Levy. New York: W.W. Northon &
+Strunk, Oliver. (1977a). Essays on Music in the Byzantine World. Ed. Kenneth Levy. New York: W.W. Northon &
 Company.
-Strunk, Οliver. (1977b). S. Salvatore di Messina and the Musical Tradition of Magna Graecia. In O. Strunk, Essays on
+Strunk, Oliver. (1977b). S. Salvatore di Messina and the Musical Tradition of Magna Graecia. In O. Strunk, Essays on
 Music in the Byzantine World, ed. Kenneth Levy (pp. 45-54). New York: W.W. Northon & Company.
-Swiggers, Pierre. (1996). Transmission of the Phoenician Script to the West. In P.T. Daniels and W. Bright (eds.), Τhe
+Swiggers, Pierre. (1996). Transmission of the Phoenician Script to the West. In P.T. Daniels and W. Bright (eds.), The
 World's Writing Systems (pp. 261-270). New York, Oxford: Oxford University Press.
 Șirli, Adriana. (1985). Repertoriul tematic și analitic al manuscriselor psaltice vechi (secolele XIV-XIX). I.
 Anastasimatarul. București: Editura Muzicală.
-Thodberg, Christian (1966). Der Byzantinische Alleluiariοnzyklus. MMB, Subsidia, vol. VIII. Copenhagen: Munksgaard.
-Threatte, Leslie (1996). The Greek Alphabet. In P.T. Daniels and W. Bright (eds.), Τhe World's Writing Systems (pp.
+Thodberg, Christian (1966). Der Byzantinische Alleluiarionzyklus. MMB, Subsidia, vol. VIII. Copenhagen: Munksgaard.
+Threatte, Leslie (1996). The Greek Alphabet. In P.T. Daniels and W. Bright (eds.), The World's Writing Systems (pp.
 
 271-280). New York, Oxford: Oxford University Press.
 
@@ -1251,7 +1251,7 @@ xxvi The present table is based on the following bibliography: Bennett (1996). D
 108-119, 149-150). For further bibliography and related websites, cf.
 
 <http://lila.sns.it/mnamon/index.php?page=Risorse&id=20> (8.8.2016).
-Εvans (1952): <http://digi.ub.uni-heidelberg.de/diglit/evans1952/0003> (8.8.2016).
+Evans (1952): <http://digi.ub.uni-heidelberg.de/diglit/evans1952/0003> (8.8.2016).
 xxvii See Robinson (2007, pp. 161, 166). The information that the Greek alphabet is related to Phoenician writing was
 known already in Antiquity: "Herodotus (V,58) speaks of the Greek letters as φοινικήια γράμματα" (Swiggers, 1996,
 
@@ -1273,10 +1273,10 @@ xxxiv For Aristophanes of Byzantium (probably ca. 257-180 B.C.), famous philolog
 of Alexandria (ca. 194 B.C.), see Hornblower & Spawforth (eds., 2003, p. 165). Mioni (1998, p. 57).
 xxxv For phonetic alphabetic scripts, where the current pronunciation and spelling of words coincide, and for
 historical-traditional alphabetic scripts, which reflect an older pronunciation of the words, according to
-V. Istrin, see Daniels (1996a, pp. 8-9). Τhreatte (1996, pp. 275-280).
-xxxvi Cf. Metsakis (1986, pp. 41, 45, 51, 107-123). Τhreatte (1996, p. 277).
-xxxvii Cf. Τhreatte (1996, p. 273). Mioni (1998, p. 80). Tsolakidis (2001, pp. 136-137, for 4 February).
-xxxviii See Τhreatte (1996, p. 272). Cf. also <http://el.wikipedia.org/wiki/Έρασμος> (17.2.2015).
+V. Istrin, see Daniels (1996a, pp. 8-9). Threatte (1996, pp. 275-280).
+xxxvi Cf. Metsakis (1986, pp. 41, 45, 51, 107-123). Threatte (1996, p. 277).
+xxxvii Cf. Threatte (1996, p. 273). Mioni (1998, p. 80). Tsolakidis (2001, pp. 136-137, for 4 February).
+xxxviii See Threatte (1996, p. 272). Cf. also <http://el.wikipedia.org/wiki/Έρασμος> (17.2.2015).
 xxxix This chronology takes as its starting point table 22.2 from Threatte (1996, p. 273, and incorporates various other
 items from the same chapter, pp. 271-280), as well as from Swiggers (1996, pp. 263-264, 266-268), Daniels (1996a, p. 9)
 and Robinson (2007, pp. 164-171).
@@ -1343,7 +1343,7 @@ the number of seven thousand (today it is not an exaggeration to claim that this
 thousand).”
 lv See Levy & Troelsgård (2001, p. 734).
 lvi Oliver Strunk (1966, p. 12) dates this manuscript "not earlier than 950". Floros (1970, vol. Ι, p. 63 and vol.
-ΙΙΙ, facsimiles 13-18) places it in the second half of the 10th century. For the oldest manuscripts with Palaeo-Byzantine
+III, facsimiles 13-18) places it in the second half of the 10th century. For the oldest manuscripts with Palaeo-Byzantine
 writing, cf. ch. 6 of the present handbook.
 lvii Cf. the lecture of Kujumdzieva (2010).
 lviii Cf. e.g. Eustratiades & Arcadios of the Monastery of Vatopedi (1924).
@@ -1368,7 +1368,7 @@ the lecture of Theocharis Detorakis entitled “Editorial problems of Byzantine 
 of Thessaloniki, 11.05.2004.
 lxiii Cf. Nikiforova (2015). Nikiforova & Chronz (forthcoming). Kujumdzieva (2012, p. 10). Archbishop Damianos,
 Archim. Sophronios, Peltikoglou and Nikolopoulos (1998, photos 8, 11, 19, 49, 55, 60, 66, 78, 144). Géhin & Frøyshov
-(2000, pp. 178-179). Μétrévéli, Tchankieva, Khevsouriani, and Van Esbroeck (1981).
+(2000, pp. 178-179). Métrévéli, Tchankieva, Khevsouriani, and Van Esbroeck (1981).
 lxiv Oliver Strunk (1977a) named this stable form of the Sticherarion, which prevails from ca. 1050
 onward, with the term Standard Abridged Version (abbreviation SAV) and
 associated its formation with Palaeo-Byzantine notation of the Coislin family in its relatively developed

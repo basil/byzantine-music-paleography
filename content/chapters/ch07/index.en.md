@@ -3126,7 +3126,7 @@ Hatzigiakoumis (1980),
  in the rich plates that accompany the analytical catalogues and other musicological
 
 studies of Stathis (1975, 1976, 1993, 2015 and 2006), Giannopoulos (2005a, 2005b, 2008, 2016),
-Chaldaiakis (2005), Balageorgos & Kritikos (2008), Gertsman (1996 and Gertsman, 1994), Fr. Βucescu,
+Chaldaiakis (2005), Balageorgos & Kritikos (2008), Gertsman (1996 and Gertsman, 1994), Fr. Bucescu,
 Catrina, Barnea, Dănilă & al. (2010), Vasile & al. (2010), Vasile (2007, 2008),
 
  in the facsimile editions of entire codices of the Music School of Putna (e.g. eds. Ciobanu,
@@ -3584,10 +3584,10 @@ Bucharest. Repr. Athens: Koultoura.
 Facsimile editions of musical and other manuscripts
 
 Ciobanu, Gheorghe, & Ionescu, Marin. (1983). Antologhionul lui Evstatie Protopsaltul Putnei. Izvoare ale Muzicii
-Româneşti, Vol. V, Documenta. Βucureşti: Editura Muzicală.
+Româneşti, Vol. V, Documenta. Bucureşti: Editura Muzicală.
 Ciobanu, Gheorghe, Ionescu, Marin, & Moisescu, Titus. (1981). Școala muzicală de la Putna, Manuscrisul nr. I-26/Iași.
 Antologhion din Biblioteca Centrală Universitară "Mihai Eminescu" - Iași. Izvoare ale Muzicii Româneşti, Vol.
-IV, Documenta. Βucureşti: Editura Muzicală.
+IV, Documenta. Bucureşti: Editura Muzicală.
 Filothei Sin Agăi Jipei. (1981, 1984, 1986, 1992). Ed. Fr. Sebastian Barbu-Bucur. Psaltichie Rumănească. I Catavasier,
 II Anastasimatar, III Stihirar, IV Stihirar-Penticostar. Izvoare ale Muzicii Românești, vol. VII A-D. București
 
@@ -3601,7 +3601,7 @@ Høeg, Carsten. (Ed., 1956). Contacarium Ashburnhamense. MMB, Facsimiles IV. Cop
 Høeg, Carsten, Tillyard, H.J.W., and Wellesz, Egon. (Eds., 1935). Sticherarium. MMB, Facsimiles I. Copenhagen: Ejnar
 Munksgaard.
 Moisescu, Titus. (1994). Manuscrisul de la Dobrovăţ. Ms. 258 / Leimonos. Izvoare ale Muzicii Româneşti, Vol. XI,
-Monumenta "Şcoala Muzicală de la Putna". Βucureşti: Editura Muzicală.
+Monumenta "Şcoala Muzicală de la Putna". Bucureşti: Editura Muzicală.
 Perria, Lidia, & Raasted, Jørgen. (Eds., 1992). Sticherarium Ambrosianum. MMB, Facsimiles XI, Pars Principalis & Pars
 Suppletoria. Copenhagen: Munksgaard.
 Strunk, Oliver. (Ed., 1966). Specimina Notationum Antiquiorum. Folia selecta ex variis codicibus saec. x, xi, & xii
@@ -3674,7 +3674,7 @@ Vasile, Vasile. (2007, 2008). Tezaur muzical românesc din Muntele Atos. 2 vols.
 Theoretical writings
 
 Akribeia. Ed. Bjarne Schartau, Anonymous Questions and Answers on the Interval Signs. Monumenta Musicae
-Byzantinae, Corpus Scriptorum de Re Musica, ΙV. Wien: Verlag der Österreichischen Akademie der
+Byzantinae, Corpus Scriptorum de Re Musica, IV. Wien: Verlag der Österreichischen Akademie der
 Wissenschaften, 1998.
 Apostolopoulos, Thomas. (2002). Apostolos Konstas of Chios and his contribution to the theory of the Musical
 Art. IBM, Studies 4. Ed. Gr. Stathis. Athens.
@@ -3684,7 +3684,7 @@ Re Musica, Ι. Wien: Verlag der Österreichischen Akademie der Wissenschaften, 1
 Karas, Simon. (1982). Method of Greek music. Theoretical. 2 vols. Athens: Society for the Dissemination of
 National Music.
 
-Gertsman, Εvgeny Vladimirovich. (Ed., 1994). Petersburg Theoreticon. Odessa: Variant Publishers.
+Gertsman, Evgeny Vladimirovich. (Ed., 1994). Petersburg Theoreticon. Odessa: Variant Publishers.
 Tardo, Lorenzo, Jeromonaco. (1938). Lʼ antica melurgia bizantina nellʼ interpretazione della Scuola Monastica di
 Grottaferrata. Grottaferrata.
 
@@ -3763,7 +3763,7 @@ multiprismatischen Analysemodell aufgrund von J. Raasteds Strukturierungsmethode
 Études Byzantines et Post-byzantines, 6, pp. 325-345, plates 1-7.2 & appendices I-II.
 Alexandru, Maria, & Troelsgård, Christian. (2008). The importance of the so-called protheoria of the Papadike for the study of
 Byzantine and post-Byzantine music. In Basile Atsalos et Niki Tsironi (eds.), Actes du VIe Colloque
-International de Paléographie Grecque (Drama, 21-27 septembre 2003), (vol. ΙΙ, pp. 559-572 & vol. ΙΙΙ, pp. 1221-
+International de Paléographie Grecque (Drama, 21-27 septembre 2003), (vol. II, pp. 559-572 & vol. III, pp. 1221-
 1233). Athènes: Société Hellénique de Reliure.
 Alexandru, Maria, & Troelsgård, Christian. (2013). The development of a didactic tradition - The elements of the
 Papadike. In Gerda Wolfram & Christian Troelsgård (eds.), Tradition and Innovation in Late- and Postbyzantine
@@ -3775,14 +3775,14 @@ Danuser, Hermann. (1998). Vortrag. In Ludwig Finscher (ed.), Die Musik in Geschi
 Enzyklopädie der Musik, begründet von Friedrich Blume (zweite, neubearbeitete Auflage), vol. 9 (cols. 1817-
 1836). Kassel-Basel-London-New York-Prag: Bärenreiter, Stuttgart-Weimar: Metzler.
 Floros, Constantin. (1970). Universale Neumenkunde. 3 vols. Kassel: Bärenreiter Antiquariat, Kassel-Wilhelmshöhe.
-Huglo, Michel, & Brockett, Clyde. Odo. In L. Macy (ed.), Τhe New Grove Dictionary of Music Online. Retrieved from
+Huglo, Michel, & Brockett, Clyde. Odo. In L. Macy (ed.), The New Grove Dictionary of Music Online. Retrieved from
 <http://www/grovemusic.com> (25.11.2005).
 Husmann, Heinrich. (1972). Strophenbau und Kontrafakturtechnik der Stichera. Archiv für Musikwissenschaft, xxix, 150-
 161 and 213-234.
 Jammers, Ewald. (1962). Musik in Byzanz, im päpstlichen Rom und im Frankenreich: Der Choral als Musik der
 Textaussprache. Abhandlungen der Heidelberger Akademie der Wissenschaften, Phil.-hist. Kl. Heidelberg.
 Kalaitzidis, Kyriakos. (2012). Post-Byzantine Music Manuscripts as a Source for Oriental Secular Music (15th to Early
-19th Century). Τransl. Kiriaki Koubaroulis & Dimitri Koubaroulis. Istanbuler Texte und Studien herausgegeben
+19th Century). Transl. Kiriaki Koubaroulis & Dimitri Koubaroulis. Istanbuler Texte und Studien herausgegeben
 vom Orient‐Institut Istanbuls, Bd. 28. Würzburg: Ergon Verlag.
 Levy, Kenneth. (1958). The Byzantine Sanctus and its Modal Tradition in East and West. Annales musicologiques, 6, 7-
 
@@ -3806,7 +3806,7 @@ VII. Copenhagen: Munksgaard.
 Raasted, Jørgen. (1966b). Some Reflections on Byzantine Musical Style. Studies in Eastern Chant, 1, 57-66.
 Raasted, Jørgen. (1986). Thoughts on a Revision of the Transcription Rules of the Monumenta Musicae Byzantinae.
 CIMAGL, 54, 13-37.
-Raasted, Jørgen. (1995a). An Old Melody for Tῇ Ὑπερμάχῳ. In Alberto Doda (ed.), Studi di Musica Bizantina in
+Raasted, Jørgen. (1995a). An Old Melody for Τῇ Ὑπερμάχῳ. In Alberto Doda (ed.), Studi di Musica Bizantina in
 onore di Giovanni Marzi. Studi e Testi Musicali, Nuova Serie 6 (pp. 3-14). Lucca.
 Raasted, Jørgen. (1995b). Koukouzeles' Revision of the Sticherarion and Sinai gr. 1230. In J. Szendrei and D. Hiley
 (eds.), Laborare fratres in unum. Festschrift László Dobszay zum 60. Geburtstag, Spolia Berolinensia 7 (pp. 261-
@@ -3817,13 +3817,13 @@ Raasted, Jørgen. (1995c). Byzantinische Neumen und Kirchengesang. Ein Minimalku
 anderer Fachgebiete. Copenhagen, 1993, published in: Cantus Planus 6, vol. Β.
 Raasted, Jørgen. (1997). Koukouzeles' Sticherarion. In Christian Troelsgård (ed.), Byzantine Chant. Tradition and
 Reform. Acts of a Meeting held at the Danish Institute at Athens, 1993, Monographs of the Danish Institute at
-Athens, vol. 2 (pp. 9-21). Aarhus: Αarhus University Press.
+Athens, vol. 2 (pp. 9-21). Aarhus: Aarhus University Press.
 Tillyard, H.J.W. (1935, repr. 1970). Handbook of the Middle Byzantine Musical Notation. Second impression, with a
 postscript by Oliver Strunk. Monumenta Musicae Byzantinae, Subsidia, Vol. I, Fasc. 1. Copenhague:
 Munksgaard.
 Tillyard, H. J. W. (1938). The Hymns of the Sticherarium for November. Monumenta Musicae Byzantinae, Transcripta II.
 Copenhague: Levin & Ejnar Munksgaard.
-Troelsgård, Christian. (2011). Byzantine Neumes. Α Νew Introduction to the Middle Byzantine Musical Notation. MMB,
+Troelsgård, Christian. (2011). Byzantine Neumes. A New Introduction to the Middle Byzantine Musical Notation. MMB,
 Subsidia IX. Copenhagen: Tusculanum Press.
 Velimirović, Miloš. (1962). Liturgical Drama in Byzantium and Russia. Dumbarton Oaks Papers, 16, 349-385. URL:
 <http://www.jstor.org/stable/1291166> (30.04.2009).
@@ -3866,7 +3866,7 @@ Webography
 
 i For the description of codex Patmos 218 and an earlier publication of this and other folios of
 
-this manuscript, cf. Floros (1970, vol. Ι, pp. 60-61 and ΙΙΙ, facsimiles 67-72). Cf. also Troelsgård (2011, p.
+this manuscript, cf. Floros (1970, vol. Ι, pp. 60-61 and III, facsimiles 67-72). Cf. also Troelsgård (2011, p.
 
 95).
 
@@ -3885,7 +3885,7 @@ notation during the late 16th and the 17th century, with the consolidation of mo
 notation still in use today [moderne, noch heute gültige Taktnotation]).
 vi Floros (1998, p. 148).
 vii The date of the formation of Middle Byzantine notation is placed in the 1st half of the 12th century
-(Papathanassiou, 1997, p. 57) or around 1150 (Τroelsgård, 2011, back cover).
+(Papathanassiou, 1997, p. 57) or around 1150 (Troelsgård, 2011, back cover).
 viii "From about 1175 until the time of Chrysanthos, whose first publication appeared in 1821, the notation used in
 the transmission of Byzantine chant underwent no radical change. With the general acceptance of the diastematic
 principle at the very beginning of this long time-span, Byzantine musicians had taken a crucial step, a step no less
@@ -3909,7 +3909,7 @@ Floros (1970, vol. I, pp. 50-66). Troelsgård (2011). Stathis (1992, pp. 47-59).
 
 59). For earlier proposals for the periodization of Byzantine notation, of which the most prevalent was:
 
-Εarly Byzantine (ca. 950-1200), Middle Byzantine or Round notation (ca.1100-1450), Late Byzantine (1400-1821),
+Early Byzantine (ca. 950-1200), Middle Byzantine or Round notation (ca.1100-1450), Late Byzantine (1400-1821),
 Modern or Chrysanthine (from 1821), cf. Tillyard (1935, pp. 13-18).
 xi See Jammers (1962, pp. 70, 41, 6, 85). Cf. also Alexandrou (2010, p. 29, n. 49, and p. 75).
 xii Cf. Stathis (1975, pp. 211-213).
@@ -3919,7 +3919,7 @@ for the election of a faculty member in the Department of Music Studies. Thessal
 p. 9 (document of the Secretariat of the Department of Music Studies).
 
 xiv Cf. Arvanitis (2006, pp. 244-253). Alexandrou (2010, pp. 36-43).
-xv The present section takes as its starting point: Alexandru & Troelsgård (2008, especially vol. ΙΙ, pp. 562-567 and vol. ΙΙΙ, pp. 1223-
+xv The present section takes as its starting point: Alexandru & Troelsgård (2008, especially vol. II, pp. 562-567 and vol. III, pp. 1223-
 1225).
 xvi Cf. Harlfinger, Reinsch, Sonderkamp, & Prato (eds., 1983, pp. 56-57 and pl. 7). Raasted (1966a, p. 48).
 
@@ -3928,15 +3928,15 @@ xvi Cf. Harlfinger, Reinsch, Sonderkamp, & Prato (eds., 1983, pp. 56-57 and pl. 
 ||
 
 xvii Cf. Gertsman (ed., 1994, pp. 229-240 and pls. LII-LVIII).
-xviii Cf. Floros (1970, vol. ΙΙΙ, facsimile 2). Alexandru & Troelsgård (2008, vol. ΙΙ, p. 564 and vol. ΙΙΙ, p. 1223).
-xix Alexandru & Troelsgård (2008, vol. ΙΙ, p. 563).
+xviii Cf. Floros (1970, vol. III, facsimile 2). Alexandru & Troelsgård (2008, vol. II, p. 564 and vol. III, p. 1223).
+xix Alexandru & Troelsgård (2008, vol. II, p. 563).
 xx The table was taken, with some changes, especially concerning the four types of Protheoria, from: Alexandru &
-Troelsgård (2008, vol. ΙΙ, pp. 567-568). Cf. also the same authors (2013).
+Troelsgård (2008, vol. II, pp. 567-568). Cf. also the same authors (2013).
 xxi Cf. Floros (1970, vol. Ι, pp. 117-119).
 xxii For descriptions of the MS, cf. Stathis (1975, pp. 406-417) and Chatzigiakoumis (1980, Part B, pp. 170-171, Part
 D, pl. 83 and Part E, pl. 16).
 xxiii Cf. Tardo (1938, pp. 151-163).
-xxiv Floros (1970, vol. ΙΙΙ, facsimiles 3-8).
+xxiv Floros (1970, vol. III, facsimiles 3-8).
 xxv For the ison, cf. Iviron 970, f. 2r. The aporrhoe, which is included neither among the somata nor among the pneumata,
 is sometimes also called “melos”, perhaps under the influence of the Hagiopolite classification of signs, which
 had a corresponding subcategory of signs: cf. chap. 6, Table 6.2.
@@ -3998,7 +3998,7 @@ Adamis (1986, pp. 59-61), was made by the Greek Byzantine Choir, dir. Lykourgos 
 Aineite, plagal IV mode, with double lines (black and red) and with the inscription “double melos, according to
 the chant of the Latins” (Stathis, 1975, pp. 348-352 and pl. XIV). On the whole subject of the double melos, cf.
 Stathis (2001d).
-li Cf. also Floros (1970, vol. ΙΙ, pp. 259-260, regarding the old style of the Psaltikon in some stichera) and Wolfram
+li Cf. also Floros (1970, vol. II, pp. 259-260, regarding the old style of the Psaltikon in some stichera) and Wolfram
 (2008, on similarities and differences between the styles of kalophony and of the Psaltikon).
 lii Cf. description of the MS in: Chatzigiakoumis (1980, pp. 109-110). We thank Mr Demosthenis Spanoudakis for
 photographing some folios from codex NLG 2406 for the present handbook.
@@ -4010,11 +4010,11 @@ Angelopoulos. Ed. Sotiria Adam, direction Stella Arkenti. Athens, 2011. DVD of a
 lv We thank Mr Athanasios Trikoupis for the photograph. For further information regarding this MS,
 cf. chap. 11, assessment criterion 7, Figure 11.44.
 lvi For a description of this manuscript, cf. Schartau (1994, pp. 327-335). We thank Mr Giuseppe Sanfrattelo for photographing the folios from
-MS ΝkS 4466.
+MS NkS 4466.
 lvii Cf. also Chatzidaki (1994, p. 245).
 lviii For the slow exegesis of the ancient Tē Hypermachō, see Ioannis Lampadarios & Stephanos, 1st Domestikos (1850,
 Pandect, pp. 384-389). Cf. also Raasted (1995a). Psaltikon Ashburnhamensis L 64, f. 108r ff., year 1286,
-provenance: Grottaferrata, in Høeg (ed., 1956, MMB ΙV).
+provenance: Grottaferrata, in Høeg (ed., 1956, MMB IV).
 lix For further information regarding this MS, cf. Chatzigiakoumis (1975, p. 365).
 lx Cf. the Christos anesti in concise and slow-concise versions, and as “another slow one, ancient melos, as
 sung on Mount Athos”, together with corresponding scores in the New Method, on the CD Holy Pascha (P.E.K. 27) and

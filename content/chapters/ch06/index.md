@@ -134,7 +134,7 @@ Troelsgård & Wolfram, επιμ., 1999. Wolfram, επιμ., 2004),
 Ήδη στο αρχαϊκό στάδιό της, στο Ειρμολόγιο Λαύρα Β 32, η παλαιοβυζαντινή σημειογραφία εμφανίζεται σε
 δύο παραπλήσιες μορφές, οι οποίες αναγνωρίστηκαν ως δύο οικογένειες ή θυγατρικά συστήματα μιας ίδιας -
 σήμερα ακόμα αναζητούμενης - αρχέτυπης παλαιοβυζαντινής παρασημαντικής. Η μία οικογένεια επικράτησε
-να ονομάζεται Chartres (Σαρτρ), η άλλη Coislin (Κοαλέν). Tα αντίστοιχα ελληνικά ονόματα είναι:
+να ονομάζεται Chartres (Σαρτρ), η άλλη Coislin (Κοαλέν). Τα αντίστοιχα ελληνικά ονόματα είναι:
 σημειογραφία αθωνική και αγιοπολίτικη. Τα προαναφερθέντα γαλλικά ονόματα συσχετίζονται, το κάθε ένα,
 με αντιπροσωπευτικό χειρόγραφο από συλλογές γαλλικών βιβλιοθηκών, ενώ τα ελληνικά ονόματα
 προσδιορίζουν τις γεωγραφικές ζώνες όπου πιθανότατα εξελίχθηκαν στην αρχή οι δύο νευματικές
@@ -1405,7 +1405,7 @@ Troelsgård & Wolfram, επιμ., 1999. Wolfram, επιμ., 2004),
 συμβουλευθεί τις πανομοιότυπες εκδόσεις στη σειρά Monumenta Musicae Byzantinae, Facsimiles (τ. VII-X,
 σε επιμέλεια των Strunk [1966], Raasted [1968], Strunk & Follieri [1975] και Wolfram [1987]), Floros (1970,
 
-τ. ΙΙΙ) και Παπαθανασίου (2002, πίν. 16-22), Strunk (1977c, για τα περίφημα Μηναία του 11ου αι. από την
+τ. III) και Παπαθανασίου (2002, πίν. 16-22), Strunk (1977c, για τα περίφημα Μηναία του 11ου αι. από την
 
 ![Description](image_7782.png)
 ![Description](image_7783.png)
@@ -1426,8 +1426,8 @@ Troelsgård & Wolfram, επιμ., 1999. Wolfram, επιμ., 2004),
 
 1. S. Elia di Carbone: χφα Κρυπτοφέρρης Δ.α.xiii-xvii και Biblioteca Vallicelliana στη Ρώμη, αρ. Ε.55 με
 
-αρχαϊκή παλαιοβυζαντινή σημειογραφία), π. Thibaut (1913, σ. 73-83), Père Petresco (1932, πίνακες Ι-ΧΧ,
-ΧΧVI-XXVIII, με χφα από τις βιβλιοθήκες της Κρυπτοφέρρης και των Παρισίων BnF), Atanasov (2012, για
+αρχαϊκή παλαιοβυζαντινή σημειογραφία), π. Thibaut (1913, σ. 73-83), Père Petresco (1932, πίνακες Ι-XX,
+XXVI-XXVIII, με χφα από τις βιβλιοθήκες της Κρυπτοφέρρης και των Παρισίων BnF), Atanasov (2012, για
 χφα της Αχρίδας, Σόφιας κ.ά.), Bucca (2011, με χφα της Κάτω Ιταλίας. Βλ. και άρθρο της ίδιας υπό έκδοση,
 με σημαντικές αναφορές στις απαρχές της παλαιοβυζαντινής σημειογραφίας), Πατρώνας (2016) κ.ά.x
 
@@ -1449,7 +1449,7 @@ Troelsgård & Wolfram, επιμ., 1999. Wolfram, επιμ., 2004),
 ![Description](image_7801.jpeg)
 ![Description](image_7802.jpeg)
 
-Εικόνες 6.5-6. Tα δύο χειρόγραφα στα οποία οφείλονται οι ονομασίες Chartres και Coislin για τον προσδιορισμό των δύο οικογενειών της παλαιοβυζαντινής
+Εικόνες 6.5-6. Τα δύο χειρόγραφα στα οποία οφείλονται οι ονομασίες Chartres και Coislin για τον προσδιορισμό των δύο οικογενειών της παλαιοβυζαντινής
 σημειογραφίας. Αριστερά: Στιχηράριο Laurense Γ 67, από την Ιερά Μονή Μεγίστης Λαύρας του Αγίου Όρους, αρχές 11ου αι., σε παλαιοβυζαντινή αθωνική σημειγραφία,
 Chartres III (Floros, 1970, τ. Ι, σ. 53-54), φ. 96β, με το «Βασιλεῦ οὐράνιε» και άλλα στιχηρά της Πεντηκοστής. © για τη φωτογραφία από μικροταινία: Πατριαρχικό Ίδρυμα
 Πατερικών Μελετών, Θεσσαλονίκη.  Δεξιά: Ειρμολόγιο Coislin 220, από την Εθνική Βιβλιοθήκη της Γαλλίας, αρχές 12ου αι., σε παλαιοβυζαντινή αγιοπολίτικη σημειγραφία,
@@ -1468,7 +1468,7 @@ Chartres III (Floros, 1970, τ. Ι, σ. 53-54), φ. 96β, με το «Βασιλ
 
 Εικόνα 6.8. To Τριώδιο Vatopedense 1488, α΄ μισό 11ου αι. (Strunk)xv / β΄ μισό 11ου αι. (Floros), φ. 117β-118α, με τα δύο τελευταία στιχηρά των Μεγάλων Ωρών της Μεγάλης
 Παρασκευής. Αριστερά: «Ὅτε τῷ σταυρῷ», σε παλαιοβυζαντινή αγιοπολίτικη σημειογραφία, Coislin V. Δεξιά: «Σήμερον κρεμᾶται», σε παλαιοβυζαντινή αθωνική
-σημειογραφία, Chartres IV (Floros, 1970, τ. Ι, σ. 55-56, 309-310 και τ. ΙΙΙ, εικ. 51-52). © Ιερά Μεγίστη Μονή Βατοπαιδίου, Άγιον Όρος. Για την πανομοιότυπη έκδοση
+σημειογραφία, Chartres IV (Floros, 1970, τ. Ι, σ. 55-56, 309-310 και τ. III, εικ. 51-52). © Ιερά Μεγίστη Μονή Βατοπαιδίου, Άγιον Όρος. Για την πανομοιότυπη έκδοση
 ολόκληρου του χφου στη σειρά των Monumenta Musicae Byzantinae, βλ. Follieri & Strunk (επιμ., 1975).
 
 ![Description](image_7806.jpeg)
@@ -1476,7 +1476,7 @@ Chartres III (Floros, 1970, τ. Ι, σ. 53-54), φ. 96β, με το «Βασιλ
 
 Εικόνες 6.9-10. To Sticherarium Antiquum Vindobonense (Codex Vindobonensis theologicus graecus 136), α΄ μισό 12ου αι. (Wolfram), σε παλαιοβυζαντινή αγιοπολίτικη
 σημειογραφία, Coislin V (Floros, 1970, τ. Ι, σ. 57-58). Αριστερά: φ. 57β, με στιχηρά εις τιμήν των Αγίων Πέτρου Ιερομάρτυρος και Αικατερίνης της Μεγαλομάρτυρος, 25
-Νοεμβρίου.  Δεξιά: φ. 229β, με στιχηρά της Μεγάλης Παρασκευής (βλ. και Floros, 1970, τ. Ι, σ. 55-56, 309-310 και τ. ΙΙΙ, εικ. 51-52). © Österreichische Nationalbibliothek,
+Νοεμβρίου.  Δεξιά: φ. 229β, με στιχηρά της Μεγάλης Παρασκευής (βλ. και Floros, 1970, τ. Ι, σ. 55-56, 309-310 και τ. III, εικ. 51-52). © Österreichische Nationalbibliothek,
 Wien. Για την πανομοιότυπη έκδοση ολόκληρου του χφου στη σειρά των Monumenta Musicae Byzantinae, βλ. Wolfram (επιμ., 1987).
 
 ![Description](image_7808.jpeg)
@@ -1524,7 +1524,7 @@ Wien. Για την πανομοιότυπη έκδοση ολόκληρου τ�
 ![Description](image_7813.jpeg)
 
 Εικόνα 6.16. Στιχηράριο Petropolitanum graecum 789 (νέος αριθμός: Русское археологическое общество No 1), φ.
-250β. To πρώτο χρονολογημένο χειρόγραφο βυζαντινής μουσικής, έτ. 1106. Παλαιoβυζαντινή σημειογραφία αγιοπολίτικη
+250β. To πρώτο χρονολογημένο χειρόγραφο βυζαντινής μουσικής, έτ. 1106. Παλαιοβυζαντινή σημειογραφία αγιοπολίτικη
 (Coislin V), με μερικές συμπληρώσεις/διορθώσεις σε πιο σκούρο μελάνι (Coislin VI). Περιέχονται «Στιχ(ηρὰ)
 ἀνα(στάσιμα) ἀνατολι(κὰ) τῷ σαββάτ(ῳ) ἑσπ(έρας) εἰς τ(ὸ) κ(ύρι)ε ἐκέ(κραξα)· ἦχο(ς) βαρ(ύς)»: «Κἂν
 συνελήφθης Χριστὲ ὑπὸ ἀνόμων ἀνδρῶν», «Δαυιτικὴν προφητείαν ἐκπληρῶν», «Κατῆλθες ἐν τῷ ᾅδῃ
@@ -1556,7 +1556,7 @@ Wien. Για την πανομοιότυπη έκδοση ολόκληρου τ�
 
 • Λίστα νευμάτων στο Στιχηράριον Λαύρας Γ 67, φ. 159α, με την επιγραφή: Σὺν Θεῷ ἀρχαὶ
 
-τῶν μελῳδημάτων (αρχές 11ου αι. [Φλώρος]): σημειογραφία αθωνική (Chartres ΙΙΙ),xxiv
+τῶν μελῳδημάτων (αρχές 11ου αι. [Φλώρος]): σημειογραφία αθωνική (Chartres III),xxiv
 
 • Ἁγιοπολίτης (χρονολογία σύνταξης: 12ος αι., με μεταγενέστερες επεξεργασίες): σημειογραφία
 
@@ -1593,7 +1593,7 @@ Wien. Για την πανομοιότυπη έκδοση ολόκληρου τ�
 
 Πατερικών Μελετών, Θεσσαλονίκη.
 
-### 2.2. Αγιοπολίτικη σημειογραφία (Cοislin)
+### 2.2. Αγιοπολίτικη σημειογραφία (Coislin)
 
 Μια αντίστοιχη λίστα σημαδιών, αυτή τη φορά για την αγιοπολίτικη σημειογραφία, βρίσκεται στο αρχαιότερο
 σωζόμενο εγχειρίδιο Ψαλτικής Τέχνης, το οποίο φέρει τον τίτλο Βιβλίον Ἁγιοπολίτης συγκεκροτημένον
@@ -1647,7 +1647,7 @@ Parisinus graecus 360, φ. 216α-237α, από το 14ο αιώνα. Ωστόσ�
 
 Petropolitanum graecum 495, φ. 1β (απόσπασμα), α΄ μισό του 13ου αιώνα. © Εθνική Βιβλιοθήκη της Ρωσίας, St.
 Petersburg.
-Βλ. και Gertsman (επιμ., 1994, πίν. LΙΙ και σ. 229-240).
+Βλ. και Gertsman (επιμ., 1994, πίν. LII και σ. 229-240).
 
 Εκτός από τις τρεις κατηγορίες, τόνοι, πνεύματα και ημίτονα, ο κώδικας Vaticanus Barberinus graecus
 300, φ. 9β-10α (15ος αι.) και άλλα χειρόγραφα με την αγιοπολίτικη ταξινόμηση αναφέρουν μια τέταρτη
@@ -1837,16 +1837,16 @@ Chartres σημειογραφίας,
 χαρακτηριστικά μεγάλα
 σημάδια.
 
-|Coislin IΙ|• 8 στιχηρά από τα Μηναία του Carbone (από την Καλαβρία της Κάτω Ιταλίας, παλαιά στην ιδιοκτησία της Ι.Μ. Προφήτου Ηλιού): σήμερα Codices Cryptenses Δ.α. XIII-XVII, μέσα 11ου αι.| Πολλές συλλαβές του σημαδόφωνα.  Εμφανίζεται το αγκυλωτό ίσον ως καταληκτικό σημάδι.|κειμένου χωρίς  Εμφανίζονται το ευθυγραμμισμένο ίσον και το επίσημα ολίγου (δηλ. βραχυγραφία της λέξης ολίγον), τα οποία είναι πολύ χαρακτηριστικά για τη σημειογραφία Chartres.|• Λαύρας Γ 12, Γ 72 και Γ 74 (Στιχηράρια από τις αρχές 11ου αι.).|Chartres IΙ|
+|Coislin II|• 8 στιχηρά από τα Μηναία του Carbone (από την Καλαβρία της Κάτω Ιταλίας, παλαιά στην ιδιοκτησία της Ι.Μ. Προφήτου Ηλιού): σήμερα Codices Cryptenses Δ.α. XIII-XVII, μέσα 11ου αι.| Πολλές συλλαβές του σημαδόφωνα.  Εμφανίζεται το αγκυλωτό ίσον ως καταληκτικό σημάδι.|κειμένου χωρίς  Εμφανίζονται το ευθυγραμμισμένο ίσον και το επίσημα ολίγου (δηλ. βραχυγραφία της λέξης ολίγον), τα οποία είναι πολύ χαρακτηριστικά για τη σημειογραφία Chartres.|• Λαύρας Γ 12, Γ 72 και Γ 74 (Στιχηράρια από τις αρχές 11ου αι.).|Chartres II|
 |---|---|---|---|---|---|
-|Coislin IΙΙ|• 27 στιχηρά από τα Μηναία του Carbone • Ειρμολόγιο I.M. Αγ. Σάββα του Ηγιασμένου 83, αρχές 11ου αι. (Heirmologium Sabbaiticum, ΜΜΒ 8, επιμ. Raasted), με| Συχνή χρήση της αποστρόφου, πάνω σε συλλαβές οι οποίες στις προηγούμενες φάσεις ήταν χωρίς νεύματα από πάνω. Ο Φλώρος διακρίνει, σύμφωνα με τη σημασία της, τρεις αποστρόφους: descendens (κατιούσα), repetens (επαναληπτική),| Εισαγωγή του κουφίσματος και διάφορων γραμματονευμάτων (βαθύ, δέλτα),  πολύ συχνή χρήση των εξής σημαδιών: απόστροφος με συντόμευση ολίγου από πάνω, χαμηλή, ράπισμα, απόστροφος+2 κεντήματα,|• Στιχηράριο Λαύρα Γ 67 (οι κανονικές του νευματοποιήσεις, καθώς υπάρχουν και μερικά στιχηρά με αρχαϊκή πβ σημειογραφία).|Chartres IΙΙ|
+|Coislin III|• 27 στιχηρά από τα Μηναία του Carbone • Ειρμολόγιο I.M. Αγ. Σάββα του Ηγιασμένου 83, αρχές 11ου αι. (Heirmologium Sabbaiticum, ΜΜΒ 8, επιμ. Raasted), με| Συχνή χρήση της αποστρόφου, πάνω σε συλλαβές οι οποίες στις προηγούμενες φάσεις ήταν χωρίς νεύματα από πάνω. Ο Φλώρος διακρίνει, σύμφωνα με τη σημασία της, τρεις αποστρόφους: descendens (κατιούσα), repetens (επαναληπτική),| Εισαγωγή του κουφίσματος και διάφορων γραμματονευμάτων (βαθύ, δέλτα),  πολύ συχνή χρήση των εξής σημαδιών: απόστροφος με συντόμευση ολίγου από πάνω, χαμηλή, ράπισμα, απόστροφος+2 κεντήματα,|• Στιχηράριο Λαύρα Γ 67 (οι κανονικές του νευματοποιήσεις, καθώς υπάρχουν και μερικά στιχηρά με αρχαϊκή πβ σημειογραφία).|Chartres III|
 
 ![Description](image_7823.jpeg)
 ![Description](image_7824.jpeg)
 
 ||σημειογραφικές ιδιαιτερότητες (σε Coislin II-III).|ascendens (ανιούσα): βλ. π.χ. Floros (1970, τ. III, σ. 61, παρ. 29).| καταγραφή του ξηρού κλάσματος ως σύμπτυξη (Ligatur: τα συστατικά σημάδια ενώθηκαν μεταξύ τους):|||
 |---|---|---|---|---|---|
-|Coislin IV|• Mηναία του Carbone: οι| Εισάγονται το ολίγον της Coislin| Σχεδόν όλες οι συλλαβές του ποιητικού|• Στιχηράριο Τριωδίου της Ι.Μ.Μ.|Chartres IV|
+|Coislin IV|• Μηναία του Carbone: οι| Εισάγονται το ολίγον της Coislin| Σχεδόν όλες οι συλλαβές του ποιητικού|• Στιχηράριο Τριωδίου της Ι.Μ.Μ.|Chartres IV|
 ||νευματοποιήσεις.|και το κούφισμα,  για επαναλήψεις προηγούμενου φθόγγου χρησιμοποιείται μόνο το ίσον της Coislin σημειογραφίας,  εμφανίζεται η πρακτική της ὑποτάξεως των σημαδιών, με την παλαιοβυζαντινή της μορφή, π.χ. όπου η οξεία χάνει τη διαστηματική της αξία και ψάλλεται το ίσον, όμως με την ποιότητα (τον τρόπο εκτέλεσης) της οξείας,  η θέση του θεματισμού αρχίζει να καταγράφεται πιο αναλυτικά.|νεύματα,  πολύ συχνή χρήση του επισήματος ολίγον της Chartres σημειογραφίας.|Βατοπαιδίου 1488, β΄ μισό 11ου αι. (Triodium Athoum, MMB IX, επιμ. Follieri/Strunk), • Σινά 1219 (Στιχηράριο, μέσα 11ου αι.).||
 |Coislin V και VI|Γύρω στα 60-70 χειρόγραφα, εκ των οποίων αναφέρονται, ενδεικτικά: - σε Coislin V: τα Στιχηράρια: • Αχρίδας 53 (τέλη 11ου αι.), • Βιέννης theol. gr. 136, α΄ μισό 12ου αι. (Sticherarium antiquum Vindobonense, ΜΜΒ Χ, επιμ. Wolfram), - μεταξύ Coislin V και VI:| Αυξάνεται το επίπεδο αναλυτικότητας στην καταγραφή του θεματισμού,  τα μεγάλα σημάδια αρχίζουν - σποραδικά στην Coislin V και ολοένα και πιο συστηματικά στην Coislin VI - να συμπληρώνονται με έμφωνα σημάδια, με απώτερο σκοπό το διαστηματικό προσδιορισμό των αντίστοιχων μελωδικών θέσεων.||||
 
@@ -1858,7 +1858,7 @@ Chartres σημειογραφίας,
 Parisinus, fonds
 Coislin 220,
 
-- σε Coislin VΙ:
+- σε Coislin VI:
 
 Στιχηράριο
 Λαύρας Δ 28
@@ -2021,7 +2021,7 @@ Coislin 220,
 1650k/op4/3, στα Κεντρικά Κρατικά Αρχεία στη Σόφια, τέλη 10ου αι., με διαίρεση σε μουσικοποιητικές ενότητες
 και ταύτιση σημαδιών, βάσει του Πίνακα 6.4. Σύμφωνα με τον Atanasov (2012, σ. 84), η σημειογραφία
 περιγράφεται ως Coislin I. Στο κώλον 2 φαίνεται ένα ράπισμα στην 5η συλλαβή από το τέλος, σημάδι το οποίο
-συνήθως συνδυάζεται με τη σημειογραφία Chartres (Floros, 1970, τ. ΙΙΙ, σ. 44).
+συνήθως συνδυάζεται με τη σημειογραφία Chartres (Floros, 1970, τ. III, σ. 44).
 
 - 
 
@@ -2036,7 +2036,7 @@ Coislin 220,
 μετὰ σαρκός» (Χριστουγέννων) και  «Θεὸς ἐφάνη ἐπὶ γῆς» (Θεοφανείων). Τα πεντάγραμμα συσχετίζονται κάθε
 φορά με τις πηγές σε μεσοβυζαντινή σημειογραφία. © Constantin Floros.
 Πηγή: Floros, Constantin. (1970). Universale Neumenkunde. Kassel: Bärenreiter Antiquariat, Kassel-Wilhelmshöhe, τ.
-ΙΙΙ, σ. 241. Μια μετάφραση του παραδείγματος βρίσκεται σε: Φλώρος, Κωνσταντίνος. (1998). Η ελληνική παράδοση στις
+III, σ. 241. Μια μετάφραση του παραδείγματος βρίσκεται σε: Φλώρος, Κωνσταντίνος. (1998). Η ελληνική παράδοση στις
 μουσικές γραφές του μεσαίωνα. Εισαγωγή στη Νευματική Επιστήμη. Μετφρ.-επιμ. Κώστας Κακαβελάκης, φιλολ. επιμ. Ν.
 Αβραμόπουλος. Θεσσαλονίκη: Ζήτη, σ. 136, πίν. 1α.
 
@@ -2046,7 +2046,7 @@ Coislin 220,
 ὄρος τῶν ἐλαιῶν», από το χφο Λαύρας Γ 67, φ. 91β, σε Chartres III, και μεταφορά των δομικών φθόγγων στο
 πεντάγραμμο. © Constantin Floros.
 Πηγή: Floros, Constantin. (1970). Universale Neumenkunde. Kassel: Bärenreiter Antiquariat, Kassel-Wilhelmshöhe, τ.
-ΙΙΙ, σ. 264. Μια μετάφραση του πίνακα βρίσκεται σε: Φλώρος, Κωνσταντίνος. (1998). Η ελληνική παράδοση στις
+III, σ. 264. Μια μετάφραση του πίνακα βρίσκεται σε: Φλώρος, Κωνσταντίνος. (1998). Η ελληνική παράδοση στις
 μουσικές γραφές του μεσαίωνα. Εισαγωγή στη Νευματική Επιστήμη. Μετφρ.-επιμ. Κώστας Κακαβελάκης, φιλολ. επιμ. Ν.
 Αβραμόπουλος. Θεσσαλονίκη: Ζήτη, σ. 163, πίν. 3α.
 
@@ -2054,7 +2054,7 @@ Coislin 220,
 
 Κριτήριο αξιολόγησης 1:
 Μεταγράψτε τη Λίστα μελωδημάτων από το χφο Λαύρας Γ 67, φ. 159α (Chartres
-III), με βάση την Εικόνα 6.19 και τo συναφές αρχείο της.
+III), με βάση την Εικόνα 6.19 και το συναφές αρχείο της.
 
 Κριτήριο αξιολόγησης 2:
 Μεταγράψτε την αγιοπολίτικη ταξινόμηση σημαδιών από το χφο Πετρούπολης 495,
@@ -2122,13 +2122,13 @@ Nationalbibliothek, Wien.
 
 Παπαγιάννης, Κωνσταντίνος, Πρωτοπρεσβύτερος. (2005). Μουσικὸν Πεντηκοστάριον. Επιμ. Εμμανουήλ
 Γιαννόπουλος. Θεσσαλονίκη: University Studio Press.
-Follieri, Enrica, and Strunk, Oliver. (Eπιμ., 1975). Triodium Athoum. Monumenta Musicae Byzantinae, Facsimiles IX,
+Follieri, Enrica, and Strunk, Oliver. (Επιμ., 1975). Triodium Athoum. Monumenta Musicae Byzantinae, Facsimiles IX,
 Pars Principalis & Pars Suppletoria. Copenhagen: Ejnar Munksgaards Forlag.
 Perria, Lidia, and Raasted, Jørgen. (Επιμ., 1992). Sticherarium Ambrosianum. MMB, Facsimiles XI, Pars Principalis &
 Pars Suppletoria. Copenhagen: Munksgaard.
 Raasted, Jørgen. (Επιμ., 1968). Hirmologium Sabbaiticum. Monumenta Musicae Byzantinae, Facsimiles VIII. 3 vols.:
 Pars Suppletoria & Pars Principalis 1-2. Copenhagen: Ejnar Munksgaards Forlag.
-Strunk, Oliver. (Eπιμ., 1966). Specimina Notationum Antiquiorum. Folia selecta ex variis codicibus saec. x, xi, & xii
+Strunk, Oliver. (Επιμ., 1966). Specimina Notationum Antiquiorum. Folia selecta ex variis codicibus saec. x, xi, & xii
 phototypice depicta. Monumenta Musicae Byzantinae, Facsimiles VII, Pars Principalis & Pars Suppletoria.
 Copenhagen: Ejnar Munksgaards Forlag.
 Wolfram. Gerda. (Επιμ., 1987). Sticherarium antiquum Vindobonense. Monumenta Musicae Byzantinae, Facsimiles X,
@@ -2136,9 +2136,9 @@ Pars Principalis & Pars Suppletoria. Wien: Verlag der Österreichischen Akademie
 
 ### Θεωρητικά
 
-Raasted, Jørgen. (Eπιμ., 1983). The Hagiopolites, A Byzantine Τreatise on Musical Theory. Preliminary Edition. Cahiers
+Raasted, Jørgen. (Επιμ., 1983). The Hagiopolites, A Byzantine Treatise on Musical Theory. Preliminary Edition. Cahiers
 de l' Institut du Moyen-Âge Grec et Latin, 45.
-Gertsman, Εvgeny Vladimirovich. (Επιμ., 1994). Petersburg Theoreticon. Odessa: Variant Publishers.
+Gertsman, Evgeny Vladimirovich. (Επιμ., 1994). Petersburg Theoreticon. Odessa: Variant Publishers.
 
 Κατάλογοι μουσικών χειρογράφων
 
@@ -2173,12 +2173,12 @@ Chennevières-sur-Marne: L'Ermitage.
 
 Adsuara, Clara. (1999). Asmatic, Psaltic and 'Kalophonic' Fragments in Palaeobyzantine Notation. Σε Chr. Troelsgård &
 
-G. Wolfram (επιμ.), Palaeobyzantine Notations IΙ, Acta of the Cogress Held at Hernen Castle (The Netherlands)
+G. Wolfram (επιμ.), Palaeobyzantine Notations II, Acta of the Cogress Held at Hernen Castle (The Netherlands)
 
 in October 1996 (σ. 47-61). Hernen: Brediusstichting.
 Alexandru, Maria και Troelsgård, Christian. (2008). Η σημασία της Παπαδικής λεγόμενης προθεωρίας για την έρευνα
 της βυζαντινής και μεταβυζαντινής μουσικής. Σε Basile Atsalos et Niki Tsironi (eds.), Actes du VIe Colloque
-International de Paléographie Grecque (Drama, 21-27 septembre 2003), (τ. ΙΙ, σ. 559-572 & τ. ΙΙΙ, σ. 1221-
+International de Paléographie Grecque (Drama, 21-27 septembre 2003), (τ. II, σ. 559-572 & τ. III, σ. 1221-
 1233). Athènes: Société Hellénique de Reliure.
 Atanasov, Asen. (2012). Musical Manuscripts in Ochrid and Tirana. Σε Chr. Hannick, Chr. Troelsgård, Sv. Kujumdzieva
 (ed.-in-chief), St. Harkov, Byzantium without Borders: Hymnography and Music in the Byzantine World, 22nd
@@ -2190,15 +2190,15 @@ Doda, Alberto. (1995). Coislin Notation. Problems and Working Hypotheses. Σε J
 Foundation.
 Floros, Constantin. (1970). Universale Neumenkunde. 3 τ. Kassel: Bärenreiter Antiquariat, Kassel-Wilhelmshöhe.
 Hannick, Christian. (1994). Βυζαντινὴ μουσική. Μετφρ. Δημήτρη Γιάννου. Σε Herbert Hunger, Βυζαντινὴ
-λογοτεχνία. Ἡ λόγια κοσμικὴ γραμματεία τῶν Βυζαντινῶν (τ. Γ΄, σ. 383-434). Aθήνα: Μορφωτικό Ίδρυμα
+λογοτεχνία. Ἡ λόγια κοσμικὴ γραμματεία τῶν Βυζαντινῶν (τ. Γ΄, σ. 383-434). Αθήνα: Μορφωτικό Ίδρυμα
 Εθνικής Τραπέζης.
-Hannick, Chr., Troelsgård, Chr., Kujumdzieva, Sv., ed. in chief, and Harkov, St. (Eπιμ., 2012). 22nd International
+Hannick, Chr., Troelsgård, Chr., Kujumdzieva, Sv., ed. in chief, and Harkov, St. (Επιμ., 2012). 22nd International
 Congress of Byzantine Studies - Sofia, 22-27 August 2011. Byzantium Without Borders: Hymnography and
 Music in the Byzantine World. Bulgarian Musicology, No 3-4. Sofia.
 Jung, Annette. (1998). The Long Melisms in the Non-Kalophonic Sticherarion. Διδακτορική διατριβή. Copenhagen
 University, Humanistic Faculty.
 Jung, Annette. (1999). Early Marginal Additions in Palaeobyzantine Musical Manuscripts. Σε Chr. Troelsgård & G.
-Wolfram (επιμ.), Palaeobyzantine Notations IΙ, Acta of the Cogress Held at Hernen Castle (The Netherlands) in
+Wolfram (επιμ.), Palaeobyzantine Notations II, Acta of the Cogress Held at Hernen Castle (The Netherlands) in
 October 1996 (σ. 37-46). Hernen: Brediusstichting.
 Petresco, Père J.-D. (1932). Les idiomèles et le canon de l' Office de Noël (d' après des manuscrits grecs des XIe, XIIe,
 XIIIe et XIVe s.). Préface de M. A. Gastoué. Paris: Librairie Orientaliste Paul Geuthner.
@@ -2206,7 +2206,7 @@ Raasted, Jørgen. (1969). Observations on the Manuscript Tradition of Byzantine 
 Numbers, based on Eustratiades' Edition of the Heirmologion. CIMAGL, 1, 1-12.
 Raasted, Jørgen. (1974). Modernization and Conversion. Two Types of Notational Change and their Consequences for
 the Transmission of Byzantine Music. Σε H. Glahn, S. Sørensen, and P. Ryom (eds.), International Musicological
-Society, Report of the Eleventh Congress, Copenhagen 1972 (τ. ΙΙ, σ. 775-777). Copenhagen: Edition Wilhelm
+Society, Report of the Eleventh Congress, Copenhagen 1972 (τ. II, σ. 775-777). Copenhagen: Edition Wilhelm
 Hansen, Stockholm: AB Nordiska Musikförlaget κ.ά.
 Raasted, Jørgen και Troelsgård, Christian. (Επιμ., 1995). Palaeobyzantine Notations. A Reconsideration of the Source
 Material. Hernen: A.A. Bredius Foundation.
@@ -2223,17 +2223,17 @@ Tillyard, H.J.W. (1937). Byzantine Neumes: The Coislin Notation. Byzantinische Z
 
 Troelsgård, Christian. (1999). An Early Constantinopolitan Sticherarion, MS Leukosia, Archbishopric of Cyprus,
 Mousikos 39, and its Notated Exaposteilaria Anastasima. Σε Chr. Troelsgård & G. Wolfram (επιμ.),
-Palaeobyzantine Notations IΙ, Acta of the Cogress Held at Hernen Castle (The Netherlands) in October 1996 (σ.
+Palaeobyzantine Notations II, Acta of the Cogress Held at Hernen Castle (The Netherlands) in October 1996 (σ.
 
 159-172). Hernen: Brediusstichting.
 
 Troelsgård, Christian. (2003). A List of Sticheron Call-Numbers of the Standard Abridged Version of the Sticherarion.
 Part I (The Cycle of the Twelve Months). CIMAGL, 74, 3-20.
-Troelsgård, Christian. (2011). Byzantine Neumes. Α Νew Introduction to the Middle Byzantine Musical Notation. MMB,
+Troelsgård, Christian. (2011). Byzantine Neumes. A New Introduction to the Middle Byzantine Musical Notation. MMB,
 Subsidia IX. Copenhagen: Tusculanum Press.
-Troelsgård, Christian και Wolfram, Gerda. (Eπιμ., 1999). Palaeobyzantine Notations II. Acta of the Cogress Held at
+Troelsgård, Christian και Wolfram, Gerda. (Επιμ., 1999). Palaeobyzantine Notations II. Acta of the Cogress Held at
 Hernen Castle (The Netherlands) in October 1996. Hernen: Brediusstichting.
-Wolfram, Gerda. (Επιμ., 2004). Palaeobyzantine Notations IIΙ. Acta of the Cogress Held at Hernen Castle, The
+Wolfram, Gerda. (Επιμ., 2004). Palaeobyzantine Notations III. Acta of the Cogress Held at Hernen Castle, The
 Netherlands, in March 2001. Leuven, Paris, Dudley MA: A.A. Bredius Foundation, Peeters.
 
 Διαδικτυογραφία
@@ -2246,7 +2246,7 @@ al_Gate_mosaic_2.jpg (11.6.2015).
 ## Σημειώσεις τέλους για το κεφάλαιο 6
 
 i Βλ. κεφ. 5, τελευταία ενότητα.
-ii Από την εισαγωγή του Oliver Strunk για την επαναστατική έκδοση του Thibaut (1913/1976, σ. ΙΙΙ). Σύμφωνα με τον
+ii Από την εισαγωγή του Oliver Strunk για την επαναστατική έκδοση του Thibaut (1913/1976, σ. III). Σύμφωνα με τον
 ίδιο μελετητή, η σημειογραφία του σπαράγματος από την Αγ. Πετρούπολη 557 ανήκει στην αρχαϊκή Coislin (Strunk,
 επιμ., 1966, Specimina, Pars Suppletoria, σ. 4-5).
 iii Floros (1970, τ. Ι, σ. 64). Σύμφωνα με τις περιγραφές του Φλώρου (ό.π.), το σπάραγμα «περιέχει 18 ακολουθίες
@@ -2276,36 +2276,36 @@ viii Για περισσότερες λεπτομέρειες, πρβλ. Φλώ�
 ix Ο παρών πίνακας στηρίζεται στην εξής βιβλιογραφία: Strunk (επιμ., 1966, Pars Principalis & Pars Suppletoria). Floros
 (1970) και του ιδίου (1998). Doda (1995). Στάθης (1992, σ. 48). Παπαθανασίου (2002, πίν. 16-23).
 x Πρβλ. επίσης <http://web.pvaigaiou.gov.gr/library/view_more_en.php?id=168&status=1&type=manuscript> (15.9.2016),
-για το Τριώδιο Ι.Μ. Λειμώνος 31, Λέσβος (12ος αι., μερικά τροπάρια με σημειογραφία Coislin). Περισσότερoι σύνδεσμοι
+για το Τριώδιο Ι.Μ. Λειμώνος 31, Λέσβος (12ος αι., μερικά τροπάρια με σημειογραφία Coislin). Περισσότεροι σύνδεσμοι
 για χειρόγραφα βυζαντινής μουσικής on-line αναφέρονται σε: <https://en.wikipedia.org/wiki/Sticheron> (12.9.2016).
 
-xi Τα δύο φύλλα αυτά ήδη δημοσιεύθηκαν σε: Floros (1970, τ. ΙΙΙ, εικ. 13-14. Για περισσότερα πανομοιότυπα βλ. ό.π.,
+xi Τα δύο φύλλα αυτά ήδη δημοσιεύθηκαν σε: Floros (1970, τ. III, εικ. 13-14. Για περισσότερα πανομοιότυπα βλ. ό.π.,
 εικ. 15-18). Για τη χρονολόγηση, βλ. Strunk (επιμ., 1966, Specimina, Pars Suppletoria, σ. 13): "not earlier than 950". O
 Floros (1970, τ. I, σ. 63-64) χρονολογεί το ίδιο χφο στο β΄ μισό του 10ου αιώνα και σημειώνει ότι είναι σε σημειογραφία
 Chartres I, με εξαίρεση ενός φυλλαδίου του χφου (φ. 51α-58β), το οποίο γράφηκε σε Coislin I.
 xii Ο κώδικας περιέχει στιχηρά του Τριωδίου και Πεντηκοσταρίου. Τα περισσότερα στιχηρά του φύλλων 1-45 είναι
 γραμμένα σε παλαιοβυζαντινή σημειογραφία αθωνικού τύπου (Chartres II), ενώ πολλά στιχηρά των φύλλων 46β-83β
-παρουσιάζουν τη σημειογραφία «Θήτα»: πρβλ. Floros (1970, τ. Ι, σ. 52-53 και τ. ΙΙΙ, εικόνες 19-21, με τα φύλλα 36α,
+παρουσιάζουν τη σημειογραφία «Θήτα»: πρβλ. Floros (1970, τ. Ι, σ. 52-53 και τ. III, εικόνες 19-21, με τα φύλλα 36α,
 38α και 42α του χφου Λαύρας Γ 12). Για τη χρονολόγηση βλ. επίσης Strunk (επιμ., 1966, Specimina, Pars Suppletoria, σ.
 
 1) και Raasted (1995, σ. 60).
 
 xiii To φύλλο 9α του Ειρμολογίου Coislin 220 έγινε γνωστό στην επιστημονική κοινότητα ήδη στο α΄ μισό του 20ού
 αιώνα, μέσα από τη δημοσίευσή του σε: Père Petresco (1932, πίν. XXVI).
-xiv Το στιχηρό αυτό δημοσιεύθηκε σε: Floros (1970, τ. ΙΙΙ, εικόνες 29-30, με σχετικές λεζάντες, και τ. Ι, σ. 339). Για
-περισσότερες εικόνες από το χφο αυτό, πρβλ. ό.π. (τ. ΙΙΙ, εικόνες 25-36). Το Στιχηράριο Λαύρας Γ 67 (περιέχει Τριώδιο,
+xiv Το στιχηρό αυτό δημοσιεύθηκε σε: Floros (1970, τ. III, εικόνες 29-30, με σχετικές λεζάντες, και τ. Ι, σ. 339). Για
+περισσότερες εικόνες από το χφο αυτό, πρβλ. ό.π. (τ. III, εικόνες 25-36). Το Στιχηράριο Λαύρας Γ 67 (περιέχει Τριώδιο,
 Πεντηκοστάριο, Οκτώηχο) είναι γραμμένο ως επί το πλείστον σε αθωνική σημειογραφία (Chartres III). Ο Φλώρος
 συμπεραίνει όμως ότι ο γραφέας του χφου αυτού είχε τέσσερα ανθίβολα (πρότυπα από τα οποία αντέγραψε, γερμ.
 Vorlagen), καθώς ομάδες στιχηρών του ίδιου χφου παρουσιάζουν αρχαϊκή παλαιοβυζαντινή σημειογραφία Coislin I
-(Floros, 1970, τ. ΙΙΙ, εικόνα 31), Chartres I (ό.π., εικόνα 33), ή ακόμα μια μεικτή μορφή παλαιοβυζαντινής
+(Floros, 1970, τ. III, εικόνα 31), Chartres I (ό.π., εικόνα 33), ή ακόμα μια μεικτή μορφή παλαιοβυζαντινής
 σημειογραφίας με βάση την Coislin III και στοιχεία της Chartres (ό.π., εικόνες 25-26, 29-30, 35-36). Για μια περιγραφή
 των αρχαϊκών και μεικτών νευματοποιήσεων του Στιχηραρίου Λαύρας Γ 67, πρβλ. Floros (1970, τ. Ι, σ. 332-340). Για
 μια ανοιχτή λίστα στιχηρών του Λέοντος ΣΤ΄ του Σοφού (ιδιόμελα, θεοτοκία, σταυροθεοτοκία) με βάση
 παλαιοβυζαντινά Στιχηράρια και Ειρμολόγια, καθώς και το Στιχηράριο Ambrosianum A 139 sup. σε μεσοβυζαντινή
-γραφή, βλ. Floros (1970, τ. ΙΙΙ, σ. 14-18. Στον τ. Ι, σ. 351-352 γίνεται αναφορά στα 11 εωθινά του ίδιου βασιλιά -
+γραφή, βλ. Floros (1970, τ. III, σ. 14-18. Στον τ. Ι, σ. 351-352 γίνεται αναφορά στα 11 εωθινά του ίδιου βασιλιά -
 μελωδού).
 xv Πρβλ. Troelsgård (2011, σ. 139).
-xvi Πρβλ. Floros (1970, τ. Ι, σ. 59-60). Τα δύο φύλλα αυτά ήδη δημοσιεύθηκαν σε: Floros (1970, τ. ΙΙΙ, εικ. 65-66).
+xvi Πρβλ. Floros (1970, τ. Ι, σ. 59-60). Τα δύο φύλλα αυτά ήδη δημοσιεύθηκαν σε: Floros (1970, τ. III, εικ. 65-66).
 Σύμφωνα με τον ίδιο μουσικολόγο, το χφο Λαύρας Δ 28 είναι γραμμένο σε Coislin VI, με εξαίρεση πέντε στιχηρά σε
 Chartres IV, στα φύλλα 199β-201α: Ὢ φύλακες Ἰουδαίων, Ἄγγελοι σκιρτήσατε, Σκιρτάτω πᾶσα ἡ κτίσις, Τὸ
 Πάσχα τοῦτο τὸ μέγα, Πάσχα τὸ μέγα τὸ τῆς ἐνδόξου καὶ θείας ἀναστάσεως (Floros, 1970, τ. Ι, σ. 330). Για μια
@@ -2332,39 +2332,39 @@ the sticheron genre, and a decisive influence from the psaltikon style has not b
 tendency towards more embellished melodies is felt from the 12th century. Hymns embellished with melisms are sung at
 important Church festivals, particularly Stauroproskynesis and Good Friday, and the presence of a melism in the hymn
 might depend on the liturgical setting. The melismated hymns have been found also in the oldest extant manuscripts, and
-the tradition has been stable". Βλ. όμως και Floros (1970, τ. ΙΙ, σ. 259-260).
+the tradition has been stable". Βλ. όμως και Floros (1970, τ. II, σ. 259-260).
 xx Για την πρώιμη παράδοση των στιχηρών του Πάσχα, εκ των οποίων αρκετά βασίζονται σε Ομιλίες του Αγίου
 Γρηγορίου του Θεολόγου για τη συγκεκριμένη γιορτή, βλ. Strunk (1977a & b).
 xxi Για τη λεπτομερέστερη μελέτη της πολύ ενδιαφέρουσας σημειογραφίας σ' αυτό το στιχηρό, πρβλ. το Κριτήριο
 αξιολόγησης 6 στο τέλος του παρόντος κεφαλαίου.
 xxii Για τα τέσσερα αυτά ανατολικά στιχηρά του Εσπερινού της Κυριακής (τελείται Σάββατο το βράδυ), πρβλ. Perria &
 Raasted (eds., Sticherarium Ambrosianum, Pars Suppletoria, 1992, σ. 10, 21, 26, 32). Παρακλητική (1997, σ. 351).
-xxiii O Floros (1970, τ. ΙΙ, σ. 259-260 και τ. ΙΙΙ, πανομοιότυπα 60-64) αναφέρει έξι στιχηρά μεγάλων εορτών, τα οποία στο
+xxiii O Floros (1970, τ. II, σ. 259-260 και τ. III, πανομοιότυπα 60-64) αναφέρει έξι στιχηρά μεγάλων εορτών, τα οποία στο
 χφο Κρυπτοφέρρης Ε.α.11, φ. 22α-23β και 29β, του έτους 1112, καταγράφονται με παλαιοβυζαντινή αγιοπολίτικη
 σημειογραφία (Coislin V), σε πολύ μελισματική υφή, την οποία ο προαναφερθείς μουσικολόγος προσδιορίζει ως «στυλ
 του Ψαλτικού» ("psaltischen Stils"). Συγκεκριμένα, το στιχηρό «Δεῦτε μακαρίσωμεν ἅπαντες Ἰωσὴφ τὸν ἀοίδιμον»
 εμφανίζεται στο χφο της Κρυπτοφέρρης Ε.α.11 ως ακόμα πιο μελισματικό, σε σχέση με την εκδοχή που υπάρχει στο
 
-Στιχηράριο Petrop. gr. 789, φ. 258α. Ο Οliver Strunk χαρακτήρισε τα μελισματικά στιχηρά του κώδικα της
+Στιχηράριο Petrop. gr. 789, φ. 258α. Ο Oliver Strunk χαρακτήρισε τα μελισματικά στιχηρά του κώδικα της
 Κρυπτοφέρρης ως «καλοφωνικά», ενώ η Clara Adsuara προτείνει τον όρο «πρώτο-καλοφωνικά» για τα ίδια κομμάτια:
 βλ. Adsuara (1999, σ. 47, 54, 56, 60). Βλ. επίσης Troelsgård (1999, σ. 172), όπου δημοσιεύεται το στιχηρό «Ἄγγελοι
 σκιρτήσατε» από το πρώιμο κωνσταντινουπολίτικο Στιχηράριο της Λευκωσίας, Αρχιεπισκοπή Κύπρου, χφο Μουσικό
 39, από τα μέσα του 11ου αι. (το συγκεκριμένο στιχηρό όμως αποτελεί μεταγενέστερη προσθήκη). Στο προαναφερθέν
 χφο το στιχηρό εμφανίζεται σε μια ακόμα πιο μελισματική μορφή, σε σχέση με την εκδοχή του Petrop. gr. 789. Ο
-Τroelsgård (ό.π., σ. 163) σημειώνει σχετικά με την εκδοχή του «Ἄγγελοι σκιρτήσατε» στο χφο της Λευκωσίας ότι "As
+Troelsgård (ό.π., σ. 163) σημειώνει σχετικά με την εκδοχή του «Ἄγγελοι σκιρτήσατε» στο χφο της Λευκωσίας ότι "As
 a whole, the notation of this piece is somewhat reminiscent of the melismatic Heothina and 'proto-kalophonic' stichera of
-Cryptensis E.α.ΧΙ." To πολύ ενδιαφέρον θέμα των διάφορων επιπέδων μελισματικότητας στο παλαιό (προ-καλοφωνικό)
+Cryptensis E.α.XI." To πολύ ενδιαφέρον θέμα των διάφορων επιπέδων μελισματικότητας στο παλαιό (προ-καλοφωνικό)
 βυζαντινό ρεπερτόριο, καταγραμμένο σε παλαιο- και μεσοβυζαντινή παρασημαντική, αναμένει ακόμα μιας ενδελεχούς
 συγκριτικής μελέτης.
-xxiv Βλ. Floros (1970, τ. I, σ. 54-55, 351-352). Ο Οliver Strunk (επιμ., 1966, Specimina, Pars Suppletoria, σ. 29)
+xxiv Βλ. Floros (1970, τ. I, σ. 54-55, 351-352). Ο Oliver Strunk (επιμ., 1966, Specimina, Pars Suppletoria, σ. 29)
 χρονολογεί το ίδιο χειρόγραφο στο 10ο αιώνα.
 xxv Βλ. Raasted (επιμ., 1983, Hagiopolites). Πρβλ. και Hannick (1994, σ. 406-410). Φλώρος (1998, σ. 102).
 xxvi Floros (1970, τ. Ι, σ. 32, 53-54, 82 ["der königliche Codex Lavra Γ. 67"], 83 -85, 351-352).
 xxvii Για την περιγραφή του ψηφιδωτού, πρβλ. Χατζηδάκη (1994, σ. 57, εικ. 33).
 xxviii Εικόνα από το μικροφίλμ του Πατριαρχικού Ιδρύματος Πατερικών Μελετών, Ι.Μ. Βλατάδων, Θεσσαλονίκη. Η
-λίστα αυτή δημοσιεύθηκε πολλές φορές. Βλ. π.χ. Floros (1970, τ. ΙΙΙ, πανομοιότυπο 1).
+λίστα αυτή δημοσιεύθηκε πολλές φορές. Βλ. π.χ. Floros (1970, τ. III, πανομοιότυπο 1).
 xxix Πρβλ. Raasted (επιμ., 1983, Hagiopolites, σ. 1-3). Hannick (1994, σ. 406-410).
-xxx Πρβλ. και Alexandru & Troelsgård (2008, τ. ΙΙ, σ. 563-564).
+xxx Πρβλ. και Alexandru & Troelsgård (2008, τ. II, σ. 563-564).
 xxxi Πρβλ. Φλώρος (1998, σ. 123). Floros (1970, τ. Ι, σ. 113 και τ. III, πανομοιότυπα 9-10). Ακολουθήσαμε τον τρόπο
 καταγραφής των ονομάτων των σημαδιών, όπως στον κώδικα Barberinus gr. 300, φ. 9β-10α. Για τα σχήματα των
 σημαδιών ακολουθήσαμε όμως τον Φλώρο, καθώς το χειρόγραφο, όντας μεταγενέστερο, έχει τα μεσοβυζαντινά σχήματα

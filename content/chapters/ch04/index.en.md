@@ -293,7 +293,7 @@ For ekphonetic notation the following six lists are known today:
 
 - Leimonos 38, fol. 317v, late 12th cent.? (Høeg), 12th cent. (Engberg), without a heading.
 
-- Tbilisi Q 908, fol. 279r, 13th cent.? (Εngberg). This is a Georgian manuscript. The list of ekphonetic sign-formulas is written in Greek, but the heading is in Georgian and has the following content: «Signs and sounds of the four Gospels and of the Apostles, according to the Greek melody».xxix The lists of the Holy Monastery of Leimonos and of Tbilisi are the most complete, representing the fully developed ekphonetic notation of the classical period (11th-12th cent.). They function in a sense as «didactic pericopes», since they preserve the structure of actual scriptural readings.
+- Tbilisi Q 908, fol. 279r, 13th cent.? (Engberg). This is a Georgian manuscript. The list of ekphonetic sign-formulas is written in Greek, but the heading is in Georgian and has the following content: «Signs and sounds of the four Gospels and of the Apostles, according to the Greek melody».xxix The lists of the Holy Monastery of Leimonos and of Tbilisi are the most complete, representing the fully developed ekphonetic notation of the classical period (11th-12th cent.). They function in a sense as «didactic pericopes», since they preserve the structure of actual scriptural readings.
 
 - Finally, there is an additional MS, known today only from the descriptions of I. Tzetzes, probably of the 12th cent. (Engberg). xxx
 
@@ -3441,7 +3441,7 @@ of a Byzantine musico-poetic text today aims at bringing out its basic forms/ver
 in each case relying on a dux, as well as at the concise presentation of the various variants from
 the remaining manuscripts, in one or more critical apparatuses. lviii
 Figure 4.12 shows the way in which critical editions of biblical texts
-with ekphonetic notation began at the renowned publishing organization Μonumenta Musicae Byzantinae in
+with ekphonetic notation began at the renowned publishing organization Monumenta Musicae Byzantinae in
 Copenhagen during the 1930s. Carsten Høeg prepared a critical edition of the pericope from the
 Gospel according to John (1:18–28), which is chanted on the Monday after Easter. It is based on the
 collation of eighteen Gospel Books and one Tetraevangelion, dated between the tenth and fourteenth centuries,
@@ -4009,13 +4009,13 @@ Martani (19992, p. 24). Høeg (1935, p. 137). Langenscheidts Grosses Schulwörte
 1113).
 viii Cf. Martani (2003a, p. 23).
 ix Cf. Høeg (1935, p. 75). Engberg (1995, pp. 38-39).
-x Cf. Høeg (1935). Τhibaut (1912/1984).
+x Cf. Høeg (1935). Thibaut (1912/1984).
 xi Cf. Floros (1998, p. 116). Karavidopoulos (2001, p. 39).
 xii Cf. Karavidopoulos (2001, pp. 38-39). In his monograph C. Høeg (1935) prefers the term Evangeliary, while
 with regard to the term Evangelistarium he stresses that it should be used only for the lists indicating the readings
 for each feast, which are also found within the Tetraevangelia (p. 70, n. 1).
 xiii For a third reading in the Divine Liturgy until the 7th century (according to others until the 5th or the 8th cent.),
-placed before the Apostle and the Gospel, cf. Μartani (2003a, p. 19). Cf., however, also Εngberg (2006).
+placed before the Apostle and the Gospel, cf. Martani (2003a, p. 19). Cf., however, also Engberg (2006).
 xiv Cf. Alygizakis (2001).
 xv The present table draws its data from the following bibliography: Høeg (1935, pp. 71-74). Martani (2003a, pp. 16,
 18-20). Vergotis (1988, pp. 105, 109-110). The Old Testament according to the Seventy (1935). Hieratikon (2005, pp. 114-115).
@@ -4031,7 +4031,7 @@ xviii See Høeg (1935, pp. 109-127). Engberg (1995).
 xix Cf. Høeg (1935, pp. 108 and 137).
 xx See also fol. 203v of the same palimpsest, where some ekphonetic signs can be seen squeezed
 between the older biblical text—also an indication that they were added later. For clarifications concerning the
-Codex Ephraemi cf. Høeg (1935, pp. 107-108, 116-121). Μartani (2003a, p. 23). See also
+Codex Ephraemi cf. Høeg (1935, pp. 107-108, 116-121). Martani (2003a, p. 23). See also
 <http://www.skypoint.com/members/waltzmn/ManuscriptsUncials.html#uC> (17.12.2014). With regard to the types of script,
 
 the majuscule could be identified as biblical, the minuscule as liturgical (?). I also thank
@@ -4088,8 +4088,8 @@ chapter.
 xxxv Photograph from: Høeg (1935, pl. II, scanned from S. Engberg’s handout at the Conference Palaeobyzantine
 Notations II, Congress Held at Hernen Castle [The Netherlands] in October 1996).
 xxxvi Photograph from: Høeg (1935, pl. I [excerpt]). The indication of the colours of the inks and of the folio (317v),
-according to Ηøeg (1935, p. 18). In pl. I of the same work, however, folio 318r is mentioned.
-xxxvii For other transcriptions and comments, cf. Høeg (1935, pp. 18-20). Ηandout by S. Engberg at the Conference
+according to Høeg (1935, p. 18). In pl. I of the same work, however, folio 318r is mentioned.
+xxxvii For other transcriptions and comments, cf. Høeg (1935, pp. 18-20). Handout by S. Engberg at the Conference
 Palaeobyzantine Notations II, Congress Held at Hernen Castle (The Netherlands) in October 1996, p. 7. Martani (2003a,
 
 pp. 25-30, 35).
@@ -4112,7 +4112,7 @@ a. parakletike, from the verb parakalō, or b. paraklitike, from the verb parakl
 documented by almost all the Byzantine lists of ekphonetic signs and is defended by scholars such as I.
 Tzetzes, C. Floros, and others. The second form occurs in the list of ekphonetic signs in the MS Leimonos 38, and
 is used in publications by J.B. Thibaut, C. Høeg, S. Engberg, S. Martani, and others. Cf., indicatively, Floros
-(1970, vol. II, p. 210, n. 210). Ηøeg (1935, pp. 19, 40 [interpretation of the word “paraklitike” from the verb “paraklinō”,
+(1970, vol. II, p. 210, n. 210). Høeg (1935, pp. 19, 40 [interpretation of the word “paraklitike” from the verb “paraklinō”,
 “accent incliné”]). Engberg (1995, p. 34).
 xliv Høeg (1935, pp. 36-37, with nn. 1-2). See also note xcvi at the end of chap. 2 of the present handbook.
 xlv For the grammatical form of the name “synemba”, as an aorist imperative of the verb synembainō, like

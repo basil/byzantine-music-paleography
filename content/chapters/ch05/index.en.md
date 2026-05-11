@@ -113,7 +113,7 @@ transcription and proposed restoration of the text by P. Sarischouli (Figures 5.
 Figure 5.2.a. Papyrus Berolinensis 21319, side → (recto, running parallel to the fibres of the papyrus), 6th/7th or 8th c., of unknown provenance, with a fragment
 of a Theotokion troparion in a right-sloping majuscule book hand. A kind of primitive notation is visible, consisting of dots above some
 letters (lines 1-4) and a hook-shaped form (line 4, above the letter Ε). At the beginning of the second line, the first eleven letters are in a dotted frame.
-This indicates that they should be erased. In the fourth line appear the characteristic abbreviations for two nomina sacra: M(HT)HΡ and Κ(ΥΡΙΟ)Υ.
+This indicates that they should be erased. In the fourth line appear the characteristic abbreviations for two nomina sacra: Μ(ΗΤ)ΗΡ and Κ(ΥΡΙΟ)Υ.
 
 Sources: The clarifications are based on Sarischouli (1995, pp. 48-56).
 
@@ -132,7 +132,7 @@ Sources: The clarifications are based on Sarischouli (1995, pp. 48-56).
 ![Description](image_6498.jpeg)
 
 Figure 5.2.b. Papyrus Berolinensis 21319, side ↓ (verso, writing running perpendicular to the fibres of the papyrus), 6th/7th or 8th c., of unknown provenance, with a fragment
-of two Theotokion troparia in a right-sloping majuscule book hand. In the third line there is an abbreviation of the word K(YΡΙΟ)Σ.
+of two Theotokion troparia in a right-sloping majuscule book hand. In the third line there is an abbreviation of the word Κ(ΥΡΙΟ)Σ.
 Signs of musico-poetic punctuation are visible (middle stops, in lines 1-3), as well as signs of a primitive notation: dots above some letters
 (end of the second line), the indication of the plagal second mode (line 4), and several mainly hook-shaped forms at the beginning of the second troparion (line 5).
 Sources: The clarifications are based on Sarischouli (1995, pp. 48-56).
@@ -283,7 +283,7 @@ As can be seen in the image above, in the 5th line of fol. 68v the word ΔΙΟ (
 reason) is visible between high stops, and with an acute above the final syllable. In many cases
 διό plays a special role in the structure of Byzantine troparia (heirmoi, stichera), since it marks the
 beginning of their final section, introducing the conclusion of the piece.xix A glance at the codex of
-Grottaferrata EγII with Middle Byzantine notation reveals that the heirmos Ὑμνῶ σε carries on the
+Grottaferrata ΕγII with Middle Byzantine notation reveals that the heirmos Ὑμνῶ σε carries on the
 corresponding word the thesis known as thematismos eso (θεματισμός ἔσω): see Figure 5.8.
 
 ![Description](image_6517.jpeg)
@@ -291,7 +291,7 @@ corresponding word the thesis known as thematismos eso (θεματισμός ἔ
 G# a h dc h
 
 Figure 5.8. The formula of the thematismos eso on the word “διό,” in the heirmos Ὑμνῶ σε, second mode, poem by Saint Kosmas
-the Melodist. Copy from the Heirmologion Grottaferrata EγII, year 1281, fol. 36r (Tardo, 1951, MMB 3. Raasted,
+the Melodist. Copy from the Heirmologion Grottaferrata ΕγII, year 1281, fol. 36r (Tardo, 1951, MMB 3. Raasted,
 1992, p. 224). Raasted (1995, p. 59) calls the melisma on the syllable -ο- "a structuralizing melsima".
 
 ## 6. Theta Notation
@@ -420,10 +420,10 @@ stop after it (see Figure 5.14).
 
 Jean-Baptiste Thibaut, one of the pioneers of Byzantine musical palaeography, published at the
 beginning of the 20th century his magnum opus in the field of Byzantine Musical Palaeography, entitled
-Μonuments de la Notation Ekphonétique et Hagiopolite de l'Église Grecque. This book includes,
+Monuments de la Notation Ekphonétique et Hagiopolite de l'Église Grecque. This book includes,
 alongside various facsimiles of valuable manuscripts, a first edition of the Sinaitic Codex L
 (Codex Sinaiticus Liturgicus), which is today in the Russian National Library, Sankt Petersburg,
-as RNB. Gr. 44: (Τhibaut, 1913, pp. 17-30 and documents 1*-11*).
+as RNB. Gr. 44: (Thibaut, 1913, pp. 17-30 and documents 1*-11*).
 As Alexandra Nikiforova and Tinatin Chronz emphasize, this manuscript constitutes a
 unique 9th-century collection, with readings, prayers, and chants of the Hagiopolite type, probably from
 the region of Egypt: see Figures 5.16-17.
@@ -445,7 +445,7 @@ Matthew 7, 1-3a,xxv in pointed oblique majuscule script, with double accents on 
 
 2.
 
-Figure 5.17. Codex Sinaiticus Liturgicus RNB Gr. 44, fol. 41r, with the second part of the sticheron eis synaxin “Tὸ
+Figure 5.17. Codex Sinaiticus Liturgicus RNB Gr. 44, fol. 41r, with the second part of the sticheron eis synaxin “Τὸ
 ζωοδόχον σου μνῆμα,” in the third mode, the deacon’s exhortation “Μή τις τῶν κατηχουμένω(ν)” at the beginning of the second
 part of the Divine Liturgy, the “Ἀλληλούϊα - (ἦχος [;]) β΄ Ἄρατε πύλας... (Psalm 23, 7) - Δόξ(α) Π(ατ)ρί -
 Ἀλληλούϊα” in the place of the Cherubic Hymn. There follows the deacon’s exhortation “Ἐν σοφίᾳ Θ(εο)ῦ πρόσχ(ωμεν)” and
@@ -711,7 +711,7 @@ Hymnography and Music in the Byzantine World, 22nd International Congress of Byz
 August 2011, Bulgarian Musicology, 3-4, 9-22.
 Liddell, H. G, Scott, R., Jones, H. St. and McKenzie, R. (1990). A Greek-English Lexicon, With a Supplement 1968 (repr.
 of 9th edition). Oxford: Clarendon Press.
-Nikiforova, Alexandra. (2015). The Oldest Greek Tropologion Sin.Gr. ΜΓ 56+5: Α New Witness to the Liturgy of
+Nikiforova, Alexandra. (2015). The Oldest Greek Tropologion Sin.Gr. ΜΓ 56+5: A New Witness to the Liturgy of
 Jerusalem from outside Jerusalem with First Edition of the Text. Oriens Christianus, 98, 138-173.
 Nikiforova, Alexandra, and Chronz, Tinatin. (forthcoming). A New Approach to the "Codex Sinaiticus Liturgicus"
 RNB.Gr. 44: Introduction, Publication, Discussion.

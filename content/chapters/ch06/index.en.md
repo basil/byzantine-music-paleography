@@ -2338,7 +2338,7 @@ leap for joy” is published from the early Constantinopolitan Sticherarion of N
 MS the sticheron appears in an even more melismatic form than the version of Petrop. gr. 789. Troelsgård
 (ibid., p. 163) notes concerning the version of “Angels, leap for joy” in the Nicosia MS that "As
 a whole, the notation of this piece is somewhat reminiscent of the melismatic Heothina and 'proto-kalophonic' stichera of
-Cryptensis E.α.ΧΙ." The very interesting question of the various levels of melismaticity in the old (pre-kalophonic)
+Cryptensis E.α.XI." The very interesting question of the various levels of melismaticity in the old (pre-kalophonic)
 Byzantine repertoire, recorded in Palaeo- and Middle Byzantine neumatic notation, still awaits a thorough
 comparative study.
 xxiv See Floros (1970, vol. I, pp. 54-55, 351-352). Oliver Strunk (ed., 1966, Specimina, Pars Suppletoria, p. 29)

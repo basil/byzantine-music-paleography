@@ -288,8 +288,8 @@ AristoxHarm: Aristoxenus. Elementa Harmonica. Rec. Rosetta da Rios. Roma, 1954.
 PtolHarm: Ptolemaeus. Harmonica. Die Harmonielehre des Klaudios Ptolemaios. Ed. Ingemar Düring. Göteborg
 Högskolas Årsskrift, 36 (1930).
 CleonidHarm: Cleonides. Introductio Harmonica. Ed. C. Jan, Musici Scriptores Graeci. Leipzig, 1895, p. 179.
-NicomEnch: Νicomachus Gerasenus. Encheiridion. Ed. C. Jan, Musici Scriptores Graeci. Leipzig, 1895, p. 236.
-NicomExc: Νicomachus Gerasenus. Excerpta. Ed. C. Jan, Musici Scriptores Graeci. Leipzig, 1895, p. 266.
+NicomEnch: Nicomachus Gerasenus. Encheiridion. Ed. C. Jan, Musici Scriptores Graeci. Leipzig, 1895, p. 236.
+NicomExc: Nicomachus Gerasenus. Excerpta. Ed. C. Jan, Musici Scriptores Graeci. Leipzig, 1895, p. 266.
 Lexicon: Mich: Michaelides, Solon. (1978). The Music of Ancient Greece. An Encyclopaedia. London.
 
 ### C. On the “Names,” Secondary and Rare Names, Peculiarities in the Form of the Names
@@ -361,7 +361,7 @@ c. Manuals in chronological order: see Table P.1.1.
 
 |Abbreviation in the Glossary|Title of manual, Edition|Dating|Corresponding developmental stage of notation|Bibliography||
 |---|---|---|---|---|---|
-|HagiopolR (Pa360)|Hagiopolites: Raasted, Jørgen. (ed., 1983). The Hagiopolites, A Byzantine Τreatise on Musical Theory. Preliminary Edition. Cahiers de l' Institut du Moyen-Âge Grec et Latin, 45.|Composition of the Hagiopolites: 12th c. Dating of ms. Pa360: 14th c.|PB (Coislin) and MB I (from early to fully developed)|Hannick, "Musik", pp. 200-202. Tardo, Melurgia, p. 164. Raasted’s comments in the edition of the Hagiopolites.||
+|HagiopolR (Pa360)|Hagiopolites: Raasted, Jørgen. (ed., 1983). The Hagiopolites, A Byzantine Treatise on Musical Theory. Preliminary Edition. Cahiers de l' Institut du Moyen-Âge Grec et Latin, 45.|Composition of the Hagiopolites: 12th c. Dating of ms. Pa360: 14th c.|PB (Coislin) and MB I (from early to fully developed)|Hannick, "Musik", pp. 200-202. Tardo, Melurgia, p. 164. Raasted’s comments in the edition of the Hagiopolites.||
 |HagiopolT (Vat872)|Hagiopolites: Tardo, Lorenzo, Jeromonaco. (1938). Lʼ antica melurgia bizantina nellʼ interpretazione della Scuola Monastica di Grottaferrata. Grottaferrata.|Vat872: early 14th c.||||
 |PsDamIV|Pseudo-John of Damascus. Erotapokriseis. Eds. G. Wolfram and Chr. Hannick, Die Erotapokriseis des Pseudo-Johannes Damaskenos zum Kirchengesang. Monumenta Musicae Byzantinae, Corpus Scriptorum de Re Musica, V. Wien: Verlag der Österreichischen Akademie der Wissenschaften, 1997.|12th c.|PB (Coislin VI)|Wolfram & Hannick, Erotapokriseis, p. 20.||
 |PsDamVII|Pseudo-John of Damascus, Erotapokriseis, section VII: Ed. Wolfram & Hannick (1997).|Mid- to late 14th c.|MB I (from early to fully developed).|Ibid., pp. 20-21.||
@@ -385,8 +385,8 @@ Strategies of editing 'living texts': the case of the Papadike. 23rd Internation
 |PsDam VIII|Pseudo-John of Damascus, Erotapokriseis, section VIII: Ed. Wolfram & Hannick (1997).|?|MB (with regard to the aporrhoe).|Wolfram & Hannick, Erotapokriseis, p. 21.|
 |PsDamI|Pseudo-John of Damascus, Erotapokriseis, section I: Ed. Wolfram & Hannick (1997).|First half of the 14th c.|MB II (late).|Ibid., p. 20.|
 |PsDamII|Pseudo-John of Damascus, Erotapokriseis, section II: Ed. Wolfram & Hannick (1997).|First half of the 14th c.|MB II (late).|Ibid.|
-|Blemydes|Michael Blemydes. Inc. Beginning, with God, of the signs interpreted one by one. In Εvgeny Vladimirovich Gertsman (ed.), Petersburg Theoreticon (pp. 338- 360, 373-384). Odessa: Variant Publishers, 1994.|13th c. (Uspenskij). 14th c. (Tardo).|MB I-II (from early to late).|Gertsman, Theoreticon, p. 341. Tardo, Melurgia, p. 245.|
-|Methodos|A precise vocal method composed from music, made by the holy fathers and poets kyr Kosmas and John of Damascus and John Chrysostom, from ms. Sinai 1764, f. 52a. Edition in: Alexandru, Maria. (2000). Studie über die 'grossen Zeichen' der byzantinischen musikalischen Notation, unter besonderer Berücksichtigung der Periode vom Ende des 12. bis Anfang des 19. Jahrhunderts. Doctoral dissertation. Universität Kopenhagen, Humanistische Fakultät, vol. ΙΙ, p. 87.|Ms. Sinai 1764: 16th c. (Raasted). 17th c. (Schartau) The text is probably older than the corresponding theoretical treatise of Blemydes.|MB I-II (from early to late).|For the dating of the ms.: Schartau, Tragodistes, p. 24 with n. 21.|
+|Blemydes|Michael Blemydes. Inc. Beginning, with God, of the signs interpreted one by one. In Evgeny Vladimirovich Gertsman (ed.), Petersburg Theoreticon (pp. 338- 360, 373-384). Odessa: Variant Publishers, 1994.|13th c. (Uspenskij). 14th c. (Tardo).|MB I-II (from early to late).|Gertsman, Theoreticon, p. 341. Tardo, Melurgia, p. 245.|
+|Methodos|A precise vocal method composed from music, made by the holy fathers and poets kyr Kosmas and John of Damascus and John Chrysostom, from ms. Sinai 1764, f. 52a. Edition in: Alexandru, Maria. (2000). Studie über die 'grossen Zeichen' der byzantinischen musikalischen Notation, unter besonderer Berücksichtigung der Periode vom Ende des 12. bis Anfang des 19. Jahrhunderts. Doctoral dissertation. Universität Kopenhagen, Humanistische Fakultät, vol. II, p. 87.|Ms. Sinai 1764: 16th c. (Raasted). 17th c. (Schartau) The text is probably older than the corresponding theoretical treatise of Blemydes.|MB I-II (from early to late).|For the dating of the ms.: Schartau, Tragodistes, p. 24 with n. 21.|
 |PsDamIII|Pseudo-John of Damascus, Erotapokriseis, section III: Ed. Wolfram & Hannick (1997).|Around 1400.|MB II (late).|Wolfram & Hannick, Erotapokriseis, p. 20.|
 |PsDamIX|Pseudo-John of Damascus, Erotapokriseis, section IX: Ed. Wolfram & Hannick|Late 14th c.-mid-15th c.|MB II (late).|Ibid., p. 21.|
 |Gabriel|Gabriel Hieromonk. On the signs in psaltic chant. Eds. Chr. Hannick and G. Wolfram, Gabriel Hieromonachos, Abhandlung über den Kirchengesang. Monumenta Musicae Byzantinae, Corpus Scriptorum de Re Musica, Ι. Wien: Verlag der Österreichischen Akademie der Wissenschaften, 1985.|Floruit: mid-15th c.|MB II (late).|Hannick & Wolfram, Gabriel, p. 21.|
@@ -398,11 +398,11 @@ Byzantinae,
 ||Corpus Scriptorum de Re Musica, II. Wien: Verlag der Österreichischen Akademie der Wissenschaften, 1985.||||
 |---|---|---|---|---|
 |AnonEBE 899|Anonymous theoretical treatise in ms. EBE 899, in the edition: Zannos, Ioannis. (1985). Ein byzantinischer Musiktraktat im Codex Athen 899. Wissenschaftliche Hausarbeit zur Erlangung des akademischen Grades eines Magister Artium der Universität Hamburg.|“Up to 1490”.|MB II (late)|Zannos, Ichos, p. 111.|
-|Akrib|Akribeia. Ed. Bjarne Schartau, Anonymous Questions and Answers on the Interval Signs. Monumenta Musicae Byzantinae, Corpus Scriptorum de Re Musica, ΙV. Wien: Verlag der Österreichischen Akademie der Wissenschaften, 1998.|Oldest witness: before the year 1560.|MB II (late)|Schartau, Questions, pp. 26 and 17.|
+|Akrib|Akribeia. Ed. Bjarne Schartau, Anonymous Questions and Answers on the Interval Signs. Monumenta Musicae Byzantinae, Corpus Scriptorum de Re Musica, IV. Wien: Verlag der Österreichischen Akademie der Wissenschaften, 1998.|Oldest witness: before the year 1560.|MB II (late)|Schartau, Questions, pp. 26 and 17.|
 |Chalkeop|Akakios Chalkeopoulos, Akribologemata: theoretical treatise from his autograph ms. EBE 916, fols. 1-15: see Stathes, Gr. Th. (1982). “Difficult theseis” and “Exegesis”. Jahrbuch der Österreichischen 32/7, 49-61: 53.|1500-1520.|MB II-III (late and exegetical).|Chatzigiakou- mis, Cheirographa, p. 113.|
 |Prosodia|Anonymous theoretical treatise in ms. Sinai 1764, fols. 33-51v, inc.: What is prosody?|For the ms. see above, Methodos.|MB II(-III?) (late [and|See above, Methodos.|
-|Marmarenos|Kyrillos Marmarenos, Bishop of Tinos, Introduction to music in question-and-answer form. In: Εvgeny Vladimirovich Gertsman (ed.), Petersburg Theoreticon (pp. 710-738, 760- 779). Odessa: Variant Publishers, 1994.|Before 1740.|MB II-III (late and exegetical).|Gertsman, Theoreticon, p. 717.|
-|Erotapokr|Anonymous, Question-and-answer on the voices. From ms. Petropolitanus gr. 239, fols. 17- 24. Edition in: Εvgeny Vladimirovich Gertsman (ed.), Petersburg Theoreticon (pp. 249-316). Odessa: Variant Publishers, 1994.|Ms. (Pe239): third quarter of the 18th c.|MB II-III (late and exegetical).|Ibid., p. 249.|
+|Marmarenos|Kyrillos Marmarenos, Bishop of Tinos, Introduction to music in question-and-answer form. In: Evgeny Vladimirovich Gertsman (ed.), Petersburg Theoreticon (pp. 710-738, 760- 779). Odessa: Variant Publishers, 1994.|Before 1740.|MB II-III (late and exegetical).|Gertsman, Theoreticon, p. 717.|
+|Erotapokr|Anonymous, Question-and-answer on the voices. From ms. Petropolitanus gr. 239, fols. 17- 24. Edition in: Evgeny Vladimirovich Gertsman (ed.), Petersburg Theoreticon (pp. 249-316). Odessa: Variant Publishers, 1994.|Ms. (Pe239): third quarter of the 18th c.|MB II-III (late and exegetical).|Ibid., p. 249.|
 |Apost|Apostolopoulos, Thomas. (2002). Apostolos Konstas of Chios and his contribution to the theory of the Art of Music. IBM, Studies 4. Ed. Gr. Stathis. Athens.|1800-1820: several versions, of which the following are mentioned: Doch389: year 1807. EBE1867: year 1820.|MB II-III (late and exegetical).|Apostolopoulos, Apostolos, p. 56.|
 |Stephan|Basileios Stephanides the Byzantine. Outline on music, especially ecclesiastical. In Appendix of Ecclesiastical Truth, issue 5 (1 November 1902, pp. 209-279). Constantinople: Patriarchal|1819|MB II-III (late and exegetical).||
 |ChrysanthEis|Chrysanthos of Madytos. Introduction to the theoretical and practical study of ecclesiastical music. Paris: Rigniou Press, 1821, repr.|1821|NB I (Chrysanthine).||
@@ -1883,7 +1883,7 @@ Bde., Stuttgart u. Tübingen 1832-1836
 
 - ArEq: Aristophanes, Equites, ibid.
 
-- ΑristCat: Aristoteles, Categoriae, in Aristotelis Opera, rec. I. Bekker, ed. Academia΄Regia Borussica, 2. Aufl. cur. O.
+- AristCat: Aristoteles, Categoriae, in Aristotelis Opera, rec. I. Bekker, ed. Academia΄Regia Borussica, 2. Aufl. cur. O.
 
 Gigon, Bd. I, Berlin 1960
 
@@ -3262,7 +3262,7 @@ Raasted, Jørgen. (1966a). Intonation formulas and modal signatures in Byzantine
 
 VII. Copenhagen: Munksgaard.
 
-Troelsgård, Christian. (2011). Byzantine Neumes. Α Νew Introduction to the Middle Byzantine Musical Notation. MMB,
+Troelsgård, Christian. (2011). Byzantine Neumes. A New Introduction to the Middle Byzantine Musical Notation. MMB,
 Subsidia IX. Copenhagen: Tusculanum Press.
 
 ## Endnotes for Appendix 3

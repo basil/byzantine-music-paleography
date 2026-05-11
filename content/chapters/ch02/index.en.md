@@ -127,7 +127,7 @@ that do not come into contact with moisture and air, began in the 18th century, 
 Herculaneum in Italy, where literary papyri were found that had been preserved in the lava of Vesuvius
 (eruption in AD 79; excavations in 1752).xix The discovery of papyri continued during Napoleon Bonaparte’s
 campaign in Egypt (1798-1801) and gained great momentum in the late 19th and early 20th century, with the
-excavations of the Εgypt Exploration Fund of London (today the Egypt Exploration Society). Mention may be
+excavations of the Egypt Exploration Fund of London (today the Egypt Exploration Society). Mention may be
 made, indicatively, of the famous excavations by the classical philologists Bernard Grenfell and Arthur Hunt
 of Queen's College, Oxford, in the city of Oxyrhynchus (ca. 160 kilometres southwest of Cairo), between the
 years 1897-1906, which brought to light enormous quantities of papyri in the Greek language.xx
@@ -287,7 +287,7 @@ misuse was punished with severe penalties.xliii
 Figure 2.11. Fragment from a chrysobull of the Archive of the Holy Monastery of Iviron, 14 July 1351, on parchment, with the
 imperial signature in red ink: “† John, faithful emperor and
 autocrat of the Romans in Christ God, Kantakouzenos.”
-Source: Economidis, Nikos, and Chrysochoidis, Κriton. (1997). The Historic Archives of Mount Athos. In Athanasios
+Source: Economidis, Nikos, and Chrysochoidis, Kriton. (1997). The Historic Archives of Mount Athos. In Athanasios
 Karakatsanis (managing editor), Treasures of Mount Athos, translation Andrew Hendry et al. Thessaloniki: Holy
 Community of Mount Athos, Ministery of Culture, Museum of Byzantine Culture, Organization for the Cultural Capital
 of Europe Thessaloniki 1997, pp. 516-517, fig. 13.17. © Holy Monastery of Iviron, Mount Athos.
@@ -441,7 +441,7 @@ or 1v (verso), 2a and 2b (or 2r and 2v), 3a and 3b (or 3r-v), 4a-b (or 4r-v), an
 ![Description](image_2468.jpeg)
 
 Diagrams 2.4-7. From the processed hide, e.g. of a calf, to the eight leaves of a codex: a common form
-of folding a parchment into eight leaves (in-οctavo). By folding, one large bifolium (dyad) is first formed,
+of folding a parchment into eight leaves (in-octavo). By folding, one large bifolium (dyad) is first formed,
 
 which in turn is folded another two times to create a quaternion. The eight leaves that result
 are numbered with their two sides from 1a to 8b (or 1r-8v). Altogether we have 16 pages.lvii
@@ -1463,8 +1463,8 @@ ekphonetic notation, and Byzantine melodic notations.
 
 ||||||
 |---|---|---|---|---|
-|Accents (Lat. tonoi), for indicating pitch levels Breathings (spiritus), signs of aspiration, usually at the beginning of a word that starts with a vowel|acute accent (αccentus acutus) grave accent αccentus gravis) ( circumflex accent (αccentus circumflexus) rough breathing (spiritus asper) smooth breathing (spiritus lenis)||high pitch of a syllable deep/low pitch of a syllable wavering of the voice (acute+grave) on one syllable (always of long duration) strong aspiration, aspiration weak aspiration, absence of aspiration|In diphthongs, in older manuscripts the accents and breathings were placed in a different way from modern practice, e.g.: • separate placement of breathing and accent: ἐῖναι, • placement of breathing or accent on the first vowel of the diphthong: ΠÁΥCONTAI, ἐις.xciii Concerning the breathings: the rounded form of the breathings usual today began to spread from the 11th c. onward. The older form of rough breathing was with the letter H. Later, the left half of this letter represented the rough breathing, while the right half of the same letter represented the smooth breathing. The next stage was the angular forms of the breathings.xciv|
-|Quantities (tempora), for indicating the length of syllables|long mark (αccentus longus) breve (αccentus brevis)||long duration of a syllable, a syllable prolonged in its pronunciation short duration of a syllable||
+|Accents (Lat. tonoi), for indicating pitch levels Breathings (spiritus), signs of aspiration, usually at the beginning of a word that starts with a vowel|acute accent (accentus acutus) grave accent accentus gravis) ( circumflex accent (accentus circumflexus) rough breathing (spiritus asper) smooth breathing (spiritus lenis)||high pitch of a syllable deep/low pitch of a syllable wavering of the voice (acute+grave) on one syllable (always of long duration) strong aspiration, aspiration weak aspiration, absence of aspiration|In diphthongs, in older manuscripts the accents and breathings were placed in a different way from modern practice, e.g.: • separate placement of breathing and accent: ἐῖναι, • placement of breathing or accent on the first vowel of the diphthong: ΠÁΥCONTAI, ἐις.xciii Concerning the breathings: the rounded form of the breathings usual today began to spread from the 11th c. onward. The older form of rough breathing was with the letter H. Later, the left half of this letter represented the rough breathing, while the right half of the same letter represented the smooth breathing. The next stage was the angular forms of the breathings.xciv|
+|Quantities (tempora), for indicating the length of syllables|long mark (accentus longus) breve (accentus brevis)||long duration of a syllable, a syllable prolonged in its pronunciation short duration of a syllable||
 |Modifications (variationes), for peculiarities at the end of a word and its joining with the next|apostrophe (apostrophus) hyphen (conjunctio) separation mark (separatio)||absence of a vowel at the end or beginning of a word, e.g. Τὸν δι' ἡμᾶς Σταυρωθέντα (Triodion, Office of the Holy Passion, kontakion) joining of two words separation between two words||
 
 ![Description](image_3073.jpeg)
@@ -1482,7 +1482,7 @@ ekphonetic notation, and Byzantine melodic notations.
 ![Description](image_3085.jpeg)
 ![Description](image_3086.jpeg)
 
-|Selection of various other auxiliary signs for reading texts|coronis diaeresis iota adscript/subscript horizontal line|ωι ῳ|crasis (= blending of two vowels), e.g. τὰ ἐκεῖ -> τἀκεῖ diaeresis, which is usually placed on ϊ or ϋ when it stands after another vowel, to show that the two vowels do not constitute a diphthong but must be pronounced separately, e.g. Μάϊος. It is usually placed above abbreviations, e.g. (= ΙΗΣΟΥΣ), or above numerals, e.g. in dates: (5838, counted from the creation of the world = year 1453 from the Birth of Christ; see also chapter 3)|In some manuscripts iota or upsilon appears with diaeresis even when standing alone (see, e.g., the Heirmologion of Grottaferrata EγII, f. 16v: Χρϊστός). In older manuscripts iota appears as adscript or is omitted. From the 12th/13th c. onward it is placed as subscript. In musical manuscripts it is systematically omitted.|
+|Selection of various other auxiliary signs for reading texts|coronis diaeresis iota adscript/subscript horizontal line|ωι ῳ|crasis (= blending of two vowels), e.g. τὰ ἐκεῖ -> τἀκεῖ diaeresis, which is usually placed on ϊ or ϋ when it stands after another vowel, to show that the two vowels do not constitute a diphthong but must be pronounced separately, e.g. Μάϊος. It is usually placed above abbreviations, e.g. (= ΙΗΣΟΥΣ), or above numerals, e.g. in dates: (5838, counted from the creation of the world = year 1453 from the Birth of Christ; see also chapter 3)|In some manuscripts iota or upsilon appears with diaeresis even when standing alone (see, e.g., the Heirmologion of Grottaferrata ΕγII, f. 16v: Χρϊστός). In older manuscripts iota appears as adscript or is omitted. From the 12th/13th c. onward it is placed as subscript. In musical manuscripts it is systematically omitted.|
 |---|---|---|---|---|
 
 ![Description](image_3087.jpeg)
@@ -2360,7 +2360,7 @@ Sophronios, Peltikoglou and Nikolopoulos, 1998, photos 11, 49).
 
 ![Description](image_3134.jpeg)
 
-Figure 2.49. Fragment from the Tropologion Sinaiticus graecus ΝΕ MΓ 5, second half of the 9th c., in sloping pointed
+Figure 2.49. Fragment from the Tropologion Sinaiticus graecus ΝΕ ΜΓ 5, second half of the 9th c., in sloping pointed
 majuscule script, with evening stichera for the feast of St Theodosius the Coenobiarch (Nikiforova, 2015, p. 144). The title
 is in biblical majuscule script. Image source: Damianos, Archbishop of Sinai, Pharan and Raitho, Sophronios
 Archimandrite, Peltikoglou, V. and Nikolopoulos, P.N. (1998). Holy Monastery and Archbishopric of Sinai. The New
@@ -2528,7 +2528,7 @@ Herodotus, Histories. Trans. H. Spyropoulos. (1992). Herodotus, Histories. Melpo
 <www.greek-language.gr/digitalResources/ancient_greek/library/index.html?start=30&author_id=all> (30.1.2017).
 Tsantsanoglou, Kyriakos. (2013). The Derveni Papyrus. Ministry of Culture and Sports. Athens.
 
-Pliny the Elder, The Natural History. Trans. John Βostock, M.D., F.R.S., H.T. Riley, Esq., B.A. (1855). London: Taylor
+Pliny the Elder, The Natural History. Trans. John Bostock, M.D., F.R.S., H.T. Riley, Esq., B.A. (1855). London: Taylor
 and Francis, Red Lion Court, Fleet Street:
 <www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%Abook%3D13%3Achapter%3D21>
 
@@ -2679,7 +2679,7 @@ Alexandru, Maria. (2006). The palaeography of Byzantine music: A brief introduct
 musical palimpsests. In Ángel Escobar (ed.), El palimpsesto grecolatino como fénomeno librario y textual,
 presentación de Dieter Harlfinger (pp. 113-130). Zaragoza: Institución "Fernando el Católico".
 
-Αlexandru, Maria. (2011). Christ our God, ein emblematisches Sticheron zum Hl. Kreuz. Ansätze zu einem
+Alexandru, Maria. (2011). Christ our God, ein emblematisches Sticheron zum Hl. Kreuz. Ansätze zu einem
 multiprismatischen Analysemodell aufgrund von J. Raasteds Strukturierungsmethode byzantinischer Troparia.
 Études Byzantines et Post-byzantines, 6, 325-345, Tafeln 1-7.2 & Anhang I-II.
 Alexopoulos, Stefanos. (2013). The place of the Typikon in the codico-liturgical method. In Klaas Spronk, Gerard
@@ -2690,7 +2690,7 @@ Turnhout, Belgium: Brepols Publishers.
 Allen, T. W. (1967). Notes on Abbreviations in Greek Manuscripts. Amsterdam: Adolf M. Hakkert.
 Allen, Pauline, and Hayward, C.T.R. (2004). Severus of Antioch. London and New York: Routledge.
 ixoyc.net/data/Fathers/538.doc (8.8.2916).
-Bagnall, Roger S. (Ed., 2009). Τhe Oxford Handbook of Papyrology. Oxford: Oxford University Press.
+Bagnall, Roger S. (Ed., 2009). The Oxford Handbook of Papyrology. Oxford: Oxford University Press.
 Balageorgos, Dimitris. (2016). The Cretan psaltic tradition of 16th-17th century: a radical and prototype melopoiea of the
 Great Doxology. International Conference on Orthodox Music in Prague "Ars Nova East and West".
 International Society for Orthodox Music and Charles University in Prague, 14-16 October 2016. (Proceedings under
@@ -2709,7 +2709,7 @@ jusqu'en 1600. 4 volumes. Paris: Alfonse Picard et fils. <https://doc.rero.ch/re
 Browning, R. (1992). The Byzantine Empire. Trans. N. Konomi. Athens: Papadimas.
 Buchwald, Wolfgang, Hohlweg, Armin and Prinz, Otto. (1982). Tusculum-Lexikon griechischer und lateinischer Autoren
 des Altertums und des Mittelalters (3rd ed.). München, Zürich: Artemis Verlag.
-Bülow-Jacobsen, Αdam. (2009). Writing Materials in the Ancient World. In Roger S. Bagnall (ed.), Τhe Oxford
+Bülow-Jacobsen, Adam. (2009). Writing Materials in the Ancient World. In Roger S. Bagnall (ed.), The Oxford
 Handbook of Papyrology (pp. 3-29). Oxford: Oxford University Press.
 Canart, Paul. (1991). Paleografia e codicologia greca. Una rassegna bibliografica. Littera Antiqua 7. Città del Vaticano:
 Scuola Vaticana di Paleografia, Diplomatica e Archivistica.
@@ -2719,11 +2719,11 @@ meeting of the Catalogue of Byzantine Manuscripts programme held at the PThU in 
 6th-7th November 2009, Catalogue of Byzantine Manuscripts in their Liturgical Context, Subsidia I (pp. 289-315).
 Turnhout, Belgium: Brepols Publishers.
 Cormack, Robin. (2000). Byzantine Art. Oxford History of Art. Oxford: University Press.
-Cuvigny, Hélène. (2009). The finds of papyri: the Archaeology of Papyrology. Τranslated by Adam Bülow-Jacobsen. In
-Roger S. Bagnall (ed.), Τhe Oxford Handbook of Papyrology (pp. 30-58).
+Cuvigny, Hélène. (2009). The finds of papyri: the Archaeology of Papyrology. Translated by Adam Bülow-Jacobsen. In
+Roger S. Bagnall (ed.), The Oxford Handbook of Papyrology (pp. 30-58).
 D'Agostino, Marco e Martani, Sandra. (2005). Iași 160 (IV-34) e Vat. gr. 351: Due lezionari evangelici gemelli in
 maiuscola liturgica con notazione musicale. Bollettino della Badia Greca di Grottaferrata, terza serie, 2, 17-42.
-Daniels, Peter T., and Bright, William. (Eds., 1996). Τhe World's Writing Systems. New York, Oxford: Oxford
+Daniels, Peter T., and Bright, William. (Eds., 1996). The World's Writing Systems. New York, Oxford: Oxford
 University Press.
 Dölger, Franz and Karayannopulos, Johannes. (1968). Byzantinische Urkundenlehre. Erster Abschnitt. Die
 Kaiserurkunden, Byzantinisches Handbuch, Dritter Teil, Erster Band, Erster Abschnitt. München: C.H. Beck'sche
@@ -2731,7 +2731,7 @@ Verlagsbuchhandlung.
 Easton, Roger L., and Kelbe, David. (2014). Statistical Processing of Spectral Imagery to Recover Writing from Erased
 or Damaged Manuscripts. Manuscript Cultures, 7, 92-103. <https://www.manuscript-cultures.uni->
 hamburg.de/MC/manuscript_cultures_no_7.pdf (1.9.2016).
-Economidis, Nikos, and Chrysochoidis, Κriton. (1997). The Historic Archives of Mount Athos. In Athanasios
+Economidis, Nikos, and Chrysochoidis, Kriton. (1997). The Historic Archives of Mount Athos. In Athanasios
 Karakatsanis (managing editor), Treasures of Mount Athos, translation Andrew Hendry et al. (2nd ed., pp. 504-545).
 Thessaloniki: Holy Community of Mount Athos, Ministery of Culture, Museum of Byzantine Culture,
 Organization for the Cultural Capital of Europe Thessaloniki 1997.
@@ -2763,21 +2763,21 @@ Palimpsestforschung, 28-29 Juni 2002, Bratislava Filozofická fakulta Univerzity
 Høeg, Carsten. (1935). La notation ekphonétique. MMB, Subsidia I, fasc. 2. Copenhague: Levin & Munksgaard.
 Hornblower, Simon and Spawforth, Antony. (Eds., 2003). The Oxford Classical Dictionary (3rd ed. revised). Oxford:
 University Press.
-Ηunger, Herbert. (1961). Antikes und mittelalterliches Buch- und Schriftwesen. In Michael Meier, Fritz Hindermann and
+Hunger, Herbert. (1961). Antikes und mittelalterliches Buch- und Schriftwesen. In Michael Meier, Fritz Hindermann and
 Alfred Schindler (eds.), Geschichte der Textüberlieferung der antiken und mittelalterlichen Literatur, Bd. I (pp.
 
-25-147). Ζürich: Atlantis Verlag.
+25-147). Zürich: Atlantis Verlag.
 
-Ηunger, Herbert. (1995). The World of the Byzantine Book. Writing and Reading in Byzantium. Trans. Giorgos
+Hunger, Herbert. (1995). The World of the Byzantine Book. Writing and Reading in Byzantium. Trans. Giorgos
 Vasilaros, ed. Taxiarchis Kolias. Athens: Institute of the Book - M. Kardamitsa.
 Irigoin, Jean. (1997). Tradition et critique des texts grecs. Paris: Les Belles Lettres.
 Jäger, Gerhard. (1975). Einführung in die Klassische Philologie. München.
-Κoder, Johannes. (1996). Mit der Seele Augen sah er deines Lichtes Zeichen Herr. Hymnen des orthodoxen
+Koder, Johannes. (1996). Mit der Seele Augen sah er deines Lichtes Zeichen Herr. Hymnen des orthodoxen
 Kirchenjahres von Romanos dem Meloden. Aus dem Griechischen übertragen von J. Koder. Wien: Verlag der
 Akademie der Wissenschaften.
 Kouremenos, T., Parassoglou, G., and Tsantsanoglou, K. (2006). The Derveni Papyrus. Studi e testi per il corpus dei
 papiri filosophici greci et latini, 13. Firenze: L. S. Olschki.
-Langenscheidts Großes Schulwörterbuch Lateinisch-Deutsch. (1991). Βearbeitet von Erich Pertsch auf der Grundlage
+Langenscheidts Großes Schulwörterbuch Lateinisch-Deutsch. (1991). Bearbeitet von Erich Pertsch auf der Grundlage
 von Menge-Güthling (erweiterte Neuausgabe, 8th ed.). Berlin, München, Wien, Zürich: Langenscheidt.
 Latacz, Joachim. (2014). Das Papier der Antike. In Schrift und Sprache. Was Forscher über unsere ältesten Kulturgüter
 wissen. Spektrum der Wissenschaft Spezial. Archäologie, Geschichte, Kultur, 3, 18-25:
@@ -2796,7 +2796,7 @@ Federici e di Ezio Ornato. Roma: Viella.
 Martani, Sandra. (2005). La musica bizantina a Grottaferrata. In San Nilo. Il Monastero italo-bizantino di Grottaferrata,
 1004-2004. Mille anni di storia, spiritualità e cultura, a cura dell' Archimandrita P. Emiliano Fabbricatore e della
 Comunità monastica (pp. 235-260). Roma: De Luca Editori d' Arte.
-Mathews, Thomas F. (1980). The Early Churches of Constantinople: Αrchitecture and Liturgy. University Park and
+Mathews, Thomas F. (1980). The Early Churches of Constantinople: Architecture and Liturgy. University Park and
 London: The Pennsylvania State University Press.
 Metzger, Bruce M. (1981). Manuscripts of the Greek Bible. An Introduction to Greek Palaeography. New York, Oxford:
 Oxford University Press.
@@ -2819,7 +2819,7 @@ Netz, Reviel and Noel, William. (2007). The Archimedes Codex. The Secrets of the
 World. Trans. Tevkros Michailidis. Athens: Alexandria Publications.
 Netz, Reviel, Noel, William, Tchernetska, Natalie and Wilson, Nigel. (Eds., 2011). The Archimedes Palimpsest. 2 volumes.
 Cambridge: Cambridge University Press.
-Nikiforova, Alexandra. (2015). The Oldest Greek Tropologion Sin.Gr. ΜΓ 56+5: Α New Witness to the Liturgy of
+Nikiforova, Alexandra. (2015). The Oldest Greek Tropologion Sin.Gr. ΜΓ 56+5: A New Witness to the Liturgy of
 Jerusalem from outside Jerusalem with First Edition of the Text. Oriens Christianus, 98, 138-173.
 Nikiforova, Alexandra, and Chronz, Tinatin. (forthcoming). A New Approach to the "Codex Sinaiticus Liturgicus"
 RNB.Gr. 44: Introduction, Publication, Discussion.
@@ -2870,7 +2870,7 @@ pp. 626-645). Thessaloniki: Holy Community of Mount Athos, Ministery of Culture,
 Culture, Organization for the Cultural Capital of Europe Thessaloniki 1997.
 Thompson, E. M. (1912). An Introduction to Greek and Latin Palaeography. Oxford: Clarendon Press.
 <https://ia700407.us.archive.org/20/items/greeklatin00thomuoft/greeklatin00thomuoft.pdf> (15.2.2016).
-Threatte, Leslie (1996). The Greek Alphabet. In P.T. Daniels and W. Bright (eds.), Τhe World's Writing Systems (pp.
+Threatte, Leslie (1996). The Greek Alphabet. In P.T. Daniels and W. Bright (eds.), The World's Writing Systems (pp.
 
 271-280). New York, Oxford: Oxford University Press.
 
@@ -2978,7 +2978,7 @@ _Fragments_on_display_in_the_Archaelogical_Museum_of_Thessaloniki.jpg (8.8.2016)
 |with Litsas (2011) and|
 |---|
 |(1968). Litsas (2011).|
-|Τurner (1989).|
+|Turner (1989).|
 |had turned to|
 |of time, however, and the development of|
 |more recent times: cf. Mioni (1998, 13).|
@@ -3216,7 +3216,7 @@ of the two scripts in photographs of palimpsests, to the statistical analytical 
 (PCA) and Independent Component Analysis (ICA), as well as to the advantages of dynamic rendering of images
 (dynamic rendering), as opposed to static forms of images (static image) (Easton and Kelbe, 2014, pp. 39-45). Cf.
 also Rossetto (2015) and Rapp, Afentoulidou, Galadza, Nesseris, Rossetto, and Schiffer (2016). I thank Dr
-Giulia Rossettο for pointing out this bibliography and for an interesting discussion in Belgrade on issues
+Giulia Rossetto for pointing out this bibliography and for an interesting discussion in Belgrade on issues
 of palimpsests, 25-26 August 2016.
 lxxvi For the text of the upper script, cf. Allen and Hayward (2004, pp. 24-25).
 For Byzantine musical palimpsests, cf. e.g. the Messanensis graecus 128, an Italo-Greek palimpsest codex with
@@ -3260,7 +3260,7 @@ revisiting the handwritten monuments of Byzantine heritage in their present-date
 manuscripts in monastery, state and institutional libraries reflects the fact that liturgy occupies the center stage in the
 Byzantine Tradition. (...) According to the liturgical hypothesis, the driving force behind the new Catalogue of
 Byzantine Manuscripts, emphasis is placed on the liturgical function, form, and framework of biblical manuscripts."
-(Spronk, Rouwhorst, & Royé, 2013, p. 273). Regarding the methodology, the following is clarified: "Τhe CBM programme is
+(Spronk, Rouwhorst, & Royé, 2013, p. 273). Regarding the methodology, the following is clarified: "The CBM programme is
 developing a method of manuscript cataloguing that draws directly from modern Byzantine codicology, whereby the
 integral codex is studied in its present condition, both in form and content. The CBM programme is investigating a new
 methodology for codicological research that is based on relating the manuscripts to their original environment, i.e. the
@@ -3431,7 +3431,7 @@ Aristotle University of Thessaloniki (2007): <http://www.asbmh.pitt.edu/page9/pa
 and <http://www.asbmh.pitt.edu/page12/Alexandru.pdf> (16.2.2916). For other Italo-Greek manuscripts, cf. Litsas
 (2001, pp. 92-93, 102-103). Bucca (2011).
 cxxvii Litsas (2001, p. 96) mentions the corresponding article by Herbert Hunger (1972), Die sogenannte Fettaugen-Mode
-in griechischen Handschriften des 13. und 14. Jahrhunderts, Βyzantinische Forschungen, 4, 105-113: 109. For further
+in griechischen Handschriften des 13. und 14. Jahrhunderts, Byzantinische Forschungen, 4, 105-113: 109. For further
 manuscripts in minuscule “pear-shaped” script or with elements of “pear-shaped” script, cf. Litsas (2001, pp.
 
 98-101). For a brief description of this type of script and other specimens, see Mioni (1998, p. 91 and pls. XX-
@@ -3475,8 +3475,8 @@ of melourgia and of the mode, as well as the initial of the troparion. For the h
 Lenten Triodion (1994, p. 1020).
 cxliii See Chrysanthos of Madytos (2007, attached DVD). Chourmouzios Chartophylax (2014). Idem (2007).
 cxliv Cf. NLG 964, f. 136v, 1r, 126r, 130v, 133v, as well as Chatzigiakoumis (1975, p. 365).
-cxlv Cf. Μioni (1998, pp. 115-119).
-cxlvi See Μioni (1998, p. 58).
+cxlv Cf. Mioni (1998, pp. 115-119).
+cxlvi See Mioni (1998, p. 58).
 cxlvii As stated above, the table constitutes a summary of the corresponding tables of Mioni (1998, pp. 115-119).
 Those elements were selected which seemed useful for the study of sources of Byzantine music. For more
 data, the reader may additionally refer to Allen (1967, plates I-XI).
@@ -3504,9 +3504,9 @@ plates 1-2). For the description of the codex, cf. Litsas (2001, pp. 18-19). Met
 (2015). For the musical tradition of the Great Doxology cf. Korakidis (1984). Liakos & Mazera (2014).
 Balageorgos (2016 - forthcoming). For the liturgical text of the Great Doxology currently in use at
 the end of Orthros, cf. The Great Horologion (2003, pp. 83-85).
-clvi An excerpt from this leaf was published in: Μioni (1998, pl. VIII).
+clvi An excerpt from this leaf was published in: Mioni (1998, pl. VIII).
 
-clvii Cf. for other leaves of the same ms.: Μioni (1998, pl. XI) and Litsas (2001, pp. 50-51). For the famous
+clvii Cf. for other leaves of the same ms.: Mioni (1998, pl. XI) and Litsas (2001, pp. 50-51). For the famous
 calligrapher and tachygrapher Nicholas (792-868), saint and confessor during the period of Iconoclasm, who
 is celebrated on 4 February, cf. Tsolakidis (2001, pp. 136-137).
 clviii For the description of the ms. and further bibliography, as well as an additional facsimile, see Litsas (2001,

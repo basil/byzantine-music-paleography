@@ -929,7 +929,7 @@ Theoretical treatises and
 
 studies on theoretical treatises
 
-Hagiopolites. Ed. J. Raasted, The Hagiopolites, A Byzantine Τreatise on Musical Theory. Preliminary Edition.
+Hagiopolites. Ed. J. Raasted, The Hagiopolites, A Byzantine Treatise on Musical Theory. Preliminary Edition.
 Cahiers de l' Institut du Moyen-Âge Grec et Latin, 45 (1983).
 Alygizakis, A. (ed., 2008). The Theoretikon of Akakios Chalkeopoulos. In Melourgia, year I, issue I, ed. A.
 Alygizakis (pp. 354-363). Thessaloniki.
@@ -960,9 +960,9 @@ Gregorios Mpounes Alyates' method of metrophonia, and some links to analogous ph
 Paper Read at the Sixteenth Meeting of the Study Group 'Cantus-Planus', Vienna 2011. Artes, 13, 129-182.
 Alexandru, Maria, & Troelsgård, Christian. (2008). The significance of the so-called protheoria of the Papadike for the study of
 Byzantine and post-Byzantine music. In Basile Atsalos et Niki Tsironi (eds.), Actes du VIe Colloque
-International de Paléographie Grecque (Drama, 21-27 septembre 2003), (vol. ΙΙ, pp. 559-572 & vol. ΙΙΙ, pp. 1221-
+International de Paléographie Grecque (Drama, 21-27 septembre 2003), (vol. II, pp. 559-572 & vol. III, pp. 1221-
 1233). Athènes: Société Hellénique de Reliure.
-Gertsman, Εvgeny Vladimirovich. (ed., 1994). Petersburg Theoreticon. Odessa: Variant Publishers.
+Gertsman, Evgeny Vladimirovich. (ed., 1994). Petersburg Theoreticon. Odessa: Variant Publishers.
 Giannopoulos, Emmanouil. (2013). Collections of Byzantine Chant Treatises in Manuscripts of the 17th and 18th
 Centuries. The Continuation of the Tradition. In Gerda Wolfram & Christian Troelsgård (eds.), Tradition and
 Innovation in Late- and Postbyzantine Liturgical Chant II, Proceedings of the Congress held at Hernen Castle, the
@@ -1026,7 +1026,7 @@ erweitert von Kark Vretska, mit einer Einführung in die Sprachgeschichte von He
 
 G. Freytag Verlag / Hölder-Pichler-Tempsky: 1954 (Neuauflage 1988).
 
-Jaschinski, Andreas. (ed., 2001). Νοtation. MGG Prisma. Kassel, Basel, London, New York, Prag: Βärenreiter.
+Jaschinski, Andreas. (ed., 2001). Notation. MGG Prisma. Kassel, Basel, London, New York, Prag: Bärenreiter.
 Stuttgart, Weimar: Metzler.
 Kazhdan, Alexander P. (1991). John of Damascus. In A. P. Kazhdan, A.-M. Talbot, A. Cuthler, T. E. Gregory, & N. P.
 Ševčenko (eds.), The Oxford Dictionary of Byzantium, vol. II (pp. 1063-1064). New York, Oxford: Oxford
@@ -1050,7 +1050,7 @@ Preliminary version, Nr. 1. Iași: Centrul de Studii Bizantine Iași.
 Troelsgård, Christian. (1999). Kromatik i byzantinsk kirkesang? Nogle betragtninger omkring skala- og tonalitets-
 begrebet i den middelaladerlige og eftermiddelalderlige tradition. Offprint from: C. Bach-Nielsen, Tr. Nørager, P.
 Thyssen (eds.), Ordet og livet. Festskrift til Christian Thodberg (pp. 66-79). Århus.
-Troelsgård, Christian. (2011). Byzantine Neumes. Α Νew Introduction to the Middle Byzantine Musical Notation. MMB,
+Troelsgård, Christian. (2011). Byzantine Neumes. A New Introduction to the Middle Byzantine Musical Notation. MMB,
 Subsidia IX. Copenhagen: Tusculanum Press.
 Zannos, Ioannis. (1994). Ichos und Makam. Orpheus 74. Bonn.
 
@@ -1106,7 +1106,7 @@ xiv In Figures 9.17.a-b there were added a division into disemic rhythmic feet, 
 (2003 and 2010), as well as small circles at the points of cadences. These additions were made for the coordination of the
 performance of the exercise by the Byzantine Music Palaeography Group. A diatonic transcription of the
 method Theologe parthene, based on ms. EBE 928, f. 167r-v, is found in: Manuel Chrysaphes, On the matters
-considered (ed. Conomos, CSRM, vol. ΙΙ, p. 74).
+considered (ed. Conomos, CSRM, vol. II, p. 74).
 xv The division into rhythmic feet is based on: Karas (1982, vol. I, pp. 142-153).
 xvi Cf. Zannos (1994, p. 142). Troelsgård (1999). Raasted (1986). Alexandru (2000, vol. Ι, pp. 217-219).
 xvii Cf. Raasted (1966, pp. 26 and 46).
@@ -1134,7 +1134,7 @@ may find in: Giannopoulos (2013, pp. 111-113).
 xxvi The copying of the beginning of the resurrectional sticheron was based on a digital photograph from an eighteenth-century
 Papadike (;), f. 8v. For the photograph we thank Father Nektarios Paris. The diagram presents a
 similarity to various examples from the Musica enchiriadis: cf. Atkinson (2009, pp. 124-126).
-xxvii The example comes from: Alexandru (2000, vol. ΙΙΙ, p. 16).
+xxvii The example comes from: Alexandru (2000, vol. III, p. 16).
 xxviii This image is based on: Alexandru & Tsougras (2008, fig. 2). For a model on which the
 photograph of the modern Russian matryoshka doll was based, cf.
 <https://de.wikipedia.org/wiki/Matrjoschka#/media/File:Russian-Matroshka2.jpg> (8.5.2016).

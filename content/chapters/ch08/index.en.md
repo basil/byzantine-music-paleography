@@ -1785,7 +1785,7 @@ of 1832. Critical edition by Georgios N. Konstantinou. Vatopaidi Musical Book,
 Musicological Studies 1. Mount Athos: Holy Great Monastery of Vatopaidi, 2007.
 
 Alexandrescu, Dragoș. (2004). Teoria muzicii. Vol. I. București: Editura Universității Naționale de Muzică.
-Gertsman, Εvgeny Vladimirovich. (Ed., 1994). Petersburg Theoreticon. Odessa: Variant Publishers.
+Gertsman, Evgeny Vladimirovich. (Ed., 1994). Petersburg Theoreticon. Odessa: Variant Publishers.
 Giannopoulos, Emmanouil. (2013). Collections of Byzantine Chant Treatises in Manuscripts of the 17th and 18th
 Centuries. The Continuation of the Tradition. In Gerda Wolfram & Christian Troelsgård (eds.), Tradition and
 Innovation in Late- and Postbyzantine Liturgical Chant II, Proceedings of the Congress held at Hernen Castle, the
@@ -1793,7 +1793,7 @@ Netherlands, 30 October - 3 November 2008, Eastern Christian Studies, 17 (pp. 97
 MA: A.A. Bredius Foundation, Peeters.
 Konstantinou, Georgios N. (2012). Teoria și practica muzicii bisericești. Volumul I. Traducere Adrian Sîrbu. Iași:
 Asociația Culturală Byzantion.
-Raasted, Jørgen. (Ed., 1983). The Hagiopolites, A Byzantine Τreatise on Musical Theory. Preliminary Edition. Cahiers
+Raasted, Jørgen. (Ed., 1983). The Hagiopolites, A Byzantine Treatise on Musical Theory. Preliminary Edition. Cahiers
 de l' Institut du Moyen-Âge Grec et Latin, 45.
 Raasted, Jørgen, and Stathis, Grigorios. (1992). A Primer of Byzantine Chant. Copenhagen and Athens (unpublished
 incomplete handbook, 43 pp.).
@@ -1915,7 +1915,7 @@ Raasted, Jørgen. (1966). Intonation formulas and modal signatures in Byzantine 
 VII. Copenhagen: Munksgaard.
 
 Raasted, Jørgen. (1976). A 17th Century Manuscript of Byzantine Music, Recently Acquired by the Royal Library in
-Copenhagen (Ny kgl. Saml. 4466,4o). In Actes du XIVe Congrès International des Études Byzantines (pp. 565-573).
+Copenhagen (Ny kgl. Saml. 4466,4ο). In Actes du XIVe Congrès International des Études Byzantines (pp. 565-573).
 București.
 Raasted, Jørgen. (1986a). Chromaticism in Medieval Byzantine Chant. CIMAGL, 53, 15-36.
 Raasted, Jørgen. (1986b). Thoughts on a Revision of the Transcription Rules of the Monumenta Musicae Byzantinae.
@@ -1931,7 +1931,7 @@ Schulze, Corina & al. (1998). Compact Universalwörterbuch Französisch. Franzö
 München: Compact Verlag.
 Strunk, Oliver. (1945/1977). Intonations and Signatures of the Byzantine Modes. The Musical Quarterly, xxxi (1945),
 
-339-355, repr. in Οliver Strunk, Εssays on Music in the Byzantine World, ed. Kenneth Levy (pp. 19-36). New
+339-355, repr. in Oliver Strunk, Essays on Music in the Byzantine World, ed. Kenneth Levy (pp. 19-36). New
 
 York: W.W. Norton & Company, 1977.
 Thodberg, Christian. (1964). Chromatic alterations in the Sticherarium. In Actes du XIIe Congrès International d' Études
@@ -1949,7 +1949,7 @@ Conference of the American Society of Byzantine Music and Hymnology, September 1
 
 Troelsgård, Christian. (2010). Byzantinsk musik og europæisk musikhistorie. In Øystein Hjort (ed.), Arven fra Byzans.
 Det Byzantinske Rije. Aarhus: Tidsskriftet SFINX.
-Troelsgård, Christian. (2011). Byzantine Neumes. A Νew Introduction to the Middle Byzantine Musical Notation. MMB,
+Troelsgård, Christian. (2011). Byzantine Neumes. A New Introduction to the Middle Byzantine Musical Notation. MMB,
 Subsidia IX. Copenhagen: Tusculanum Press.
 Williams, Edward Vinson. (1969). John Koukouzeles' Reform of Byzantine Chanting for Great Vespers in the Fourteenth
 Century. Dissertation, Yale University 1968. University Microfilms: Ann Arbor, Michigan.

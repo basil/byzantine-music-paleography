@@ -653,7 +653,7 @@ Looking for the solutions to the exercises from the Assessment Criteria ........
 |γαλλ.|French|
 |γερμ.|German|
 |δρ.|doctor|
-|ΕΒΕ|National Library of Greece|
+|EBE|National Library of Greece|
 |εικ.|figure|
 |έκδ.|edition|
 |ελλ.|Greek|

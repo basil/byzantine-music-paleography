@@ -69,7 +69,7 @@ weight: 1000
 1. Όνομα (γερμ. Name). Εάν υπάρχουν περισσότερα ονόματα για το ίδιο σημάδι ή την ίδια θέση,
 
 αναφέρονται και αυτά ως Δευτερεύοντα ονόματα (γερμ. Nebennamen) ή Σπάνια ονόματα (γερμ. Sondernamen).
-Eπίσης, αναφέρονται ιδιαιτερότητες στην ορθογραφία ή/και τη μορφή των ονομάτων (γερμ. Neben- und/oder
+Επίσης, αναφέρονται ιδιαιτερότητες στην ορθογραφία ή/και τη μορφή των ονομάτων (γερμ. Neben- und/oder
 Sonderformen).
 Προσδιοριστικά (γερμ. Präzisierungen): π.χ. επίθετα ή επιρρήματα.
 
@@ -214,7 +214,7 @@ de elementos diversos comenzó a funcionar autónomamente en un nuevo sistema" (
 στενότερες έννοιες παρουσιάζονται μαζί, οι ευρύτερες ξεχωριστά. Επίσης, ξεχωριστά αναφέρονται οι έννοιες στην
 τρίτη περίπτωση.
 
-1. Στο τέλος του λήμματος αναφέρεται σχετική Bιβλιογραφία (Sekundärliteratur).
+1. Στο τέλος του λήμματος αναφέρεται σχετική Βιβλιογραφία (Sekundärliteratur).
 
 Διευκρίνιση: στις ενότητες «Σημασία» και «Σχέσεις» διατηρήθηκαν οι διάφορες γλώσσες των λεξικών που
 συμβουλεύθηκαν, για περισσότερη ακρίβεια. Στην υποενότητα «Επεξηγήσεις» δεν μπορούσαν να εξαλειφθούν μερικές
@@ -226,7 +226,7 @@ de elementos diversos comenzó a funcionar autónomamente en un nuevo sistema" (
 
 Οι αναφορές στηρίζονται στα εξής λεξικά (η σειρά αντιστοιχεί στον αριθμό των χωρίων που περιλήφθηκαν στο
 γλωσσάριο):
-LSJ: Liddell, H.G., Scott, R., Jones, H. Stuart. (1940). A Greek-English Lexicon (9η έκδ.). Oxford. Eπαν. 1990.
+LSJ: Liddell, H.G., Scott, R., Jones, H. Stuart. (1940). A Greek-English Lexicon (9η έκδ.). Oxford. Επαν. 1990.
 LSJSuppl: Liddell, H.G., Scott, R., Jones, H. Stuart. (1968). A Greek-English Lexicon. A Supplement. Ed. E.A. Barber.
 Oxford. Επαν. 1990.
 
@@ -247,7 +247,7 @@ LBG: Trapp, Erich & alii. (1994-). Lexikon zur Byzantinischen Gräzität. Wien.
 AndrArch: Andreiotes, N. (1974). Lexikon der Archaismen in neugriechischen Dialekten. Wien.
 Langensch: Wendt, H.F. (1990). Langenscheidts Taschenwörterbuch der Neugriechischen und Deutschen Sprache (17η
 έκδ.). Berlin.
-LangenschLat: Pertsch, E. (Eπιμ., 1991). Langenscheidts Grosses Schulwörterbuch Lateinisch-Deutsch. Bearbeitet auf
+LangenschLat: Pertsch, E. (Επιμ., 1991). Langenscheidts Grosses Schulwörterbuch Lateinisch-Deutsch. Bearbeitet auf
 der Grundlage des Menge-Güthling (8η έκδ.). Berlin.
 TLG: Thesaurus Linguae Graecae. CD-Rom, University of California Irvine, 1987.16
 
@@ -275,13 +275,13 @@ Koumanoudes, St. (1883). Συλλογὴ λέξεων ἀθησαυρίστων 
 
 ### B. Για τις «Σχέσεις» των ονομάτων με ορολογία αρχαίων τεχνών
 
-- Γραμματική: Béc: Βécares Botas, Vicente. (1985). Diccionario de terminologia grammatical griega. Salamanca.
+- Γραμματική: Béc: Bécares Botas, Vicente. (1985). Diccionario de terminologia grammatical griega. Salamanca.
 
 - Ρητορική: Ernest: Ernestus, J. Chr. Th. (1795). Lexicon technologiae graecorum rhetoricae. Leipzig. Επαν. 1962.
 
 Lausb: Lausberg, H. (1973). Handbuch der literarischen Rhetorik. 2 τ. (2η έκδ.). München.
 
-- Mουσική, Μετρική:
+- Μουσική, Μετρική:
 
 Κείμενα:17
 AristidQuint: Aristides Quintilianus. De Musica. Επιμ. R. P. Winnington-Ingram. Leipzig, 1963.
@@ -290,8 +290,8 @@ AristoxHarm: Aristoxenus. Elementa Harmonica. Rec. Rosetta da Rios. Roma, 1954.
 PtolHarm: Ptolemaeus. Harmonica. Die Harmonielehre des Klaudios Ptolemaios. Ed. Ingemar Düring. Göteborg
 Högskolas Årsskrift, 36 (1930).
 CleonidHarm: Cleonides. Introductio Harmonica. Ed. C. Jan, Musici Scriptores Graeci. Leipzig, 1895, σ. 179.
-NicomEnch: Νicomachus Gerasenus. Encheiridion. Ed. C. Jan, Musici Scriptores Graeci. Leipzig, 1895, σ. 236.
-NicomExc: Νicomachus Gerasenus. Excerpta. Ed. C. Jan, Musici Scriptores Graeci. Leipzig, 1895, σ. 266.
+NicomEnch: Nicomachus Gerasenus. Encheiridion. Ed. C. Jan, Musici Scriptores Graeci. Leipzig, 1895, σ. 236.
+NicomExc: Nicomachus Gerasenus. Excerpta. Ed. C. Jan, Musici Scriptores Graeci. Leipzig, 1895, σ. 266.
 Λεξικό: Mich: Michaelides, Solon. (1978). The Music of Ancient Greece. An Encyclopaedia. London.
 
 ### Γ. Για τα «Ονόματα», Δευτερεύοντα και σπάνια ονόματα, Ιδιαιτερότητες στη μορφή των ονομάτων
@@ -300,13 +300,13 @@ NicomExc: Νicomachus Gerasenus. Excerpta. Ed. C. Jan, Musici Scriptores Graeci.
 
 #### α. Λίστες νευμάτων
 
-Παλαιοβυζαντινής σημειογραφίας (Pb):
+Παλαιοβυζαντινής σημειογραφίας (Πβ):
 για τη σημειογραφία Chartres: Lγ67, φ.159r,
 για τη σημειογραφία Coislin: HagiopolR §22. HagiopolT σ. 168,18-169,2. Barb300 φ.9v-10. Pe239
 (Thibaut, Monuments, σ. 87). Pe495 φ.1v. PsDamVII σειρές 605-619.
 Συμπληρωματικά: Floros I-III.
 
-Μεσοβυζαντινής σημειογραφίας (Μb):
+Μεσοβυζαντινής σημειογραφίας (Μβ):
 πρώτα τεκμήρια της Προθεωρίας της Παπαδικής: Pe495 φ.1v-2. Pa261 φ.139v,
 όψιμη Προθεωρία της Παπαδικής: Λίστες μεγάλων σημαδιών:
 
@@ -314,7 +314,7 @@ NicomExc: Νicomachus Gerasenus. Excerpta. Ed. C. Jan, Musici Scriptores Graeci.
 
 v, Pe498 φ.3r-v | 1e: Pe497 φ.3r-v
 
- Tύπος 2a: Iv985 φ.1v-2, EBE2444 φ.10v-11, Pe494 φ.2v-3 |
+ Τύπος 2a: Iv985 φ.1v-2, EBE2444 φ.10v-11, Pe494 φ.2v-3 |
 
 2bα: Lε173 φ.1r-v, Iv1120 φ.2r-v? | 2bβ: EBE2267 φ.2r-v, Va1530 φ.2r-v, EBE899 φ.18r-v, Lε146 φ.11v, Barb300
 
@@ -334,7 +334,7 @@ Pant211 φ.352v-353, Koutl461 φ.107v-109, Doch318 φ.6v-7, Iv1192 φ.212r-v
 
 -  από Apost.
 
-Νεοβυζαντινής σημειογραφίας (Nb):
+Νεοβυζαντινής σημειογραφίας (Νβ):
 
 -  από Chrysanth
 
@@ -363,10 +363,10 @@ Lε173 f.2v || GlykB | GlykB'' | Kouk, KoukExeg19 | Theod
 
 |Βραχυγραφία στο Γλωσσάριο|Τίτλος εγχειριδίου, Έκδοση|Χρονολόγηση|Εξελικτικό στάδιο σημειο- γραφίας που αναλογεί|Βιβλιογραφία||
 |---|---|---|---|---|---|
-|HagiopolR (Pa360)|Ἁγιοπολίτης: Raasted, Jørgen. (Eπιμ., 1983). The Hagiopolites, A Byzantine Τreatise on Musical Theory. Preliminary Edition. Cahiers de l' Institut du Moyen-Âge Grec et Latin, 45.|Σύνταξη του Αγιοπολίτη: 12ος αι. Χρονολόγηση χφου Pa360: 14ος αι.|Πβ (Coislin) και Μβ Ι (από πρώιμη έως πλήρως εξελιγμένη)|Hannick, "Musik", σ. 200-202. Tardo, Melurgia, σ. 164. Σχόλια του Raasted στην έκδοση του Αγιοπολίτη.||
+|HagiopolR (Pa360)|Ἁγιοπολίτης: Raasted, Jørgen. (Επιμ., 1983). The Hagiopolites, A Byzantine Treatise on Musical Theory. Preliminary Edition. Cahiers de l' Institut du Moyen-Âge Grec et Latin, 45.|Σύνταξη του Αγιοπολίτη: 12ος αι. Χρονολόγηση χφου Pa360: 14ος αι.|Πβ (Coislin) και Μβ Ι (από πρώιμη έως πλήρως εξελιγμένη)|Hannick, "Musik", σ. 200-202. Tardo, Melurgia, σ. 164. Σχόλια του Raasted στην έκδοση του Αγιοπολίτη.||
 |HagiopolT (Vat872)|Ἁγιοπολίτης: Tardo, Lorenzo, Jeromonaco. (1938). Lʼ antica melurgia bizantina nellʼ interpretazione della Scuola Monastica di Grottaferrata. Grottaferrata.|Vat872: αρχές 14ου αι.||||
 |PsDamIV|Ἰωάννης Ψευδο-Δαμασκηνός. Ἐρωταποκρίσεις. Επιμ. G. Wolfram και Chr. Hannick, Die Erotapokriseis des Pseudo-Johannes Damaskenos zum Kirchengesang. Monumenta Musicae Byzantinae, Corpus Scriptorum de Re Musica, V. Wien: Verlag der Österreichischen Akademie der Wissenschaften, 1997.|12ος αι.|Πβ (Coislin VI)|Wolfram & Hannick, Erotapokriseis, σ. 20.||
-|PsDamVII|Ἰωάννης Ψευδο-Δαμασκηνός, Ἐρωταποκρίσεις, ενότητα VΙΙ: Επιμ. Wolfram & Hannick (1997).|Μέσα-τέλη 14ου αι.|Μβ I (από πρώιμη έως πλήρως εξελιγμένη).|Ό.π., σ. 20-21.||
+|PsDamVII|Ἰωάννης Ψευδο-Δαμασκηνός, Ἐρωταποκρίσεις, ενότητα VII: Επιμ. Wolfram & Hannick (1997).|Μέσα-τέλη 14ου αι.|Μβ I (από πρώιμη έως πλήρως εξελιγμένη).|Ό.π., σ. 20-21.||
 |Papadike: Typ D &|Προθεωρία της Παπαδικής, σε διάφορορους τύπους, αντανακλώντας την εξέλιξή της από το 13ο-18ο αι.: Τύπος Δ (ο παλαιότερος στην αρίθμηση του Raasted. Νέα αρίθμηση: Α20)|14ος-15ος αι.||Προεργασίες του Raasted για την κριτική έκδοση της Προθεωρίας της Παπαδικής.||
 |Pe494|Προθεωρία στο χφο Pe494|Β΄ μισό 14ου αι.||Theoreticon, σ.||
 |Typ A &|Τύπος Α στην αρίθμηση του Raasted Νέα αρίθμηση: C ( ) &|15 ος αι.||||
@@ -381,42 +381,42 @@ Lε173 f.2v || GlykB | GlykB'' | Kouk, KoukExeg19 | Theod
 Strategies of editing 'living texts': the case of the Papadike. 23rd International Congress of Byzantine Studies, Belgrade,
 22nd-27th August, 2016.
 
-|Typ B|Τύπος Β στην αρίθμηση του Raasted (Nέα αρίθμηση: παραμένει Β)|15ος-16ος αι.|||
+|Typ B|Τύπος Β στην αρίθμηση του Raasted (Νέα αρίθμηση: παραμένει Β)|15ος-16ος αι.|||
 |---|---|---|---|---|
 |Typ C|Τύπος C στην αρίθμηση του Raasted (Νέα αρίθμηση: D)|16ος-18ος αι.|||
-|PsDam VIII|Ἰωάννης Ψευδο-Δαμασκηνός, Ἐρωταποκρίσεις, ενότητα VΙΙΙ: Επιμ. Wolfram & Hannick (1997).|?|Μβ (σχετικά με την απορροή).|Wolfram & Hannick, Erotapokriseis, σ. 21.|
-|PsDamI|Ἰωάννης Ψευδο-Δαμασκηνός, Ἐρωταποκρίσεις, ενότητα Ι: Επιμ. Wolfram & Hannick (1997).|Α΄ μισό 14ου αι.|Μβ II (όψιμη).|Ό.π., σ. 20.|
-|PsDamII|Ἰωάννης Ψευδο-Δαμασκηνός, Ἐρωταποκρίσεις, ενότητα ΙΙ: Επιμ. Wolfram & Hannick (1997).|Α΄ μισό 14ου αι.|Mβ II (όψιμη).|Ό.π.|
-|Blemydes|Μιχαήλ Βλεμύδης. Ιnc. Ἀρχὴ σὺν Θεῷ τῶν σημαδίων ἑρμηνευομένων καθ' ἕκαστον. Σε Εvgeny Vladimirovich Gertsman (επιμ.), Petersburg Theoreticon (σ. 338- 360, 373-384). Odessa: Variant Publishers, 1994.|13ος (Uspenskij). 14ος (Tardo). αι. αι.|Μβ I-II (από πρώιμη έως όψιμη).|Gertsman, Theoreticon, σ. 341. Tardo, Melurgia, σ. 245.|
-|Methodos|Ἐκ τῆς μουσικῆς συντεθεῖσα φωναῖον μέθοδος ἠκριβωμένη, ποιηθεῖσα παρὰ τῶν ἁγίων πατέρων καὶ ποιητῶν κὺρ Κοσμᾶ καὶ Ἰωάννου τοῦ Δαμασκηνοῦ καὶ Ἰωάννου τοῦ Χρυσοστόμου, από το χφο Σινά 1764, φ. 52α. Έκδοση σε: Alexandru, Maria. (2000). Studie über die 'grossen Zeichen' der byzantinischen musikalischen Notation, unter besonderer Berücksichtigung der Periode vom Ende des 12. bis Anfang des 19. Jahrhunderts. Διδακτορική διατριβή. Universität Kopenhagen, Humanistische Fakultät, τ. ΙΙ, σ. 87.|Χφο Σινά 1764: 16ος αι. (Raasted). 17ος αι. (Schartau) Κείμενο μάλλον παλαιότερο από το αντίστοιχο θεωρητικό του Βλεμύδη.|Mb I-II (από πρώιμη έως όψιμη).|Για τη χρονολόγηση του χφου: Schartau, Tragodistes, σ. 24 με υποσημ. 21.|
-|PsDamIII|Ἰωάννης Ψευδο-Δαμασκηνός, Ἐρωταποκρίσεις, ενότητα ΙΙΙ: Επιμ. Wolfram & Hannick (1997).|Γύρω στο 1400.|Mβ II (όψιμη).|Wolfram & Hannick, Erotapokriseis, σ. 20.|
-|PsDamIX|Ἰωάννης Ψευδο-Δαμασκηνός, Ἐρωταποκρίσεις, ενότητα ΙX: Επιμ. Wolfram & Hannick|Όψιμος 14ος αι.-μέσα 15ου αι.|Mβ II (όψιμη).|Ό.π., σ. 21.|
-|Gabriel|Γαβριὴλ Ἱερομόναχος. Περὶ τῶν ἐν τῇ ψαλτικῇ σημαδίων. Επιμ. Chr. Hannick και G. Wolfram, Gabriel Hieromonachos, Abhandlung über den Kirchengesang. Monumenta Musicae Byzantinae, Corpus Scriptorum de Re Musica, Ι. Wien: Verlag der Österreichischen Akademie der Wissenschaften, 1985.|Ακμή: μέσα 15ου αι.|Mβ II (όψιμη).|Hannick & Wolfram, Gabriel, σ. 21.|
-|Chrys|Μανουὴλ Χρυσάφης. Περὶ τῶν ἐνθεωρουμένων τῇ ψαλτικῇ τέχνῃ καὶ ὧν φρονοῦσι κακῶς τινες περὶ αὐτῶν. Επιμ. D. Conomos, The Treatise of Manuel Chrysaphes, The Lampadarios: On the Theory of the Art of Chanting and on Certain Erroneous Views That Some Hold About it. Monumenta Musicae|Ακμή: περ. 1440-1463.|Mβ II (όψιμη).|Conomos, Treatise, σ. 11.|
+|PsDam VIII|Ἰωάννης Ψευδο-Δαμασκηνός, Ἐρωταποκρίσεις, ενότητα VIII: Επιμ. Wolfram & Hannick (1997).|?|Μβ (σχετικά με την απορροή).|Wolfram & Hannick, Erotapokriseis, σ. 21.|
+|PsDamI|Ἰωάννης Ψευδο-Δαμασκηνός, Ἐρωταποκρίσεις, ενότητα I: Επιμ. Wolfram & Hannick (1997).|Α΄ μισό 14ου αι.|Μβ II (όψιμη).|Ό.π., σ. 20.|
+|PsDamII|Ἰωάννης Ψευδο-Δαμασκηνός, Ἐρωταποκρίσεις, ενότητα II: Επιμ. Wolfram & Hannick (1997).|Α΄ μισό 14ου αι.|Μβ II (όψιμη).|Ό.π.|
+|Blemydes|Μιχαήλ Βλεμύδης. Inc. Ἀρχὴ σὺν Θεῷ τῶν σημαδίων ἑρμηνευομένων καθ' ἕκαστον. Σε Evgeny Vladimirovich Gertsman (επιμ.), Petersburg Theoreticon (σ. 338- 360, 373-384). Odessa: Variant Publishers, 1994.|13ος (Uspenskij). 14ος (Tardo). αι. αι.|Μβ I-II (από πρώιμη έως όψιμη).|Gertsman, Theoreticon, σ. 341. Tardo, Melurgia, σ. 245.|
+|Methodos|Ἐκ τῆς μουσικῆς συντεθεῖσα φωναῖον μέθοδος ἠκριβωμένη, ποιηθεῖσα παρὰ τῶν ἁγίων πατέρων καὶ ποιητῶν κὺρ Κοσμᾶ καὶ Ἰωάννου τοῦ Δαμασκηνοῦ καὶ Ἰωάννου τοῦ Χρυσοστόμου, από το χφο Σινά 1764, φ. 52α. Έκδοση σε: Alexandru, Maria. (2000). Studie über die 'grossen Zeichen' der byzantinischen musikalischen Notation, unter besonderer Berücksichtigung der Periode vom Ende des 12. bis Anfang des 19. Jahrhunderts. Διδακτορική διατριβή. Universität Kopenhagen, Humanistische Fakultät, τ. II, σ. 87.|Χφο Σινά 1764: 16ος αι. (Raasted). 17ος αι. (Schartau) Κείμενο μάλλον παλαιότερο από το αντίστοιχο θεωρητικό του Βλεμύδη.|Μβ I-II (από πρώιμη έως όψιμη).|Για τη χρονολόγηση του χφου: Schartau, Tragodistes, σ. 24 με υποσημ. 21.|
+|PsDamIII|Ἰωάννης Ψευδο-Δαμασκηνός, Ἐρωταποκρίσεις, ενότητα III: Επιμ. Wolfram & Hannick (1997).|Γύρω στο 1400.|Μβ II (όψιμη).|Wolfram & Hannick, Erotapokriseis, σ. 20.|
+|PsDamIX|Ἰωάννης Ψευδο-Δαμασκηνός, Ἐρωταποκρίσεις, ενότητα IX: Επιμ. Wolfram & Hannick|Όψιμος 14ος αι.-μέσα 15ου αι.|Μβ II (όψιμη).|Ό.π., σ. 21.|
+|Gabriel|Γαβριὴλ Ἱερομόναχος. Περὶ τῶν ἐν τῇ ψαλτικῇ σημαδίων. Επιμ. Chr. Hannick και G. Wolfram, Gabriel Hieromonachos, Abhandlung über den Kirchengesang. Monumenta Musicae Byzantinae, Corpus Scriptorum de Re Musica, Ι. Wien: Verlag der Österreichischen Akademie der Wissenschaften, 1985.|Ακμή: μέσα 15ου αι.|Μβ II (όψιμη).|Hannick & Wolfram, Gabriel, σ. 21.|
+|Chrys|Μανουὴλ Χρυσάφης. Περὶ τῶν ἐνθεωρουμένων τῇ ψαλτικῇ τέχνῃ καὶ ὧν φρονοῦσι κακῶς τινες περὶ αὐτῶν. Επιμ. D. Conomos, The Treatise of Manuel Chrysaphes, The Lampadarios: On the Theory of the Art of Chanting and on Certain Erroneous Views That Some Hold About it. Monumenta Musicae|Ακμή: περ. 1440-1463.|Μβ II (όψιμη).|Conomos, Treatise, σ. 11.|
 
 (1997).
 Byzantinae,
 
 ||Corpus Scriptorum de Re Musica, II. Wien: Verlag der Österreichischen Akademie der Wissenschaften, 1985.||||
 |---|---|---|---|---|
-|AnonEBE 899|Ανώνυμο θεωρητικό στο χφο ΕΒΕ 899, στην έκδοση: Zannos, Ioannis. (1985). Ein byzantinischer Musiktraktat im Codex Athen 899. Wissenschaftliche Hausarbeit zur Erlangung des akademischen Grades eines Magister Artium der Universität Hamburg.|«Mέχρι 1490».|Mβ II (όψιμη)|Zannos, Ichos, σ. 111.|
-|Akrib|Ἀκρίβεια. Επιμ. Bjarne Schartau, Anonymous Questions and Answers on the Interval Signs. Monumenta Musicae Byzantinae, Corpus Scriptorum de Re Musica, ΙV. Wien: Verlag der Österreichischen Akademie der Wissenschaften, 1998.|Παλαιότερο τεκμήριο: πριν το έτος 1560.|Mβ II (όψιμη)|Schartau, Questions, σ. 26 και 17.|
-|Chalkeop|Ακάκιος Χαλκεόπουλος, Ἀκριβολογήματα: Θεωρητικό από το αυτόγραφό του χφο ΕΒΕ 916, φ. 1-15: βλ. Stathes, Gr. Th. (1982). "Δειναὶ θέσεις" καὶ "Ἐξήγησις". Jahrbuch der Österreichischen 32/7, 49-61: 53.|1500-1520.|Mβ II-III (όψιμη και εξηγητική).|Chatzigiakou- mis, Cheirographa, σ. 113.|
-|Prosodia|Ανώνυμο θεωρητικό στο χφο Σινά 1764, φ. 33-51v, inc.: Τί ἐστι προσῳδία;|Για το χφο βλ. παραπάνω, Methodos.|Mβ II(-III?) (όψιμη [και|Βλ. παραπάνω, Methodos.|
-|Marmarenos|Κύριλλος Μαρμαρηνός, Επίσκοπος Τήνου, Εἰσαγωγὴ μουσικῆς κατ' ἐρωταπόκρισιν. Σε: Εvgeny Vladimirovich Gertsman (επιμ.), Petersburg Theoreticon (σ. 710-738, 760- 779). Odessa: Variant Publishers, 1994.|Πριν το 1740.|Mβ II-III (όψιμη και εξηγητική).|Gertsman, Theoreticon, σ. 717.|
-|Erotapokr|Ανώνυμος, Ἐρωταπόκρισις τῶν φωνῶν. Από το χφο Petropolitanus gr. 239, φ. 17- 24. Έκδοση σε: Εvgeny Vladimirovich Gertsman (επιμ.), Petersburg Theoreticon (σ. 249-316). Odessa: Variant Publishers, 1994.|Χφο (Pe239): γ΄ τέταρτο του 18ου αι.|Mβ II-III (όψιμη και εξηγητική).|Ό.π., σ. 249.|
-|Apost|Αποστολόπουλος, Θωμάς. (2002). Ὁ Ἀπόστολος Κώνστας ὁ Χῖος καὶ ἡ συμβολή του στὴ θεωρία τῆς Μουσικῆς Τέχνης. IBM, Μελέται 4. Έκδ. Γρ. Στάθης. Αθήνα.|1800-1820: περισσότερες εκδοχές, εκ των οποίων αναφέρονται: Doch389: έτ. 1807. EBE1867: έτ. 1820.|Mβ II-III (όψιμη και εξηγητική).|Apostolopoulos, Apostolos, σ. 56.|
-|Stephan|Βασίλειος Στεφανίδης ὁ Βυζάντιος. Σχεδίασμα περὶ μουσικῆς ἰδιαίτερον ἐκκλησιαστικῆς. Σε Παράρτημα Ἐκκλησιαστικῆς Ἀληθείας, τεῦχος ε΄ (1 Νοεμβρίου 1902, σ. 209-279). Κωνσταντινούπολις: Πατριαρχικὸν|1819|Mβ II-III (όψιμη και εξηγητική).||
-|ChrysanthEis|Χρύσανθος εκ Μαδύτων. Εἰσαγωγὴ εἰς τὸ θεωρητικὸν καὶ πρακτικὸν τῆς ἐκκλησιαστικῆς μουσικῆς. Παρίσι: Τυπογραφία Ριγνίου, 1821, επαν.|1821|Nβ I (Χρυσανθινή).||
+|AnonEBE 899|Ανώνυμο θεωρητικό στο χφο ΕΒΕ 899, στην έκδοση: Zannos, Ioannis. (1985). Ein byzantinischer Musiktraktat im Codex Athen 899. Wissenschaftliche Hausarbeit zur Erlangung des akademischen Grades eines Magister Artium der Universität Hamburg.|«Μέχρι 1490».|Μβ II (όψιμη)|Zannos, Ichos, σ. 111.|
+|Akrib|Ἀκρίβεια. Επιμ. Bjarne Schartau, Anonymous Questions and Answers on the Interval Signs. Monumenta Musicae Byzantinae, Corpus Scriptorum de Re Musica, IV. Wien: Verlag der Österreichischen Akademie der Wissenschaften, 1998.|Παλαιότερο τεκμήριο: πριν το έτος 1560.|Μβ II (όψιμη)|Schartau, Questions, σ. 26 και 17.|
+|Chalkeop|Ακάκιος Χαλκεόπουλος, Ἀκριβολογήματα: Θεωρητικό από το αυτόγραφό του χφο ΕΒΕ 916, φ. 1-15: βλ. Stathes, Gr. Th. (1982). "Δειναὶ θέσεις" καὶ "Ἐξήγησις". Jahrbuch der Österreichischen 32/7, 49-61: 53.|1500-1520.|Μβ II-III (όψιμη και εξηγητική).|Chatzigiakou- mis, Cheirographa, σ. 113.|
+|Prosodia|Ανώνυμο θεωρητικό στο χφο Σινά 1764, φ. 33-51v, inc.: Τί ἐστι προσῳδία;|Για το χφο βλ. παραπάνω, Methodos.|Μβ II(-III?) (όψιμη [και|Βλ. παραπάνω, Methodos.|
+|Marmarenos|Κύριλλος Μαρμαρηνός, Επίσκοπος Τήνου, Εἰσαγωγὴ μουσικῆς κατ' ἐρωταπόκρισιν. Σε: Evgeny Vladimirovich Gertsman (επιμ.), Petersburg Theoreticon (σ. 710-738, 760- 779). Odessa: Variant Publishers, 1994.|Πριν το 1740.|Μβ II-III (όψιμη και εξηγητική).|Gertsman, Theoreticon, σ. 717.|
+|Erotapokr|Ανώνυμος, Ἐρωταπόκρισις τῶν φωνῶν. Από το χφο Petropolitanus gr. 239, φ. 17- 24. Έκδοση σε: Evgeny Vladimirovich Gertsman (επιμ.), Petersburg Theoreticon (σ. 249-316). Odessa: Variant Publishers, 1994.|Χφο (Pe239): γ΄ τέταρτο του 18ου αι.|Μβ II-III (όψιμη και εξηγητική).|Ό.π., σ. 249.|
+|Apost|Αποστολόπουλος, Θωμάς. (2002). Ὁ Ἀπόστολος Κώνστας ὁ Χῖος καὶ ἡ συμβολή του στὴ θεωρία τῆς Μουσικῆς Τέχνης. IBM, Μελέται 4. Έκδ. Γρ. Στάθης. Αθήνα.|1800-1820: περισσότερες εκδοχές, εκ των οποίων αναφέρονται: Doch389: έτ. 1807. EBE1867: έτ. 1820.|Μβ II-III (όψιμη και εξηγητική).|Apostolopoulos, Apostolos, σ. 56.|
+|Stephan|Βασίλειος Στεφανίδης ὁ Βυζάντιος. Σχεδίασμα περὶ μουσικῆς ἰδιαίτερον ἐκκλησιαστικῆς. Σε Παράρτημα Ἐκκλησιαστικῆς Ἀληθείας, τεῦχος ε΄ (1 Νοεμβρίου 1902, σ. 209-279). Κωνσταντινούπολις: Πατριαρχικὸν|1819|Μβ II-III (όψιμη και εξηγητική).||
+|ChrysanthEis|Χρύσανθος εκ Μαδύτων. Εἰσαγωγὴ εἰς τὸ θεωρητικὸν καὶ πρακτικὸν τῆς ἐκκλησιαστικῆς μουσικῆς. Παρίσι: Τυπογραφία Ριγνίου, 1821, επαν.|1821|Νβ I (Χρυσανθινή).||
 
 ||Κουλτούρα.||||
 |---|---|---|---|---|
-|ChourmGreg|Εἰσαγωγὴ νέας μεθόδου συστηματικῆς εἰς τὸ θεωρητικόν, πρακτικὸν τῆς Μουσικῆς, ὡς ἡ γνώμη τῶν δύο Διδασκάλων τῆς τοῦ γένους κοινῆς σχολῆς Γρηγορίου λαμπαδαρίου καὶ Χουρμουζίου: θεωρητικό στο χφο Σινά 1450, φ. 1-35.|Αρχές 19ου αι. (Schartau).|Nβ I (Χρυσανθινή).|Troelsgård, Inventory (χφο Sinai1450).|
-|AnonXirop 357|Ανώνυμος, Ἐξήγησις τῶν χαρακτήρων καὶ ὑποστάσεων τοῦ παλαιοῦ συστήματος. Έκδ. σε: Στάθης, Γρηγόριος. (1978). Ἡ ἐξήγησις τῆς παλαιᾶς βυζαντινῆς σημειογραφίας καὶ ἔκδοσις ἀνωνύμου συγγραφῆς τοῦ κώδικος Ξηροποτάμου 357 ὡς καὶ ἔκδοσις τῆς Μουσικῆς Τέχνης τοῦ Ἀποστόλου Κώνστα Χίου ἐκ τοῦ κώδικος Δοχειαρίου 389. ΙΒΜ, Μελέται 2. Aθήνα. παλαιῶν|ή αργότερα. Γύρω στο 1820 λίγο|Nβ I (Χρυσανθινή).|Stathis, Exegesis, σ. 19.|
-|Chrysanth|Χρύσανθος Αρχιεπίσκοπος Διρραχίου ο εκ Μαδύτων. Θεωρητικὸν Μέγα τῆς Μουσικῆς. Εκδ. Π. Πελοπίδου. Τεργέστη: τυπογραφία M. Weis, 1832, επαν.|1832|Nβ I (Χρυσανθινή).||
-|PhiloxTheor|Φιλοξένης, Κυριακός. (1859). Θεωρητικὸν στοιχειῶδες τῆς Μουσικῆς. Κωνσταντινούπολις: Τύποις Σ. Ἰγνατιάδου. Επαν. Θεσσαλονίκη:|1859|Nβ (Χρυσανθινή). I||
-|PhiloxLex|Φιλοξένης, Κυριακός. (1868). Λεξικὸν τῆς ἑλληνικῆς ἐκκλησιαστικῆς μουσικῆς. Κωνσταντινούπολις: Τύποις|1868|Nβ I (Χρυσανθινή).||
-|KarasTheorA & B|Καράς, Σίμων. (1982). Μέθοδος τῆς ἑλληνικῆς μουσικῆς. Θεωρητικόν. 2 τ. Αθήνα: Σύλλογος πρὸς Διάδοσιν τῆς|1982|Nβ II (Καρά).||
+|ChourmGreg|Εἰσαγωγὴ νέας μεθόδου συστηματικῆς εἰς τὸ θεωρητικόν, πρακτικὸν τῆς Μουσικῆς, ὡς ἡ γνώμη τῶν δύο Διδασκάλων τῆς τοῦ γένους κοινῆς σχολῆς Γρηγορίου λαμπαδαρίου καὶ Χουρμουζίου: θεωρητικό στο χφο Σινά 1450, φ. 1-35.|Αρχές 19ου αι. (Schartau).|Νβ I (Χρυσανθινή).|Troelsgård, Inventory (χφο Sinai1450).|
+|AnonXirop 357|Ανώνυμος, Ἐξήγησις τῶν χαρακτήρων καὶ ὑποστάσεων τοῦ παλαιοῦ συστήματος. Έκδ. σε: Στάθης, Γρηγόριος. (1978). Ἡ ἐξήγησις τῆς παλαιᾶς βυζαντινῆς σημειογραφίας καὶ ἔκδοσις ἀνωνύμου συγγραφῆς τοῦ κώδικος Ξηροποτάμου 357 ὡς καὶ ἔκδοσις τῆς Μουσικῆς Τέχνης τοῦ Ἀποστόλου Κώνστα Χίου ἐκ τοῦ κώδικος Δοχειαρίου 389. ΙΒΜ, Μελέται 2. Αθήνα. παλαιῶν|ή αργότερα. Γύρω στο 1820 λίγο|Νβ I (Χρυσανθινή).|Stathis, Exegesis, σ. 19.|
+|Chrysanth|Χρύσανθος Αρχιεπίσκοπος Διρραχίου ο εκ Μαδύτων. Θεωρητικὸν Μέγα τῆς Μουσικῆς. Εκδ. Π. Πελοπίδου. Τεργέστη: τυπογραφία M. Weis, 1832, επαν.|1832|Νβ I (Χρυσανθινή).||
+|PhiloxTheor|Φιλοξένης, Κυριακός. (1859). Θεωρητικὸν στοιχειῶδες τῆς Μουσικῆς. Κωνσταντινούπολις: Τύποις Σ. Ἰγνατιάδου. Επαν. Θεσσαλονίκη:|1859|Νβ (Χρυσανθινή). I||
+|PhiloxLex|Φιλοξένης, Κυριακός. (1868). Λεξικὸν τῆς ἑλληνικῆς ἐκκλησιαστικῆς μουσικῆς. Κωνσταντινούπολις: Τύποις|1868|Νβ I (Χρυσανθινή).||
+|KarasTheorA & B|Καράς, Σίμων. (1982). Μέθοδος τῆς ἑλληνικῆς μουσικῆς. Θεωρητικόν. 2 τ. Αθήνα: Σύλλογος πρὸς Διάδοσιν τῆς|1982|Νβ II (Καρά).||
 
 Κουλτούρα.
 Πουρναρά.
@@ -721,7 +721,7 @@ Doch: Δοχειαρίου, Athos
 
 389: A.D. 1807, Autograph des Apostolos (cf. ed. Stathis, Exegesis) | Theoretika
 
-EBE: Εθνική Βιβλιοθήκη της Ελλάδος, Athen
+ΕΒΕ: Εθνική Βιβλιοθήκη της Ελλάδος, Athen
 883: 12. Jh. (Sakkelion); 14. Jh. (Raasted, Revision, S. 262): Sticherarion
 884: A.D. 1341, Vorlage: autographes Sticherarion des Koukouzeles (Raasted, Revision, S. 262)
 885: 15. Jh. (Sakkelion) | Theoretika
@@ -736,7 +736,7 @@ Theoretika
 
 1 Οι βραχυγραφίες για τα χειρόγραφα καταχωρούνται με χοντρά γράμματα. Κατάλογοι χειρογράφων αναφέρονται συνήθως
 μόνο με το όνομα του συγγραφέα του καταλόγου (για τα υπόλοιπα στοιχεία, βλ. παρακάτω, Ευρετήριο IV).
-Οι κώδικες EBE 883, 884, 909, 910, 970, 975, 1868, 2401, 2458, 2446, 2490 και τα πάνω αναφερθέντα χφα της συλλογής
+Οι κώδικες ΕΒΕ 883, 884, 909, 910, 970, 975, 1868, 2401, 2458, 2446, 2490 και τα πάνω αναφερθέντα χφα της συλλογής
 «Μετόχιον Παναγίου Τάφου» μελετήθηκαν στο πρωτότυπό τους. Για τη μελέτη των υπόλοιπων χφων χρησιμοποιήθηκαν
 μικροταινίες, κυρίως από τη συλλογή των Monumenta Musicae Byzantinae. Σε μερικές περιπτώσεις χρησιμοποιήθηκαν και
 πανομοιότυπες ή άλλες εκδόσεις (βλ. αντίστοιχες αναφορές στο κυρίως κείμενο).
@@ -957,7 +957,7 @@ Questions and Answers on the Interval Signs), CSRM 4, Wien 1998
 
 Erlangung des akademischen Grades eines Magister Artium der Universität Hamburg, Hamburg 1985
 
-- AnonEBE 968: Anonymer Traktat in EBE 968, f. 175v-184v, inc.: Ἀρχή, μέση, τέλος, Hs des 17-18 Jhs. (Zannos)
+- AnonEBE 968: Anonymer Traktat in ΕΒΕ 968, f. 175v-184v, inc.: Ἀρχή, μέση, τέλος, Hs des 17-18 Jhs. (Zannos)
 
 - AnonXirop 357: Anonymer Traktat in Xirop 357, f. 60-66, inc.: Ἐξήγησις τῶν παλαιῶν χαρακτήρων καὶ
 
@@ -965,13 +965,13 @@ Erlangung des akademischen Grades eines Magister Artium der Universität Hamburg
 
 - Apost: Apostolos Konstas Chios, Μουσικὴ Τέχνη, Teiledition in Stathis, Exegesis (nach Doch 389); Kommentar in
 
-Apostolopoulos, Apostolos, hauptsächlich aufgrund von EBE 1867
+Apostolopoulos, Apostolos, hauptsächlich aufgrund von ΕΒΕ 1867
 
 - Blem: Michael Blemydes, Erotapokriseis, inc.: Ἀρχὴ σὺν Θεῷ τῶν σημαδίων ἑρμηνευομένων καθ' ἕκαστον, ed.
 
 Gertsman, Theoreticon, S. 338-360, 373-384
 
-- Chalkeop: Akakios Chalkeopoulos, Traktat, in EBE 917, f. 1-15; vgl. Stathis, Theseis, S. 53
+- Chalkeop: Akakios Chalkeopoulos, Traktat, in ΕΒΕ 917, f. 1-15; vgl. Stathis, Theseis, S. 53
 
 - ChourmGreg: Εἰσαγωγὴ νέας μεθόδου συστηματικῆς εἰς τὸ θεωρητικόν, πρακτικὸν τῆς Μουσικῆς, ὡς ἡ
 
@@ -1007,7 +1007,7 @@ Nachdruck Athen 1978 (Verlag Koultoura)
 
 edd. Chr. Hannick/G. Wolfram (Abhandlung über den Kirchengesang), CSRM 1, Wien 1985
 
-- GlykB: Lehrgesang des Ioannes Glykys, Typ B (nach EBE 885), ed. Troelsgård, Development, S. 71-74
+- GlykB: Lehrgesang des Ioannes Glykys, Typ B (nach ΕΒΕ 885), ed. Troelsgård, Development, S. 71-74
 
 - GlykB'': id., Typ B'' (Dux: Va 1530, f. 4v-5v; zum Vergleich/Emendation: Ko 86, f. 13v-15 [Typ B': vgl. Troelsgård,
 
@@ -1029,7 +1029,7 @@ Development, S. 75]; Dion 570, f. 88v-89v): cf. Alexandru, Bemerkungen II, Beila
 
 Erfordernis von Schriftzeichen für die Musik der Griechen), CSRM 3, Wien 1990
 
-- Ioseph: Ἑρμηνεία, Ἰωσὴφ τοῦ ὑμνογράφου, EBE 968, f. 104-134v
+- Ioseph: Ἑρμηνεία, Ἰωσὴφ τοῦ ὑμνογράφου, ΕΒΕ 968, f. 104-134v
 
 - KarasTheorA und B: Simon Karas, Μέθοδος τῆς Ἑλληνικῆς Μουσικῆς, Θεωρητικόν, 2 Bde., Athen 1982
 
@@ -1822,7 +1822,7 @@ Kirchenmusik und der türkischen Kunstmusik, Bonn 1994
 
 - Adj.: Adjektiv
 
-13 Αυτή η λίστα περιέχει τις βραχυγραφίες οι οποίες χρησιμοποιούνται στους τ. Ι-ΙΙI της διατριβής Alexandru, Studie, εκ
+13 Αυτή η λίστα περιέχει τις βραχυγραφίες οι οποίες χρησιμοποιούνται στους τ. Ι-III της διατριβής Alexandru, Studie, εκ
 των οποίων οι περισσότερες εμφανίζονται στο Γλωσσάριο, καθώς και βραχυγραφίες περιοδικών, εκδοτικών σειρών,
 συλλογικών τόμων και λημμάτων λεξικών, τα οποία γράφηκαν από περισσότερους συγγραφείς. Δεν περιλαμβάνει
 βραχυγραφίες για χειρόγραφα ( Ευρετήριο I) και τους βραχυτίτλους των Ευρετηρίων II-IV.
@@ -1857,9 +1857,9 @@ Kirchenmusik und der türkischen Kunstmusik, Bonn 1994
 
 Bellermannschen Anonymus, Göttinger musikwissenschaftliche Arbeiten, Bd. 2, Kassel 1972
 
-- AnonEBE 899: Anonymer Musiktraktat in EBE 899  Index III
+- AnonEBE 899: Anonymer Musiktraktat in ΕΒΕ 899  Index III
 
-- AnonEBE 968: Anonymer Musiktraktat in EBE 968  Index III
+- AnonEBE 968: Anonymer Musiktraktat in ΕΒΕ 968  Index III
 
 - Anon. in Walzii Rhett.: Anonymus in Rhetores Graeci ex codicibus Florentinis Mediolanensibus..., cur. Ch. Walz, 9
 
@@ -1889,7 +1889,7 @@ Bde., Stuttgart u. Tübingen 1832-1836
 
 - ArEq: Aristophanes, Equites, ibid.
 
-- ΑristCat: Aristoteles, Categoriae, in Aristotelis Opera, rec. I. Bekker, ed. Academia΄Regia Borussica, 2. Aufl. cur. O.
+- AristCat: Aristoteles, Categoriae, in Aristotelis Opera, rec. I. Bekker, ed. Academia΄Regia Borussica, 2. Aufl. cur. O.
 
 Gigon, Bd. I, Berlin 1960
 
@@ -2437,10 +2437,10 @@ Fragmenta, vol. I, fasc. I, Berlin 1899, S. 3
 
 - Präs.: Präsens
 
-- Prodr: Προδρομικά. Ι. Τοῦ Προδρόμου κυροῦ Θεοδώρου πρὸς τὸν βασιλέα τὸν Μαυροϊωάννην. ΙΙ. Τοῦ
+- Prodr: Προδρομικά. Ι. Τοῦ Προδρόμου κυροῦ Θεοδώρου πρὸς τὸν βασιλέα τὸν Μαυροϊωάννην. II. Τοῦ
 
-αὐτοῦ ὅμοιοι. ΙΙΙ. Τοῦ αὐτοῦ εἰς τὸν Σεβαστοκράτορα. IV. Στίχοι τοῦ γραμματικοῦ κυροῦ Θεοδώρου τοῦ
-Πτωχοπροδρόμου. V. Toῦ αὐτοῦ πρὸς τὸν βασιλέα: D.C. Hesseling & H. Pernot, Poèmes prodromiques en grec
+αὐτοῦ ὅμοιοι. III. Τοῦ αὐτοῦ εἰς τὸν Σεβαστοκράτορα. IV. Στίχοι τοῦ γραμματικοῦ κυροῦ Θεοδώρου τοῦ
+Πτωχοπροδρόμου. V. Τοῦ αὐτοῦ πρὸς τὸν βασιλέα: D.C. Hesseling & H. Pernot, Poèmes prodromiques en grec
 vulgaire, Verhandelingen der Koninklijke Akademie van Wetenshappen te Amsterdam Afdeeling Letterkunde. Nieuwe
 Reeks Deel XI,4, Amsterdam 1910
 
@@ -2603,9 +2603,9 @@ Symeonis propter Christum Sali, ex. cod. Colbert. 966: Βίος καὶ πολι
 
 1 Ο Κατάλογος αποτελεί μια πρώτη επεξεργασία του αντίστοιχου Καταλόγου ο οποίος βρίσκεται σε: Alexandru, Studie,
 
-τ. ΙΙ, σ. 28-77. Βασίζεται κυρίως στις πηγές οι οποίες αναφέρονται στις σ. v-ix του Παραρτήματος 1 του παρόντος
+τ. II, σ. 28-77. Βασίζεται κυρίως στις πηγές οι οποίες αναφέρονται στις σ. v-ix του Παραρτήματος 1 του παρόντος
 
-Eγχειριδίου, και αναλύονται στο ίδιο Παράρτημα, σ. x-xiv. Στις μεταγραφές στο πεντάγραμμο προστέθηκαν
+Εγχειριδίου, και αναλύονται στο ίδιο Παράρτημα, σ. x-xiv. Στις μεταγραφές στο πεντάγραμμο προστέθηκαν
 διαφοροποιημένες αλλοιώσεις, σύμφωνα με όσα αναφέρονται στο Παράρτημα 3 του παρόντος Εγχειριδίου, ενότητα 5.
 Για το πέρασμα των πενταγραμμικών μεταγραφών στο Φινάλε ευχαριστούμε τον κύριο Γιάννη Βαμβακά.
 
@@ -2946,7 +2946,7 @@ Eγχειριδίου, και αναλύονται στο ίδιο Παράρτ�
 
 ## 1. Προλεγόμενα
 
-Σε αντιδιαστολή με τo Παλαιό Σύστημα, όπου η μελέτη των ύμνων και τροπαρίων γινόταν κατά το τρίπτυχο
+Σε αντιδιαστολή με το Παλαιό Σύστημα, όπου η μελέτη των ύμνων και τροπαρίων γινόταν κατά το τρίπτυχο
 μετροφωνία - παραλλαγή - μέλος, στη Νέα Μέθοδο η διαδικασία εκμάθησης απλουστεύθηκε,
 περιλαμβάνοντας δύο στάδια: παραλλαγή και μέλος. Η σημερινή παραλλαγή χρησιμοποιεί τους λεγόμενους
 πολυσύλλαβους φθόγγους. Αποτελεί κατά κάποιον τρόπο ένα είδος σολφέζ, κατ' έμπνευση δυτικών
@@ -3280,7 +3280,7 @@ Raasted, Jørgen. (1966a). Intonation formulas and modal signatures in Byzantine
 
 VII. Copenhagen: Munksgaard.
 
-Troelsgård, Christian. (2011). Byzantine Neumes. Α Νew Introduction to the Middle Byzantine Musical Notation. MMB,
+Troelsgård, Christian. (2011). Byzantine Neumes. A New Introduction to the Middle Byzantine Musical Notation. MMB,
 Subsidia IX. Copenhagen: Tusculanum Press.
 
 ## Σημειώσεις τέλους για το Παράρτημα 3

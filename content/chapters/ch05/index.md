@@ -62,7 +62,7 @@ O Πάπυρος Οξυρρύγχου 1786 χρονολογείται στο β�
 
 Εικόνα 5.1. Ο Πάπυρος Οξυρρύγχου 1786, (P.Oxy.XV 1786), β΄ μισό 3ου αι. μ.Χ. Ύμνος προς την Αγία Τριάδα σε αρχαιοελληνική αλφαβητική φωνητική σημειογραφία. Το
 αρχαιότερο μνημείο της χριστιανικής μουσικής (βάσει περιεχομένου) και το τελευταίο μνημείο της αρχαιοελληνικής μουσικής (βάσει σημειογραφίας και μουσικής υφής).
-Φυλάσσεται στa Papyrology Rooms, Sackler Library, Oxford. Πρωτοδημοσιεύθηκε από τον A.S. Hunt, το 1922.
+Φυλάσσεται στα Papyrology Rooms, Sackler Library, Oxford. Πρωτοδημοσιεύθηκε από τον A.S. Hunt, το 1922.
 Πηγή εικόνας: <http://163.1.169.40/gsdl/collect/POxy/index/assoc/HASH011f/50b846c7.dir/POxy.v0015.n1786.a.01.hires.jpg> (11.9.2016). Συμπεριλήφθηκε στην παρούσα
 εργασία με την ευγενική άδεια/by Courtesy of the Egypt Exploration Society and Imaging Papyri Project, Oxford.
 Για μια ξενάγηση στον χώρο και χρόνο των ανασκαφών στην Οξύρρυγχο, πρβλ. <http://www.papyrology.ox.ac.uk/POxy/VExhibition/exhib_welcome.html> (11.9.2016).
@@ -121,7 +121,7 @@ O Πάπυρος Οξυρρύγχου 1786 χρονολογείται στο β�
 Εικόνα 5.2.α. O Πάπυρος Berolinensis 21319, σελίδα → (recto, πηγαίνοντας παράλληλα με τις ίνες του παπύρου), 6ος/7ος ή 8ος αι., άγνωστης προέλευσης, με απόσπασμα
 θεοτοκίου τροπαρίου σε βιβλιακή μεγαλογράμματη δεξιοκλινή γραφή. Διακρίνεται ένα είδος πρωτόγονης σημειογραφίας, η οποία αποτελείται από τελείες πάνω από μερικά
 γράμματα (σειρές 1-4) και αγκυστροειδές σχήμα (σειρά 4, πάνω από το γράμμα Ε). Στην αρχή της δεύτερης σειράς, τα πρώτα έντεκα γράμματα είναι σε διακεκομμένο πλαίσιο.
-Με τον τρόπο αυτό δηλώνεται ότι πρέπει να σβυστούν. Στην τέταρτη σειρά εμφανίζονται οι χαρακτηριστικές βραχυγραφίες για δύο nomina sacra: M(HT)HΡ και Κ(ΥΡΙΟ)Υ.
+Με τον τρόπο αυτό δηλώνεται ότι πρέπει να σβυστούν. Στην τέταρτη σειρά εμφανίζονται οι χαρακτηριστικές βραχυγραφίες για δύο nomina sacra: Μ(ΗΤ)ΗΡ και Κ(ΥΡΙΟ)Υ.
 
 Πηγές: Οι διευκρινίσεις βασίζονται σε Sarischouli (1995, σ. 48-56).
 
@@ -140,7 +140,7 @@ O Πάπυρος Οξυρρύγχου 1786 χρονολογείται στο β�
 ![Description](image_6498.jpeg)
 
 Εικόνα 5.2.β. O Πάπυρος Berolinensis 21319, σελίδα ↓ (verso, γραφή πηγαίνοντας κάθετα προς τις ίνες του παπύρου), 6ος/7ος ή 8ος αι., άγνωστης προέλευσης, με απόσπασμα
-δύο θεοτοκίων τροπαρίων σε βιβλιακή μεγαλογράμματη δεξιοκλινή γραφή. Στην τρίτη σειρά υπάρχει βραχυγραφία της λέξης K(YΡΙΟ)Σ.
+δύο θεοτοκίων τροπαρίων σε βιβλιακή μεγαλογράμματη δεξιοκλινή γραφή. Στην τρίτη σειρά υπάρχει βραχυγραφία της λέξης Κ(ΥΡΙΟ)Σ.
 Διακρίνονται σημεία μουσικοποιητικής στίξης (μεσαίες τελείες, στις σειρές 1-3), καθώς και σημάδια μιας πρωτόγονη παρασημαντικής: τελείες πάνω από μερικά γράμματα
 (τέλος της δεύτερης σειράς), η ένδειξη του πλαγίου του δευτέρου ήχου (σειρά 4) και μερικά αγκυστροειδή κυρίως σχήματα στην αρχή του δεύτερου τροπαρίου (σειρά 5).
 Πηγές: Οι διευκρινίσεις βασίζονται σε Sarischouli (1995, σ. 48-56).
@@ -172,7 +172,7 @@ Alpers, D. Harlfinger, D.R. Reinsch, Bd. 3. Wiesbaden: Dr. Ludwig Reichert Verla
 χριστιανών (οι λεγόμενοι Κόπτες), προέρχονται πέντε χειρόγραφα αποσπάσματα σε ελληνική
 μεγαλογράμματη δεξιοκλινή γραφή, τα οποία διαφυλάσσονται σήμερα στη συλλογή παπύρων της
 Βιβλιοθήκης John Rylands του Πανεπιστημίου του Manchester, ως Papyri Rylands Coptici 25recto-29recto.
-Tα πέντε αποσπάσματα είναι γραμμένα σε πρώιμο ανατολικό χαρτί και περιέχουν υμνογραφικά κείμενα στα
+Τα πέντε αποσπάσματα είναι γραμμένα σε πρώιμο ανατολικό χαρτί και περιέχουν υμνογραφικά κείμενα στα
 ελληνικά, αναφορικά με την Υπεραγία Θεοτόκο, την εορτή των Χριστουγέννων κ.ά. Τα πολλά γραμματικά
 και ορθογραφικά λάθη υποστηρίζουν την υπόθεση περί μη ελληνικής καταγωγής του γραφέα/των γραφέων
 των χειρογράφων.
@@ -430,10 +430,10 @@ France.
 
 Ο Jean-Baptiste Thibaut, ένας από τους σκαπανείς της βυζαντινής μουσικής παλαιογραφίας, δημοσίευσε στις
 αρχές του 20ού αιώνα το magnum opus του στον τομέα της Παλαιογραφίας Βυζαντινής Μουσικής, με τίτλο
-Μonuments de la Notation Ekphonétique et Hagiopolite de l'Église Grecque. To βιβλίο αυτό περιλαμβάνει,
+Monuments de la Notation Ekphonétique et Hagiopolite de l'Église Grecque. To βιβλίο αυτό περιλαμβάνει,
 δίπλα σε διάφορα πανομοιότυπα πολύτιμων χειρογράφων, και μια πρώτη έκδοση του Σιναϊτικού Κώδικα L
 (Codex Sinaiticus Liturgicus), ο οποίος βρίσκεται σήμερα στη Ρωσική Εθνική Βιβλιοθήκη, Sankt Petersburg,
-ως RNB. Gr. 44: (Τhibaut, 1913, σ. 17-30 και documents 1*-11*).
+ως RNB. Gr. 44: (Thibaut, 1913, σ. 17-30 και documents 1*-11*).
 Όπως τονίζουν η Alexandra Nikiforova και η Tinatin Chronz, το χειρόγραφο αυτό αποτελεί μια
 μοναδική συλλογή του 9ου αιώνα, με αναγνώσματα, ευχές και άσματα του Αγιοπολιτικού τύπου, πιθανόν από
 την περιοχή της Αιγύπτου: βλ. Εικόνες 5.16-17.
@@ -455,7 +455,7 @@ France.
 
 2.
 
-Εικόνα 5.17. Codex Sinaiticus Liturgicus RNB Gr. 44, φ. 41α, με το β΄ μέρος του στιχηροῦ εἰς σύναξιν «Tὸ
+Εικόνα 5.17. Codex Sinaiticus Liturgicus RNB Gr. 44, φ. 41α, με το β΄ μέρος του στιχηροῦ εἰς σύναξιν «Τὸ
 ζωοδόχον σου μνῆμα», σε ήχο γ ΄, την προτροπή του διακόνου «Μή τις τῶν κατηχουμένω(ν)» στην αρχή του Β΄
 μέρους της Θείας Λειτουργίας, το «Ἀλληλούϊα - (ἦχος [;]) β΄ Ἄρατε πύλας... (Ψαλμός κγ ΄, 7) - Δόξ(α) Π(ατ)ρί -
 Ἀλληλούϊα» στη θέση Χερουβικού Ύμνου. Έπεται η προτροπή του διακόνου «Ἐν σοφίᾳ Θ(εο)ῦ πρόσχ(ωμεν)» και
@@ -636,19 +636,19 @@ Monasterii Westphaliae. Stuttgart: Deutsche Bibelgesellschaft.
 
 Husmann, Heinrich. (1975, 1978). Ein Syro-melkitisches Tropologion mit altbyzantinischer Notation. Göttinger
 Orientforschungen, I. Reihe Syriaca, Bd. 9,1-2. Wiesbaden: Harrassowitz.
-Strunk, Oliver. (Eπιμ., 1966). Specimina Notationum Antiquiorum. Folia selecta ex variis codicibus saec. x, xi, & xii
+Strunk, Oliver. (Επιμ., 1966). Specimina Notationum Antiquiorum. Folia selecta ex variis codicibus saec. x, xi, & xii
 phototypice depicta. Monumenta Musicae Byzantinae VII, Pars Principalis & Pars Suppletoria. Hauniae: Ejnar
 Munksgaards Forlag.
 
 Κατάλογοι χειρογράφων
 
 Δαμιανός Αρχιεπίσκοπος Σινά, Φαράν και Ραϊθώ, Σωφρόνιος Αρχιμανδρίτης, Πελτίκογλου, Β. και Νικολόπουλος, Π.Ν.
-(1998). Ἱερὰ Μονὴ καὶ Ἀρχιεπισκοπὴ Σινᾶ. Τὰ νέα εὑρήματα τοῦ Σινᾶ. Aθήνα: Υπουργείο Πολιτισμού -
+(1998). Ἱερὰ Μονὴ καὶ Ἀρχιεπισκοπὴ Σινᾶ. Τὰ νέα εὑρήματα τοῦ Σινᾶ. Αθήνα: Υπουργείο Πολιτισμού -
 Ίδρυμα Όρους Σινά.
 Sachau, Eduard. (1899). Verzeichnis der syrischen Handschriften der Königlichen Bibliothek zu Berlin. Berlin: Α. Asher
 & Co. <https://archive.org/details/diehandschriften2301preu> (8.8.2016).
 Spyridon of the Laura και Eustratiades, Sophronios. (1925). Catalogue of the Greek Manuscripts in the Library of the
-Laura on Mount Athos. Harvard Theological Studies XII. Cambridge: Harvard University Press. Eπαν. New York:
+Laura on Mount Athos. Harvard Theological Studies XII. Cambridge: Harvard University Press. Επαν. New York:
 Kraus Reprint Co., 1969.
 
 ### Θεωρητικά
@@ -658,8 +658,8 @@ Kraus Reprint Co., 1969.
 Βιβλία, άρθρα
 
 Αλεξάνδρου, Μαρία. (2016). Εισαγωγή στη Βυζαντινή Μουσική. Θεσσαλονίκη: University Studio Press.
-Ασπιώτης, Nικόλαος. (1997). Αρχαίοι Έλληνες μουσικοί. Αθήνα.
-Bοκοτόπουλος, Παναγιώτης Λ. (1995). Ελληνική Τέχνη. Βυζαντινές Εικόνες. Αθήνα: Εκδοτική Αθηνών.
+Ασπιώτης, Νικόλαος. (1997). Αρχαίοι Έλληνες μουσικοί. Αθήνα.
+Βοκοτόπουλος, Παναγιώτης Λ. (1995). Ελληνική Τέχνη. Βυζαντινές Εικόνες. Αθήνα: Εκδοτική Αθηνών.
 Γιάννου, Δημήτρης. (1995). Ιστορία της μουσικής. Τόμος Α΄. Θεσσαλονίκη: University Studio Press.
 Γιάννου, Δημήτρης, Γουλάκη-Βουτυρά, Αλεξάνδρα και Θέμελης, Δημήτριος. (1998). Ελληνική και Ευρωπαϊκή Μουσική.
 Εικονογραφημένη Ιστορική Εισαγωγή. Θεσσαλονίκη: Σύλλογος Φίλων Μουσικής Θεσσαλονίκης.
@@ -698,17 +698,17 @@ Bοκοτόπουλος, Παναγιώτης Λ. (1995). Ελληνική Τέ�
 Σωτήρχος, Π.Μ. (2011). Ένσαρκος άγγελος. Μέγας Μακάριος ο Αιγύπτιος. Αθήνα: Αστήρ.
 Τσαφέρης, Βασίλειος. (ά.χ.). Ιερουσαλήμ, Άγιοι Τόποι, Προσκυνητάριο του Ορθοδόξου Χριστιανού. Χερτζελία: Palphot.
 Τσιγαρίδας, Ευθύμιος. (2003). Μανουὴλ Πανσέληνος, Ἐκ τοῦ Πρωτάτου. Κατάλογος έκθεσης. Επιστημονική επιμ.
-Ευθύμιος Τσιγαρίδας, συγγραφείς καταλόγου Ευθύμιoς Τσιγαρίδας et al. Θεσσαλονίκη: Αγιορειτική Εστία.
+Ευθύμιος Τσιγαρίδας, συγγραφείς καταλόγου Ευθύμιος Τσιγαρίδας et al. Θεσσαλονίκη: Αγιορειτική Εστία.
 Τσολακίδης, Χρήστος Δ. (2001). Ἁγιολόγιο τῆς Ὀρθοδοξίας (β΄ έκδ.). Αθήνα: Εκδόσεις Χ.Δ. Τσολακίδη.
 
 Χατζηγιακουμής, Μανόλης. (1999). Η εκκλησιαστική μουσική του Ελληνισμού μετά την Άλωση (1453-1820). Σχεδίασμα
 ιστορίας. Αθήνα: Κέντρο Ερευνών & Εκδόσεων.
 
-Bagnall, R. (Εd., 2009). The Oxford Handbook of Papyrology. Οxford: Oxford University Press.
+Bagnall, R. (Ed., 2009). The Oxford Handbook of Papyrology. Oxford: Oxford University Press.
 Cosgrove, Charles. (2011). An Ancient Christian Hymn with Musical Notation: Papyrus Oxyrhynchus 1786: Text and
 Commentary. Studien und Texte zu Antike und Christentum. Tübingen: Mohr Siebeck.
-Cuvigny, Hélène. (2009). The finds of papyri: the Archaeology of Papyrology. Τranslated by Adam Bülow-Jacobsen. Σε
-Roger S. Bagnall (επιμ.), Τhe Oxford Handbook of Papyrology (σ. 30-58).
+Cuvigny, Hélène. (2009). The finds of papyri: the Archaeology of Papyrology. Translated by Adam Bülow-Jacobsen. Σε
+Roger S. Bagnall (επιμ.), The Oxford Handbook of Papyrology (σ. 30-58).
 Frøyshov, Stig. (2013a). Greek Hymnody. Σε Watson, J.R. & Hornby, Emma (eds.), The Canterbury Dictionary of
 Hymnology. <https://uio.academia.edu/StigSimeonFr%C3%B8yshov> (11.9.2016).
 Frøyshov, Stig. (2013b).
@@ -724,14 +724,14 @@ Géhin, Paul και Frøyshov, Stig. (2000). Nouvelles découvertes sinaïtiques
 manuscrits grecs. Revue des Études Byzantines, 58, 167-184.
 Gnilka, Joachim. (1983). Der Christushymnus des Philipperbriefes (2,6-11) und die neutestamentliche Hymnendichtung.
 Σε H. Becker και R. Kacynski (επιμ.), Liturgie und Dichtung, τ. Α΄ (σ. 173-185). St. Ottilien.
-Kazhdan, A., et al. (Eπίμ., 1991). The Oxford Dictionary of Byzantium. 3 τ. New York, Oxford: Oxford University Press.
+Kazhdan, A., et al. (Επίμ., 1991). The Oxford Dictionary of Byzantium. 3 τ. New York, Oxford: Oxford University Press.
 Kujumdzieva, Svetlana. (2012). The Tropologion: Sources and Identifications of a Hymnographic Book. Σε Chr.
 Hannick, Chr. Troelsgård, Sv. Kujumdzieva (ed.-in-chief), St. Harkov (επιμ.), Byzantium without Borders:
 Hymnography and Music in the Byzantine World, 22nd International Congress of Byzantine Studies, Sofia, 22-27
 August 2011, Bulgarian Musicology, 3-4, 9-22.
 Liddell, H. G, Scott, R., Jones, H. St. και McKenzie, R. (1990). A Greek-English Lexicon, With a Supplement 1968 (repr.
 of 9th edition). Oxford: Clarendon Press.
-Nikiforova, Alexandra. (2015). The Oldest Greek Tropologion Sin.Gr. ΜΓ 56+5: Α New Witness to the Liturgy of
+Nikiforova, Alexandra. (2015). The Oldest Greek Tropologion Sin.Gr. ΜΓ 56+5: A New Witness to the Liturgy of
 Jerusalem from outside Jerusalem with First Edition of the Text. Oriens Christianus, 98, 138-173.
 Nikiforova, Alexandra, and Chronz, Tinatin. (υπό δημοσίευση). A New Approach to the "Codex Sinaiticus Liturgicus"
 RNB.Gr. 44: Introduction, Publication, Discussion.
@@ -750,7 +750,7 @@ III, Acta of the Congress held at Hernen Castle, The Netherlands, in March 2001,
 1-25). Leuven, Paris, Dudley MA: A.A. Bredius Foundation, Peeters.
 
 Pöhlmann, Egert και West, Martin. (2001). Documents of Ancient Greek Music. Oxford: Clarendon Press.
-Pöhlmann, Egert και Σπηλιοπούλου, Iωάννα. (2007). Η αρχαία ελληνική μουσική στο πλαίσιο της αρχαίας ελληνικής
+Pöhlmann, Egert και Σπηλιοπούλου, Ιωάννα. (2007). Η αρχαία ελληνική μουσική στο πλαίσιο της αρχαίας ελληνικής
 ποίησης. Επιστημονική επιμ. Π. Βλαγκόπουλος. Κέρκυρα: Ιόνιο Πανεπιστήμιο, Τμήμα Μουσικών Σπουδών,
 Εργαστήριο Ελληνικής Μουσικής.
 Raasted, Jørgen. (1962). A primitive palaeobyzantine musical notation. Classica et Mediaevalia, 23, 167-171.
@@ -786,8 +786,8 @@ Conference of the American Society of Byzantine Music and Hymnology, September 1
 
 Wellesz, Egon. (1962). A History of Byzantine Music and Hymnography (2nd ed. revised and enlarged). Oxford:
 Clarendon Press.
-West, Μ. L. (1999). Aρχαία ελληνική μουσική. Μετφρ. Στάθης Κομνηνός. Αθήνα: Παπαδήμα.
-What Do You Know About Icons? (2001 ). Τransl. Rev. C. Terzopoulos. Ηoly Community of St. John the Baptist, Kareas
+West, Μ. L. (1999). Αρχαία ελληνική μουσική. Μετφρ. Στάθης Κομνηνός. Αθήνα: Παπαδήμα.
+What Do You Know About Icons? (2001 ). Transl. Rev. C. Terzopoulos. Holy Community of St. John the Baptist, Kareas
 Attiki 2001.
 
 ### Ηχογραφήσεις και Ντοκιμαντέρ
@@ -801,7 +801,7 @@ Attiki 2001.
 
 Atrium Musicae de Madrid. Gregorio Paniagua. (2000). Musique de la Grèce Antique. Arles: Harmonia Mundi. HMA
 1951015.
-Ensemble Kérylos. Βélis, Annie. (2016). D'Euripide aux premiers chrétiens. Musiques de l'antiquité grecque et romaine.
+Ensemble Kérylos. Bélis, Annie. (2016). D'Euripide aux premiers chrétiens. Musiques de l'antiquité grecque et romaine.
 France.
 
 Διαδικτυογραφία
@@ -836,7 +836,7 @@ vi Ευχαριστούμε τον καθηγητή κ. E. Pöhlmann για τη
 
 - Atrium Musicae de Madrid (Paniagua, 2000), με ερασμιακή προφορά του κειμένου),
 
-- Ensemble Kérylos (Βélis, 2016. Με ισοκράτημα και με ερμηνεία της τελείας πάνω στις συλλαβές ως αποτζιατούρα
+- Ensemble Kérylos (Bélis, 2016. Με ισοκράτημα και με ερμηνεία της τελείας πάνω στις συλλαβές ως αποτζιατούρα
 
 [συνήθως η τελεία σ' αυτήν τη θέση ερμηνεύεται ως ένδειξη συλλαβής σε άρση]). Ευχαριστούμε την κ. Anne Weddigen
 για πληροφορίες σχετικά με την ηχογράφηση του 2016.
@@ -866,7 +866,7 @@ xiv Σήμερα, το Ἐπὶ σοὶ χαίρει είναι γνωστό σ�
 Στη σημερινή πράξη της Ψαλτικής, συνήθως το α΄ μέρος του μεγαλυναρίου επαγγέλεται εμμελώς, ενώ το β΄ μέρος
 ψέλνεται σε αργό μέλος, το οποίο βασίζεται στην προαναφερθείσα σύντμηση του Ιωάννου Πρωτοψάλτου: πρβλ. Στάθης
 (2014). Βλ. επίσης Παπαθανασίου & Μπούκας (2001).
-xv Βλ. λήμμα "John of Damascus", σε Kazhdan et al. (επίμ., 1991, τ. ΙΙ, σ. 1063-1064).
+xv Βλ. λήμμα "John of Damascus", σε Kazhdan et al. (επίμ., 1991, τ. II, σ. 1063-1064).
 xvi Εικόνα από: Papathanasiou & Boukas (2004, σ. 16, πίν. 1).
 xvii Η παρούσα ενότητα στηρίζεται σε Raasted (1992).
 xviii Περιγραφή του G. Cavallo, σε Raasted (1992, σ. 220, υποσημ. 5).
@@ -885,7 +885,7 @@ xxiv Ευχαριστούμε θερμά τους συναδέλφους Alexand
 έδωσαν κατά τη διάρκεια του 23ου Διεθνούς Συνεδρίου Βυζαντινών Σπουδών, Βελιγράδι, 25-27 Αυγούστου 2016, και
 μετά. Η παρούσα ενότητα έχει ως αφετηρία τα εξής βοηθήματα: Nikiforova (2015). Nikiforova & Chronz (υπό
 δημοσίευση). Géhin & Frøyshov (2000). Αρχιεπ. Δαμιανός, Αρχιμ. Σωφρόνιος, Πελτίκογλου και Νικολόπουλος (1998).
-Ειδικά ευχαριστούμε την κ. Νikiforova για την ένδειξη μουσικής σημειογραφίας στον Kώδικα Sinaiticus Liturgicus και
+Ειδικά ευχαριστούμε την κ. Nikiforova για την ένδειξη μουσικής σημειογραφίας στον Κώδικα Sinaiticus Liturgicus και
 τη βοήθειά της για τη μελέτη της.
 xxv Ταύτιση του χωρίου από: Nikiforova & Chronz (υπό δημοσίευση).
 xxvi Για περισσότερα στοιχεία, πρβλ. Nikiforova & Chronz (υπό δημοσίευση).

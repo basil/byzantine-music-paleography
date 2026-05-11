@@ -288,7 +288,7 @@ Coislin V-VI
 ![Description](image_10666.jpeg)
 
 Εικόνα 9.6. Η πορεία της βυζαντινής παρασημαντικής από την αδιαστηματικότητα προς τη διαστηματικότητα.
-Πηγές: Floros (1970, τ. ΙΙΙ, σ. 48). ΕΒΕ 2458, έτ. 1336, φ. 3r, απόσπασμα από το Μέγα Ίσον του Αγίου Ιωάννου του
+Πηγές: Floros (1970, τ. III, σ. 48). ΕΒΕ 2458, έτ. 1336, φ. 3r, απόσπασμα από το Μέγα Ίσον του Αγίου Ιωάννου του
 Κουκουζέλη.v
 
 Το κρίσιμο βήμα προς τη διαστηματικότητα (Strunk, 1966, σ. 1) έγινε στο πλαίσιο ενός συμβολικού
@@ -389,7 +389,7 @@ Coislin V-VI
 α. Νεύματα από Ιβήρων 952, φ. 112 (;), με μεταγραφή αποδίδοντας μια ρυθμική ερμηνεία της μεσοβυζαντινής
 
 σημειογραφίας, σύμφωνα με έρευνες του Ιωάννου Αρβανίτη (2003, 2010). b. Άσκηση μετροφωνίας και
-παραλλαγής από το χφο ΕΒΕ 2401, φ. 20v, με μεταγραμματισμό. c. Aποκατάσταση της παραλλαγής, σύμφωνα με
+παραλλαγής από το χφο ΕΒΕ 2401, φ. 20v, με μεταγραμματισμό. c. Αποκατάσταση της παραλλαγής, σύμφωνα με
 την άσκηση παραλλαγής από τον κώδικα ΕΒΕ 2406, φ. 15v,και μεταγραμματισμός.viii
 
 Στο α΄ μισό του 19ου αιώνα, ο Χουρμούζιος εξήγησε το παλαιό στιχηρό Χορὸς
@@ -426,7 +426,7 @@ Coislin V-VI
 ##### 2.2.2.2. «Θεολόγε παρθένε»: η φαινομενική σύγκρουση ἀπὸ παραλλαγῆς - ἀπὸ μέλους
 
 Μια ιδιαίτερη περίπτωση αποτελεί η μέθοδος Θεολόγε παρθένε, σε ήχο β΄, η οποία στηρίζεται σε ομώνυμο
-παλαιό στιχηρό για την εορτή της Μετάστασης του Aγίου Ιωάννου του Ευαγγελιστού (26 Σεπτεμβρίου),xi
+παλαιό στιχηρό για την εορτή της Μετάστασης του Αγίου Ιωάννου του Ευαγγελιστού (26 Σεπτεμβρίου),xi
 ποίημα του Θεοφάνους (ΕΒΕ 884) ή του Στουδίτου (Α 139 sup.): βλ. Εικόνες 9.16-17.
 
 ![Description](image_10676.jpeg)
@@ -470,7 +470,7 @@ Coislin V-VI
 πρωτότυπο παλαιό στιχηρό και η εξήγηση είναι στο χρωματικό γένος. Για τη Νέα Μέθοδο αυτό φαίνεται
 αβίαστα από τις μαρτυρίες και φθορές. Για το Παλαιό Σύστημα, το στοιχείο της χρωματικότητας (δηλαδή η
 παρουσία αυξημένης δευτέρας μέσα στον ήχο) συμπεραίνεται από τη χρήση των μαρτυριών. Μια σύγκριση
-του κομματιού στα Παλαιά Στιχηράρια ΕΒΕ 884 (φ. 37r), Α 139 sup. (φ. 23v, έτ. 1341) και Κοπεγχάγης ΝkS
+του κομματιού στα Παλαιά Στιχηράρια ΕΒΕ 884 (φ. 37r), Α 139 sup. (φ. 23v, έτ. 1341) και Κοπεγχάγης NkS
 4960 (φ. 22r-v, 14ος αι.) δείχνει ότι όλες οι μεσομαρτυρίες είναι της οικογένειας του β΄ ήχου.
 Η χρήση της μαρτυρίας για τη μεσότητα του β΄ ήχου στην παλαιά γραφή υπονοεί μια κατ' όμοιες
 διφωνίες δομή του.xvi Συνεπάγεται ότι ο φθόγγος G θα είναι με δίεση: η πρώτη διφωνία του ήχου, E F G#, θα
@@ -531,7 +531,7 @@ G θέτει τη μαρτυρία . Συνεπάγεται ότι εδώ ο φ�
 
 Εικόνα 9.21. Η αρχή του στιχηρού «Θεολόγε παρθένε» από το Sticherarium Ambrosianum A 139 sup., φ. 23v, με
 μεταγραμματισμό, και κανόνιον του β΄ ήχου, αντίγραφο από τον Ανύνυμο θεωρητικό του χφου ΕΒΕ 968, φ. 180v.
-Πηγές: Perria & Raasted (επιμ., 1992, ΜΜΒ Facsimiles XI). Giannopoulos (2013, σ. 116) και Alexandru (2000, τ. ΙΙΙ, σ.
+Πηγές: Perria & Raasted (επιμ., 1992, ΜΜΒ Facsimiles XI). Giannopoulos (2013, σ. 116) και Alexandru (2000, τ. III, σ.
 
 17).
 
@@ -548,14 +548,14 @@ G θέτει τη μαρτυρία . Συνεπάγεται ότι εδώ ο φ�
 
 Εικόνα 9.22. Η αρχή του στιχηρού «Θεολόγε παρθένε» από το Sticherarium Ambrosianum A 139 sup., φ. 23v, με
 μεταγραμματισμό, και η αργή εξήγηση του Χουρμουζίου, από το χφο ΕΒΕ 707, φ. 222r, με σχηματική μεταγραφή στο
-πεντάγραμμο. Υποκάτω: Μatryoshka, έργο των Ρώσσων καλλιτεχνών Zvezdochkin και Malyutin, έτ. 1892, Μουσείο
+πεντάγραμμο. Υποκάτω: Matryoshka, έργο των Ρώσσων καλλιτεχνών Zvezdochkin και Malyutin, έτ. 1892, Μουσείο
 παιχνιδιών Sergiev Posad, από:
 <https://upload.wikimedia.org/wikipedia/commons/3/3d/First_matryoshka_museum_doll_open.jpg> (8.5.2016).
 
 Η συχνή εναλλαγή των φθορών του β΄ ήχου και του νενανώ στην εξήγηση, ενώ στη μεσοβυζαντινή
 σημειογραφία απουσιάζουν εντελώς, οφείλεται στο γεγονός ότι ο β΄ ήχος στο παλαιό στιχηραρικό μέλος,
 πηγαίνει για τις εντελείς καταλήξεις στη χαμηλή του βάση, η οποία συμπίπτει με τη βάση του πλ. β΄ ήχου.
-Στο Παλαιό Σύστημα, οι δύο ήχοι έχουν κοινή κλίμακα (από το φθόγγο E - Boυ). Στη Νέα Μέθοδο, οι
+Στο Παλαιό Σύστημα, οι δύο ήχοι έχουν κοινή κλίμακα (από το φθόγγο E - Βου). Στη Νέα Μέθοδο, οι
 κλίμακες διαφοροποιήθηκαν, και ο β΄ ήχος έχει ψηλή, μελωδική βάση το Δι, και χαμηλή βάση της κλίμακας
 το Νη, ενώ ο πλάγιος του β΄ δομείται θεωρητικά από το Πα. Όταν το μέλος στην εξήγηση βαδίζει κατά
 διφωνία, βρισκόμαστε στο β΄ ήχο, και όταν δεσπόζουν κατά τριφωνία μελωδικές αναπτύξεις, γυρνάμε προς
@@ -606,7 +606,7 @@ G θέτει τη μαρτυρία . Συνεπάγεται ότι εδώ ο φ�
 
 ![Description](image_10697.png)
 
-Eικόνα 9.24.α. Απόσπασμα από τη «Μέθοδο της μετροφωνίας» του Γρηγορίου Μπούνη του Αλυάτη:
+Εικόνα 9.24.α. Απόσπασμα από τη «Μέθοδο της μετροφωνίας» του Γρηγορίου Μπούνη του Αλυάτη:
 παραδείγματα θέσεων για δύο φωνές (κ. 26-28). Σημάδια και κείμενο από την Προθεωρία του χφου
 Πατριαρχείου Ιεροσολύμων, Συλλογή Αναστάσεως, αρ. 45, φ. 13β-14α, 18ος αι. Προστίθενται: ταύτιση θέσεων,
 συνάθροιση των ανιουσών και κατιουσών φωνών της κάθε θέσης, ανοιχτός μεταγραμματισμός, σχήμα
@@ -614,23 +614,23 @@ Eικόνα 9.24.α. Απόσπασμα από τη «Μέθοδο της μετ
 
 ![Description](image_10698.png)
 
-Eικόνα 9.24.β. Απόσπασμα από τη «Μέθοδο της μετροφωνίας» του Γρηγορίου Μπούνη του Αλυάτη:
+Εικόνα 9.24.β. Απόσπασμα από τη «Μέθοδο της μετροφωνίας» του Γρηγορίου Μπούνη του Αλυάτη:
 παραδείγματα θέσεων για δύο φωνές (κ. 29-31).
 
 ![Description](image_10699.png)
 
-Eικόνα 9.24.γ. Απόσπασμα από τη «Μέθοδο της μετροφωνίας» του Γρηγορίου Μπούνη του Αλυάτη:
+Εικόνα 9.24.γ. Απόσπασμα από τη «Μέθοδο της μετροφωνίας» του Γρηγορίου Μπούνη του Αλυάτη:
 παραδείγματα θέσεων για δύο φωνές (κ. 32-34).
 
 ![Description](image_10700.png)
 
-Eικόνα 9.24.δ. Απόσπασμα από τη «Μέθοδο της μετροφωνίας» του Γρηγορίου Μπούνη του Αλυάτη:
+Εικόνα 9.24.δ. Απόσπασμα από τη «Μέθοδο της μετροφωνίας» του Γρηγορίου Μπούνη του Αλυάτη:
 παραδείγματα θέσεων για δύο φωνές (κ. 35, 45-46. Ενδιάμεσα μεσολαβούν θέσεις σε άλλα διαστηματικά
 πλαίσια).
 
 ![Description](image_10701.png)
 
-Eικόνα 9.24.ε. Απόσπασμα από τη Μέθοδο μετροφωνίας του Γρηγορίου Μπούνη του Αλυάτη: παραδείγματα
+Εικόνα 9.24.ε. Απόσπασμα από τη Μέθοδο μετροφωνίας του Γρηγορίου Μπούνη του Αλυάτη: παραδείγματα
 θέσεων για δύο φωνές (κ.47-48).
 
 Η παρούσα Μέθοδος της μετροφωνίας του Αλυάτη αποτελεί παρακαταθήκη της βυζαντινής μουσικής
@@ -706,7 +706,7 @@ Eικόνα 9.24.ε. Απόσπασμα από τη Μέθοδο μετροφω�
 Στη συνέχεια του Ανωνύμου του χφου ΕΒΕ 968 έρχεται ο Χρύσανθος εκ Μαδύτων. Όπως είδαμε
 στην ενότητα 1 του παρόντος κεφαλαίου, ο μεγάλος θεωρητικός της Νέας Μεθόδου θα χρησιμοποιήσει το
 ίδιο μουσικό παράδειγμα Τὰς ἑσπερινὰς ἡμῶν εὐχάς, σε μελοποίηση του Χρυσάφη του Νέου, για να
-εξηγήσει τον τρόπο διδασκαλίας κατά τo Παλαιό Σύστημα, βάζοντας στην αρχή του τριπτύχου την
+εξηγήσει τον τρόπο διδασκαλίας κατά το Παλαιό Σύστημα, βάζοντας στην αρχή του τριπτύχου την
 παραλλαγή, και ακολούθως τη μετροφωνία και το μέλος. Στην Εικόνα 9.28 γίνεται αντιπαραβολή των δύο
 προαναφερθέντων θεωρητικών, οι οποίοι φαίνεται ότι καταγράφουν την ύστερη μεταβυζαντινή διδακτική
 πράξη σχετικά με τη μετροφωνία:
@@ -725,7 +725,7 @@ Eικόνα 9.24.ε. Απόσπασμα από τη Μέθοδο μετροφω�
 
 - Μέλος, σύμφωνα με τον Χρύσανθο 73 (αργή εξήγηση)
 
-Εικόνες 9.28.α.-γ. Παραλλαγή, μετροφωνία και μέλος: Το παράδειγμα του στιχηρού «Tὰς ἑσπερινὰς ἡμῶν εὐχάς» στον Ανώνυμο του χφου ΕΒΕ 968 και στο Χρύσανθο:
+Εικόνες 9.28.α.-γ. Παραλλαγή, μετροφωνία και μέλος: Το παράδειγμα του στιχηρού «Τὰς ἑσπερινὰς ἡμῶν εὐχάς» στον Ανώνυμο του χφου ΕΒΕ 968 και στο Χρύσανθο:
 αντιπαραβολή πηγών.xxvii Ακούτε τα αποσπάσματα 1, 3, 4, 5, 6, πατώντας     
 
 μια
@@ -909,7 +909,7 @@ Eικόνα 9.24.ε. Απόσπασμα από τη Μέθοδο μετροφω�
 Massip, C. (2007). Le livre de musique. Conferences Leopold Delisle. Paris: Bibliothèque nationale de France.
 Perria, Lidia, & Raasted, Jørgen. (Eds., 1992). Sticherarium Ambrosianum. MMB, Facsimiles XI, Pars Principalis & Pars
 Suppletoria. Copenhagen: Munksgaard.
-Strunk, Oliver. (Eπιμ., 1966). Specimina Notationum Antiquiorum. Folia selecta ex variis codicibus saec. x, xi, & xii
+Strunk, Oliver. (Επιμ., 1966). Specimina Notationum Antiquiorum. Folia selecta ex variis codicibus saec. x, xi, & xii
 phototypice depicta. Monumenta Musicae Byzantinae VII, Pars Principalis & Pars Suppletoria. Hauniae: Ejnar
 Munksgaards Forlag.
 
@@ -930,9 +930,9 @@ Munksgaards Forlag.
 
 μελέτες περί θεωρητικών
 
-Ἁγιοπολίτης. Επιμ. J. Raasted, The Hagiopolites, A Byzantine Τreatise on Musical Theory. Preliminary Edition.
+Ἁγιοπολίτης. Επιμ. J. Raasted, The Hagiopolites, A Byzantine Treatise on Musical Theory. Preliminary Edition.
 Cahiers de l' Institut du Moyen-Âge Grec et Latin, 45 (1983).
-Αλυγιζάκης, Α. (Eπιμ., 2008). Το Θεωρητικό του Ακακίου Χαλκεοπούλου. Σε Μελουργία, έτος Α΄, τεύχος Α΄, επιμ. Α.
+Αλυγιζάκης, Α. (Επιμ., 2008). Το Θεωρητικό του Ακακίου Χαλκεοπούλου. Σε Μελουργία, έτος Α΄, τεύχος Α΄, επιμ. Α.
 Αλυγιζάκης (σ. 354-363). Θεσσαλονίκη.
 Γαβριήλ Ιερομόναχος. Περὶ τῶν ἐν τῇ ψαλτικῇ σημαδίων. Επιμ. Chr. Hannick και G. Wolfram, Gabriel
 Hieromonachos, Abhandlung über den Kirchengesang. Monumenta Musicae Byzantinae, Corpus Scriptorum de
@@ -961,16 +961,16 @@ Gregorios Mpounes Alyates' method of metrophonia, and some links to analogous ph
 Paper Read at the Sixteenth Meeting of the Study Group 'Cantus-Planus', Vienna 2011. Artes, 13, 129-182.
 Alexandru, Maria, & Troelsgård, Christian. (2008). Η σημασία της Παπαδικής λεγόμενης προθεωρίας για την έρευνα της
 βυζαντινής και μεταβυζαντινής μουσικής. Σε Basile Atsalos et Niki Tsironi (eds.), Actes du VIe Colloque
-International de Paléographie Grecque (Drama, 21-27 septembre 2003), (τ. ΙΙ, σ. 559-572 & τ. ΙΙΙ, σ. 1221-
+International de Paléographie Grecque (Drama, 21-27 septembre 2003), (τ. II, σ. 559-572 & τ. III, σ. 1221-
 1233). Athènes: Société Hellénique de Reliure.
-Gertsman, Εvgeny Vladimirovich. (Επιμ., 1994). Petersburg Theoreticon. Odessa: Variant Publishers.
+Gertsman, Evgeny Vladimirovich. (Επιμ., 1994). Petersburg Theoreticon. Odessa: Variant Publishers.
 Giannopoulos, Emmanouil. (2013). Collections of Byzantine Chant Treatises in Manuscripts of the 17th and 18th
 Centuries. The Continuation of the Tradition. Σε Gerda Wolfram & Christian Troelsgård (επιμ.), Tradition and
 Innovation in Late- and Postbyzantine Liturgical Chant II, Proceedings of the Congress held at Hernen Castle, the
 Netherlands, 30 October - 3 November 2008, Eastern Christian Studies, 17 (Leuven, Paris, Walpole, MA: A.A.
 Bredius Foundation, Peeters), 97-122.
 Stathes, Gregorios. (2006b). The Monumenta Musicae Byzantinae - Corpus Scriptorum de Re Musica (CSRM) project
-Akakios Chalkeopoulos' Ἀκριβολογήματα ('Akrivologemata' or 'Precise instructions') of Music. Aνακοίνωση στο
+Akakios Chalkeopoulos' Ἀκριβολογήματα ('Akrivologemata' or 'Precise instructions') of Music. Ανακοίνωση στο
 Συμπόσιο The Current State of Byzantine Musical Studies after 75 Years of MMB, Κοπεγχάγη, Ιούνιος 2006.
 Tardo, Lorenzo Jeromonaco. (1938). L'antica melurgia bizantina nell' interpretazione della Scuola Monastica di
 Grottaferrata.
@@ -982,12 +982,12 @@ Grottaferrata.
 Αλεξάνδρου, Μαρία. (2016). Εισαγωγή στη Βυζαντινή Μουσική. Βιβλιοθήκη Μουσικολογίας 5, διεύθυνση: Δημήτριος
 Γιάννου. Θεσσαλονίκη: University Studio Press.
 Αλυγιζάκης, Αντώνιος. (1985). Η οκταηχία στην ελληνική λειτουργική υμνογραφία. Θεσσαλονίκη: Πουρναράς.
-Aρβανίτης, Ιωάννης. (2003). Ἡ ρυθμικὴ καὶ μετρικὴ δομὴ τῶν βυζαντινῶν εἱρμῶν καὶ στιχηρῶν ὡς μέτρο καὶ ὡς
+Αρβανίτης, Ιωάννης. (2003). Ἡ ρυθμικὴ καὶ μετρικὴ δομὴ τῶν βυζαντινῶν εἱρμῶν καὶ στιχηρῶν ὡς μέτρο καὶ ὡς
 ἀποτέλεσμα μιᾶς νέας ρυθμικῆς ἑρμηνείας τοῦ βυζαντινοῦ μέλους. Σε Ευστάθιος Γ. Μακρής (επιμ.), Οι δύο
 όψεις της ελληνικής μουσικής κληρονομιάς. Αφιέρωμα εις μνήμην Σπυρίδωνος Περιστέρη. Πρακτικά της
 Μουσικολογικής Συνάξεως 10-11 Νοεμβρίου 2000, Μέγαρο Ακαδημίας Αθηνών, Ακαδημία Αθηνών,
 Δημοσιεύματα του Κέντρου Ερεύνης της Ελληνικής Λαογραφίας αρ. 18 (σ. 151-176). Αθήνα.
-Aρβανίτης, Ιωάννης. (2010). Ο ρυθμός των εκκλησιαστικών μελών μέσα από τη παλαιογραφική έρευνα και την εξήγηση
+Αρβανίτης, Ιωάννης. (2010). Ο ρυθμός των εκκλησιαστικών μελών μέσα από τη παλαιογραφική έρευνα και την εξήγηση
 της παλαιάς σημειογραφίας. Διδακτορική διατριβή, 2 τ. Ιόνιο Πανεπιστήμιο, Τμήμα Μουσικών Σπουδών.
 Κέρκυρα.
 Καράς, Σίμων. (1992). Ἰωάννης μαΐστωρ ὁ Κουκουζέλης καὶ ἡ ἐποχή του. Αθήνα: Σύλλογος προς Διάδοσιν της
@@ -1027,10 +1027,10 @@ erweitert von Kark Vretska, mit einer Einführung in die Sprachgeschichte von He
 
 G. Freytag Verlag / Hölder-Pichler-Tempsky: 1954 (Neuauflage 1988).
 
-Jaschinski, Andreas. (Επιμ., 2001). Νοtation. MGG Prisma. Kassel, Basel, London, New York, Prag: Βärenreiter.
+Jaschinski, Andreas. (Επιμ., 2001). Notation. MGG Prisma. Kassel, Basel, London, New York, Prag: Bärenreiter.
 Stuttgart, Weimar: Metzler.
 Kazhdan, Alexander P. (1991). John of Damascus. Σε A. P. Kazhdan, A.-M. Talbot, A. Cuthler, T. E. Gregory, & N. P.
-Ševčenko (επιμ.), Τhe Oxford Dictionary of Byzantium, τ. II (σ. 1063-1064). New York, Oxford: Oxford
+Ševčenko (επιμ.), The Oxford Dictionary of Byzantium, τ. II (σ. 1063-1064). New York, Oxford: Oxford
 University Press.
 Papathanassiou, Ioannis. (1997). The musical notation of the Sticherarion MS Vat. Barb. gr. 483. Σε Christian Troelsgård
 (επιμ.), Byzantine Chant. Tradition and Reform, Acts of a Meeting held at the Danish Institute at Athens, 1993.
@@ -1047,11 +1047,11 @@ Stathes, Gr. Th. (1982). "Δειναὶ θέσεις" καὶ "Ἐξήγησις
 Study Group for Byzantine Musical Palaeography from the School of Musical Studies of the Aristotle University
 Thessaloniki. (2008). Remarks on the transmission of Byzantine Chant. The sticheron "Χρυσέοις ἔπεσι" -
 "With golden words" in honour of St. John Chrysostom. Επιμ. Maria Alexandru. Studia palaeographica,
-Preliminary version, Nr. 1. Iάσιο: Centrul de Studii Bizantine Iași.
+Preliminary version, Nr. 1. Ιάσιο: Centrul de Studii Bizantine Iași.
 Troelsgård, Christian. (1999). Kromatik i byzantinsk kirkesang? Nogle betragtninger omkring skala- og tonalitets-
 begrebet i den middelaladerlige og eftermiddelalderlige tradition. Ανάτυπο από: C. Bach-Nielsen, Tr. Nørager, P.
 Thyssen (επιμ.), Ordet og livet. Festskrift til Christian Thodberg (σ. 66-79). Århus.
-Troelsgård, Christian. (2011). Byzantine Neumes. Α Νew Introduction to the Middle Byzantine Musical Notation. MMB,
+Troelsgård, Christian. (2011). Byzantine Neumes. A New Introduction to the Middle Byzantine Musical Notation. MMB,
 Subsidia IX. Copenhagen: Tusculanum Press.
 Zannos, Ioannis. (1994). Ichos und Makam. Orpheus 74. Bonn.
 
@@ -1107,7 +1107,7 @@ xiv Στις Εικόνες 9.17.α-β προστέθηκαν μια διαίρ�
 (2003 και 2010), καθώς και κυκλάκια στα σημεία καταλήξεων. Αυτές οι προσθήκες έγιναν για το συντονισμό της
 εκτέλεσης της άσκησης από την Ομάδα Παλαιογραφίας Βυζαντινής Μουσικής. Ένας διατονικός μεταγραμματισμός της
 μεθόδου Θεολόγε παρθένε, με βάση το χφο ΕΒΕ 928, φ. 167α-β, βρίσκεται σε: Μανουήλ Χρυσάφης, Περὶ τῶν
-ἐνθεωρουμένων (επιμ. Conomos, CSRM, τ. ΙΙ, σ. 74).
+ἐνθεωρουμένων (επιμ. Conomos, CSRM, τ. II, σ. 74).
 xv Ο χωρισμός σε ρυθμικούς πόδες βασίζεται σε: Καράς (1982, τ. Α΄, σ. 142-153).
 xvi Πρβλ. Zannos (1994, σ. 142). Troelsgård (1999). Raasted (1986). Alexandru (2000, τ. Ι, σ. 217-219).
 xvii Πρβλ. Raasted (1966, σ. 26 και 46).
@@ -1129,13 +1129,13 @@ xxv «Μὲ ὀκτὼ μέτρα ψάλλεται αὐτὸ τὸ στιχηρ
 
 πέρνης εἰς μέτορον τὴν νουθεσίαν· διότι ὁ ἀρχαῖος ποιητὴς ἐθαροῦσε πῶς ὁ διδάσκαλός σου νὰ σὲ τὰ
 διδάξη ἐξαρχῆς ὡς τεχνίτης ὁποῦ ὀνομάζεται· καὶ δι' αὐτὸ σὲ τὰ λέγει μὲ συντομίαν· ὅτι ἀδύνατον εἶναι
-νὰ μάθη τινὰς τέχνην χωρὶς φωνῆς ζώσης, καὶ μόνον διὰ γράμματος·» EBE 968, φ. 177r. Ακολουθεί μια
+νὰ μάθη τινὰς τέχνην χωρὶς φωνῆς ζώσης, καὶ μόνον διὰ γράμματος·» ΕΒΕ 968, φ. 177r. Ακολουθεί μια
 εκτενέστερη αναφορά του ανώνυμου θεωρητικού για τη σωστή ανάγνωση του διαγράμματος, την οποία ο σπουδατής
 μπορεί να βρει σε: Γιαννόπουλος (2013, σ. 111-113).
 xxvi Η αντιγραφή της αρχής του αναστάσιμου στιχηρού βασίστηκε σε ψηφιακή φωτογραφία από μια Παπαδική του 18ου
 αι. (;), φ. 8β. Για τη φωτογραφία ευχαριστούμε τον πατέρα Νεκτάριο Πάρη. Το σχεδιάγραμμα παρουσιάζει μια
-ομοιότητα με διάφορα παραδείγματα από τη Musica enchiriadis: πρβλ. Αtkinson (2009, σ. 124-126).
-xxvii Το παράδειγμα προέρχεται από: Alexandru (2000, τ. ΙΙΙ, σ. 16).
+ομοιότητα με διάφορα παραδείγματα από τη Musica enchiriadis: πρβλ. Atkinson (2009, σ. 124-126).
+xxvii Το παράδειγμα προέρχεται από: Alexandru (2000, τ. III, σ. 16).
 xxviii Η εικόνα αυτή βασίζεται σε: Alexandru & Tsougras (2008, fig. 2). Για ένα μοντέλο στο οποίο βασίστηκε η
 φωτογραφία της σύγχρονης ρωσικής μπάμπουσκας, πρβλ.
 <https://de.wikipedia.org/wiki/Matrjoschka#/media/File:Russian-Matroshka2.jpg> (8.5.2016).
