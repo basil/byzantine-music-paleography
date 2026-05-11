@@ -1,0 +1,33 @@
+baseURL = 'https://example.org/'
+defaultContentLanguage = 'el'
+defaultContentLanguageInSubdir = false
+title = 'Παλαιογραφία Βυζαντινής Μουσικής'
+
+[module]
+  [[module.imports]]
+    path = 'github.com/alex-shpak/hugo-book'
+
+[languages]
+  [languages.el]
+    label = 'Ελληνικά'
+    locale = 'el-GR'
+    title = 'Παλαιογραφία Βυζαντινής Μουσικής'
+    weight = 1
+
+  [languages.en]
+    label = 'English'
+    locale = 'en-US'
+    title = 'Palaeography of Byzantine Music'
+    weight = 2
+
+# hugo-book renders raw HTML in some shortcodes (mermaid, katex). Even if you
+# don't use them, the imported markdown may include inline HTML, so enable it.
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+  # '/' tells hugo-book to render every top-level section (chapters,
+  # appendices) in the sidebar instead of just the default 'docs' section.
+  BookSection = '/'
+  BookTheme = 'light'

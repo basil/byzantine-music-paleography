@@ -1,0 +1,29 @@
+- id: Search
+  translation: Αναζήτηση
+
+- id: Edit this page
+  translation: Επεξεργασία αυτής της σελίδας
+
+- id: Last modified by
+  translation: Τελευταία τροποποίηση από
+
+- id: bookSearchConfig
+  translation: '{ cache: true }'
+
+- id: Languages
+  translation: Γλώσσες
+
+- id: Expand
+  translation: Άνοιγμα
+
+- id: Menu
+  translation: Μενού
+
+- id: Table of Contents
+  translation: Πίνακας περιεχομένων
+
+- id: Backward
+  translation: Πίσω
+
+- id: Forward
+  translation: Εμπρός
