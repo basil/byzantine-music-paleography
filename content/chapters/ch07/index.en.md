@@ -38,7 +38,6 @@ Some of the manuscripts that may be regarded as milestones of Middle Byzantine
 notation are the following three:
 
 - Holy Monastery of St Catherine at Sinai, Sticherarion no. 1218, of the year 1177: it is the first
-
 dated manuscript in which all the stichera are written in Middle Byzantine notation
 (of a transitional stage, since a few remnants of Old Byzantine
 neumatic notation also appear):ii see Figure 7.2,
@@ -49,7 +48,6 @@ neumatic notation also appear):ii see Figure 7.2,
 the names of the composers of the kalophonic period are systematically mentioned: see Figure 7.3,
 
 • Holy Monastery of Iviron on Mount Athos, no. 1250: Papadike, ca. year 1670, which contains the Trisagion
-
 for the Dead, Athenian (Trisagion nekrosimon athinaiïkon), in an exegesis by Balasios the Priest, inaugurating the written tradition of
 exegesis in Byzantine notation: see Figure 7.4.
 
@@ -131,19 +129,16 @@ to Middle Byzantine notation, which is known in foreign-language bibliography al
 Round Notation:x
 
 • Transitional, between Old Byzantine Hagiopolitan (Coislin VI) and Middle Byzantine (twelfth
-
 century),
 
 - early, developed, and fully developed Middle Byzantine notation (twelfth-fifteenth/sixteenth century),
 
 - late Middle Byzantine notation (first half of the fourteenth-ca. mid-nineteenth century), especially formerly
-
 known also as Kukuzelian notation.
 For Middle Byzantine notation from 1175 to 1670 the term
 Middle Full Byzantine Notation (Gr. Stathis) is also used.
 
 • Exegetical Middle Byzantine notation (ca. 1670-1814/15 and in some manuscripts until the middle of the
-
 nineteenth century). The exegetical use of MB notation, which appears in various, ever more numerous
 manuscripts from 1670 until the Reform of the Three Teachers, may be
 regarded—because of its particular importance for the more analytical recording of melos—and
@@ -154,7 +149,6 @@ A rough sketch of the general characteristics of Middle Byzantine notation over 
 course of the centuries could include the following:
 
  It is a diastematic notation, with various degrees of shorthand compression. This notation
-
 shows clearly, through its so-called phonetic signs (emphona), the structural intervals of a
 piece, what we may call the metrophonic structure of a troparion/hymn. Elements that
 concerned the musical shaping of the piece (rhythm, embellishments at various levels, expression)
@@ -163,7 +157,6 @@ written level through the great hypostases of cheironomy, and at the practical l
 cheironomy (the artful direction of the choir of chanters) and the art of oral musical exegesis.
 
 - The musical and notational unit is not the isolated sign, but consists of the
-
 sung syllable, since music is born from the text, according to E. Jammers.xi
 Various theseis (θέσεις), that is, melodic figures with a characteristic structure
 (intervals recorded with the phonetic signs and the ison), as well as with
@@ -172,7 +165,6 @@ Many theseis are identified with special names in music-theoretical writings
 (e.g. parakletike [παρακλητική], ouranisma [οὐράνισμα], etc.).
 
  As mentioned above, the boundaries between the individual stages of development of MB notation are not
-
 absolute. The notation changes not only with the passage of time, but can also
 differ among the various genera of Byzantine chant composition (e.g. the MB notation of the
 Psaltikon includes in its soloistic chants certain special signs that do not appear in the other
@@ -183,7 +175,6 @@ musical collections). Nevertheless, we can observe some general tendencies:
 Athonite notation (Chartres III and IV).
 
 - During the period of Kalophony (second half of the thirteenth-fifteenth century), with the contribution of St John Koukouzeles and
-
 the other maistores, MB notation begins gradually to be enriched with various great
 signs (the so-called aphona, or great hypostases, or signs of cheironomy), many of which
 are written in red ink).
@@ -195,12 +186,10 @@ the second half of the seventeenth-first half of the eighteenth century (First F
 [Chatzigiakoumis, 1999, pp. 41-66]).
 
  Already from the beginning of the sixteenth century there are written testimonies to the phenomenon of musical exegesis at the
-
 theoretical level (Akakios Chalkeopoulos). Early stages of exegesis are also attested in
 Slavic manuscripts with Kievan or partes notation, chiefly during the seventeenth and eighteenth centuries (see chap.
 
 11). A long oral tradition of exegesis precedes this, perhaps from the fourteenth centuryxii or even
-
 earlier. From around the year 1670 onward there is an intense effort within Byzantine
 notation to give graphic form to the until then oral exegesis, through the ever more
 analytical recording of the melos (= sonic result), especially of the papadic genus, and later
@@ -217,7 +206,6 @@ decoding the notation, may have various types/levels (“slow,” “short,”
 even “syllabic” or “mixed” [Arvanitis]).xiv
 
  The Reform of 1814/15, which brings a second paradigm shift in the development of
-
 notation, comes in essence as the culmination of a long series of efforts
 oriented toward the simplification and perfection of MB notation, with the ultimate aim of the
 analytical recording of the melodies and their easier teaching.
@@ -239,11 +227,9 @@ of this text. Nevertheless, certain main categories and various versions
 of them can be distinguished:
 
 • A. The Protopapadike of the first developmental stages of Middle Byzantine notation,
-
 versions of which were included in old Sticheraria, and
 
 • B. the Protheoriai of the Papadike, which reflect and regulate late Middle Byzantine
-
 notation. These were formed chiefly during the period of Kalophony, with the contribution of
 maistores such as, for example, John Glykys, Saint John Koukouzeles, Xenos
 Korones, John Kladas, Gregory Bounes Alyates, and they exist in a great
@@ -253,7 +239,6 @@ During the post-Byzantine period, on the one hand the bulky Protheoriai are copi
 enriched, sometimes assuming a monumental character; on the other hand there is also created
 
 • C. a shorter version, with the most basic elements for preliminary training, which is also placed
-
 at the beginning of Anastasimatarion manuscripts.
 
 Below and in the next three chapters we shall examine various Protheoriai of the Papadike, for
@@ -270,19 +255,16 @@ corresponding lists, intervallic-metrophonic value of the phonetic signs, thesei
 Various versions of the Protopapadike have so far been identified in the following manuscripts:
 
 • At the end of the Sticherarion of the Holy Monastery of St Catherine at Sinai, no. 1218 of the year 1177, fol. 271r, a list
-
 of apechemata, by the main scribe, Nikephoros the Priest (Raasted), or by a later hand (thirteenth century,
 Harlfinger et.al.),xvi
 
 • in the St Petersburg fragment 495, which, according to Porphyrius Uspensky,
-
 comes from the Sticherarion of Neophytos Hieromonk from Damascus (first half of the thirteenth century), fols. 1v-4v.
 By the hand of Neophytos hieromonk (and domestikos) are also the parallagai of echemata in the Sticherarion
 Sinai 1231 (year 1235/36), as well as the table with the metrophonic value of the signs of Middle Byzantine
 notation in the manuscript of the Holy and Great Monastery of Vatopedi 1492 (year 1241/42). xvii
 
 • In the Sticherarion Parisinus gr. 261 (year 1289), fols. 139v-140v: a list of signs of the papadic art,
-
 categorization of the signs into phonetic and melic signs, the martyriai of the eight modes, with corresponding names
 of ancient Greek harmoniai.xviii
 Below we shall follow in the footsteps of the teacher Neophytos Hieromonk from Damascus,
@@ -293,7 +275,6 @@ Gertsman (1994, pl. LII-LVIII and pp. 229-240).
 ![Description](image_7859.jpeg)
 
 Figure 7.5.a. The Protopapadike according to codex Petropolitanus gr. 495 (fragment of a Sticherarion, whose scribe was Neophytos Hieromonk from Damascus),xix first half
-
 of the thirteenth century, fols. 1v-2r. At the upper left is the Hagiopolitan classification of the signs, which concerns Old Byzantine notation. In the middle of fol. 1v (see the arrow
 on the left) the list of the 24 tones of Middle Byzantine notation then begins. From the middle of fol. 2r there follows the early Middle Byzantine categorization of the
 signs into emphona and symphona (see the arrow on the right). Below follows a list with the ascending voices. © National Library of Russia, St. Petersburg.
@@ -324,9 +305,7 @@ Figure 7.5.d. End of the Protheoria of the Papadike from ms Petr. gr. 495, fol. 
 During the 14th century, the Protheoria underwent many changes, until, from the beginning of the 15th century
 onward—at least with regard to its first part, which includes short excerpts of theoretical
 text and lists of signs—it settled into several more stable forms. On the basis of preparatory studies by
-
 J. Raasted for a critical edition of the Protheoria, four related types (A-D) can be distinguished
-
 for its first part. A synoptic account of the various elements that may
 appear, often in a different order, in Protheoriai of the Papadike from the 14th to the early 19th century,
 is given in Table 7.1:
@@ -1444,7 +1423,6 @@ is: “† With holy God, the beginnings of the
 ascending phōnai.”
 
  Right (fol. 13v), in the left margin of the
-
 manuscript the descending
 signs are introduced by the rubric:
 “the descending phōnai are as follows.”
@@ -2284,7 +2262,6 @@ The operations of the great signs concern:
 -  rhythm,
 
 -  various levels of embellishment and/or transformation of the metrophonic structure of the piece, which
-
 is recorded with the ison and the voiced signs, as well as
 
  musical expression.
@@ -2315,9 +2292,7 @@ can be seen, for example, in Table 7.6, which is based on the Protheoria of the 
 ![Description](image_9575.jpeg)
 
 Table 7.6. List of great signs from the Protheoria of the Papadike of ms. Vaticanus Barberinus graecus 300,
-
 fol. 4v. Source: The present copy is based on Floros (1970, vol. III, facsimiles 7-8). The most common
-
 shapes have been added for some signs, which in Barb. gr. 300 are presented in more specific forms. Some later shapes have also been supplied, which differ from those customary in the Byzantine and early post-Byzantine period.
 
 Some signs from the list of great hypostases, which are especially associated with rhythm,
@@ -2350,7 +2325,6 @@ A. General overview of the piece:
 -  Reading and understanding the poetic text,
 
 -  division into musico-poetic units, based on the meaning of the text and with the help of punctuation marks
-
 and martyrias.
 
 1. Study by musico-poetic phrase:
@@ -2358,7 +2332,6 @@ and martyrias.
 -  Copying the text and signs, with their simultaneous identification,
 
 -  chanting the isons and the voiced signs of the piece, on the basis of which the
-
 intervallic skeleton or, in other words, the metrophonic structure of the specific troparion or hymn is recorded. Alongside
 the chanting, and in order to facilitate the palaeographical study of the old notation,
 a transfer of the intervals may be made below each musico-poetic phrase onto the staff or
@@ -2955,11 +2928,9 @@ Figures 7.15.1-6. Possibilities for staff transcription of the emphona (vocal si
 a small passing note is conventionally used: Fig. 7.15.7.
 
  The hyporrhoe (υπορροή), which is subordinated to the piasma (πίασμα), creating the seisma (σείσμα), is conventionally transcribed with
-
 two small-size sixteenth notes:xxxvi Fig. 7.15.8.
 
  At points where the poetic text has a double or triple consonant, from the era of Kalophony and
-
 until the Reform of the Three Teachers, the use of a small ison
 (“isaki”xxxvii) with or without a gorgon (γοργόν), before the main emphonon sign of the particular syllable, is often observed. Sometimes,
 instead of a small ison there is an apostrophos, followed by the ison in normal or small form. These
@@ -2989,7 +2960,6 @@ Figures 7.15.7–9. Possibilities for staff transnotation for the apostrophos be
 ![Description](image_10016.jpeg)
 
 The clefs follow one another at the interval of a third: descending ascending
-
 do3 do1 do1 do1 do1 do1 do1 do1 do1 do1 Do
 
 ![Description](image_10017.jpeg)
@@ -3098,7 +3068,6 @@ serve scholarly purposes, being tools in the hands of the musicologist that
 facilitate the comparison of sources and his analytical-morphological and stylistic inquiries.
 
 1. From the Old to the New System: some manuscript samples from the
-
 Byzantine and post-Byzantine period, from various genera and genres of composition
 
 In Figures 7.19-45 there are various samples of Middle Byzantine notation, in particular
@@ -3114,23 +3083,19 @@ Byzantinae, Facsimiles (vols. I-IV and XI edited by Høeg, Tillyard & Wellesz [1
 1. Tardo [1951] and Perria & Raasted [1992]),
 
 -  in the plates of representative manuscripts, chiefly of the Byzantine period, from the New Introduction to
-
 Middle Byzantine Notation by Christian Troelsgård (2011, pp. 95-116), from the selection of Fr. Petresco
 (1932, pls. XXI-XXV, XXIX-XXXIII), of Bucca (2011), Harlfinger, Reinsch, Sonderkamp & Prato
 (1983, pls. 144-148),
 
  in the plates of dated musical codices of the period of Ottoman rule, from the edition of
-
 Hatzigiakoumis (1980),
 
  in the rich plates that accompany the analytical catalogues and other musicological
-
 studies of Stathis (1975, 1976, 1993, 2015 and 2006), Giannopoulos (2005a, 2005b, 2008, 2016),
 Chaldaiakis (2005), Balageorgos & Kritikos (2008), Gertsman (1996 and Gertsman, 1994), Fr. Bucescu,
 Catrina, Barnea, Dănilă & al. (2010), Vasile & al. (2010), Vasile (2007, 2008),
 
  in the facsimile editions of entire codices of the Music School of Putna (e.g. eds. Ciobanu,
-
 Ionescu & Moisescu, 1981. Ciobanu & Ionescu, 1984. Moisescu, 1994) and of the Romanian Psaltic tradition of
 Filothei Sin Agăi Jipei (ed. Fr. Barbu-Bucur, 1981, 1984, 1986, 1992), in the series Izvoare ale Muzicii
 Românești, etc.
@@ -3341,9 +3306,7 @@ Stavropegic Monastery of Vlatadon, Thessaloniki.
 
 Figure 7.33.a. Anthology, Copenhagen, Royal Library NkS 4466 (4o), “written between 1679-1681”
 (Alexandrescu, 2013, p. 37), by Ioannes Kampazournas, for use in the Danubian Principalities (Raasted, 1976,
-
 p. 569). A most beautiful ms., with many miniatures of angels or also of other subjects, with artistic initials, etc. On
-
 the present fol. 88r the heading introduces a new section with the words: “one should begin, with holy God, also the according-to-mode
 Cherubic hymns in the following order; the present composition is by kyr Manuel Chrysaphes, mode 1 We who
 the Cherubim.” It was included in the present work with the kind permission of the Royal Library of
@@ -3420,7 +3383,6 @@ Sotiroudi (1991, pp. 46-47). <http://digital.lib.auth.gr/collection/Manuscripts?
 Figure 7.38. Ms. no. 99a of the Study Room of Classical Philology of the Faculty of Philosophy of Aristotle
 University of Thessaloniki, p. 39. Anthology of the Papadike, late 18th c. In the photograph: beginning of Petros
 Byzantios’s exegesis of the slow “To you, the Champion General,” plagal fourth mode (exegetical Middle Byzantine notation). © Central Library of
-
 A.U.Th.
 
 For a more detailed description and more photographs of the ms., see: Politis, Sotiroudis and Sakellaridou-
@@ -3441,7 +3403,6 @@ is born, glorify [him].”lix
 Figure 7.40. Ms. no. 57 of the Study Room of Classical Philology of the Faculty of Philosophy of Aristotle
 University of Thessaloniki, fol. 14r. Anthology, autograph of Petros Byzantios, year 1796, in exegetical Middle Byzantine
 notation. In the photograph: beginning of the Polyeleos of John Protopsaltes, mode 4. © Central Library of
-
 A.U.Th.
 
 For a more detailed description and more photographs of the ms., see: Politis, Sotiroudis and Sakellaridou-
@@ -3482,7 +3443,6 @@ Sotiroudi (1991, pp. 12-13). <http://digital.lib.auth.gr/collection/Manuscripts?
 of Classical Philology of the Faculty of Philosophy of Aristotle
 of the Papadike, early 19th c., with notation of the New Method. In the
 plagal fourth mode, melody by Petros Peloponnesios. © Central Library of
-
 ms., see: Politis, Sotiroudis and Sakellaridou-
 [ARC-2007-38054]) and
 
@@ -3491,7 +3451,6 @@ ms., see: Politis, Sotiroudis and Sakellaridou-
 Figure 7.44. Ms. no. 64 of the Study Room
 of the University of Thessaloniki, fol. 1r. Bilingual
 Method. In the photograph: beginning of the
-
 © Central Library of A.U.Th.
 
 For a more detailed description and more photographs of the
@@ -3520,7 +3479,6 @@ Sotiroudi (1991, pp. 13-14). <http://digital.lib.auth.gr/collection/Manuscripts?
 
 Evaluation criterion 1a-c:
 Creation of mnemonic theoretical and practical cards for
-
 Middle Byzantine notation and the teaching game “NEUME”
 
    
@@ -3547,7 +3505,6 @@ from the Sticherarion A 139 sup. (MMB IX)   &  
 
 Evaluation criterion 7:
 Exercise in transnotation and comparison of the sticheron Prayer is a wondrous weapon in the old style, on the basis of two Sticheraria of 1340/1341
-
 Assessment criterion 8:
 Exercise in transnotation of the heirmos (εἱρμός) “Having gone down to the abyss” in the old style,
 based on the Heirmologion Iviron 470 (transitional Middle Byzantine notation)  & 
@@ -3627,9 +3584,7 @@ National Library of Russia. Saint Petersburg: Glagol.
 Balageorgos, Dimitrios and Kritikou, Flora. (2008). The manuscripts of Byzantine music, Sinai, descriptive
 catalogue. Volume A. Holy Synod of the Church of Greece, IBM. Athens.
 Politis, Linos. (1991). Catalogue of manuscripts of the University of Thessaloniki. Edited and supplemented by
-
 P. Sotiroudis and A. Sakellaridou-Sotiroudis. Thessaloniki: Aristotle University of Thessaloniki,
-
 Central Library.
 Politis, Linos and Politi, Maria. (1991). Catalogue of manuscripts of the National Library of Greece, nos.
 1857-2500. Treatises of the Academy of Athens, vol. 54. Athens: Publications Office of the Academy of
@@ -3691,7 +3646,6 @@ Grottaferrata. Grottaferrata.
 Books and articles
 
 Adamis, Michalis. (1986). Polyphonic ecclesiastical music in fifteenth-century Byzantium. Musicologia, 2, issue 1,
-
 51-63.
 
 Adamis, Michalis. (2002). Service for the Three Holy Children in the Furnace. Malbork, Poland. (5 pages [from
@@ -3785,12 +3739,10 @@ Kalaitzidis, Kyriakos. (2012). Post-Byzantine Music Manuscripts as a Source for 
 19th Century). Transl. Kiriaki Koubaroulis & Dimitri Koubaroulis. Istanbuler Texte und Studien herausgegeben
 vom Orient‐Institut Istanbuls, Bd. 28. Würzburg: Ergon Verlag.
 Levy, Kenneth. (1958). The Byzantine Sanctus and its Modal Tradition in East and West. Annales musicologiques, 6, 7-
-
 1.
 
 Lütteken, Laurenz. (1997). v. Mensuralnotation. Part of the entry Notation. In Ludwig Finscher (ed.), Die Musik
 in Geschichte und Gegenwart, Allgemeine Enzyklopädie der Musik, begründet von Friedrich Blume (zweite,
-
 neubearbeitete Auflage), vol. 7 (cols. 323-339). Kassel-Basel-London-New York-Prag: Bärenreiter, Stuttgart-
 Weimar: Metzler.
 Papathanassiou, Ioannis. (1997). The musical notation of the Sticherarion MS Vat. Barb. gr. 483. In Christian Troelsgård
@@ -3810,7 +3762,6 @@ Raasted, Jørgen. (1995a). An Old Melody for Τῇ Ὑπερμάχῳ. In Albert
 onore di Giovanni Marzi. Studi e Testi Musicali, Nuova Serie 6 (pp. 3-14). Lucca.
 Raasted, Jørgen. (1995b). Koukouzeles' Revision of the Sticherarion and Sinai gr. 1230. In J. Szendrei and D. Hiley
 (eds.), Laborare fratres in unum. Festschrift László Dobszay zum 60. Geburtstag, Spolia Berolinensia 7 (pp. 261-
-
 277).
 
 Raasted, Jørgen. (1995c). Byzantinische Neumen und Kirchengesang. Ein Minimalkursus für neugierige Musikologen
@@ -3865,7 +3816,6 @@ Webography
 ## Endnotes for chapter 7
 
 i For the description of codex Patmos 218 and an earlier publication of this and other folios of
-
 this manuscript, cf. Floros (1970, vol. Ι, pp. 60-61 and III, facsimiles 67-72). Cf. also Troelsgård (2011, p.
 
 95).
@@ -3898,7 +3848,6 @@ translation of the specific passage by Melina Karoumpali).
 ix Cf., for example, the chapter “Periods of Byzantine composition, in parallel with the development of
 Byzantine notation”, in Stathis (1992, pp. 47-59).
 x As Troelsgård notes (2011, p. 30, footnote 86), the term Middle Byzantine notation derives from
-
 E. Wellesz (1916), while that of Round notation (Round notation - Runde Notation) derives from Hugo
 
 Riemann (1909). According to Troelsgård, the latter designation, which is based chiefly on the form of the ison (more
@@ -3906,7 +3855,6 @@ rounded in Middle Byzantine notation, in relation to the hooked form of the Old 
 of the Coislin notation), is less successful, since the hooked form of the ison is also observed in MSS with
 early Middle Byzantine script. The periodizations that follow in the main text are based on the following aids:
 Floros (1970, vol. I, pp. 50-66). Troelsgård (2011). Stathis (1992, pp. 47-59). Papathanassiou (1997). Boukas (2004, pp. 42-
-
 59). For earlier proposals for the periodization of Byzantine notation, of which the most prevalent was:
 
 Early Byzantine (ca. 950-1200), Middle Byzantine or Round notation (ca.1100-1450), Late Byzantine (1400-1821),
@@ -3915,7 +3863,6 @@ xi See Jammers (1962, pp. 70, 41, 6, 85). Cf. also Alexandrou (2010, p. 29, n. 4
 xii Cf. Stathis (1975, pp. 211-213).
 xiii Cf. Themelis, Dimitrios and Giannou, Dimitrios. (2001). Introductory note by members of the Selection Committee
 for the election of a faculty member in the Department of Music Studies. Thessaloniki: Aristotle University of Thessaloniki,
-
 p. 9 (document of the Secretariat of the Department of Music Studies).
 
 xiv Cf. Arvanitis (2006, pp. 244-253). Alexandrou (2010, pp. 36-43).
@@ -3953,7 +3900,6 @@ the levels of structure and performance in Byzantine music, cf. Alexandru (2000,
 xxxi Cf. Tillyard (1935, repr. 1970, pp. 22-23). Levy (1958, p. 30). Jammers (1962, pp. 158-160). Husmann (1972, p.
 
 229). Raasted (1966b, pp. 59-60, and idem, "A method of structuralization, demonstrated by three examples",
-
 handout for the course Extensive lecture of stichera, University of Copenhagen, 11.11.1994, published
 in: Alexandru, 2011, Anhang I, before p. 337). For further information, cf. Alexandrou (2010, example 11).
 xxxii Cf. Raasted (1995c, p. 10) and Huglo & Brockett, "Odo" (chiefly no. 3, on Pseudo-Odo, Dialogus de musica):
@@ -3978,7 +3924,6 @@ xliii The copying of the neumes was done on the basis of the microfilm of MS Kou
 for Patristic Studies, Vlatadon Monastery, Thessaloniki, together with a detail of the sticheron in a colour
 photograph in: Kyriakoudis (2005, p. 152, fig. 93). Also consulted, for the transliteration and the
 authorship of the sticheron: Perria & Raasted (eds., 1992), Sticherarium Ambrosianum, Pars Principalis & Pars Suppletoria
-
 (p. 57).
 
 xliv Cf. a list with electronic addresses in the article "Sticheron" on Wikipedia:

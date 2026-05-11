@@ -127,7 +127,6 @@ writing and calculating".
 ![Description](image_2424.jpeg)
 
 Figure 1.3. The famous “Rosetta Stone” (196 BC), which was discovered in 1799 as a fragment in the city
-
 of Rashid (Rosetta) in Egypt, and proved to be the principal tool for deciphering the Egyptian
 hieroglyphic script, since it presents the same text written three times, in different writing systems and
 languages: 1. Egyptian hieroglyphics, 2. Egyptian Demotic, 3. ancient Greek. Today the stela is in the British
@@ -136,9 +135,7 @@ Source: <https://upload.wikimedia.org/wikipedia/commons/c/ca/Rosetta_Stone_BW.jp
 
 Other important scripts of Antiquity are the script that developed in the Indus
 Valley (ca. 2500 BC), the older Aegean scripts (Linear A, 18th c. BC, Linear B, ca. 1450
-
 BC), Hittite hieroglyphics (ca. 1450 BC), Chinese characters (ca. 1200 BC), the Phoenician script
-
 (ca. 1000 BC), the Greek alphabet (8th c. BC), the Etruscan alphabet (ca. 700 BC), and others.xviii
 The comparative study of writing systems led to the finding that there are at least
 three independent beginnings of writing systems in the ancient world, on the basis of which
@@ -265,7 +262,6 @@ to this day.xxxi
 ![Description](image_2426.jpeg)
 
 Map 1.3. Some regions of dissemination of the archaic forms of the Greek alphabet and Miletus, whose writing
-
 system became the classical Greek alphabet at the end of the fifth century BC. © Google earth.
 Sources: Google earth & places marked by Demosthenes Spanoudakis.
 
@@ -372,9 +368,7 @@ neumes, the various forms of Western European notations (modal, mensural, of the
 writing systems of the East, such as e.g. those of Ottoman music, of India, China, Japan,
 Korea, Tibet, or Indonesia, but also special musical notations (e.g. notation for the
 blind), falls within various fields of Musicology (Historical Musicology, Ethnomusicology,
-
 etc.) on the one hand,xlii and on the other within the science of Semiology, which examines “the modes
-
 of production, functioning, and reception of the various sign systems that make
 communication possible between individuals and/or groups.”xliii
 Most musical notations transform music, as an art that flows in time, into
@@ -448,9 +442,7 @@ manuscripts.
 ### 7.1. Number of Musical Manuscripts and Descriptive Catalogues (I)
 
 The number of surviving manuscripts of Byzantine music is currently estimated at between 7,300 and
-
 10,000.liv Of these, approximately 1,200-1,500 come from the years of the Byzantine Empire, and
-
 more specifically from the 10th century up to the Fall, while the rest are post-Byzantine (1453-19th century).
 A large number of manuscripts date from the 18th-19th centuries. To the enumeration of Byzantine musical
 manuscripts are also added hundreds of manuscripts with ekphonetic notation (ἐκφωνητική σημειογραφία), which
@@ -531,12 +523,10 @@ current psaltic tradition
 of each era.xci
 
 • The oldest dated Papadike: NLG 2458, year 1336, a collection going back to St John Koukouzeles, as
-
 stated on f. 11a: Akolouthiai composed by the maïstor kyr John Koukouzeles, from the beginning of the
 great vespers up to and including the completion of the Divine Liturgy.
 
 • The new collection arose from the union of layers of repertory from the Psaltikon and Asmatikon, with the addition of other
-
 old melodies that were written down for the first time from the oral tradition during the late Byzantine period, and with the
 addition of a new repertory of Kalophonia.
 
@@ -553,7 +543,6 @@ Department of Music Studies of the National and Kapodistrian University of Athen
 exegeseis for the New Papadike. These manuscripts date to the second quarter of the 19th century.xciv
 
 • Shorter forms of Papadike are the codices called Anthology (they contain chiefly the following: a concise Protheoria,
-
 melodies of Vespers, Matins, and the Divine Liturgy). Small-format Anthologies are called Pocket Anthology or
 Egkolpion.xcv
 
@@ -727,7 +716,6 @@ earth. For the marking of the maps and the creation of the video we thank Demost
 ## Bibliography for Chapter 1
 
 Printed musical collections and
-
 facsimile editions of musical manuscripts
 
 Anastasimatarion of the psaltic tradition of the 15th century. (1999). Ed. Antonios Alygizakis. Psaltika
@@ -876,7 +864,6 @@ Angeliki Ralli, trans. A. Ralli, A. Natsis, A. Papastavrou. Athens: Patakis.
 Byzantine Music Palaeography Group from the Department of Music Studies of Aristotle University of Thessaloniki. (2017, forthcoming). Palaeography of Byzantine
 Music: a journey in time and space. Paper at the 8th Interdepartmental Musicological Conference under the
 Aegis of the Hellenic Musicological Society, entitled “Influences and interactions.” Athens,
-
 27.11.2016. To be published on the site: <http://musicology.mus.auth.gr/?page_id=16>
 
 Papathanasiou, Ioannes. (2002). Handbook of Musical Palaeography. First Section. Western neumatic
@@ -885,7 +872,6 @@ Papathanasiou, Ioannes. (2003). Liturgical parchment fragments from the private 
 Kapadochos. In Eustathios Makris (ed.), The two aspects of the Greek musical heritage. Tribute in
 memory of Spyridon Peristeris. Proceedings of the Musicological Gathering, 10-11 November 2000, Athens Concert Hall,
 Academy of Athens, Publications of the Centre for Research in Greek Folklore no. 18
-
 (pp. 81-102). Athens.
 
 Robinson, Andrew. (2007). History of writing, trans. Zoe K. Bella, ed. Dimitris Armaos. Athens: Polaris.
@@ -940,7 +926,6 @@ Editura Arhiepiscopiei Dunării de Jos.
 Beck, Hans-Georg. (2000). The Byzantine millennium. Trans. Demosthenes Kourtovik (3rd ed.). Athens: Cultural
 Foundation of the National Bank.
 Bennett, Emmett L. (1996). Aegean Scripts. In P.T. Daniels and W. Bright (eds.), The World's Writing Systems (pp. 125-
-
 133). New York, Oxford: Oxford University Press.
 
 Berger, Ruth. (2014). Computerlinguistik. Wie kamen die indogermanischen Sprachen nach Europa?. In Schrift und
@@ -953,7 +938,6 @@ Systems (pp. 3-17). New York, Oxford: Oxford University Press.
 Daniels, Peter T. (1996b). Introductory text to the chapter "Ancient Near Eastern Writing Systems". In P.T. Daniels
 and W. Bright (eds.), The World's Writing Systems (pp. 19-20). New York, Oxford: Oxford University Press.
 Daniels, Peter T. (1996c). Methods of Decipherment. In P.T. Daniels and W. Bright (eds.), The World's Writing Systems
-
 (pp. 141-159). New York, Oxford: Oxford University Press.
 
 Daniels, Peter T., and Bright, William. (Eds., 1996). The World's Writing Systems. New York, Oxford: Oxford
@@ -968,7 +952,6 @@ Evans, Arthur J. (1952). Scripta minoa: the written documents of minoan Crete wi
 Knossos. Vol. 2, The archives of Knossos: clay tablets inscribed in linear script B. Oxford: Clarendon Press.
 <http://digi.ub.uni-heidelberg.de/diglit/evans1952/0003> (8.8.2017).
 Floros, Constantin. (1965 and 1967). Die Entzifferung der Kondakarien-Notation. Musik des Ostens, 3, 7-71, and 4, 12-
-
 1.
 
 Floros, Constantin. (1970). Universale Neumenkunde. 3 vols. Kassel: Bärenreiter Antiquariat, Kassel-Wilhelmshöhe.
@@ -981,7 +964,6 @@ Förstel, Christian. (2001). Trésors de Byzance. Manuscrits grecs de la Bibliot
 nationale de France. Cahiers d'une exposition 37. Paris: Bibliothèque nationale de France.
 Friedrich, Michael, Isaacson, Harunaga, and Quenzer, Jörg B. (2014). Studies in Manuscript Cultures (SMC). Manuscript
 Cultures, 7, 143-144. <https://www.manuscript-cultures.uni-hamburg.de/MC/manuscript_cultures_no_7.pdf>
-
 (1.9.2016).
 
 Gadamer, Hans Georg. (1993). Unterwegs zur Schrift? In A. & J. Assmann and Chr. Hardmeier (eds.), Schrift und
@@ -1060,7 +1042,6 @@ Papathanasiou, Ioannis (2006). The Significance of Monumenta Musicae Byzantinae 
 Tradition. In Monumenta Musicae Byzantinae, 75th Anniversary, The current state of Byzantine Musical Studies
 after 75 years of Monumenta Musicae Byzantinae, Acts of the International Conference held at Carlsberg
 Academy, Copenhagen, 16-17 June, 2006, Bollettino della Badia Greca di Grottaferrata, terza serie, vol. 3, 129-
-
 1.
 
 Petresco, J.-D., Père. (1932). Les Idiomèles et le Canon de L'Office de Noël (d' après des manuscrits grecs des XIe, XIIe,
@@ -1070,7 +1051,6 @@ Raasted, Jørgen. (1969). Observations on the Manuscript Tradition of Byzantine 
 Numbers, Based on Eustratiades' Edition of the Heirmologion. Cahiers de l'Institut du Moyen-Âge Grec et Latin,
 1, 1-12.
 Raasted, Jørgen. (1992). The Princeton Heirmologion Palimpsest. Cahiers de l'Institut du Moyen-Âge Grec et Latin, 62,
-
 219-235.
 
 Raasted, Jørgen. (1995). Koukouzeles' Revision of the Sticherarion and Sinai gr. 1230. In Ι. Szendrei and D. Hiley,
@@ -1176,7 +1156,6 @@ in relation to Byzantine music, see Psachos (1978).
 v See below, section 6.
 vi Cf. Stathis (1989a, pp. vii-xiii, and 1985, pp. 1-23). Kalaitzidis (2012, p. 15). Karagounis (2014a, p. 27). The expression
 “ocean of music” concerning the Psaltic Art comes from Grigorios Stathis (discussion in Copenhagen,
-
 16-17 June 2006).
 
 vii Etymologicum Magnum Lexicon, columns 167-170: see also Liddell, Scott, Jones, and McKenzie (1990, p. 64).
@@ -1222,7 +1201,6 @@ xviii Cf. Robinson (2007, p. 14).
 xix "Earliest was probably the cuneiform writing devised for Sumerian (or even some other language, of which all trace
 has been lost), which seems to have been the inspiration for Egyptian Hieroglyphic (...). Egyptian hieroglyphic in turn
 probably inspired the Canaanite script, whose offshoots became the scripts of all of Europe and most of Asia. At the root
-
 of this tree is a system that recorded consonants only, one per character, what I call the Semitic abjad. Perhaps nearly
 simultaneously at the eastern and western extremes of the ancient Near East, this system was augmented with notations
 for vowels on quite different principles: In the Mediterranean, they came to be written with individual characters,
@@ -1247,16 +1225,13 @@ of the development of the Greek language from antiquity to the present, cf. Horr
 <https://smerdaleos.files.wordpress.com/2014/08/horrocks-2.pdf> (3.2.2017). Cf. also the various articles in Ero, 21
 (2015).
 xxvi The present table is based on the following bibliography: Bennett (1996). Daniels (1996c). Robinson (2007, pp. 14, 16,
-
 108-119, 149-150). For further bibliography and related websites, cf.
 
 <http://lila.sns.it/mnamon/index.php?page=Risorse&id=20> (8.8.2016).
 Evans (1952): <http://digi.ub.uni-heidelberg.de/diglit/evans1952/0003> (8.8.2016).
 xxvii See Robinson (2007, pp. 161, 166). The information that the Greek alphabet is related to Phoenician writing was
 known already in Antiquity: "Herodotus (V,58) speaks of the Greek letters as φοινικήια γράμματα" (Swiggers, 1996,
-
 p. 261). "The Greeks believed their alphabet had been brought to them by a Phoenician named Cadmus" (Daniels, 1996α,
-
 p. 5). See also Hornblower & Spawforth (eds., 2003, pp. 267 and 66).
 
 xxviii See Swiggers (1996, p. 261).
@@ -1314,7 +1289,6 @@ xlv The musicologist Leo Treitler explains these three modes of representation i
 that represents by virtue of an habitual association between the sign and its referent (...). A sign functions in the iconic
 mode, when it represents by virtue of a resemblance that it bears to the thing represented (...). An index is a sign that
 represents by virtue of a sequential (and usually causal) link between the sign and what it signifies.": Doda (1995, pp. 63-
-
 64).
 
 xlvi Cf. Troelsgård (2011, pp. 14-15). For a detailed stratification of the function and use of Byzantine
@@ -1414,13 +1388,10 @@ lxxi See Floros (1970, vol. I, 53-54, vol. III, facsimiles 1, 25-36). Wolfram (e
 Vindobonense). Perria & Raasted (eds. 1992, Sticherarium Ambrosianum). Raasted (1995). Karas (1992, pl. XVII).
 lxxii See Stathis (1975, pp. xxxi-xxxii). For the two melourgoi mentioned and, more generally, for the age of the new
 embellishment or the First Flowering after the Fall (1650-1720), see Chatzigiakoumis (1999, pp. 41-46). For the
-
 gradual change of the sticheraric melos from the old style toward the new embellishment, as well as for an important
 example of a combination of palaeographical and morphological-analytical study, cf. Makris (1996). For the exegesis
 of the Old Sticherarion and those of Chrysaphes the New and Germanos of Neai Patrai, cf. Stathis (2001a,
-
 pp. 705-706) and idem (2016, vol. B΄, pp. 193-405). Cf. also the forthcoming dissertation of Vasileios Salteris,
-
 entitled: The tradition of the melos of the old Sticherarion (Athens: Department of Music Studies of the National and
 Kapodistrian University of Athens, 2012): <www.music.uoa.gr/metaptyxiakes-spoudes/didaktorikes->
 diatribes/didaktores-toy-tmimatos.html (13.2.2017).
@@ -1447,9 +1418,7 @@ nine odes” (Boukas, 2004, p. 19, note 8).
 lxxxii Stathis (1975, p. xxxiv).
 lxxxiii Cf. Shkolnik (1998).
 lxxxiv Cf. Floros (1970, vol. Ι, pp. 63-66 and vol. III, facsimiles 13-18). Père J.-D. Petresco (1932, plates XXVI-
-
 XXVIII). Lorenzo Tardo (ed., 1951, Hirmologium Cryptense). Cf. also Raasted (1969). Papathanasiou (2006). For
-
 St John Koukouzeles, see Stathis (1988, pp. 4-5). Karas (1992, plates XV, XVI, XX, XXI).
 lxxxv Chatzigiakoumis (1999, pp. 33-34, 37).
 lxxxvi The oldest dated manuscript of the Heirmologion of Katavasiai of Petros is in Zakynthos, Gritsanes Collection,
@@ -1482,7 +1451,6 @@ xciv Cf. the detailed descriptions of these codices in: Stathis (2016, vol. B΄,
 book], 161-214). Idem (1975, pp. 106-117). Idem (2001, pp. 703-704).
 xcv Cf. Stathis (1975, pp. xxxvii-xxxviii, xl).
 xcvi Stathis (1992, pp. 122-125). Idem (1975, p. xxxviii). Kritikou (2004). Balageorgos & Kritikou (2008, pp. 226-
-
 237).
 
 xcvii See Stathis (2016, vol. B΄, pp. 187-192).
@@ -1515,14 +1483,11 @@ cxiv Cf. an account of the history of research on the interpretation of old musi
 Alexandru (2010, pp. 19-33). For the method of retrograde parallelism see ibid., pp. 25, 70.
 cxv Cf. Stathis (2001b). Makris (2011). Yasinovskyi (2011). Ignatenko (2016).
 cxvi For the last two categories of sources, cf. Maliaras (2007). Goulaki-Voutyra (general responsibility, 2012, pp. 107-
-
 154).
 
 cxvii Karas (1953, p. 141). Cf. also the leaflet of the Society for the Dissemination of National Music, Concert in
 honor of Simon Karas, “So that we may love Greek Music,” 4.2.2001, Pallas Theater, Athens (we thank
-
 Mr M. Zaitidis), where the above passage is expanded as follows: “A working method that would bring into agreement
-
 the texts of the old codices with the theoretical writings of the Byzantine musicians and the
 singing tradition of the Orthodox Greek Church—but also with the songs and musical instruments of the Greek
 people—would be able to claim general recognition as a correct and faithful interpretation and rendering, in contemporary

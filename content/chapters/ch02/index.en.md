@@ -20,20 +20,16 @@ century, when typography definitively prevailed in almost all fields of knowledg
 Among the branches of Palaeography are the following:
 
 ● Epigraphy: Its object of research is inscriptions engraved on hard materials
-
 (stone, etc.).
 
 ● Diplomatics: It deals with the reading and critical study of archival, public, and private
-
 documents.ii
 
 ● Papyrology: It investigates papyri. This is a more recent branch of Palaeography, which
-
 was created in the first half of the 20th century, after spectacular discoveries of papyri in Egypt (in cities
 such as Oxyrhynchus) and in other parts of the Near East and the Mediterranean.iii
 
 ● Palaeography proper: It focuses on the study of manuscript codices from the 4th century AD until
-
 the 19th and the beginning of the 20th century.iv
 The “father of Greek Palaeography” (meaning the palaeography of the Greek language) is recognized as
 the French Benedictine monk Bernard de Montfaucon (1655-1741), who is renowned for
@@ -42,11 +38,8 @@ this particular book, Montfaucon refers, among other things, also to Greek music
 divides into two categories:
 
 a) signs “for the movement of the voice in reading,” that is, for indicating melodic
-
 recitation, a notation that was later called “ekphonetic,” and
-
 b) signs “for greater and richer movements of the voice,” that is, for the notation of the
-
 chants proper.vi
 
 Figure 2.1. Bernard de Montfaucon (1655-1741), the father of the Palaeography of the Greek Language.vii
@@ -157,7 +150,6 @@ of Trier: <http://digipap.uni-trier.de/papy.php> (8.8.2016),xxiv
 of Manchester, John Rylands Library: <http://luna.manchester.ac.uk/luna/servlet/ManchesterDev~93~3>
 
 1. , of Berkeley, California, Center for the Tebtunis Papyri: <http://tebtunis.berkeley.edu/form>
-
 (8.8.2016), of the Universities of Yale, Ann Arbor, Milan, etc.
 The great majority of papyri has not yet been published.xxv
 
@@ -221,7 +213,6 @@ of the codex: Syria. The text is written in various directions: above, in the fi
 left to right (Luke 23:7), while lines 3-6 are written in mirror-image (Matt. 27:2). Beneath the
 miniatures the text continues in the same manner for another three lines (Matt. 27:3-5).xxxv
 Source: <https://commons.wikimedia.org/wiki/File:RossanoGospelsFolio8vChristBeforePilate.jpg>
-
 (8.8.2016). <https://de.wikipedia.org/wiki/Codex_purpureus_Rossanensis> (8.8.2016).
 
 #### 1.2.3. Paper
@@ -269,7 +260,6 @@ was offered to the scholarly community by the French palaeographer C.M. Briquet 
 ![Description](image_2455.jpeg)
 
 Figures 2.10. Watermark designs with the motif of the double-headed eagle. Source: Briquet (1907, vol. I, digital p. 304, designs
-
 231-242, from: <https://doc.rero.ch/record/23217/files/ob_447_1.pdf> [8.8.2016].
 
 ### 1.3. Writing instruments and inks
@@ -297,14 +287,11 @@ black ink is used for the poetic text and for the majority of the musical signs.
 In red are written chiefly the titles and the so-called erythrogrammata (ἐρυθρογράμματα) (also called
 rubrics, from the Latin ruber = red),xliv that is, notes by the scribe which concerned the
 feast and the service for which the piece was intended, its poet and/or its melodist, the type
-
 of the piece, and various liturgical instructions, occasionally also evaluations of the pieces, such as e.g. very
 beautiful. Also written in red are: the first letter of a piece, the martyriai (initial and
 internal, or mesomartyriai), as well as various musical signs, especially many of the so-called great
 hypostases of cheironomia, chiefly from the period of Kalophonia (13th-15th c.) onward (see Figure
-
 2.12). Finally, a variety of inks was in use for the miniatures or also for various diagrams, which
-
 adorn luxurious Byzantine and post-Byzantine manuscripts, musical or otherwise.xlv
 
 ![Description](image_2457.jpeg)
@@ -384,7 +371,6 @@ The copying-production of codices took place in large libraries (e.g. the imperi
 Constantinople) or in large monasteries, where there were special scribal workshops, the so-called
 calligrapheia (Lat. scriptorium, pl. scriptoria). Among the best-known calligrapheia that produced
 manuscripts of Byzantine and/or post-Byzantine culture are those of the Holy Monastery of Stoudios and of the
-
 Holy Monastery of the Panagia Hodegon in Constantinople (see Map 2.3), of the Archbishop of Caesarea
 
 Arethas,lii of various monasteries of Mount Athos (e.g. Great Lavra, the Holy Monastery of Iviron, the Holy and Great Monastery of Vatopedi, the Holy Monastery of
@@ -408,7 +394,6 @@ punctuation marks: 30 and 100 prostrations. (...)
 60. If the protocalligrapher distributes the handiwork with partiality, and if he does not properly look after
 the membranes and all the binding tools, so that none of the things useful
 for such service becomes unusable, impose upon him 50 and 100 prostrations and
-
 excommunication.”lv
 
 #### 1.4.3. The preparation of a codex
@@ -442,7 +427,6 @@ or 1v (verso), 2a and 2b (or 2r and 2v), 3a and 3b (or 3r-v), 4a-b (or 4r-v), an
 
 Diagrams 2.4-7. From the processed hide, e.g. of a calf, to the eight leaves of a codex: a common form
 of folding a parchment into eight leaves (in-octavo). By folding, one large bifolium (dyad) is first formed,
-
 which in turn is folded another two times to create a quaternion. The eight leaves that result
 are numbered with their two sides from 1a to 8b (or 1r-8v). Altogether we have 16 pages.lvii
 
@@ -455,7 +439,6 @@ received numbering by numeral letters on its first and last leaf (the so-called 
 to ensure the subsequent correct assembly of the quires in the codex.lix
 
 √ Ruling is the term for the preparation of the leaves with parallel and several vertical lines, which
-
 were incised with a sharp instrument into the parchment, as an aid for the later alignment of the
 text by the scribe of the manuscript.
 The various scriptoria had their own ruling patterns. The recognition of the corresponding pattern
@@ -469,16 +452,13 @@ Répertoire de réglures dans les manuscrits grecs sur parchemin (see Diagrams 2
 
 Diagrams 2.9-10. Two examples of standardised ruling patterns. The pattern on the left (Leroy-Sautel 00C1)
 is documented, for example, in MS Vaticanus graecus 1660, 10th c., ff. 1-393, with hagiographic texts, scribe: John at the
-
 Holy Monastery of Stoudios, year 916. The pattern on the right, which is intended for writing text in two columns (Leroy-Sautel 00C2),
-
 is found, among other places, in the MS of the Holy Monastery of Vlatadon, Thessaloniki, no. 7, of the 12th c., which contains liturgical
 texts. lx
 
 - √ After the ruling of the leaves, the process of copying could begin.
 
 - √ After the completion of the copyist’s work, the binding or stachosis was carried out, which had
-
 several stages, among which the following are mentioned:
 
 - The sewing of the quires,
@@ -486,17 +466,14 @@ several stages, among which the following are mentioned:
 - the preparation of the wooden binding boards and their connection with the body of the book,
 
 - the reinforcement of the spine of the book with cloth, the construction of the so-called headband (sewing at
-
 the upper and lower part of the spine),
 
 - the gluing of the cover (usually morocco leather in a brown colour, at other times silk
-
 cloth of various colours and designs) onto the codex and the placement of clasps for the
 protection of the parchment leaves from changes due to weather conditions (e.g. undulations of the
 leaves because of moisture, etc.),
 
 • the placement of bosses (or head-nails = small metal plates of various shapes, e.g. in
-
 the form of a lily, almond, etc.) in the middle and at the four corners of each board to limit
 wear of the cover, the addition of bookmarks, the decoration of the cover with
 metal stamps, which are pressed onto the leather, the embellishment of the spine with various
@@ -548,9 +525,7 @@ headpieces, headings, initial letters or decorated initials, rosettes (decorativ
 shape), ornamental bands with plants, birds, geometric shapes, etc., can be found in
 catalogues of manuscripts of Byzantine music (e.g. Chatzigiakoumis, 1980, and Stathis, 1975, 1976, 1993,
 2015, 2006) and in special studies of illustrated manuscripts (e.g. in Treasures of Mount Athos
-
 etc.).lxvi Often the diagrams of the Byzantine oktoechos (ὀκταηχία) as well (wheels, trees, and other shapes: see
-
 below, ch. 8), which are included in the Preliminary Theoria of the Papadike or in other theoretical
 treatises, are very elegant, enhancing the manuscripts and facilitating the educational
 process of the Psaltic Art.
@@ -631,7 +606,6 @@ Psalter Apostolos
 χχχ
 
 Diagram 2.1. The triple core of manuscript codices at the basis of the large family
-
 of liturgical books.lxxx
 
 Around this core, during the Byzantine and post-Byzantine periods various other
@@ -717,10 +691,8 @@ Doxastarion
 
 Horo
 \-
-
 logion,
 Tropo-
-
 Eucho- Psal-
 logion,
 ter,
@@ -784,7 +756,6 @@ of Byzantine musical manuscripts comprises the following:lxxxiv
 3. analysis of palimpsests (if any),
 
 4. further comments concerning: • the codicological description of the manuscript: material of the manuscript, watermarks (for paper codices), quires and folios of the manuscript, ruling, size of the written frame per folio, pagination, etc. • palaeographical description of the text (type of script, handwriting and slant, characteristic forms of the script [special forms of certain letters],lxxxv punctuation, prosodic signs, abbreviations, type of script for headings and rubrics), inks, • description of the type of notation used in the codex, with mention of particular features (rare or idiosyncratic forms of certain signs, etc.), where these exist, • information on the scribe, • description of the ornamental elements and miniatures of the manuscript, • mention of important bibliographical notes by the scribe of the codex or by other hands, • description of the binding, • account of the state in which the codex is preserved, • data concerning the history of the codex, • observations by the author of the analytical catalogue concerning the structure, feasts (festal analysis), and importance of the manuscript, • up-to-date bibliography on the particular manuscript. For the immediate location of descriptive catalogues of manuscripts of Byzantine music the
-
 Emmanouel Giannopoulos published a “catalogue of catalogues”, his very useful study entitled
 “Basic bibliography for the manuscript codices of Psaltic Art”.lxxxvi
 Below are listed, indicatively, some titles of catalogues for manuscripts of Byzantine music:
@@ -802,7 +773,6 @@ Greece, IBM. Athens. • Chaldaiakis, A. (2005). The Manuscripts of Ecclesiastic
 Descriptive Catalogue, vol. I, Hydra. Holy Synod of the Church of Greece, IBM. Athens. •
 Balageorgos, D. & Kritikou, Fl. (2008). The Manuscripts of Byzantine Music, Sinai, Descriptive
 Catalogue, vol. I. Holy Synod of the Church of Greece, IBM. Athens. • Troelsgård, Chr. Inventory of
-
 Microfilms and Photographs in the Collection of Monumenta Musicae Byzantinae, Database of the ΜΜΒ:
 <http://www.igl.ku.dk/MMB/catbyz.htm> • Bucca, Donatella. (2011). Catalogo dei manoscritti musicali greci del SS.
 Salvatore di Messina (Biblioteca Regionale Universitaria di Messina). Roma: Comitato Nazionale per le Celebrazioni
@@ -1554,7 +1524,6 @@ majuscule bookhand.
 Display scripts
 
 - Display scripts are majuscule scripts that
-
 are used from the 9th c. onward in codices
 with minuscule script, for the writing of titles,
 chapters, scholia, initial letters, etc. (Germ.
@@ -1571,7 +1540,6 @@ Menologion of Basil II, Codex Vaticanus graecus
 <http://digi.vatlib.it/view/MSS_Vat.gr.1613/0100>
 
 (27.10.2015). Follieri (1969, pl. 20). Litsas (2001, pp. 78–
-
 79, 68–69, 82–83). See also Figure 2.27.
 
 1. The Constantinopolitan display majuscule
@@ -1613,11 +1581,8 @@ The appearance of Greek minuscule script is dated to the 4th century AD. As
 mentioned above (see Table 2.1), minuscule script appears:
 
 a. as cursive, with two branches: the Greco-Roman (4th–5th c.) and the Byzantine (from the 6th c. onward),
-
 which, in turn, is documented in two forms, i. the common hand and ii. the bureaucratic script, and
-
 b. as bookhand, which evolved from Byzantine cursive script, was standardized at the beginning of the 9th
-
 century, and was used for the copying of literary and other texts.cxi
 In the following Table 2.5 by the palaeographer E. M. Thompson, various forms of the
 letters of minuscule Byzantine cursive script are distinguished, many of which also occur in
@@ -1706,7 +1671,6 @@ Pearl-script
 - It survives in mss. from the end of the 10th c.–15th c., with its flourishing during the 11th century,
 
 - “it gives the general impression of great symmetry and elegant uniformity (...) the letters take on a
-
 rounded form and are distinguished one from another, without, however, ceasing to be joined to one another, like
 pearls in a necklace.” The definition of the basic characteristics of this script and the name Perlschrift are due
 to Herbert Hunger.cxviii
@@ -1727,7 +1691,6 @@ Sotiroudi, 1991, p. 85):
 <http://digital.lib.auth.gr/record/79929/files/1.pdf>
 
 (19.8.2016). © Central Library of the Aristotle University of Thessaloniki,
-
 Thessaloniki.
 
 ![Description](image_3101.jpeg)
@@ -1756,7 +1719,6 @@ two rows) and Monastery of Sinai, New Finds X 130, 14th
 c. (last two rows).cxxi
 
 - = Minuscule script of large size and
-
 rounded form (see sample in: Litsas, 2001, pp. 82–83). See also Figure 2.34.
 
 ![Description](image_3104.jpeg)
@@ -1903,7 +1865,6 @@ tachygraphic element).
 αν
 
 καὶ
-
 ας
 
 κατὰ
@@ -1983,7 +1944,6 @@ are joined together,
 creating
 
 i. ligatures (through the
-
 extension of the initial and
 final strokes of the corresponding
 letters) or
@@ -2071,7 +2031,6 @@ following letter).cxlvi
 σα
 
 σε
-
 σθ
 
 σπ
@@ -2085,9 +2044,7 @@ following letter).cxlvi
 τε
 
 το
-
 του
-
 τρ
 
 ττ
@@ -2149,7 +2106,6 @@ of literary textscxlix and may also be used, with certain adaptations, for the
 restoration of texts with Byzantine notation.
 
 (
-
 )
 
 Parentheses, for the expansion of abbreviations in the original text.
@@ -2196,9 +2152,7 @@ editor (locus desperatus).
 [± 5]
 
 ] and
-
 [
-
 deest, desunt
 
 deleatur
@@ -2214,7 +2168,6 @@ scil.
 vacat
 
 Square brackets with an indication of the approximate number of letters that have been lost (here
-
 e.g. five letters). It is used extensively in Papyrology.
 
 Reversed square brackets, usually in editions of fragmentary papyri, for
@@ -2281,13 +2234,11 @@ probably from Egypt:clii <http://digi.vatlib.it/view/MSS_Vat.gr.1209/1476>
 
 Testament, Codex Vaticanus graecus 1209
 biblical majuscule script,
-
  &
 2. from the Alexandrian Codex of the Bible, British Library, Londinensis gr.
 
 Royal 1 D.viii, fol. 97r-v, 3rd quarter of the 5th century, in biblical majuscule script,
 from the zone of the Eastern Mediterranean (perhaps Constantinople):cliii see Figures
-
 2.47.a-b.
 
 ![Description](image_3130.jpeg)
@@ -2305,7 +2256,6 @@ Figure 2.47.b. The Alexandrian Codex of the Bible, Londinensis gr. Royal 1 D.vii
 continuation of the Hymn of Love (1 Cor. 13:4–13). At the arrow the hymn is completed and chap. 14:1-
 
 1. Source photograph: <http://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_1_d_viii_fs001r#>
-
 (8.11.2016). © British Library Board Royal 1 D.viii.
 
 Assessment criterion 3
@@ -2420,7 +2370,6 @@ gr. 219, fol. 53r. Similar use of a double grave accent is also observed on
 ![Description](image_3139.jpeg)
 
 fols. 69r, 73r, 78v, 80r, 105v. Cf. also endnote xcvi in
-
 the present chapter.
 
 ![Description](image_3140.jpeg)
@@ -2444,7 +2393,6 @@ John, in a preliminary stage of Perlschrift.
 ![Description](image_3142.jpeg)
 
 Figure 2.55. Codex Laurensis Δ 70, Holy Monastery of Great Lavra on Mount Athos, year 984: Psalter with a so-called
-
 catena (exegetical chain) in the margins of the MS, written in the aforementioned Holy Monastery by the scribe John, in
 upright minuscule script, “preliminary stage of pearl-script - Perlschrift”.clviii In the present image: fol. 202r, with
 Psalm 149, vv. 8.2-9 and Psalm 150 in full, together with the corresponding catena. © for the photograph from microfilm:
@@ -2463,7 +2411,6 @@ Printed editions: Follieri (1969, pl. 20) and Litsas (2001, pp. 78-79).
 
 Figure 2.56. Miniature from the Menologion of Basil II, Cod. Vaticanus gr. 1613, p. 78, years 979-989.
 Source photograph: <https://commons.wikimedia.org/wiki/File:Romanos_the_Melodist_(Menologion_of_Basil_II).jpg>
-
 (8.9.2016).
 
 Assessment criterion 9
@@ -2506,7 +2453,6 @@ to the aforementioned
 a protheory of the New Method the
 minuscule slightly right-slanting
 Method. © Holy Monastery of Karakallou,
-
 “Introduction to the Theory and Practice of Ecclesiastical Music”, in
 script. It is followed by the Anastasimatarion of Petros Peloponnesios with the sematophones (σημαδόφωνα) of the New
 Mount Athos.
@@ -2531,7 +2477,6 @@ Tsantsanoglou, Kyriakos. (2013). The Derveni Papyrus. Ministry of Culture and Sp
 Pliny the Elder, The Natural History. Trans. John Bostock, M.D., F.R.S., H.T. Riley, Esq., B.A. (1855). London: Taylor
 and Francis, Red Lion Court, Fleet Street:
 <www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%Abook%3D13%3Achapter%3D21>
-
 (30.1.2017).
 
 Liturgical books, musical collections, and editions of liturgical manuscript codices
@@ -2575,7 +2520,6 @@ Mount Sinai Foundation.
 Politis, Linos. (1991). Catalogue of Manuscripts of the University of Thessaloniki. Editing-additions
 
 P. Sotiroudis and A. Sakellaridou-Sotiroudis. Thessaloniki: Aristotle University of Thessaloniki,
-
 Central Library.
 Stathis, Grigorios. (1975, 1976, 1993, 2015). The Manuscripts of Byzantine Music, Mount Athos. Holy Synod of the
 Church of Greece - IBM. Volumes A-D. Athens.
@@ -2651,7 +2595,6 @@ diachronic development: Palaeographical & analytical inquiries. Ed. Maria Alexan
 International Conference of the American Society of Byzantine Music and Hymnology, Athens, 12.09.2007 (pp.
 
 337-485). See Video recording of the presentation and part of the work in the electronic Proceedings of the conference
-
 at: <http://www.asbmh.pitt.edu/page9/page10/page10.html> (16.2.2016) and
 <http://www.asbmh.pitt.edu/page12/Alexandru.pdf> (16.2.2016).
 Papathanasiou, Ioannis. (2013). Musical Palaeography and Greek Palaeography. Reference signs in
@@ -2703,7 +2646,6 @@ Internationale.
 Bornemann, Eduard and Risch, Ernst. (1978). Griechische Grammatik (2nd ed.). Frankfurt am Main: Moritz Diesterweg.
 Briquet, C. M. (1907). Les filigranes. Dictionnaire historique des marques du papier dès leur apparition vers 1282
 jusqu'en 1600. 4 volumes. Paris: Alfonse Picard et fils. <https://doc.rero.ch/record/23217/files/ob_447_1.pdf>
-
 (15.2.2016).
 
 Browning, R. (1992). The Byzantine Empire. Trans. N. Konomi. Athens: Papadimas.
@@ -2802,7 +2744,6 @@ Metzger, Bruce M. (1981). Manuscripts of the Greek Bible. An Introduction to Gre
 Oxford University Press.
 Migne, J.-P. (1903). Patrologiae cursus completus. Series graeca, vol. 99. Paris: Garnier Fratres Editores et J.-P. Migne
 Succesores. <https://ia902700.us.archive.org/7/items/patrologicursus60migngoog/patrologicursus60migngoog.pdf>
-
 (15.2.2016).
 
 Mihálykó, Ágnes. (2015). P.Mon.Epiph. 607: Great Doxology and Trisagion. Zeitschrift für Papyrologie und Epigraphik,
@@ -2828,13 +2769,11 @@ PG: Migne. J.-B. (Ed.). Patrologiae cursus completus. Series graeca. (Paris, 185
 Pons Collins Wörterbuch für die berufliche Praxis. (1998). Deutsch-Englisch, Englisch-Deutsch (Neubearbeitung).
 Stuttgart, Düsseldorf, Leipzig: Ernst Klett Verlag.
 Raasted, Jørgen. (1992). The Princeton Heirmologion Palimpsest. Cahiers de l'Institut du Moyen-Âge Grec et Latin, 62,
-
 219-232.
 
 Rapp, Claudia, Afentoulidou, Eirini, Galadza, Daniel, Nesseris, Ilias, Rossetto, Giulia, and Schiffer, Elisabeth. (2016).
 Daily Life and Religion: Byzantine Prayer Books as Sources for Social History. Poster at the 23rd International
 Congress of Byzantine Studies, Belgrade, 22-27 August 2016. <https://univie.academia.edu/GiuliaRossetto/Posters>
-
 (1.9.2016).
 
 Reynolds, L. D., & Wilson, N. G. (1992). Scribes and Scholars. A Guide to the Transmission of Greek and Latin
@@ -2864,7 +2803,6 @@ I. Turnhout, Belgium: Brepols Publishers.
 
 Stathis, Grigorios Th. (1997). Musical Composition, Manuscript Production and the Art of Chant on Mount Athos. In
 Athanasios Karakatsanis (managing editor), Treasures of Mount Athos, translation Andrew Hendry et al. (2nd ed.,
-
 pp. 626-645). Thessaloniki: Holy Community of Mount Athos, Ministery of Culture, Museum of Byzantine
 
 Culture, Organization for the Cultural Capital of Europe Thessaloniki 1997.
@@ -2970,7 +2908,6 @@ _Fragments_on_display_in_the_Archaelogical_Museum_of_Thessaloniki.jpg (8.8.2016)
 
 <www.greek-language.gr/digitalResources/ancient_greek/library/index.html?start=30&author_id=all> (30.1.2017).
 <www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%Abook%3D13%3Achapter%3D21>
-
 (30.1.2017).
 
 ## Endnotes for Chapter 2
@@ -3069,7 +3006,6 @@ called hair side (the outer side) and flesh side (the inner side). See also
 <https://el.wikipedia.org/wiki/Περγαμηνή> (15.2.2016). For various qualities of parchment, from thin and glossy
 to yellowish and thick, see Mioni, (1998, p. 34). Hunger (1995, p. 23). Babiniotis (2002, p. 1656).
 xxix See <www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%Abook%3D13%3Achapter%3D21>
-
 (30.1.2017): Pliny the Elder, The Natural History (eds. John Bostock, M.D., F.R.S., H.T. Riley, Esq., B.A., 1855).
 
 <https://el.wikipedia.org/wiki/Πλίνιος_ο_Πρεσβύτερος> (30.1.2017).
@@ -3097,29 +3033,24 @@ follows:
 4. beating the pulp with large hammers moved by hydraulic power, from mill wheels,
 
 5. transferring the pulp to a large basin and dipping a square wooden frame into the basin (the frame
-
 or, otherwise, the mould, had fine brass wires arranged in a net-like pattern).
 
-1. When the water had drained away, only a thin layer remained on the frame, which was dried, and then they sized it (with
-
+6. When the water had drained away, only a thin layer remained on the frame, which was dried, and then they sized it (with
 vegetable glue in the East, animal glue [gelatin] in the West), so that the ink would not later spread on the paper. The
 frame left on the paper certain very faint marks, the so-called water lines (horizontal lines) and
 ribs (vertical lines). These show through when we hold the paper up to the light.
-xxxvii The stages of paper manufacture depicted in Fig. 2.8. are described as follows by Gaur (1994,
-
-1. 41-42): "Papermaking in China:
+xxxvii The stages of paper manufacture depicted in Fig. 2.8. are described as follows by Gaur (1994, p. 41-42): "Papermaking in China:
 
 (a) Tree bark and plants are cut into pieces and soaked in water.
 
 1. After pounding, and the separation of plant fibres, the remaining pulp is mixed with other ingredients and boiled.
 
 2. After further processing the final mixture is placed into a large vat and the sheets are lifted from it by means of a
-
 bamboo frame.
 
-1. The sheets are well drained and collected.
+3. The sheets are well drained and collected.
 
-2. They are finally dried on an heated wall."
+4. They are finally dried on an heated wall."
 
 xxxviii For more details, see Mioni (1998, p. 41) and Hunger (1995, p. 28), in both books with
 references to special studies by the famous palaeographer J. Irigoin.
@@ -3190,9 +3121,7 @@ Library in Venice, having a binding with gold, pearls, precious and semi-preciou
 in enamel, cf. Choulis (1999, p. 17, fig. 1a).
 lxv Cf. Maliaras (2007), Goulaki-Voutyra (2012).
 lxvi Cf. Treasures of Mount Athos (indicatively, vol. A, pp. 30-31, 73, 144-145, 164-165, 179, 193, 184-187, 191, 257,
-
 228-229, 294-295, vol. B, pp. 24-29, 140-141, 150-151, 255, 268-269, vol. C, pp. 96-103). See also Kadas (2008), pp. 421,
-
 328, 336-337, 381-383, 404-406, 424-427, 431-432, 440 (diagram of open palms with numbers and wheel-shaped
 chronological and astrological tables, which have an external similarity to corresponding musical diagrams), 346-
 347 (with circular diagrams for the zodiac and the seven Sacraments), 470. Stathis (1997). Weitzmann (1971).
@@ -3238,7 +3167,6 @@ worn prayer book of John Myronas, a Greek monk who lived in Jerusalem in the 13t
 However, beneath the prayers, barely visible behind stains and smudges, lay buried the oldest
 surviving manuscript of the greatest mathematician of the ancient world, Archimedes of Syracuse. This,
 then, is the true story of the most important ancient scientific codex that exists today. More than
-
 a thousand years old, after its first writing it was erased, written over, burned, soaked and mouldered,
 forgotten on the shelves of an old monastery. It had travelled across seas and lands, from East to
 West, passing through crusades, conquests and world wars (...) now—thanks to cutting-edge
@@ -3325,14 +3253,12 @@ texts, A. Zografou (2010) observes, among other things, the following interestin
 homogeneous notational system, but local traditions.” (p. 225).
 
  The punctuation of the original texts in the manuscripts constitutes an important source of information for the scholar/editor,
-
 since “the liturgical utilitarian approach to the manuscript, that is, its oral performance, testimonies
 of which are found encoded in a special semiology within the text itself” can
 facilitate the understanding of the text, the detection of multiple readings, and the tracing of the
 “living tradition of the text from generation to generation” (p. 214).
 
  A special system of punctuation for the loud reading of Greek texts was developed by the Alexandrian
-
 grammarian Nicanor (2nd c. AD: see Hornblower & Spawforth [eds., 2003, p. 1041]). He uses eight types
 of points: “full stop, lower stop, first upper stop, second upper stop, third upper stop, hypostigme
 with enactment, hypostigme without enactment, separation.” This specialized terminology/notation was adopted by Basil the Least (mid
@@ -3343,21 +3269,17 @@ its substantial and living continuity” (p. 216). The system of Nicanor is atte
 various manuscripts until the end of the medieval period.
 
  On the basis of works by medieval commentators on ancient Greek texts, more ways of reading
-
 a text can be distinguished:
 
 1. “parenthetically” (concerns inserted text which is read with a different shade of the voice and
-
 is indicated by the use of parallel acute accents at the beginning and end of the relevant passage),
 
 1. “as one” or “in sequence” (concerns text that is read continuously, i.e. with each word pronounced in relation to
-
 the preceding or following ones),
 
 1. “in itself” (for separate reading of each word),
 
-2. “with enactment” (with different coloration of the voice, aiming at the expression of specific
-
+1. “with enactment” (with different coloration of the voice, aiming at the expression of specific
 emotions. Double grave accents may be used [p. 224]).
 Regarding the second mode of reading, A. Zografou observes that “Moreover, Byzantine musical
 notation is based on the logic of succession, whereby the tonal value of each musical sign
@@ -3366,10 +3288,8 @@ like ancient discourse (...) is based on a prosodic model of recitation; it is f
 speech and then music” (p. 225 and with n. 20).
 
  Some other special symbols for the loud reading of texts are the following: “a point with a prick, a small
-
 line below the last character of a word, small or large separations placed below,
 in the middle or above the last character, and more rarely the apoderma "_| ". Also, the sign
-
 of the large ‘hypodiastole’ resembles the ekphonetic signs of the apostrophos and hypokrisis”
 
 (pp. 222-223). We thank Fr Gabriel Mândrilă for the article by A. Zografou.
@@ -3380,7 +3300,6 @@ xcix For the lyric poet Bacchylides (ca. 520-450 BC), see Hornblower & Spawforth
 c See Litsas (2001, pp. 18-19).
 ci Korakidis (1984, photocopy 1). See also Figure 2.48.a-b of the present chapter.
 cii For more data concerning Biblical majuscule script, cf. Mioni (1998, pp. 67-72). Litsas (2001,
-
 pp. 14-23, 26-27, 30-31).
 
 ciii The copy was based on: Archbp. Damianos, Archim. Sophronios, Peltikoglou and Nikolopoulos (1998,
@@ -3435,11 +3354,9 @@ in griechischen Handschriften des 13. und 14. Jahrhunderts, Byzantinische Forsch
 manuscripts in minuscule “pear-shaped” script or with elements of “pear-shaped” script, cf. Litsas (2001, pp.
 
 98-101). For a brief description of this type of script and other specimens, see Mioni (1998, p. 91 and pls. XX-
-
 XXI).
 
 cxxviii Cf. Hunger (1995, p. 138, 178-179). Cormack (2000, pp. 204-207). Buchwald, Hohlweg, & Prinz (1982, pp. 525-
-
 528).
 
 cxxix Copy and caption based on: Litsas (2001, pp. 110-111. See also pp. 116-117).
@@ -3447,7 +3364,6 @@ cxxx Image from: <https://commons.wikimedia.org/wiki/File:Chora_Church_Constanti
 Description of the image from: Chatzidaki (1994, p. 185, fig. 175).
 cxxxi Hunger (1995, p. 139. See also plate 39 on p. 139 of the aforementioned book).
 cxxxii The photograph on the basis of which the forms of the letters were copied is found in: Litsas (2001, pp. 114-
-
 115).
 
 cxxxiii For the “father of printing” in Europe, as well as for data on the prehistory of printing in China
@@ -3466,7 +3382,6 @@ cxxxvii For the caption, cf. Mioni (1998, p. 169).
 cxxxviii Litsas (2001, pp. 128-129).
 cxxxix Cf. Alexandrescu (2005, p. 13).
 cxl A previous publication of the specific leaf, together with its description, is found in: Litsas (2001,
-
 pp. 128-129).
 
 cxli Litsas (2001, p. 130).
@@ -3482,9 +3397,7 @@ Those elements were selected which seemed useful for the study of sources of Byz
 data, the reader may additionally refer to Allen (1967, plates I-XI).
 cxlviii Cf. Papathanasiou (2013, p. 28, n. 25 and pp. 44-47, 91-126).
 cxlix Cf. Follieri (1969, pp. 7, 35). Bidez & Drachmann (1938, pp. 12-20). Jäger (1975, p. 56). Reynolds & Wilson (1992,
-
 p. 238). West (1973, pp. 80-82). Sarischouli (1995, 55-56). Langenscheidts Großes Schulwörterbuch Lateinisch-Deutsch
-
 (1991, pp. 1075, 1238, 338). Chatzigiakoumis (1980, p. 109).
 cl See also Roberts (1938, plate Ι). Mitsakis (1986, pp. 63-64).
 <http://www.oodegr.co/english/ekklisia/oldest_theotokos_prayer.htm> (17.4.2015).
@@ -3510,7 +3423,6 @@ clvii Cf. for other leaves of the same ms.: Mioni (1998, pl. XI) and Litsas (200
 calligrapher and tachygrapher Nicholas (792-868), saint and confessor during the period of Iconoclasm, who
 is celebrated on 4 February, cf. Tsolakidis (2001, pp. 136-137).
 clviii For the description of the ms. and further bibliography, as well as an additional facsimile, see Litsas (2001,
-
 pp. 64-65). Cf. also The Old Testament according to the Seventy (Septuaginta, 1935, vol. II, p. 163).
 
 clix For the decoration of post-Byzantine manuscripts, cf. Galavaris (2000, pp. 93-117).

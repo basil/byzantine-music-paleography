@@ -3294,14 +3294,12 @@ of the Byzantine period and include:
 -  musicological studies (Série Subsidia),
 
 -  transcriptions into staff notation (Série Transcripta, discontinued in 1958. They were based on
-
 the reading of medieval manuscripts solely on the basis of the manuscripts and Byzantine music-theoretical
 texts, without the contribution of the oral tradition),
 
 -  critical editions of texts with ekphonetic notation (Série Lectionaria),
 
 -  critical editions of music-theoretical texts (Corpus Scriptorum de Re Musica, from 1985
-
 onwards).
 A renewed view of Middle Byzantine notation from the Copenhagen School was offered by Christian Troelsgård (2011) in the Subsidia series of MMB.v
 Correspondingly, the Institute of Byzantine Musicology in Athens (year of foundation: 1970), directed by Gregorios Stathis, has contributed enormously to the study of Byzantine musical manuscripts. In this context special mention should be made of the analytical descriptive catalogues by the aforementioned scholar and his students (Achilleas Chaldaiakis, Emmanouil Giannopoulos, Dimitrios Balageorgos, Flora Kritikou), most valuable instrumenta studiorum, through which the “ocean of Byzantine music”vi begins to become accessible to researchers, and a thousand names of composers, with tens of thousands of musical compositions, are catalogued, and thus opened up again for study, chanting, and admiration.vii
@@ -3344,9 +3342,7 @@ Palaeography is a lifetime’s work for a scholar. For this reason, the aim of t
 -  Greek and international bibliography.
 
 of signs, glossaries, etc.,
-
 of scripts, types of musical codices,
-
 In addition, various openings are proposed, such as:
 
 -  Interartistic approaches,
@@ -3360,7 +3356,6 @@ In addition, various openings are proposed, such as:
 -  interdisciplinary approaches.
 
 - musicology,
-
 What is proposed is the study of Palaeography within its broader contexts -
 Contextualized palaeography.
 
@@ -3373,7 +3368,6 @@ Greek texts in majuscule and minuscule script,
 - will develop skills regarding the dating of Byzantine musical manuscripts,
 
 - will become familiar with the various kinds of Greek musical notation, from the Oxyrhynchus Papyrus
-
 no. 1786 (second half of the 3rd century) to the New Method, having at his disposal lists of signs, examples for study (with prompts and solutions), audio examples and chanting exercises, mnemonic cards, etc.,
 
 • will come into contact with topics concerning the didactics of the Palaeography of Byzantine
@@ -3484,7 +3478,6 @@ This handbook would not have been completed without the help of all the distingu
 contributed to the present effort with joy and persistence. Warm thanks are due to all the
 members of the Byzantine Music Palaeography Group of the Department of Music Studies of
 Aristotle University of Thessaloniki, our beloved students, with whom, from time to time,
-
 various lectures, masterclasses and other events were held, from which teaching material emerged and was
 selectively incorporated into the present edition. In particular, I would like to thank the doctoral candidate Mr. Dimos
 Papatzalakis, Protopsaltes of the Holy Church of Saint Nicholas in Kalamaria, Thessaloniki, the doctoral candidate Mr. Demosthenes
@@ -3494,9 +3487,7 @@ Chaleplidou, and Mr. Athanasios Axenopoulos, who took part in the heavy workload
 A thousand thanks also to Mr. Ioannis Liakos and the Thessalonian Hymnodists for their important
 contribution to the recordings of the present handbook. A great thank you to the sound engineers, Father
 Christos Kotios, Mr. Konstantinos Panousakis, Mr. Konstantinos Kontos, member of the Laboratory Teaching Staff of the Department of Music Studies of Aristotle University of Thessaloniki, and
-
 Mr. Dimitris Christodoulidis, for their great patience and wholehearted support during lengthy
-
 recording sessions. I also owe many thanks to Mr. Ioannis Vamvakas, for valuable advice and
 countless hours in front of the computers, entering the musical examples in Finale. I would also like to thank
 Mr. Panagiotis Vakalis for the gift of the program Byzantine Kalamos.
@@ -3538,7 +3529,6 @@ today. In Ioannis Foulias, Petros Vouvaris, Giorgos Kitsios and Kostas Chardas (
 Musicology. Present and future, Proceedings of an interdepartmental conference under the auspices of the Hellenic
 Musicological Society, Thessaloniki, 21-23 November 2014 (pp. 51-74). Thessaloniki: Hellenic
 Musicological Society: <http://musicology.mus.auth.gr/wp-content/uploads/2015/10/ConfProc2014.pdf>
-
 (30.1.2017).
 Alexandru, Maria. (2016). Palaeography of Byzantine Music: Aspects of History and Teaching. Part of the article:
 Academic Byzantine-Musicological Network. In Ioannis Fulias, Petros Vouvaris, Kostas Kardamis and
@@ -3564,9 +3554,7 @@ Hall of the Megaron of the Academy of Athens, 30 November 2007. Publications of 
 Balageorgos, Dimitrios and Kritikou, Flora. (2008). The manuscripts of Byzantine music, Sinai, Descriptive
 catalogue. Vol. I. Holy Synod of the Church of Greece, Foundation of Byzantine Musicology. Athens.
 Politis, Linos. (1991). Catalogue of manuscripts of the University of Thessaloniki. Edited and supplemented by
-
 P. Sotiroudis and A. Sakellaridou-Sotiroudis. Thessaloniki: Aristotle University of Thessaloniki,
-
 Central Library.
 Stathis, Gregorios. (1975). The manuscripts of Byzantine music, Mount Athos. Athens: Holy Synod of the Church of
 Greece - Foundation of Byzantine Musicology, vol. I.
@@ -3581,7 +3569,6 @@ Athens: Sakellariou.
 Adler, Guido. (1885). Umfang, Methode und Ziel der Musikwissenschaft. Vierteljahrsschrift für Musikwissenschaft, 1, 5-
 
 1. : <http://musicology.ff.cuni.cz/pdf/gabrielova/> Adler_UmfangMethodeUndZielDerMusikwissenschaft.pdf
-
 (7.6.2015).
 
 Fleischer, Oskar. (1904). Die spätgriechische Tonschrift. Berlin: Georg Reimer.

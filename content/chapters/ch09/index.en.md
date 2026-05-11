@@ -15,7 +15,6 @@ theory of medieval psalmody.
 
 Prerequisite knowledge
 Knowledge of the
-
 New Method is required, as well as the study of chapters 7-8.
 
 ## 1. Didactic approaches in the New and the Old System
@@ -43,7 +42,6 @@ to the Theoretical and Practical Aspects of Ecclesiastical
 
 The same music theorist informs us that, according to the Old System, the didactic procedure
 was more complex and included three steps: parallage, metrophony, and melos (see Figure
-
 9.3.).
 
 ![Description](image_10512.jpeg)
@@ -341,14 +339,12 @@ autograph of Kosmas Makedonos (Stathis).vii
 In didactic poems, the concept of metrophonia is combined with two types of exercises:
 
 A. Troparia (usually stichera) that were fashioned into exercises in metrophonia + parallage (παραλλαγή), through
-
 the resolution of all leaps into stepwise movements (metrophonia) and the addition of modal signatures
 beneath each ascending or descending voice (parallage). Some of the best-known didactic poems
 of this category are Choros tetradekapyrseutos and Theologe parthene, which will
 be presented in greater detail below.
 
 B. Exercises in a single mode or in the oktoechos, with ascending and descending movements within intervallic frameworks of one,
-
 two, three, four, seven, ten, and eleven voices. Exercises of this kind may be brief or
 very long, the best known being the famous method of Gregory Bounes Alyates Ne houtos oun
 anebaine, in plagal fourth mode.
@@ -374,7 +370,6 @@ Source for the image: <https://upload.wikimedia.org/wikipedia/el/2/22/40_Μάρ�
 
 Figure 9.12. “The principal metrophony of the parallag(e):- mode 1: A choir lit by fourteen torches” and other
 methods from the Protheoria of the Papadike in MS NLG 2401, fol. 20v, prob. 1452-1469 (Politis & Politi, 1991, p. 314-
-
 336). © National Library of Greece.
 
 A comparison between the sticheron and the exercise in metrophony and parallage could
@@ -387,7 +382,6 @@ Hear them by clicking
 Figure 9.13. The first verse (cola 1-2) of the old sticheron “A choir lit by fourteen torches,” in mode 1:
 
 a. Neumes from Iviron 952, fol. 112 (?), with a transcription rendering a rhythmic interpretation of Middle Byzantine
-
 notation, according to the research of Ioannis Arvanitis (2003, 2010). b. Exercise in metrophony and
 parallage from MS NLG 2401, fol. 20v, with transnotation. c. Restoration of the parallage, according to
 the parallage exercise from codex NLG 2406, fol. 15v, and transnotation.viii
@@ -416,7 +410,6 @@ Figure 9.15):
 Figure 9.15. The first word of the old sticheron “A choir lit by fourteen torches,” in a comparison of sources:
 
 1. Hymnographic text. 2. Neumes from MS Iviron 952, fol. 112; and transnotation. 3. Exercise in
-
 metrophony and parallage from codex NLG 2401, fol. 20v. 4. Restoration of the parallage based on MS
 NLG 2406, fol. 15v, and transnotation. 5. Slow exegesis by Chourmouzios, from: MPT 709, fol. 104r, with
 schematic transcription. 6. Reductive analysis of the exegesis (primary time-units, structural pitches and melodic
@@ -672,7 +665,6 @@ Figure 9.26. Kanonion of metrophony in the Anonymous author of MS NLG 968, fol. 
 1. © National Library of Greece.
 
 As is evident in the above kanonion and the explanatory words that follow it,xxv the
-
 anonymous teacher, who probably used the psaltery (kanonaki) as an auxiliary teaching
 instrument, places the musico-poetic text “Our evening prayers” (first verse of the first
 Resurrectional sticheron of Saint John of Damascus in the setting by Chrysaphes the Younger, mode 1)
@@ -727,7 +719,6 @@ practice concerning metrophonia:
 
 Figures 9.28.a.-c. Parallage, metrophonia, and melos: The example of the sticheron “Our evening prayers” in the Anonymous author of MS EBE 968 and in Chrysanthos:
 comparison of sources.xxvii Listen to excerpts 1, 3, 4, 5, 6, by pressing     
-
 a
 
 ![Description](image_10707.jpeg)
@@ -770,7 +761,6 @@ between the initial ison, the metrophonia, the parallage, and the melos of the i
 Figure 9.30. “Give me a piece, and I will show you how it is born from an ison” (Chr. Samaras).xxix Schematic depiction of the musical example in Figure 9.29:
 
 1. The initial, generative ison-drone. 2. The metrophonia of the old intonation formula of the first mode, with stepwise movements only. The green ison below indicates the base of the plagal
-
 first mode. 3. In purple, the movement of the parallage, and in light blue, the movement of the melos.xxx
 
 ![Description](image_10714.jpeg)
@@ -835,11 +825,9 @@ In conclusion, we can say that metrophonia in the Old System constituted a highl
 concept, with various semantic layers:
 
  In lists of neumes it appears as an indication of the number of voices (intervals of a second) contained in
-
 each vocal sign (ἔμφωνο σημάδι) separately, and in combinations of vocal signs with one another,
 
  in didactic poems it is presented exclusively with stepwise movements and in combination with
-
 parallage (παραλλαγή), or with a great variety of theseis (formulaic positions) within intervallic frameworks of one up to as many as eleven voices,
 having both stepwise movements and leaps, and bearing underlaid text that is either hymnographic or
 music-theoretical,
@@ -889,7 +877,6 @@ Study the example “It Was Deep Dawn,” from Figure 9.25.
 
 Study the music-theoretical example “Our Evening Prayers” by
 Anonymous from MS EBE 968 and the corresponding one by Chrysanthos, from Figures
-
 9.3. and 9.26-28.
 
 ### Assessment criterion 7
@@ -899,7 +886,6 @@ Learn by heart the intonation formula (απήχημα) of the first mode, togeth
 ## Bibliography for Chapter 9
 
 Facsimile editions of musical and
-
 other manuscripts. Printed musical collections
 
 Alygizakis, A. (ed., 1999). Anastasimatarion of the psaltic tradition of the fifteenth century. Psaltika
@@ -926,7 +912,6 @@ Hatzigiakoumis, Manolis. (1980). Manuscripts of Ecclesiastical Music 1453-1820. 
 of Modern Hellenism. Athens: National Bank of Greece Cultural Foundation.
 
 Theoretical treatises and
-
 studies on theoretical treatises
 
 Hagiopolites. Ed. J. Raasted, The Hagiopolites, A Byzantine Treatise on Musical Theory. Preliminary Edition.
@@ -944,7 +929,6 @@ National Music.
 Manuel Chrysaphes. On the matters considered in the art of chanting and on those about which some hold wrong opinions. Ed.
 
 D. Conomos, The Treatise of Manuel Chrysaphes, The Lampadarios: On the Theory of the Art of Chanting and on
-
 Certain Erroneous Views That Some Hold About it. Monumenta Musicae Byzantinae, Corpus Scriptorum de Re
 Musica, II. Wien: Verlag der Österreichischen Akademie der Wissenschaften, 1985.
 Mavroeides, Marios. (1999). The musical modes in the Eastern Mediterranean. The Byzantine echos, the Arabic maqam, the
@@ -1013,7 +997,6 @@ Alexandru, Maria, & Tsougras, Costas. (2008). On the Methodology of Structural A
 Western Music - A Comparison. In Ε. Cambouropoulos, R. Parncutt, M. Solomos, D. Stefanou, C. Tsougras
 (eds.), CIM08, 4th Conference on Interdisciplinary Musicology, Musical Structure, Thessaloniki, 3-6 July 2008,
 Proceedings. Department of Music Studies, Aristotle University of Thessaloniki, 2008. <http://web.auth.gr/cim08>
-
 (pp. 1-19).
 
 Danuser, Hermann. (1998). Vortrag. In Ludwig Finscher (ed.), Die Musik in Geschichte und Gegenwart, Allgemeine
@@ -1039,7 +1022,6 @@ Raasted, Jørgen. (1986). Chromaticism in medieval and post-medieval Byzantine C
 problem. Cahiers du Moyen-Âge Grec et Latin, 53, 15-36.
 Raasted, Jørgen. (1995). Koukouzeles' Revision of the Sticherarion and Sinai Gr. 1230. In J. Szendrei, & D. Hiley
 (eds.), Laborare fratres in unum. Festschrift László Dobszay zum 60. Geburtstag, Spolia Berolinensia 7 (pp. 261-
-
 277). Hildesheim.
 
 Stathes, Gr. Th. (1982). "Difficult theseis" and "Exegesis". Jahrbuch der Österreichischen Byzantinistik, 32/7, 49-61.
@@ -1096,7 +1078,6 @@ ix The division into rhythmic feet is based on: Karas (1982, vol. I, pp. 142-153
 x The example comes from Alexandru & Tsougras (2008, p. 5, pl. 4).
 xi For the poetic text, cf. also Menaion for September (2002, p. 381.)
 xii For the photography we thank Mr. Demosthenes Spanoudakis. Regarding ms. EBE 884, cf. Karas (1992,
-
 p. 37 and pl. XVII). Raasted (1995).
 
 xiii The rendering of the basic rhythmic structure is in accordance with the findings of research by Ioannis Arvanitis, which
@@ -1125,7 +1106,6 @@ xxiv This important diagram has been published several times: see, e.g., Psachos
 
 xxv “This sticheron is chanted with eight metra; it has three strings ascending and four descending,
 and one keeps the main ison; and they make eight metra, correct; take care to understand and do not
-
 take the admonition lightly; because the ancient poet assumed that your teacher would teach them to you
 from the beginning as the craftsman that he is called; and for this reason he tells them to you briefly; for it is impossible
 for anyone to learn an art without a living voice, and only by means of writing;” EBE 968, f. 177r. There follows a

@@ -29,7 +29,6 @@ the present day are numbered, among others, the following manuscripts:
 - The Heirmologia (Ειρμολόγια):
 
 -  Lavra B 32, approximately from the middle of the 10th c. ("not earlier than 950": [Strunk, ed., 1966,
-
 Specimina, Pars Suppletoria, pp. 11-13: 13]/2nd half of the 10th c. [Floros, 1970, vol. I, p. 63]), with 312 folios,
 
 -  Petropolitanus graecus 557, late 10th c. (Floros, 1970, vol. I, p. 64), with 16 folios,
@@ -39,7 +38,6 @@ Specimina, Pars Suppletoria, pp. 11-13: 13]/2nd half of the 10th c. [Floros, 197
 -  Patmos 55, early 11th c. (Floros, 1970, vol. I, p. 64), with 198 folios,
 
 - the Sticherarion Rizov F 1650k/op4/3, in the Central State Archives in Sofia, late 10th c. (see
-
 Atanasov, 2012, p. 84).
 The dating of these manuscripts is a difficult undertaking, since they lack a bibliographical
 note and the Palaeo-Byzantine notations display many peculiarities, especially
@@ -47,7 +45,6 @@ in their early stages. According to O. Strunk, the earliest source is the Heirmo
 Petrop. gr. 557, which became known through a series of facsimiles in J.-B. Thibaut’s Monuments of Ekphonetic and
 Hagiopolite Notation of the Greek Church (1913, pp. 65-72 and pls. vi-xxiii). O.
 Strunk notes the following with regard to the aforementioned fragment: "Only a little later than the Codex
-
 liturgicusi and perhaps our earliest source with musical notation is the tenth-century Heirmologion fragment
 received from the Archimandrite Antonin (MS 557 [...]). Its priority is contested only by the Heirmologion
 Patmos 55, to which the character of its notation intimately relates it; both sources are clearly earlier than their
@@ -88,7 +85,6 @@ related musical traditions, has attracted the interest of various scholars from 
 to the present day. By way of indication, the following persons and works may be mentioned:
 
 • J.-B. Thibaut, with his work Monuments of the Ekphonetic and Hagiopolite Notation of the
-
 Greek Church (1913),
 
 - H.J.W. Tillyard, with various articles on the Palaeo-Byzantine neumes (e.g. 1937),
@@ -105,12 +101,10 @@ Science (1970), in which Palaeo-Byzantine, Old Slavonic, and medieval Latin
 notations are compared with one another,
 
 • the Proceedings of the three symposia devoted to the Palaeo-Byzantine notations, which
-
 had taken place at Castle Hernen in the Netherlands (Raasted & Troelsgård, eds., 1995.
 Troelsgård & Wolfram, eds., 1999. Wolfram, ed., 2004),
 
 • the Proceedings of the Byzantine musicological papers of the 22nd International Congress of
-
 Byzantine Studies in Sofia (Hannick, Troelsgård, Kujumdzieva & Harkov, eds., 2012).
 
 ### 1.2. Notational Systems, Chronological Frameworks, and Stages of Development of the Palaeo-Byzantine Notations
@@ -1388,7 +1382,6 @@ In Figures 6.3-17 there are various samples of the evolutionary stages of Old By
 notation. For more images with MSS in Old Byzantine notation, the reader may
 consult the facsimile editions in the series Monumenta Musicae Byzantinae, Facsimiles (vols. VII-X,
 edited by Strunk [1966], Raasted [1968], Strunk & Follieri [1975] and Wolfram [1987]), Floros (1970,
-
 vol. III) and Papathanasiou (2002, pls. 16-22), Strunk (1977c, on the famous eleventh-century Menaia from
 
 ![Description](image_7782.png)
@@ -1409,7 +1402,6 @@ vol. III) and Papathanasiou (2002, pls. 16-22), Strunk (1977c, on the famous ele
 ![Description](image_7797.png)
 
 1. S. Elia di Carbone: Grottaferrata MSS Δ.α.xiii-xvii and Biblioteca Vallicelliana in Rome, no. Ε.55 with
-
 archaic Old Byzantine notation), Fr. Thibaut (1913, pp. 73-83), Père Petresco (1932, plates I-XX,
 XXVI-XXVIII, with MSS from the libraries of Grottaferrata and Paris BnF), Atanasov (2012, on
 MSS from Ohrid, Sofia, etc.), Bucca (2011, with MSS from Southern Italy. See also her forthcoming article,
@@ -1535,11 +1527,9 @@ music-theoretical evidence from the same period (tenth-twelfth century). Fortuna
 Hagiopolite notation, theoretical evidence has survived that allows us today to
 identify many of the Old Byzantine signs, to trace the beginnings of the Byzantine oktoechos,
 and, more generally, to listen in on the first developments of music-theoretical reflection concerning the
-
 Psaltic Art. The two theoretical treatises are the following:
 
 • List of neumes in the Sticherarion Lavra Γ 67, fol. 159r, with the inscription: With God, the beginnings
-
 of the melodies (early eleventh century [Floros]): Athonite notation (Chartres III),xxiv
 
 • Hagiopolites (date of composition: twelfth century, with later revisions): Hagiopolite notation
@@ -1557,7 +1547,6 @@ among other things, at least 41 stichera by Emperor Leo VI the Wise (886–912, 
 well as several compositions (stichera and exaposteilaria) by his son, Constantine VII Porphyrogenitus
 
 (913–959), a fact that led K. Floros to call this particular manuscript a
-
 “royal codex.”xxvi
 
 ![Description](image_7815.jpeg)
@@ -1574,7 +1563,6 @@ oldest theoretical document of the Byzantine melodic notations (see Figure 6.19)
 Figure 6.19. The “melodemata” of Athonite Palaeo-Byzantine notation: the famous list from the Sticherarion
 
 Great Lavra Γ 67, fol. 159r (early 11th c. [Floros]).xxviii © for the microfilm photograph: Patriarchal Institute
-
 for Patristic Studies, Thessaloniki.
 
 ### 2.2. Hagiopolitan notation (Coislin)
@@ -1685,10 +1673,9 @@ Table 6.2):
 5. the katabasma
 
 6. the triploun, that is,
-
 the seismos
 
-1. the parakalesma
+7. the parakalesma
 
 ### C. Pneumata (Πνεύματα)
 
@@ -1699,11 +1686,9 @@ the seismos
 ### D. Melodies (melē)
 
 1. the
-
 psephistokatabasma (ψηφιστοκατάβασμα)
 
 1. the
-
 existreptokatabasma (ἐξιστρεπτοκατάβασμα)
 
 ![Description](image_7820.jpeg)
@@ -1740,11 +1725,9 @@ that is, from a palaeographical-nomenclatural-semantic point of view,xxxiii led 
 Floros to important conclusions regarding:
 
  the totality of the neumes used in Paleo-Byzantine musical manuscripts, their
-
 graphic forms, their various names, and their multifaceted musical roles; and
 
  the characteristic elements that mark the evolutionary course of Athonite and
-
 Hagiopolitan notation more generally.
 The same palaeographer states:
 
@@ -1770,13 +1753,11 @@ previous sections that the course of development of palaeo-Byzantine notation ca
 into various phases. This is done on the basis of the following criteria:
 
 • The number of syllables of the text that bear no neume above them
-
 (unneumed syllables),
 
 - the graphic shape of the signs,
 
 - specific changes in the number of signs and in the way some signs are written,
-
 that is, “notational-technical transformations,” such as a. the introduction of new signs, b. the clarification of the
 meaning of some signs by the addition of other phonetic signs (σημαδόφωνα), c. the more analytical recording
 of some stenographic signs (in Athonite notation).xxxvi
@@ -1805,7 +1786,6 @@ component signs written separately):
 ![Description](image_7822.jpeg)
 
  the dots are used both for the punctuation of the
-
 musico-poetic text and as signs
 of repetition of the same pitch (at the end of phrases).
 
@@ -1816,7 +1796,6 @@ Chartres notation already appear,
 
  very rare use
 both among the fundamental signs,
-
 of great signs.
 and among the very
 characteristic great
@@ -1905,7 +1884,6 @@ d. Signs for two or more pitches
 ![Description](image_7834.jpeg)
 
 1. Juxtapositions with the diple at the
-
 beginning (as a “head-neume”)
 
 ![Description](image_7835.jpeg)
@@ -1965,17 +1943,14 @@ A classic method for studying a troparion or hymn in Palaeo-Byzantine notation m
 following working steps:
 
 1. At a very initial stage and/or when the sources are not readily accessible, we can begin
-
 by making a copy of the piece from the manuscript or from a photograph of it: see Figure 6.21.
 
 1. Next, the musico-poetic text is transcribed, with the expansion of abbreviations and
-
 corrections of orthographic errors, and with division into musico-poetic units. This is followed by the identification of the
 signs, on the basis of the theoretical texts of Palaeo-Byzantine notation and the corresponding tables
 of signs: see Figure 6.22.
 
 1. At a more advanced stage, source collations may follow, that is, the comparison
-
 of several sources that contain the same piece (or its prosomoion),xxxix in various evolutionary phases of
 Palaeo-Byzantine notation and in Middle Byzantine notation, and possibly also in Palaeo-Slavic
 notations, etc.: see Figure 6.23.
@@ -1984,7 +1959,6 @@ notations, if they exist) and forwards, toward the exegeseis of the correspondin
 New Method (see chap. 11).
 
 1. In cases where a piece has survived only in Palaeo-Byzantine notation, the experienced
-
 palaeographer may propose a transcription in campo aperto (in an open field), orienting himself
 on the basis of the mode of the piece and its dominant pitches, its cadences and other positions
 (formulae), which are consistently combined with specific melodic degrees: see Figure 6.24.
@@ -2043,7 +2017,6 @@ III), on the basis of Figure 6.19 and its related file.
 
 Assessment criterion 2:
 Transcribe the Hagiopolite classification of signs from ms. St Petersburg 495,
-
 fol. 1v, on the basis of Figure 6.20 and its related file.
 
 Assessment criterion 3:
@@ -2295,7 +2268,6 @@ According to the same musicologist, MS Lavra Δ 28 is written in Coislin VI, wit
 Chartres IV, on folios 199v-201r: O guards of the Jews, Angels, leap for joy, Let all creation leap for joy, This
 great Pascha, The great Pascha of the glorious and divine Resurrection (Floros, 1970, vol. I, p. 330). For a
 modern setting of the sticheron Angels, leap for joy, cf. Papagiannis, Musical Pentekostarion (2005,
-
 pp. 577-578). We thank our colleague Mr Emmanouil Giannopoulos for drawing our attention to this setting.
 
 xvii Cf. Stathis (2015, pp. 401-403).
@@ -2309,9 +2281,7 @@ transcription from one notational system into another must have been much more d
 within a system, an operation which any intelligent scribe must have been able to perform in scribendo". For additions
 in the margins of Palaeobyzantine musical manuscripts and various ways of interpreting them, cf. Jung (1999).
 xix Cf. Sticherarium Ambrosianum A 139 sup., fol. 205r-v (Perria & Raasted, eds., 1992). See also Jung (1998, pp. 78-80,
-
 97-100, 175, 185, as well as examples 20-25, 28). According to A. Jung (ibid., p. 100), "the long melisms in
-
 the stichera of the standard abridged version are formulaic and very old. Their form and behavior follow the tradition of
 the sticheron genre, and a decisive influence from the psaltikon style has not been found, but an influence from a
 tendency towards more embellished melodies is felt from the 12th century. Hymns embellished with melisms are sung at
@@ -2329,7 +2299,6 @@ MS Grottaferrata E.α.11, fols. 22r-23v and 29v, of the year 1112, are recorded 
 notation (Coislin V), in a highly melismatic texture, which the aforementioned musicologist identifies as the “style
 of the Psaltikon” ("psaltischen Stils"). Specifically, the sticheron “Come, let us all bless Joseph the ever-memorable”
 appears in MS Grottaferrata E.α.11 in an even more melismatic form than the version found in
-
 the Sticherarion Petrop. gr. 789, fol. 258r. Oliver Strunk characterized the melismatic stichera of the codex of
 Grottaferrata as “kalophonic,” while Clara Adsuara proposes the term “proto-kalophonic” for the same pieces:
 see Adsuara (1999, pp. 47, 54, 56, 60). See also Troelsgård (1999, p. 172), where the sticheron “Angels,

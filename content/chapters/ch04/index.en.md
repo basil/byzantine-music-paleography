@@ -56,7 +56,6 @@ The notation that accompanies the readings of Holy Scripture and, more generally
 phenomenon of ekphonetic practice have aroused the interest of many scholars, such as, for example, the following:
 
  John Tzetzes, to whom, moreover, the adjective “ekphonetic” is owed as a qualifier of this
-
 particular musical script,iii
 
  the Danish musicologist Carsten Høeg, author of the foundational monograph entitled “Ekphonetic
@@ -67,15 +66,12 @@ Copenhagen,iv
 -  Father Grigore Panţiru, who dealt specifically with the famous Iași Gospel 160/IV-34,v
 
 -  the researchers Sysse Gudrun Engberg and Sandra Martani, who published a great number of
-
 specialized articles concerning the palaeography of ekphonetic music,
 
  Antonios Alyyizakis, who offered an informative “map” of present-day ekphonetic
-
 practice, also proposing new approaches to its recording and theorizationvi, among others.
 In the following sections we shall deal briefly with matters of definition, origin,
 dating, sources, methodology, and periodization of ekphonetic notation, so that we may later
-
 proceed to the lists of ekphonetic neumes, to the individual characteristics of the various
 systems of ekphonetic script, to the question of critical editions of texts with ekphonetic
 notation and of the various attempts at transcribing it, as well as to the significance of present-day
@@ -170,7 +166,6 @@ studies by the same scholar show (see Figure 4.5).
 
 Figure 4.5. Codex Ephraemi rescriptus (National Library of France, Parisinus gr. 9, or otherwise Codex C or 04),
 palimpsest MS, with lower script of the 5th c. (majuscule), containing Holy Scripture, and upper script
-
 of the 13th century (minuscule), with works of Saint Ephraim the Syrian in Greek. The ekphonetic neumatic signs that
 exist in various pericopes of the New Testament in the manuscript in question are later additions (probably
 of the 10th or 11th century, in the early classical system of ekphonetic notation, since the signs appear in
@@ -213,11 +208,9 @@ Regarding the origin of Byzantine ekphonetic practice, various scholars consider
 the following are possible sources:
 
 α. On the one hand, the traditions of ancient Greek rhetoric, epic, and theatre, with which
-
 both the ekphonetic and the reading tradition in Byzantium are related.xxvi
 
 β. On the other hand, the reading of Old Testament texts by the Jews of the Diaspora,
-
 during the Hellenistic period, on the basis of the Septuagint Translation.xxvii
 From the creative combination of these elements, it appears that Byzantine cantillated
 recitation was born.
@@ -310,7 +303,6 @@ In the upper part of the folio there are encomiastic verses for Saint Luke the E
 by the principal scribe of the manuscript, while in the lower part is the list of ekphonetic notation.
 
 -  Can you identify the two kinds of script present in Figure 4.6, on the basis of your knowledge
-
 from chapter 2 (majuscule script).xxxii
 
 The principal scribe of the manuscript noted his name and rank on fol. 1v: the presbyter
@@ -322,13 +314,11 @@ Figure 4.7. Sinai gr. 213 (Gospel book), fol. 340v, with the colophon of the man
 Sinai.
 
  Can you find the date on which the presbyter Eustathios completed his laborious
-
 work, by reading the colophon and carrying out the corresponding arithmetical calculations (see chapter 3).
 The date that you find constitutes the terminus post quem for the writing of the list of ekphonetic
 signs.xxxiv
 
  You can also read the ekphonetic list in Figure 4.6 and observe the pairs
-
 of signs per colon. A diplomatic transcription of the list (to which the expansion
 of the abbreviations has, however, also been added) is provided for comparison in Figure 4.8.
 
@@ -392,11 +382,8 @@ Two heterogeneous pairs, ending with the
 shape of the cross. It should be noted:
 
 ● colon 4: besides the initial syrmatike there is
-
 also a medial one, in a rather extended colon,
-
 ● colon 5: the parakletike, which in the list of the
-
 MS Sinai 213 stood alone, is here
 completed by the teleia. Possibly the
 pairs that close with the sign of the teleia (cola
@@ -469,7 +456,6 @@ notation: the Hagiopolitan (the so-called «Coislin»: e.g. the hooked ison at t
 formula «parakletike» in the fourth line) and the Athonite (known as «Chartres» notation:
 
 e.g. the special episema oligon: a small o, like a dot, and above it a stylized l, as a small
-
 curved line, e.g. at the beginning of the thesis «apeso exo», in the second line, above the first oxeia).
 Because, however, Old Byzantine notation is adiastematic, we cannot
 decipher with certainty the basic intervallic relationships of each formula. Nevertheless,
@@ -959,9 +945,7 @@ prosodic signxlii)
 hypokrisis ek dyo from “kath’ hypokrisin”: a mode
 of reading texts, alongside “kata
 prosodian” and “kata diastolen”,
-
 according to which the
-
 hypokrisis ek
 trion
 
@@ -1020,7 +1004,6 @@ apeso exo
 kentemata
 
 From the
-
 apostrophos apostrophos category
 “affections” of the
 prosodic
@@ -1041,13 +1024,11 @@ double bareia
 apostrophoi
 
 petaste /
-
 petasma
 
 apeso exo
 
 saxismata /
-
 kentema and two
 
 kentemata
@@ -3241,7 +3222,6 @@ case is discussed in the next section.
 ![Description](image_6451.jpeg)
 
 1. A case study: the use of ecphonetic neumes in the Vienna Gospel,
-
 suppl. gr. 128: an intermediate evolutionary stage or a local tradition?
 
 The Gospel Vindobonense suppl. gr. 128 dates to the beginning of the 12th century and appears to have been written
@@ -3413,9 +3393,7 @@ In general, the undertaking of a critical edition of a text rests on the collect
 manuscripts, the determination of their mutual relationships, and their selection and grouping through the
 creation of a special diagram, the so-called stemma codicum. The editor’s basic tool
 is the collation of sources (comparative study of the manuscripts), and the selection of the best codex
-
 (the oldest/the most complete/by a reliable copyist) as the guide (Lat. dux) for the reconstruction of the
-
 original form of the particular text. This procedure (known as emendatio in Latin, from the
 verb emendo = I remove errors, I perfect), requires deep study and complex processes of judgment
 on the part of the editor (corrections, supplements, etc.).lvi The collation of sources also permits the
@@ -3452,7 +3430,6 @@ in parentheses with other details of the manuscript:
 150 (London, Br. M. Harl. 5598, Gospel Book in majuscule script, year 995),
 159 (Jerusalem, Meg. Pan. 1, Gospel Book, year 1061),
 402 (Gospel Book of the year 1089),
-
 408 (Gospel Book, 12th c.),lix
 409 (Athens, EBE 187, Gospel Book, 11th c., with neumes difficult to read),
 434 (Athens, EBE 68, Gospel Book, 12th c.),
@@ -3486,7 +3463,6 @@ add a few clarifications in blue.
 Clarifications:
 
 A. For the first critical apparatus, which concerns the text: in colon 5, the ms. with code 434 (i.e. EBE 68),
-
 omitted the word ἐκεῖνος (om.: abbreviation for omisit, in Latin). In col. 8, the ms. with code 807 (Patmos 70)
 has the word ὅτι, instead of ὅτε, which is attested in the remaining manuscripts.lxii
 
@@ -3514,7 +3490,6 @@ musico-rhetorical units: (colon 8a) when the Jews sent, with apeso exo (απέσ
 apostrophos (απόστροφος) pair.
 
  You may also read the rest of the pericope, trying to understand in detail the two
-
 critical apparatuses.
 
 ![Description](image_6466.jpeg)
@@ -3557,14 +3532,11 @@ ekphonetic notation.
 
 We saw in the preceding sections that, with the help of the Byzantine catalogues–didactic poems on ekphonetic notation, we can identify by name the various pairs of signs that occur in the Gospels, the Apostolos, and the Prophetologia, and observe the frequency of their occurrence, as well as their relationship to the biblical text.
 Long engagement with ekphonetic notation led S. Martani to propose a revision of the way in which palaeographers analyse ekphonetic notation. More specifically, she proposes distinguishing between structural and ornamental neumes ('structural' and 'ornamental' neumes). The first category includes signs that display a high degree of stability in the way they are used and provide the framework of the recitation, while the second category includes signs that alternate more frequently, perhaps depending on local traditions or on the level of festivity
-
 (e.g. the parakletike [παρακλητική]).lxvi
 Constantine Psachoslxvii relates Byzantine emmelic recitation (εμμελής απαγγελία) to the manner of movement of the
-
 so-called middle voice, of which Aristides Quintilianus (probably late 3rd–early 4th c.
 
 AD) speaks, noting that it was in use for the recitation of poems and combined elements from the manner of
-
 movement both of the spoken voice and of the melodic voice:
 «As for voice (movement: Winnington-Ingram), one kind is by nature simple, and another not simple;
 and of the latter one is continuous, another intervallic, and another middle.
@@ -3604,7 +3576,6 @@ Figure 4.13. A transcription by C. Høeg for the first verses of Genesis (1:1–
 Source: Carsten Høeg. (1935). La notation ekphonétique. MMB, Subsidia I, fasc. 2. Copenhague: Levin & Munksgaard, pp. 1–34. © Monumenta Musicae Byzantinae, Copenhagen.
 
 According to C. Høeg, the above, “approximate” and “experimental transcription” offers “one, and not the only, possibility of adapting” the formulas of the didactic ekphonetic pericope of MS Sinai 8 (see Figure 4.11) to this particular text of Genesis.lxxi Today this transcription has chiefly historical value, since it reveals the initial steps in the effort to transcribe ekphonetic
-
 notation on the part of Western researchers.lxxii In addition, Høeg was also interested in the living practice of recitation in Greece. He published two transcriptions into staff notation of emmelic recitations by Metropolitan Irenaios of Samos and expressed the wish that “one day, a Greek priest will reveal to us the secrets of this tradition.”lxxiii
 Another approach is evident in E. Wellesz’s descriptions of the ekphonetic signs, which focus more on the probable effect of the individual signs and less on the formulas that would correspond to the pairs of ekphonetic signs (e.g. kremaste [κρεμαστή] = “rise of the voice with slight emphasis,” kathiste [καθιστή] = “narrative style,” synemba [συνέμβα] = “a kind of legato, which joins two words in a single breath”).lxxiv
 Continuing the effort to investigate ekphonetic notation, Fr. Grigore Panțiru proposed a different transcription of it, based on the view that the signs indicate definite intervals, always in relation to the base of the recitation, symbolized by the kathiste and the teleia (τελεία), which he equates with the pitch Ni (C′), in a modal environment similar to today’s plagal fourth mode. In other words, he considers that each pair of ekphonetic signs must begin on a specific pitch, which is determined in relation to the base of the recitation. More specifically:
@@ -3616,7 +3587,6 @@ the apeso exo (απέσω έξω) as an ascent from the pitch below the base to 
 the hypokrisis ek trion (υπόκρισις εκ τριών) as a descending triphonia (Di),
 the double oxeia (διπλή οξεία) as an ascent by one step with emphasis or more slowly (Pa), and, correspondingly, the double bareia (διπλή βαρεία) as a descent by one step with emphasis and lengthening (on the notes Zo, Ke, or Di, depending on what precedes).lxxv
 In his transcription effort, Fr. Panțiru made use of the experience of the oral tradition of emmelic recitation as it was known to him in Romania during the last century. He stressed that “without the contribution of tradition, the signs remain enigmatic. The essential identity between emmelic recitation (he means that of the Byzantine period) and the traditional one reveals to us the mystery of the meaning of these enigmatic signs.”lxxvi An example of his transcription appears in Figure
-
 4.14.
 
 ![Description](image_6474.png)
@@ -3663,7 +3633,6 @@ Alygizakis.lxxxiii
 ![Description](image_6486.jpeg)
 
 Figure 4.16. Simon Karas identifies the mode in which traditional emmelic recitation (εμμελής απαγγελία) is performed as
-
 a third tetraphonic enharmonic mode. He considers that the chroa (χρόα) of the enharmonic genus is of a single form and that the various other
 instantiations of the pitches Ke-Zo' which appear in ekphonetic practice (ἐκφωνητική πράξη) in the various rotational
 movements (see the notes in red in the staff transcription), constitute attractions (ἔλξεις) of the two
@@ -3694,7 +3663,6 @@ and Practice of the Psaltic Art, Proceedings of the First Panhellenic Conference
 November 2000. Athens, plates 14-15. By kind permission of the Institute of Byzantine Musicology.
 
  You can attempt to recite the above pericope by following the signs
-
 of the New Method. Afterwards you can make a transcription onto the staff by printing the template
 that is available beside it  . When your transcription is ready, compare it with the one found here .
 By listening to the corresponding recording  you can observe the close relationship between speech and
@@ -3899,7 +3867,6 @@ de textes grecs et latins (edition nouvelle A. Delatte/A. Severyns). Bruxelles -
 Internationale.
 Borghi, Renato, & Zappalà, Pietro. (Eds., 1995). L'edizione critica tra testo musicale e testo letterario. Università degli
 Studi di Pavia, Scuola di Paleografia e Filologia Musicale - Cremona. Atti del Convegno Internazionale (Cremona
-
 4-8 ottobre 1992). Studi e Testi Musicali, Nuova Serie 3. Lucca: Libreria Musicale Italiana.
 
 D' Agostino, Marco e Martani, Sandra. (2005). Iași 160 (IV-34) e Vat. gr. 351: Due lezionari evangelici gemelli in
@@ -3911,7 +3878,6 @@ and Christian Troelsgård (eds.), Palaeobyzantine Notations. A Reconsideration o
 Hernen: A.A. Bredius Foundation.
 Engberg, Sysse Gudrun. (2006). The Prophetologion and the triple-lection-theory - the genesis of a liturgical book. In
 Monumenta Musicae Byzantinae, 75th Anniversary, The current state of Byzantine Musical Studies after 75 years
-
 of Monumenta Musicae Byzantinae, Acts of the International Conference held at Carlsberg Academy,
 Copenhagen, 16-17 June, 2006, Bollettino della Badia Greca di Grottaferrata, terza serie, vol. 3, 67-92.
 Floros, Constantin. (1970). Universale Neumenkunde. 3 vols. Kassel: Bärenreiter Antiquariat, Kassel-Wilhelmshöhe.
@@ -4091,7 +4057,6 @@ xxxvi Photograph from: Høeg (1935, pl. I [excerpt]). The indication of the colo
 according to Høeg (1935, p. 18). In pl. I of the same work, however, folio 318r is mentioned.
 xxxvii For other transcriptions and comments, cf. Høeg (1935, pp. 18-20). Handout by S. Engberg at the Conference
 Palaeobyzantine Notations II, Congress Held at Hernen Castle (The Netherlands) in October 1996, p. 7. Martani (2003a,
-
 pp. 25-30, 35).
 
 xxxviii Photograph from: Rev. Konstantinos Terzopoulos, "Byzantine chant: history-forms-function-influence", presentation poster
@@ -4108,7 +4073,6 @@ to the acute had already been lost (by the end of the 3rd cent. AD at the latest
 xliii With regard to the spelling of the name of this sign of ekphonetic notation, opinions diverge:
 
 a. parakletike, from the verb parakalō, or b. paraklitike, from the verb paraklinō. The first version is
-
 documented by almost all the Byzantine lists of ekphonetic signs and is defended by scholars such as I.
 Tzetzes, C. Floros, and others. The second form occurs in the list of ekphonetic signs in the MS Leimonos 38, and
 is used in publications by J.B. Thibaut, C. Høeg, S. Engberg, S. Martani, and others. Cf., indicatively, Floros
@@ -4120,9 +4084,7 @@ xlv For the grammatical form of the name “synemba”, as an aorist imperative 
 “synemba” is given in: Psachos (1978, pp. 28-29) and Floros (1998, p. 118).
 xlvi Høeg (1935, p. 37).
 xlvii The present table draws its data from: Floros (1998, p. 118 and pp. 115-116). Engberg (1995, pp. 40-41, 43-44,
-
 48). Høeg (1935, especially 36-42, 111, 125). Gospel Iași, Biblioteca Centrală a Universității Ms. 160/IV-34, fols. 4v-
-
 11v, in: Panțiru (1971, pp. 161-164). The verbal differentiation of the hypokrisis (in groups of two or three) was taken from: Martani
 (2000, p. 188, pl. 3). Alexandru (2000, vol. III, pp. 3-6).
 xlviii "In the 12th century the Ekphonetic notation was supposed to have reached its highest level of development in the so-
@@ -4162,7 +4124,6 @@ lxvi Martani (2003a, p. 27).
 lxvii 1978, p. 20 with n. 20.
 
 Aristides Quintilianus, De Musica (ed. Winnington-Ingram, 1963), Book I, chap. IV, p. 5, line 24–p. 6, line 7
-
 lxviii
 
 One translation of this passage might be as follows: “The voice can be either simple or not simple;
@@ -4208,9 +4169,7 @@ lxx Cf. bibliographical references in: Martani (2003a, p. 26, n. 66).
 lxxi The methodology followed by Høeg was the following:
 
 a. The approximate transcription of the didactic passage from the Sinai MS, on the basis of the Palaeo-Byzantine
-
 notation that clarifies the individual pairs of ekphonetic signs (see Figure 4.11),
-
 b. the attempt to adapt these formulae to the data of the pericope from Genesis.
 
 These transcriptions are conventionally made in the F clef. Only one line is used, above
@@ -4236,16 +4195,13 @@ kathistē: do′–do′, kathistē–oxeia: do′–re′, etc.): ibid., pp. 12
 lxxvii Cf., for example, a relationship to be investigated among the following three elements:
 
 1. the manner of reading excerpts of a text “by hypokrisis” (the reader is called upon “to reproduce
-
 in the reading shades of voice, thereby indicating feelings and characterizations of actions
 and persons.” A familiar form of hypokrisis is the question (Zographou, 2010, pp. 220–221, but also 222–224),
 
 1. the sign “ ) ” (like an apostrophe), which may be used in liturgical texts to indicate a
-
 question, and
 
 1. the pairs “hypokrisis of two” (ὑπόκρισις ἐκ δύο) and “hypokrisis of three” (ὑπόκρισις ἐκ τριῶν) of ekphonetic notation, which consist of
-
 two or three apostrophoi, respectively.
 lxxviii Cf. Alygizakis (2001, p. 139). Cf. also the statement by Metropolitan John Zizioulas of Pergamon
 on this subject (ibid., p. 91, n. 93). The Metropolitan contrasts intoned recitation, with a
@@ -4267,7 +4223,6 @@ is used when the intoned recitation revolves around the pitch Zo′, whereas the
 motion Ni′–Zo′–Ke and, conversely, Ke–Zo′–Ni′.
 lxxxiv See Karas (1982, vol. II, pp. 148–152). The kanontion is found on p. 150.
 lxxxv This statement comes from an interview given by Mr Ioannis Chasanidis, Protopsaltes of the
-
 Holy Monastery of Saint Theodora, Thessaloniki, to the doctoral candidate Adrian Sîrbu, in 2013.
 
 The Protopsaltes of Tinos, Mr Dimitrios Nerantzis, associated intoned recitation with the ancient Greek enharmonic

@@ -9,7 +9,6 @@ This chapter outlines the development of the notation of Greek music from the th
 ## Prerequisite knowledge
 
 The study of
-
 chapters 1-4 is required.
 
 ## 1. Prolegomena
@@ -59,7 +58,6 @@ Image source: <http://163.1.169.40/gsdl/collect/POxy/index/assoc/HASH011f/50b846
 work with the kind permission/by Courtesy of the Egypt Exploration Society and Imaging Papyri Project, Oxford.
 For a guided tour through the space and time of the excavations at Oxyrhynchus, cf. <http://www.papyrology.ox.ac.uk/POxy/VExhibition/exhib_welcome.html> (11.9.2016).
 Cf. also: Adam, Sotiria. (2012). The Oxyrhynchus Papyrus. The End of One Era and the Beginning of Another: <https://www.youtube.com/watch?v=X6cTHpXj-KU>
-
 (11.9.2016). A recent monograph on this hymn was provided by Cosgrove (2011).
 
 ## 3. Early Christian hymns on papyri and ostraca, with elements of primordial notation systems
@@ -179,7 +177,6 @@ reading of their notation. The basic principles of the proposed reading are as f
 - Where there is no musical sign, the base of the mode is rendered,
 
 - the number of acutes indicates the number of voices (intervals of a second) in ascent, always in relation to the
-
 base of the mode, and not measured from the preceding note.
 Table 5.1 records the signs that appear in the five Coptic manuscripts.
 
@@ -223,7 +220,6 @@ Table 5.1. The signs of the notation of Hermoupolis and their possible intervall
 base and not to the preceding note, according to I. Papathanasiou and N. Boukas.xiii
 
 As an example for the study of this notation, the ms P. Rylands Copt. 25r was selected, with
-
 the first musical record of the hymn Ἐπὶ σοὶ χαίρει, Κεχαριτωμένη (Figure 5.5).xiv The hymn
 is attributed to Saint John of Damascus (ca. 675-ca. 753/4).xv
 
@@ -262,7 +258,6 @@ tracing the beginnings of Byzantine notation: see Figure 5.7.
 
 Figure 5.7. The palimpsest codex of the Firestone Library, Princeton, Garrett Collection, no. 24, fol. 68v. The ms
 contains, as undertexts, fragments of various texts in Greek and a few leaves in Syriac. Among the
-
 Greek texts in the undertext, the fragments from an old Jerusalem Heirmologion stand out, in a
 pointed oblique majuscule script with elements of minuscule scriptxviii (fols. 63-70). These leaves were probably
 written in the broader zone of “Syria/Palestine/Egypt” and may be dated to the period between
@@ -276,7 +271,6 @@ Raasted, Jørgen. (1992). The Princeton Heirmologion Palimpsest. Cahiers de l'In
 fig. 2. The present caption is based on the aforementioned article.
 
 On folio 68v of the Garrett 24 Palimpsest (Figure 5.7), J. Raasted (1992, pp. 226-228) identified in the
-
 lines 1-2 the heirmos Προβλεπτικῶς ὁ προφήτης, by Cyprian, and in lines 3-7 the heirmos Ὑμνῶ
 σε, by Saint Kosmas the Melodist, both in the second mode.
 As can be seen in the image above, in the 5th line of fol. 68v the word ΔΙΟ (= for this
@@ -305,13 +299,11 @@ Melkite liturgical manuscripts.”xx
 The same scholar hypothesizes that the roles of Theta Notation were:
 
  indicative, i.e. to serve as a guide for the hymnographers of kanons, who would write
-
 prosomoia on the models of the heirmoi,
 
 -  mnemonic, to remind chanters of the points where there is a melisma,
 
 -  normative, allowing also a control of the performance by the person responsible for the chanting
-
 (the hegoumenos or another cleric).xxi
 In some cases, apart from Θ, other symbols also appear, such as circumflexes and
 double or triple vertical strokes (British Library, Additional MS 24.378: Raasted, 1995, pp. 58-59).
@@ -401,7 +393,6 @@ Athens. Photograph source: Papathanasiou, Ioannis. (2003). Liturgical parchment 
 archive of Dimitrios Chr. Kapadochos. In Efstathios Makris (ed.), The two aspects of the Greek musical heritage.
 Tribute to the memory of Spyridon Peristeris. Proceedings of the Musicological Meeting, 10-11 November 2000, Athens Concert
 Hall, Academy of Athens, Publications of the Centre for Research in Greek Folklore no. 18 (pp. 81-
-
 102). Athens, p. 94, pl. A2.
 
 ![Description](image_6528.jpeg)
@@ -457,7 +448,6 @@ As we saw in the preceding figures, the codex preserves a primitive musical scri
 study of the entire codex reveals that the musical script appears with two levels of density:
 
  A simpler and sparser form, which to a large extent could be identified with what we saw
-
 in the preceding section as Cypro-Palestinian notation, since it operates chiefly with the acute,
 grave, and circumflex, which are placed in various combinations above some words of the
 readings (Apostolos and Gospel readings: see Figures 5.16-18), and
@@ -525,7 +515,6 @@ Tropologion, 9th-10th c.: the end of the sticheron “Πάντα σου
 Figure 5.21. Sinai, New Finds MG 37, fragment of a
 θαυμαστά,” in the first mode.
 Copy from: Archbishop Damianos, Archim. Sophronios, Peltikoglou and
-
 Nikolopoulos, 1998, photo 66.
 
 On the basis of the above Sinaitic manuscripts L and MG 37, one may hypothesize that during the
@@ -542,7 +531,6 @@ i.e.:
 1. simpler, with words bearing double or triple accentuation, with the use of the acute, grave, and circumflex,
 
 2. more complex, where double acutes, double graves, and sometimes triple acutes and others are also added. The root of the double and triple accentuations of words with the prosodic signs acute, grave, and
-
 circumflex may probably be sought in the prehistory of the polytonic system.
 According to the famous classical philologist Eduard Schwyzer (1990, vol. I, pp. 374-375), before the
 establishment of the Byzantine system of polytonic accentuation known to this day, which is used
@@ -561,15 +549,12 @@ The examples are from: Schwyzer (1990, vol. I, pp. 374-375).xxxii
 Future studies will be able:
 
  to continue the identification of palaeographic
-
 details for the individual primitive musical notations,
 
  to investigate the possible relationships between the primitive
-
 musical scripts and the Alexandrian prosodic system,
 
  to trace the points of contact with the principal written tradition of
-
 Byzantine music - both with ekphonetic notation and with Old Byzantine.
 It seems that from Sinaitic notation there is a direct line of development toward the archaic
 Old Byzantine notation of the Hagiopolite family, which will be discussed more extensively in the next chapter.
@@ -664,7 +649,6 @@ Papathanasiou, Ioannis. (2003). Liturgical parchment fragments from the private 
 Kapadochos. In Efstathios Makris (ed.), The Two Aspects of the Greek Musical Heritage. Tribute
 in memory of Spyridon Peristeris. Proceedings of the Musicological Meeting, 10-11 November 2000, Athens
 Concert Hall, Academy of Athens, Publications of the Centre for Research in Greek Folklore no. 18
-
 (pp. 81-102). Athens.
 
 Papathanasiou, Ioannis and Boukas, Nikolaos. (2001). The hymn “Ἐπὶ σοὶ χαίρει Κεχαριτωμένη” in the Byzantine
@@ -808,7 +792,6 @@ information on ancient Greek music and its notation, cf., indicatively, the foll
 Michailidis (1999, pp. 242-244). Pöhlmann & West (2001). Pöhlmann & Spiliopoulou (2007). Alypius, Introduction to
 Music (1995). Themelis (2009). West (1999). Goulaki-Voutyra (general supervision, 2012, pp. 13-106, 173-197). See also
 the articles by the scholars Ch. Spyridis, St. Psaroudakis and A. Konstantinidis in Balageorgos & Anastasiou (eds.,
-
 2010, pp. 83-126). Aspiotis (1997).
 vi We thank Professor E. Pöhlmann for this clarification. Cf. also some performances of the hymn, such as:
 
@@ -817,7 +800,6 @@ vi We thank Professor E. Pöhlmann for this clarification. Cf. also some perform
 - Atrium Musicae de Madrid (Paniagua, 2000), with Erasmian pronunciation of the text),
 
 - Ensemble Kérylos (Bélis, 2016. With isokratema and with an interpretation of the dot above the syllables as an appoggiatura
-
 [usually the dot in this position is interpreted as an indication of a syllable in arsis]). We thank Ms Anne Weddigen
 for information concerning the 2016 recording.
 vii For an introduction to ancient Greek music, cf. Giannou, Voutyra and Themelis (1998, pp. 19-82).
@@ -878,7 +860,6 @@ of its recitation we also saw in a patristic text from an unpublished Athonite m
 
 We thank Mr St. Alexandrou for access to the photograph.
 xxxi Cf. the list of melodies from the manuscript Lavra Γ 67, fol. 159r: chap. 6,
-
 section 2.1.
 
 xxxii In Schwyzer (vol. I, p. 374), all the examples that we have taken for Figure 5.20 are in minuscule

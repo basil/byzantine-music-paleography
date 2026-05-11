@@ -143,9 +143,7 @@ Museum, Λονδίνο.xvii
 
 Άλλες σημαντικές γραφές της Αρχαιότητας είναι η γραφή η οποία αναπτύχθηκε στην Κοιλάδα του
 Ινδού (περ. 2500 π.Χ.), οι παλαιότερες αιγαιακές γραφές (Γραμμική Α, 18ος αι. π.Χ., Γραμμική Β, περ. 1450
-
 π.Χ.), τα χιττιτικά ιερογλυφικά (περ. 1450 π.Χ.), οι κινέζικοι χαρακτήρες (περ. 1200 π.Χ.), η φοινικική γραφή
-
 (περ. 1000 π.Χ.), το ελληνικό αλφάβητο (8ος αι. π.Χ.), το ετρουσκικό αλφάβητο (περ. 700 π.Χ.) κ.ά.xviii
 Η συγκριτική μελέτη γραφικών συστημάτων οδήγησε στη διαπίστωση ότι υπάρχουν τουλάχιστον
 τρεις ανεξάρτητες απαρχές συστημάτων γραφής στον αρχαίο κόσμο, βάσει των οποίων δημιουργήθηκαν
@@ -215,7 +213,6 @@ Daniels:
 και μεγαλύτερο, δεδομένου ότι οι αρχαιότερες γραφές του Αιγαίου, οι οποίες χρονολογούνται από τον 18ο αι.
 
 π.Χ., ακόμα δεν αποκρυπτογραφήθηκαν. Η παλαιότερη ελληνική και ταυτόχρονα και η αρχαιότερη
-
 ευρωπαϊκή γραφή που μπορεί σήμερα να διαβαστεί είναι η λεγόμενη Γραμμική Β, η οποία αποτελεί σύστημα
 συλλαβογραφικού τύπου και χρονολογείται ανάμεσα στα 1550-1200 π.Χ. (βλ. Πίνακα 1.2 και Χάρτη 1.2).
 
@@ -272,7 +269,6 @@ Daniels:
 ![Description](image_2426.jpeg)
 
 Χάρτης 1.3. Μερικές περιοχές διάδοσης των αρχαϊκών μορφών της ελληνικής αλφαβήτου και η Μίλητος, το γραφικό
-
 σύστημα της οποίας έγινε η κλασική ελλληνική αλφάβητος στα τέλη του 5ου αιώνα π.Χ. © Google earth.
 Πηγές: Google earth & μέρη σημειωμένα από το Δημοσθένη Σπανουδάκη.
 
@@ -380,9 +376,7 @@ Cahiers d'une exposition, 37. Paris: Bibliothèque nationale de France, σ. 5, �
 γραφικών συστημάτων της Ανατολής, όπως π.χ. της Οθωμανικής μουσικής, της Ινδίας, της Κίνας, Ιαπωνίας,
 Κορέας, του Τιβέθ ή της Ινδονησίας, αλλά και ειδικών μουσικών γραφών (π.χ. της σημειογραφίας για τους
 τυφλούς), εμπίπτει σε διάφορους τομείς της Μουσικολογίας (Ιστορικής Μουσικολογίας, Εθνομουσικολογίας
-
 κ.ά.) από τη μια μεριά,xlii από την άλλη στην επιστήμη της Σημειολογίας, η οποία εξετάζει «τους τρόπους
-
 παραγωγής, λειτουργίας και προσλήψεως των διαφόρων σημειακών συστημάτων, που επιτρέπουν την
 επικοινωνία ανάμεσα σε άτομα ή/και σε ομάδες.»xliii
 Οι περισσότερες μουσικές γραφές μεταβάλλουν τη μουσική ως τέχνη που ρέει μέσα στο χρόνο, σε
@@ -456,9 +450,7 @@ Cahiers d'une exposition, 37. Paris: Bibliothèque nationale de France, σ. 5, �
 ### 7.1. Αριθμός μουσικών χειρογράφων και περιγραφικοί κατάλογοι (Ι)
 
 Ο αριθμός των διασωθέντων χειρογράφων βυζαντινής μουσικής υπολογίζεται σήμερα ανάμεσα στα 7300 και
-
 10.000.liv Από αυτά, περίπου τα 1200-1500 προέρχονται από τα χρόνια της Βυζαντινής Αυτοκρατορίας, και
-
 πιο συγκεκριμένα από το 10ο αι. μέχρι την Άλωση, ενώ τα υπόλοιπα είναι μεταβυζαντινά (1453-19ος αι.).
 Μεγάλος αριθμός χειρογράφων είναι του 18ου-19ου αιώνα. Στην αρίθμηση των βυζαντινών μουσικών
 χειρογράφων προστίθενται επιπλέον και εκατοντάδες χειρόγραφα με εκφωνητική σημειογραφία, τα οποία
@@ -539,12 +531,10 @@ Cahiers d'une exposition, 37. Paris: Bibliothèque nationale de France, σ. 5, �
 της εκάστοτε εποχής.xci
 
 • Η παλαιότερη χρονολογημένη Παπαδική: ΕΒΕ 2458, έτ. 1336, συλλογή που ανάγεται στον Άγ. Ιωάννη τον Κουκουζέλη, όπως
-
 δηλώνεται στο φ. 11α: Ἀκολουθίαι συντεθειμέναι παρὰ τοῦ μαΐστορος κυροῦ Ἰωάννου τοῦ Κουκουζέλη, ἀπ' ἀρχῆς τοῦ
 μεγάλου ἑσπερινοῦ μέχρι καὶ τῆς σημπληρώσεως τῆς θείας Λειτουργίας.
 
 • Η καινούργια συλλογή προέκυψε από την ένωση στρωμάτων ρεπερτορίου του Ψαλτικού και Ασματικού, με την συμπλήρωση άλλων
-
 παλαιών μελών που καταγράφηκαν για πρώτη φορά από την προφορική παράδοση κατά την υστεροβυζαντινή εποχή, και με την
 προσθήκη νέου ρεπερτορίου της Καλοφωνίας.
 
@@ -561,7 +551,6 @@ Cahiers d'une exposition, 37. Paris: Bibliothèque nationale de France, σ. 5, �
 εξηγήσεις για τη Νέα Παπαδική. Τα χφα αυτά ανάγονται στο β΄ τέταρτο του 19ου αι.xciv
 
 • Βραχύτερες μορφές Παπαδικής είναι οι κώδικες που ονομάζονται Ἀνθολογία (περιέχουν κυρίως τα εξής: συνοπτική Προθεωρία,
-
 μέλη Εσπερινού, Όρθρου και Θείας Λειτουργίας). Ανθολογίες μικρού μεγέθους ονομάζονται Ἀνθολογία Ἐγκόλπιος ή
 Ἐγκόλπιον.xcv
 
@@ -741,7 +730,6 @@ earth. Για την επισήμανση των χαρτών και τη δημ
 ## Βιβλιογραφία για το κεφάλαιο 1
 
 Έντυπες μουσικές συλλογές και
-
 πανομοιότυπες εκδόσεις μουσικών χειρογράφων
 
 Ἀναστασιματάριον τῆς ψαλτικῆς παραδόσεως τοῦ ιε΄ αἰῶνος. (1999). Επιμ. Αντώνιος Αλυγιζάκης. Ψαλτικά
@@ -890,7 +878,6 @@ Wolfram (σ. 205-218). Wien: Praesens.
 Ομάδα Παλαιογραφίας Βυζαντινής Μουσικής από το Τ.Μ.Σ. του Α.Π.Θ. (2017, υπό έκδοση). Παλαιογραφία Βυζαντινής
 Μουσικής: ένα ταξίδι στο χρόνο και το χώρο. Εισήγηση στο 8ο Διατμηματικό Μουσικολογικό Συνέδριο υπό την
 Αιγίδα της Ελληνικής Μουσικολογικής Εταιρείας, με τίτλο «Επιδράσεις και αλληλεπιδράσεις». Αθήνα,
-
 27.11.2016. Υπό δημοσίευση στο site: <http://musicology.mus.auth.gr/?page_id=16>
 
 Παπαθανασίου, Ιωάννης. (2002). Εγχειρίδιο Μουσικής Παλαιογραφίας. Πρώτη Ενότητα. Δυτικές νευματικές
@@ -899,7 +886,6 @@ Wolfram (σ. 205-218). Wien: Praesens.
 Καπαδόχου. Σε Ευστάθιος Μακρής (επιμ.), Οι δύο όψεις της ελληνικής μουσικής κληρονομιάς. Αφιέρωμα εις
 μνήμην Σπυρίδωνος Περιστέρη. Πρακτικά της Μουσικολογικής Συνάξεως, 10-11 Νοεμβρίου 2000, Μέγαρο
 Μουσικής Αθηνών, Ακαδημία Αθηνών, Δημοσιεύματα του Κέντρου Ερεύνης της Ελληνικής Λαογραφίας αρ. 18
-
 (σ. 81-102). Αθήνα.
 
 Ρόμπινσον, Άντριου. (2007). Ιστορία της γραφής, μετφρ. Ζωή Κ. Μπέλλα, επιμ. Δημήτρης Αρμάος. Αθήνα: Polaris.
@@ -954,7 +940,6 @@ Editura Arhiepiscopiei Dunării de Jos.
 Beck, Hans-Georg. (2000). Ἡ βυζαντινὴ χιλιετία. Μετφρ. Δημοσθένης Κούρτοβικ (γ΄ έκδ.). Αθήνα: Μορφωτικό
 Ίδρυμα Εθνικής Τραπέζης.
 Bennett, Emmett L. (1996). Aegean Scripts. Σε P.T. Daniels και W. Bright (επιμ.), The World's Writing Systems (σ. 125-
-
 133). New York, Oxford: Oxford University Press.
 
 Berger, Ruth. (2014). Computerlinguistik. Wie kamen die indogermanischen Sprachen nach Europa?. Σε Schrift und
@@ -967,7 +952,6 @@ Systems (σ. 3-17). New York, Oxford: Oxford University Press.
 Daniels, Peter T. (1996b). Εισαγωγικό κείμενο στο κεφάλαιο "Ancient Near Eastern Writing Systems". Σε P.T. Daniels
 και W. Bright (επιμ.), The World's Writing Systems (σ. 19-20). New York, Oxford: Oxford University Press.
 Daniels, Peter T. (1996c). Methods of Decipherment. Σε P.T. Daniels και W. Bright (επιμ.), The World's Writing Systems
-
 (σ. 141-159). New York, Oxford: Oxford University Press.
 
 Daniels, Peter T., and Bright, William. (Επιμ., 1996). The World's Writing Systems. New York, Oxford: Oxford
@@ -982,7 +966,6 @@ Evans, Arthur J. (1952). Scripta minoa: the written documents of minoan Crete wi
 Knossos. Vol. 2, The archives of Knossos: clay tablets inscribed in linear script B. Oxford: Clarendon Press.
 <http://digi.ub.uni-heidelberg.de/diglit/evans1952/0003> (8.8.2017).
 Floros, Constantin. (1965 και 1967). Die Entzifferung der Kondakarien-Notation. Musik des Ostens, 3, 7-71, και 4, 12-
-
 1.
 
 Floros, Constantin. (1970). Universale Neumenkunde. 3 τ. Kassel: Bärenreiter Antiquariat, Kassel-Wilhelmshöhe.
@@ -995,7 +978,6 @@ Förstel, Christian. (2001). Trésors de Byzance. Manuscrits grecs de la Bibliot
 nationale de France. Cahiers d'une exposition 37. Paris: Bibliothèque nationale de France.
 Friedrich, Michael, Isaacson, Harunaga, and Quenzer, Jörg B. (2014). Studies in Manuscript Cultures (SMC). Manuscript
 Cultures, 7, 143-144. <https://www.manuscript-cultures.uni-hamburg.de/MC/manuscript_cultures_no_7.pdf>
-
 (1.9.2016).
 
 Gadamer, Hans Georg. (1993). Unterwegs zur Schrift? Σε A. & J. Assmann και Chr. Hardmeier (επιμ.), Schrift und
@@ -1074,7 +1056,6 @@ Papathanasiou, Ioannis (2006). The Significance of Monumenta Musicae Byzantinae 
 Tradition. Σε Monumenta Musicae Byzantinae, 75th Anniversary, The current state of Byzantine Musical Studies
 after 75 years of Monumenta Musicae Byzantinae, Acts of the International Conference held at Carlsberg
 Academy, Copenhagen, 16-17 June, 2006, Bollettino della Badia Greca di Grottaferrata, terza serie, vol. 3, 129-
-
 1.
 
 Petresco, J.-D., Père. (1932). Les Idiomèles et le Canon de L'Office de Noël (d' après des manuscrits grecs des XIe, XIIe,
@@ -1084,7 +1065,6 @@ Raasted, Jørgen. (1969). Observations on the Manuscript Tradition of Byzantine 
 Numbers, Based on Eustratiades' Edition of the Heirmologion. Cahiers de l'Institut du Moyen-Âge Grec et Latin,
 1, 1-12.
 Raasted, Jørgen. (1992). The Princeton Heirmologion Palimpsest. Cahiers de l'Institut du Moyen-Âge Grec et Latin, 62,
-
 219-235.
 
 Raasted, Jørgen. (1995). Koukouzeles' Revision of the Sticherarion and Sinai gr. 1230. Σε Ι. Szendrei και D. Hiley,
@@ -1190,7 +1170,6 @@ iv Οι όροι παρασημαίνεσθαι και παρασημαντικ�
 v Βλ. παρακάτω, ενότητα 6.
 vi Πρβλ. Στάθης (1989a, σ. ζ'-ιγ΄, και 1985, σ. 1-23). Kalaitzidis (2012, σ. 15). Καραγκούνης (2014a, σ. 27). Η έκφραση
 "ωκεανός μουσικής" σχετικά με την Ψαλτική Τέχνη, προέρχεται από τον Γρηγόριο Στάθη (συζήτηση στην Κοπεγχάγη,
-
 16-17 Ιουνίου 2006).
 
 vii Etymologicum Magnum Lexicon, στήλες 167-170: βλ. και Liddell, Scott, Jones, and McKenzie (1990, σ. 64).
@@ -1225,7 +1204,6 @@ xv «H προϊστορία δεν είναι σαν ένα "πέπλο" ή μι
 αποσπάσματα λέξεων ή μουσικής που αναμειγνύονται μέσα από το καντράν, και φασαρία καλύπτει ακόμα και τους
 λίγους σταθμούς που ακούγονται κάπως πιο καθαρά. Με τις πρώτες ακτίνες του ηλίου, το στατικό χάνεται και
 εμφανίζονται σήματα. Τα πρώτα σήματα που βρίσκουμε όταν ανοίγουμε το ραδιόφωνο της ιστορίας περίπου στα 3200
-
 π.Χ., έρχονται από τη Μεσοποταμία, και σύντομα εμφανίζονται και εκείνα από την Αίγυπτο.» (Daniels, 1996b, σ. 19).
 
 <https://el.wikipedia.org/wiki/Εκπομπή_ΑΜ> (10.2.2016).
@@ -1236,7 +1214,6 @@ xviii Πρβλ. Ρόμπινσον (2007, σ. 14).
 xix "Earliest was probably the cuneiform writing devised for Sumerian (or even some other language, of which all trace
 has been lost), which seems to have been the inspiration for Egyptian Hieroglyphic (...). Egyptian hieroglyphic in turn
 probably inspired the Canaanite script, whose offshoots became the scripts of all of Europe and most of Asia. At the root
-
 of this tree is a system that recorded consonants only, one per character, what I call the Semitic abjad. Perhaps nearly
 simultaneously at the eastern and western extremes of the ancient Near East, this system was augmented with notations
 for vowels on quite different principles: In the Mediterranean, they came to be written with individual characters,
@@ -1261,7 +1238,6 @@ xxv Πρβλ. Berger (2014), και στο διαδίκτυο: <www.spektrum.de/
 <https://smerdaleos.files.wordpress.com/2014/08/horrocks-2.pdf> (3.2.2017). Πρβλ. επίσης τα διάφορα άρθρα σε Ἐρῶ, 21
 (2015).
 xxvi Ο παρών πίνακας στηρίζεται στην εξής βιβλιογραφία: Bennett (1996). Daniels (1996c). Ρόμπινσον (2007, σ. 14, 16,
-
 108-119, 149-150). Για περισσότερη βιβλιογραφία και σχετικούς ιστοτόπους, πρβλ.
 
 <http://lila.sns.it/mnamon/index.php?page=Risorse&id=20> (8.8.2016).
@@ -1270,7 +1246,6 @@ xxvii Βλ. Ρόμπινσον (2007, σ. 161, 166). Η πληροφορία ό�
 γνωστή ήδη στην Αρχαιότητα: "Herodotus (V,58) speaks of the Greek letters as φοινικήια γράμματα" (Swiggers, 1996,
 
 1. 261). "The Greeks believed their alphabet had been brought to them by a Phoenician named Cadmus" (Daniels, 1996α,
-
 σ. 5). Βλ. επίσης Hornblower & Spawforth (επιμ., 2003, σ. 267 και 66).
 
 xxviii Βλ. Swiggers (1996, σ. 261).
@@ -1328,7 +1303,6 @@ xlv O μουσικολόγος Leo Treitler επεξηγεί αυτούς του
 that represents by virtue of an habitual association between the sign and its referent (...). A sign functions in the iconic
 mode, when it represents by virtue of a resemblance that it bears to the thing represented (...). An index is a sign that
 represents by virtue of a sequential (and usually causal) link between the sign and what it signifies.": Doda (1995, σ. 63-
-
 64).
 
 xlvi Πρβλ. Troelsgård (2011, σ. 14-15). Για μια λεπτομερή διαστρωμάτωση της λειτουργίας και χρήσης της βυζαντινής
@@ -1429,13 +1403,10 @@ lxxi Βλ. Floros (1970, τ. I, 53-54, τ. III, πανομοιότυπα 1, 25-3
 Vindobonense). Perria & Raasted (eds. 1992, Sticherarium Ambrosianum). Raasted (1995). Καράς (1992, πίν. ΙΖ΄).
 lxxii Βλ. Στάθης (1975, σ. λα΄-λβ΄). Για τους δύο μελουργούς που αναφέρθηκαν και, γενικότερα, για την εποχή του νέου
 καλλωπισμού ή την Πρώτη Άνθηση μετά την Άλωση (1650-1720), βλ. Χατζηγιακουμής (1999, σ. 41-46). Για την
-
 σταδιακή αλλαγή του στιχηραρικού μέλους από το παλαιό στυλ προς το νέο καλλωπισμό, καθώς και για ένα σημαντικό
 παράδειγμα συνδυασμού παλαιογραφικής και μορφολογικής-αναλυτικής μελέτης, πρβλ. Makris (1996). Για την εξήγηση
 του Παλαιού Στιχηραρίου και εκείνων του Χρυσάφου του Νέου και του Γερμανού Νέων Πατρών, πρβλ. Στάθης (2001a,
-
 σ. 705-706) και του ιδίου (2016, τ. Β΄, σ. 193-405). Πρβλ. επίσης την υπό έκδοση διατριβή του Βασιλείου Σαλτερή, με
-
 τίτλο: Η παράδοση του μέλους του παλαιού Στιχηραρίου (Αθήνα: Τμήμα Μουσικών Σπουδών του Εθνικού και
 Καποδιστριακού Πανεπιστημίου Αθηνών, 2012): <www.music.uoa.gr/metaptyxiakes-spoudes/didaktorikes->
 diatribes/didaktores-toy-tmimatos.html (13.2.2017).
@@ -1462,9 +1433,7 @@ lxxxi Εδώ ο όρος ἀκολουθία προσδιορίζει μια «�
 lxxxii Στάθης (1975, σ. λδ΄).
 lxxxiii Πρβλ. Shkolnik (1998).
 lxxxiv Πρβλ. Floros (1970, τ. Ι, σ. 63-66 και τ. III, πανομοιότυπα 13-18). Père J.-D. Petresco (1932, πίνακες XXVI-
-
 XXVIII). Lorenzo Tardo (ed., 1951, Hirmologium Cryptense). Πρβλ. επίσης Raasted (1969). Papathanasiou (2006). Για
-
 τον Άγιο Ιωάννη τον Κουκουζέλη, βλ. Στάθης (1988, σ. 4-5). Καράς (1992, πίν. ΙΕ΄, ΙΣΤ΄, Κ΄, ΚΑ΄).
 lxxxv Χατζηγιακουμής (1999, σ. 33-34, 37).
 lxxxvi Το παλαιότερο χρονολογημένο χφο του Ειρμολογίου καταβασιών του Πέτρου είναι στη Ζάκυνθο, Συλλογή
@@ -1497,7 +1466,6 @@ xciv Πρβλ. τις αναλυτικές περιγραφές των κωδί�
 βιβλίου], 161-214). Του ιδίου (1975, σ. 106-117). Του ιδίου (2001, σ. 703-704).
 xcv Πρβλ. Στάθης (1975, σ. λζ΄-λη΄, μ΄).
 xcvi Στάθης (1992, σ. 122-125). Του ιδίου (1975, σ. λη΄). Κρητικού (2004). Μπαλαγεώργος & Κρητικού (2008, σ. 226-
-
 237).
 
 xcvii Βλ. Στάθης (2016, τ. Β΄, σ. 187-192).
@@ -1530,14 +1498,11 @@ cxiv Πρβλ. μια αναφορά στην ιστορία της έρευνα
 Αλεξάνδρου (2010, σ. 19-33). Για τη μέθοδο του αναδρομικού παραλληλισμού βλ. ό.π., σ. 25, 70.
 cxv Πρβλ. Στάθης (2001b). Μακρής (2011). Yasinovskyi (2011). Ignatenko (2016).
 cxvi Για τις δύο τελευταίες κατηγορίες πηγών, πρβλ. Μαλιάρας (2007). Γουλάκη-Βουτυρά (γενική ευθύνη, 2012, σ. 107-
-
 154).
 
 cxvii Καράς (1953, σ. 141). Πρβλ. και το φυλλάδιο του Συλλόγου προς Διάδοσιν της Εθνικής Μουσικής, Συναυλία προς
 τιμήν Σίμωνος Καρά, «Για ν΄αγαπήσουμε την Ελληνική Μουσική», 4.2.2001, Θέατρο Παλλάς, Αθήνα (ευχαριστούμε τον
-
 κ. Μ. Ζαϊτίδη), όπου το παραπάνω χωρίο είναι διευρυμένο ως εξής: «Μέθοδος εργασίας, ήτις ήθελε φέρει εις συμφωνίαν
-
 τα κείμενα των παλαιών κωδίκων, προς τα θεωρητικά συγγράμματα των βυζαντινών μουσικών και την ασματικήν
 παράδοσιν της Ορθοδόξου Ελληνικής Εκκλησίας - αλλά και προς τα άσματα και τα μουσικά όργανα του ελληνικού
 λαού - θα ηδύνατο ν' αξιώση γενικήν αναγνώρισιν ορθής και πιστής ερμηνείας και αποδόσεως, εις γραφήν σύγχρονον,

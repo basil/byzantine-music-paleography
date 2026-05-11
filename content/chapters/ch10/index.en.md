@@ -18,16 +18,11 @@ signs continues according to the tripartite scheme of form - name - musical mean
 instrumenta studiorum:
 
 a. A concise table of the graphic forms of the great signs, at all stages of Byzantine
-
 notation, from Old Byzantine notation to the New Method,
-
 b. a glossary of neume names, in which information from dictionaries concerning
-
 etymology is gathered, along with multiple interpretations from various theoretical writings of the Byzantine, post-Byzantine, and modern
 periods, and
-
 c. an alphabetical catalogue of theseis (musical formulae) in Middle Byzantine notation, which in
-
 the majority of cases are combined with great signs, taking as its central point of reference the didactic poem
 “Mega Ison” by Saint John Koukouzeles, both in its original notation, from the celebrated ms. NLG
 2458 of the year 1336, and from the slow exegesis by Chourmouzios Chartophylax.
@@ -77,7 +72,6 @@ as it were, so that he may not slip away from the high pitch, nor fall out of th
 rhythm, nor deviate from concord and miss the melodious.” (Heisenberg, 1908, pp. 20-21, section 9. See also Wellesz, 1962,
 
 1. 62-63, n. 3. Buchwald, Hohlweg & Prinz, 1982, 521-522. Floros, 1998,
-
 pp. 99-107).
 
 A first definition of Byzantine musical cheironomy is found in Pseudo-
@@ -120,11 +114,9 @@ when they move the hand—and some even their whole selves—so also psaltes wil
 when moving the hand.”x
 
 1. Deictic: Cheironomy is “that which distributes through the hand the proper positions to be made.”xi Nevertheless, it must be noted that
-
 cheironomy cannot show metrophonia (the quantity of intervals):
 “for since the apostrophos and the chamile are the same with regard to cheironomy,
 but differ with regard to the voices—for the apostrophos has one
-
 voice, whereas the chamile has four, while the three and the two descending voices
 also have the cheironomy of the apostrophos—the scribe, looking to the one cheironomizing,
 knows that he is indicating a descending voice or voices,
@@ -137,7 +129,6 @@ Figure 10.3. An illustration of the words of Gabriel Hieromonk (lines 706-712), 
 relationship between the bodies and the spirits: the former give their cheironomy also to the latter.
 
 1. Coordinating: “if there were no cheironomy, there would be a multiplicity of voices but not
-
 concord. For since we do not all sing different voices, but all the same ones,
 it would happen that one would anticipate and another would follow,
 and one would sing inside and another outside, if there were not something guiding all
@@ -146,7 +137,6 @@ we all sing in concord, and for this reason cheironomy is useful,
 or rather most useful and most precious to us, only with dignity.”xiii
 
 1. Determinative of musical orthography: “cheironomy distinguishes and examines these [i.e. the theseis],
-
 whether they are correct or not. For since there are six signs having one voice each,
 one would place them indiscriminately and not each in its proper place,
 if there were not cheironomy, which makes known to us the place of each.”xiv
@@ -168,7 +158,6 @@ great hypostaseis, are these, set down by cheironomy alone and not by voice, for
 they are aphonic.”xviii
 Gabriel Hieromonk also informs us about the general role of the MgS: as the prosodic
 elements in grammar, so too the MgS in the Psaltic Art serve for orientation within
-
 the musical text and for its shaping, indicating rhythm or tempo, dynamics, and other details
 of performance:
 “Since we need not only the twenty-four letters, but also require the ten prosodies
@@ -211,12 +200,10 @@ In the first half of the eighteenth century, Kyrillos Marmarinos reports that ch
 deprived of a theoretical basis and was performed only practically.xxiv With regard to the MgS he observes that
 “They too have their correct effect when they agree with the lines;
 since it is often possible to see a different line and different
-
 signs, either through incorrect copying or merely for the beauty of the line;
 therefore we can chant even without them, when the line of the composition is
 correct, as also in the old sticherarion, in which we chant even without the signs,
 though we find the line most difficult”:xxv see Table
-
 10.1.
 
 |In the old Sticherarion, the thesis is this. Here the black signs are in early, developed, and fully developed notation: In late Middle Byzantine notation, the special aphonic sign of the ouranisma is added in red: According to Marmarinos, sometimes the great sign does not correspond to the emphonic signs of the thesis. Here the thesis of the ouranisma appears with the aphonic sign of the choreuma: an error which will make it difficult for the psaltes to perform this thesis. The thesis of the choreuma is this. Here the black signs (Middle Byzantine notation) are in agreement with the red sign, and this helps the psaltes to identify the thesis quickly and to render its melody according to the oral tradition.|
@@ -358,7 +345,6 @@ Table 10.1. An explanation of the words of Kyrillos Marmarinos (Gerstman, ed., 1
 between the emphonic and the great signs of the theseis.xxvi
 
 Also, comparing the cheironomy of Byzantine and Ottoman music with each other,
-
 Marmarinos clarifies that “that cheironomy among us was a movement of the hands shaping the
 melody; but their (i.e. the Ottomans’) cheironomy is the rhythm and measure of the melodies.”xxvii
 Basileios Stephanides emphasizes in his theoretical treatise (year 1819) that cheironomy
@@ -2027,12 +2013,9 @@ musical iconography offers important information: see Figures 10.6-10.9.
 ![Description](image_12395.jpeg)
 
 Figures 10.6-7. Left: Mosaic icon of the Venerable Forerunner, from the Patriarchal Church of Saint George in
-
 the Phanar of Constantinople, around 1280, in a “classicizing tendency (...) of the first Palaiologan style,”
 probably originating from the church of the Holy Monastery of Pammakaristos in the Queen of Cities (Gkioles, 1994, pp. 257, 256,
-
 249). In his left hand, Saint John the Baptist holds a scroll in majuscule script, where the
-
 passage “Behold the Lamb of God who takes away the sin of the world” (John 1:29) can be seen, while with his right hand he makes a
 
 ![Description](image_12396.jpeg)
@@ -2109,7 +2092,6 @@ examples only follow, from the manuscript of the Holy Monastery of Konstamonitou
 Figure 10.11. List of great signs and theses from the theoretical treatise of Pseudo-Damascene II (Anonymous B), text of the first half of the 14th century (Wolfram/Hannick), in the manuscript
 
 Holy Monastery of Konstamonitou 86, fols. 7r-v (early 15th century: Stathis). The inscription of the list in the present manuscript is: “And these are the composite tones; they are also called
-
 links; composite; intertwined; figures; bodies; gatherings and powers; that is, the aphona signs; but also signs:-”xlviii
 
 - © Holy Monastery of Konstamonitou, Mount Athos. 527
@@ -2172,7 +2154,6 @@ tromikon
 Interpretation of Gabriel Hieromonk
 
 “The diple, then, is for no other reason than to indicate to the singer
-
 that he should double the time with which it was set, that is, by means of
 greater slowness.”
 “The kratema has the same power, for this too
@@ -2191,7 +2172,6 @@ voice more slowly, while the heteron more quickly.”
 “The kylisma, as it were, rolls and turns the voices.”
 
 “The antikenokylisma is composed of both the
-
 kylisma and the antikenoma.”
 “The tromikon: this too wishes to shape the voice as shaken and
 trembling.”
@@ -2251,7 +2231,6 @@ piasma
 seisma
 
 “The psephiston is etymologized from psephizein, ‘to count’ and
-
 ‘to number’; for we place it where the voices are
 separated and not spoken together, but as if
 measured.”
@@ -2277,7 +2256,6 @@ apothes. For it indicates that such a thesis is to be made.”
 xeron, ‘hard’; for where the xeron
 klasma is placed, one must break the voice roughly and harshly.”
 “The argosyntheton brings about great slowness,
-
 ll. 320-322
 
 ll. 323-324
@@ -2627,7 +2605,6 @@ of the structure of pieces at the microsyntactic level.lviii
 Scholars such as K. Psachos (1978, pl. 19: collation of the poem in late Middle Byzantine and
 exegetical script, with the exegesis in the New Method), O. Strunk (manuscript collations of old
 sources),lix G. Dévai (1955: edition), E. Tončeva (1974: comparative palaeographical study), C. Floros (1970,
-
 vol. III: use of theses for the study of Palaeo-Byzantine and Old Slavonic notation), Gr. Stathis
 
 (1997: commentary on the repertoire of theses in relation to the old Sticherarion), Chr. Troelsgård (1997: comparison
@@ -2655,7 +2632,6 @@ Figure 10.14.b. Continuation of the Mega Ison from the manuscript EBE 2458, fol.
 ![Description](image_12434.jpeg)
 
 Figure 10.14.c Continuation of the Mega Ison from the manuscript EBE
-
 fol. 4r. © National Library of Greece, Athens.
 
 2458,
@@ -2680,7 +2656,6 @@ reveals the successive levels of stenography of Middle Byzantine notation and it
 ever more analytical recording of the melos, through the process of slow exegesis. The art of
 exegesis also leads us toward the desideratum of the whole study, which is the MELOS, i.e. the sounding
 result of the corresponding Byzantine theses. A few examples follow in the next Figures
-
 10.15-10.17.
 
 ![Description](image_12436.jpeg)
@@ -2699,11 +2674,9 @@ Koukouzeles: sources in the New Method, for theses 1-2.
 Optionally, you may also try the following:
 
  Microsyntactic analysis: Fill in above the sign-groups of the Old Method, and perhaps also of the New Method, the names of the
-
 corresponding theses.
 
  Reductive analysis for the exegesis: Fill in the most important pitches (structural pitches) of the melodic flow on the second staff
-
 of Figure 10.15.b with unfilled diamond-shaped notes, and with black diamonds the ends of each melodic curve. The notes are joined by an oblique
 line when the motion between them proceeds step by step, without leaps. Also, structural pitches that are repeated several times in the same phrase
 can be joined with a broken legato. Above that staff you may also add the number of primary time units for each syllable,
@@ -2736,11 +2709,9 @@ Figure 10.16.b. Continuation of the collation of sources for the Mega Ison of St
 Optionally, you may also try the following:
 
  Microsyntactic analysis: Fill in above the sign-groups of the Old Method, and perhaps also of the New Method, the names of the
-
 corresponding theses.
 
  Reductive analysis for the exegesis: Fill in the most important pitches (structural pitches) of the melodic flow on the second staff
-
 of Figure 10.16.b with unfilled diamond-shaped notes, and with black diamonds the ends of each melodic curve. The notes are joined by an oblique
 line when the motion between them proceeds step by step, without leaps. Also, structural pitches that are repeated several times in the same phrase
 can be joined with a broken legato. Above the same staff you may fill in the number of primary time units for each syllable, and
@@ -2787,18 +2758,15 @@ diploparallage: see Figure 10.19.
 ![Description](image_12448.jpeg)
 
 Figure 10.19. The beginning of the thesis “kratema” from the Mega Ison of Saint John Koukouzeles: restoration
-
 of metrophonia, parallage and diploparallage, with the slow exegesis of Chourmouzios as the starting point of inquiry.
 
 From all the above we may conclude that the Mega Ison is an important aid
 for palaeographical study in general, since:
 
 • It constitutes a point of reference for becoming acquainted with the melodic formulae-theses in Middle Byzantine
-
 notation and
 
 • it makes possible multiple comparisons with the corresponding theses in practical sources of all the
-
 evolutionary phases of Byzantine notation, also highlighting the various degrees
 of stenography of the Old Method:
 
@@ -2819,7 +2787,6 @@ In the preceding sections we saw many details about various shapes and names of 
 signs and theses. If we wish to delve still more deeply into the issues of the great
 signs and theses, we shall be able to do so by following the method of combined study
 of the names of the signs, their graphic shapes and their musical meaning: see Figure
-
 1.
 
 Graphic
@@ -2839,7 +2806,6 @@ John Koukouzeles (EBE 2458, fol. 4v).
 For example, such a study of the epegermа
 
  would begin from the search for the etymology and meaning of the word epegermа and the
-
 comparison of theoretical texts,
 
 -  would proceed to the search for its graphic shapes on a diachronic basis,
@@ -2866,7 +2832,6 @@ the Exegertikon, at the Alleluia. Plagal fourth mode: Behold, the Bridegroom com
 - hypegerma, neut.: [hypegeirō: rouse gradually LSJ],
 
 - apothema, neut.: the act of putting down a burden being carried HistLex | thing stored away
-
 end, cessation of a song, refrain of a song HistLex.
 
  Possible correlations: - For epegerma: Grammar: [egeirō (the tone): Lat. accentu acuto signare Béc].
@@ -2877,7 +2842,6 @@ melos from equality.
 LSJSuppl96 | Cret.
 
 Rhetoric: [epegeirein, intendere, vehementius reddere Ernest ǁ diegeirein, excitare, commovere auditorem,
-
 quod fit verbis et sententiis splendidis et gravibus. DHLys 28. - diegeirein phrasin, attolere elocutionem, den Ausdruck heben, einen
 Schwung geben, wodurch er sich über den gewöhnlichen, alltäglichen Vortrag erhebt. DHPomp 3. p. 779: Ernest].
 Music: [according to changes in harmonia, the same magnitude, in the higher tonoi turns
@@ -2887,12 +2851,10 @@ among musicians they called one of the aulos nomoi hippothoros, a melody that, i
 aroused impulse in horses PluMoralia I 238, lines 12-14: Steph p. 138: TLG].
 
 - For apothema: Rhetoric and Metrics: [apothesis of a colon, of a period close or cadence of a phrase...; so in metres =
-
 catalexis LSJ | apothesis ap. Rhett. dicitur in pronuntiatione, cum vox, quae ἄρσει sublata fuerat, θέσει deponitur in fine membri.
 DemetrEloc 19: StephLondon | in Hesychius apothesis is apodosis, which likewise occurs in the period. ibid.].
 
  Theoretical material:  Attestations: Old Byzantine Chartres (apothema), (Coislin: only in musical mss), Middle Byzantine  table
-
 of signs and catalogue of formulae.
 
  Interpretations: - For epegerma: The epegerma comes upon it as if it were
@@ -2907,7 +2869,6 @@ parakalesma, choreuma, ouranisma, epegerma, inner and outer thematismos, and oth
 Chourmouzios had a special Notebook) PhiloxLex 72-73.
 
 - For apothema: [for the most part, however, the pleromata and the apotheseis of the second mode are rendered in
-
 plagal second mode cadences and endings HagiopolR § 48, 12-15 and p. 54].
 
  Exegesis: The third class of signs; each of these has four notes;
@@ -2920,9 +2881,7 @@ epegerma and the stauros in only one way... the epegerma (sc. makes the notes) t
 Apost. pp. 66-67: cf. also AnonXerop357 p. 69 | Of these (i.e. of the large signs) some
 had the power to extend the melodies into long lines, such as the Parakletike, the
 Synagma, the Ouranisma, the Epegerma, and certain others PhiloxTheor § 258 | and its operation
-
 (i.e. that of the epegerma) produces a melodic line that always ends in a harmonic position,
-
 of a definite and indefinite cadence, e.g. (Figure 10.21), and it is subject to the composition of a melodic
 formula of each Triphonia, in all the Species, and in all the Genera. PhiloxLex 84.
 
@@ -2980,7 +2939,6 @@ It also appears together with the omalon:
 1. of the present chapter).
 
 as a double epegerma (Const. 86, fol. 15v: see Figure
-
 This large sign falls into disuse in Middle Byzantine exegetical notation, as its melodic
 content is recorded more analytically with emphona signs and other large signs that
 are used for ornaments of smaller compass. The sign of the epegerma is definitively abolished
@@ -3021,7 +2979,6 @@ of names
 |---|---|---|---|---|---|---|
 
 1. Searching for the qualitative character of the great hypostases and other
-
 semadophona in Middle Byzantine notation
 
 As one carefully reads the explanations given by the various theorists for the names of signs and
@@ -3117,7 +3074,6 @@ Kyriakos Philoxenos, Chalk: Akakios Chalkeopoulos from his autograph, EBE 917.lx
 From the table above one sees that, according to the theorists, almost all the signs
 have a multifaceted musical meaning, which concerns more than one domain of musical shaping and
 performance. In order, however, to advance toward an understanding of the role of the signs within the repertoire of the
-
 Byzantine and post-Byzantine period, it is necessary to approach in greater analytical detail also the phenomenon
 of musical exegesis. This will be the subject of the next chapter.
 
@@ -3125,7 +3081,6 @@ Assessment criteria for Chapter 10
 
 Assessment criterion 1
 List of great signs and formulas from the theoretical text of Pseudo-
-
 Damascene II (Anonymous B)
 
 Assessment criterion 2
@@ -3288,7 +3243,6 @@ Science. Scientific Branches - Related Scientific Subjects - Interdisciplinary C
 Interdisciplinarity and Interaction, Proceedings of the 1st International Interdisciplinary Musicological Conference, 29 June
 
 - 3 July 2014, Volos (pp. 91-108). Volos: Volos Academy for Theological Studies, Department of Psaltic Art
-
 and Musicology, 2015. <http://speech.di.uoa.gr/IMC2014/pdffull/93-110.pdf>
 Buchwald, Wolfgang, Hohlweg, Armin and Prinz, Otto. (1982). Tusculum-Lexikon griechischer und lateinischer Autoren
 des Altertums und des Mittelalters (3rd ed.). München, Zürich: Artemis Verlag.
@@ -3302,10 +3256,9 @@ Kommission für Byzantinistik, Bd. V/1. Wien: Verlag der Österreichischen Akade
 %20Die_Byzantinischen_Mosaikikonen._I._Die_Grossformatigen_Ikonen.pdf (20.8.2016).
 Doneda, Annalisa. (1999). 'Hyperstases' in MS Kastoria 8 and the Kondakarion Notation. Relationships and
 Interchangeability. In Christian Troelsgård & Gerda Wolfram (eds.), Palaeobyzantine Notations II. Acta of the
-Congress Held at Hernen Castle (The Netherlands) in October 1996 (pp. 23-46). Hernen: A.A. Brediusstichting,
-1999.
-Floros, Constantin. (1965 and 1967). Die Entzifferung der Kondakarien-Notation. Musik des Ostens, 3, 7-71, and 4, 12-
+Congress Held at Hernen Castle (The Netherlands) in October 1996 (pp. 23-46). Hernen: A.A. Brediusstichting, 1999.
 
+Floros, Constantin. (1965 and 1967). Die Entzifferung der Kondakarien-Notation. Musik des Ostens, 3, 7-71, and 4, 12-
 1.
 
 Floros, Constantin. (1970). Universale Neumenkunde. 3 vols. Kassel: Bärenreiter Antiquariat, Kassel-Wilhelmshöhe.
@@ -3365,41 +3318,32 @@ viii Michael Blemydes, Beginning, with God, of the signs interpreted one by one 
 360, 373-384).
 ix Cf. also Moran (1986, pp. 76-79 and fig. 41).
 x Gabriel Hieromonk, On the signs in the psaltic art (ed. Hannick & Wolfram, CSRM, vol. I, 1985, lines 387-
-
 390).
 
 xi Gabriel Hieromonk, On the signs in the psaltic art (ed. Hannick & Wolfram, CSRM, vol. I, 1985, lines
-
 384-385).
 
 xii Gabriel Hieromonk, On the signs in the psaltic art (ed. Hannick & Wolfram, CSRM, vol. I, 1985, lines
-
 706-712).
 
 xiii Gabriel Hieromonk, On the signs in the psaltic art (ed. Hannick & Wolfram, CSRM, vol. I, 1985, lines
-
 391-399).
 
 xiv Gabriel Hieromonk, On the signs in the psaltic art (ed. Hannick & Wolfram, CSRM, vol. I, 1985, lines
-
 379-383).
 
 xv Gabriel Hieromonk, On the signs in the psaltic art (ed. Hannick & Wolfram, CSRM, vol. I, 1985, lines
-
 154-155).
 
 xvi Gabriel Hieromonk, On the signs in the psaltic art (ed. Hannick & Wolfram, CSRM, vol. I, 1985, lines
-
 156-158).
 
 xvii See the Protheoriai in the mss EBE 2600, Iviron 985, EBE 2444.
 xviii See the Protheoria in ms Koutloumousiou 449.
 xix Gabriel Hieromonk, On the signs in the psaltic art (ed. Hannick & Wolfram, CSRM, vol. I, 1985, lines
-
 241-250).
 
 xx Gabriel Hieromonk, On the signs in the psaltic art (ed. Hannick & Wolfram, CSRM, vol. I, 1985, lines
-
 251-258).
 
 xxi See Karas (1933, p. 26). Psachos (1978, pp. 53-54).
@@ -3457,13 +3401,10 @@ another photograph of the same manuscript, cf. Floros (1998, p. 300, fig. 4).
 xlvii Cf. the detailed description of this ms in: Stathis (1975, pp. 656-668).
 xlviii For the photograph from ms Konstamonitou 86 we thank Dr. Stephanos Alexandrou.
 Cf. a similar list in Pseudo-John Damascene, Erotapokriseis (ed. Wolfram & Hannick, CSRM, vol. 5,
-
 pp. 64-66). For the dating of Anonymous II, who is included within the compilation of theoretical texts of
-
 Pseudo-Damascene, cf. ibid., p. 20.
 xlix
 Gabriel Hieromonk, On the signs in the psaltic art (ed. Hannick & Wolfram, CSRM, vol. I, 1985, lines
-
 289-301).
 
 l According to Floros’s palaeographical research, however, the thema aploun arose from the union of the capital
@@ -3490,11 +3431,9 @@ contraction of apothema [epegerma] and lygisma, and the clarification that it ap
 notation and in Coislin). Cf. also Floros (1998, p. 128).
 lxiv The image is taken from: Alexandru (2000, vol. II, p. 45).
 lxv See Alexandru (2000, vol. II, p. 45). For the Mega Ison in the New Method, see Treasury of Anthology, vol. I.1. (repr. 1980,
-
 pp. 447-463).
 
 lxvi For this table and further explanations, cf. Alexandru (2000, vol. I, pp. 253-256, 275-286: 284-285). For
 further details regarding the abbreviations in Table 10.6, cf. the Indexes for the Glossary, the
 Catalogue of Theseis, and the Synoptic Table of Great Signs, after Appendix 1 of the present work, pp. x-
-
 xxviii.

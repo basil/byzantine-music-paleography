@@ -18,7 +18,6 @@ as well as issues of rendering them on the staff.
 
 Prerequisite knowledge
 The study of
-
 chapters 6-7 is required.
 
 ## 1. Prolegomena
@@ -50,7 +49,6 @@ Developing the theory of the New Method, Chrysanthos (1832) defines the mode, am
 § 301. The constituent elements of the modes are four: the Apechema, the Scale, the Dominant notes, and the Cadences. The identifying elements are two: the Apechema and the Cadences. For the mode is recognized immediately from the apechema, or from the cadence of some verse chanted beforehand.”
 
 From a contemporary perspective, the Byzantine oktoechos constitutes a distinct manifestation of the broader phenomenon of modality. As a transcultural category, mode - modus comprises “concepts and phenomena of various musical cultures and periods, such as, for example, the harmoniai, the tonoi or modes of the ancient Greek world, the Byzantine modes, the modes of the Western Middle Ages (maneriae/toni-modi), the modes of the polyphonic music of the Renaissance (modi), the maggiore-minore, the makams of the Muslim world, the rāga of India, the modes of folk musical cultures, and many others.”vii It may be approached both as a modal structure, on an abstract, theoretical level, on the basis of the arrangement of notes and their functional relationships, and on an applied level, as dynamic pitch material in
-
 flow, with specific melodic behaviours, which project the functionality of the notes in the course of each given melos.viii
 
 ### 1.2. Historical Evidence concerning the Byzantine Oktoechos
@@ -90,7 +88,6 @@ Alongside them another, anonymous theorist should also be mentioned, who is know
 Figures 8.5-7. Three great figures who are associated with the systematization of the oktoechos: Saint John of Damascus (ca. 675 - ca. 753/4), Saint John Koukouzeles (ca. 1270 - † before 1340), and Chrysanthos of Madytos (ca. 1770 - † 1843 ?).
 Sources: 8.5: Anastasimatarion (ed. Alygizakis, 1999, p. lxvi). 8.6: Papadike (Παπαδική) of the Holy Monastery of Great Lavra, ms no. Λ 165, 18th c.
 (Spyridon & Eustratiades, 1925, p. 292): <https://commons.wikimedia.org/wiki/File:Ioannis_Koukouzelis.jpg#/media/File:Ioannis_Koukouzelis.jpg>
-
 (11.6.2015). 8.7: Iconographic sketch by Georgios Tzimopoulos and Aikaterini Ioannidou, from Alexandrou (2016, p. 364).
 
 In more detail, the first systematization of the eight modes is associated with the name of Saint John of Damascus (ca. 675 - ca. 753/4), who is also known as “the first source of Greek music.”xv The great melodist reorganized the contents of the Tropologion (an old collection of hymnographic texts of the Church of Jerusalem: see ch. 5, section 9), supplementing it with resurrectional offices for the liturgical day of Sunday (Vespers, Saturday evening, and Orthros, Sunday morning) and introducing the classification of the offices according to the eight modes. The Damascene collection is known chiefly as The Oktoechos (sc. book): see Figure 8.8.xvi
@@ -104,7 +101,6 @@ slightly right-leaning script (cf. also Alygizakis, 1985, pl. 48). © Österreic
 ![Description](image_10081.jpeg)
 
 Figure 8.8.b. Title and first resurrectional Vespers sticheron (στιχηρό) by St John of Damascus in mode 1, from the
-
 Tropologion (Τροπολόγιο) Vindobonense theologicum graecum 146, fol. 24a.
 
 © Österreichische Nationalbibliothek, Wien.
@@ -116,7 +112,6 @@ transcription given below, Figure 8.8.c.
 ![Description](image_10082.jpeg)
 
 Tropologion, that is, Oktoechos, containing both
-
 the sticherokathismata (στιχηροκαθίσματα) of the eight modes; the Beatitudes; the eothina (ἑωθινά). and
 all the remaining office customarily chanted:-
 resurrectional stichera at “Lord, I have cried”; mode 1:-
@@ -200,7 +195,6 @@ presented in Figure 8.9.b?
 ![Description](image_10088.jpeg)
 
 For without this, the voice cannot be set aright; that is, the first-voiced ison; and each
-
 person needs to begin the first-voiced ison with great care; and with
 a bright voice; so that he may traverse the whole canon of the voice melodically and beautifully...
 
@@ -291,15 +285,12 @@ from the developed notation onward). The corresponding theoretical treatises som
 verbal clarifications. Echos 1st, for example, with the high base is considered echos first exo (outside) (or
 tetraphonic), while if it has a low base it is referred to as first echos eso (inside). According to the famous
 music theorist of the first half of the 15th c., Gabriel Hieromonachos, each echos “is not of a single kind
-
 but varied, and in each one different idioms are observed. For the first is at once
 called both tetraphonic and naos and mesos, and each of these produces a melos that is its own and appropriate to
 its name. The idea of the first becomes one thing, that of the second another, that of the third
 another, and that of the fourth another.” (Gabriel Hieromonachos, ed. Hannick & Wolfram, MMB CSRM I, lines 440-
-
 445).
 Through extensive palaeographical analyses, K. Floros traced, in the old Byzantine
-
 sticheraric and heirmologic repertoire, the function of the pitches in each echos. Table 8.2 contains
 the conclusions of his studies on this subject:
 
@@ -331,7 +322,6 @@ Measurements of microintervals and clear descriptions of scale genera (diatonic,
 enharmonic) in the theory of the Psaltic Art appear from the Reform of the Three Teachers (1814-
 
 1) onward. There are, nevertheless, very strong indications that the sound of the oktoechos in today’s
-
 practice of the Psaltic Art is based on a tradition of many centuries, and that this tradition is at once dynamic
 and stable, uniform in essence and diverse in its manifestations.
 The use of the staff for the transnotation of Middle Byzantine notation does not imply an
@@ -372,24 +362,20 @@ Sources: Alexandrescu (2004, p. 21). Giannou (1995, pp. 84-85, 82). Parisinus gr
 Among the related terms ēchēma and apēchēma, one may initially discern a subtle semantic differentiation:
 
 1. ēchēma = the melodic formula or phrase that gives the pitch and the characteristic sound of the mode
-
 (intonation formula),
 
 1. apēchēma = specifically the variable ending of the melodic formula ('sounding-off', 'tail'), which
-
 bridges the ēchēma with the beginning of the piece or phrase that is to be chanted (cf. Troelsgård, 2011, pp. 62-65, where reference is also made to the Latin system of differentiae in Western medieval chant, corresponding to the apechemata).
 It seems that in the post-Byzantine period the term apēchēma prevailed over the term ēchēma and was generalized so as to designate, as a whole, the preparation of the mode by means of a characteristic formula or phrase.
 It is in this more general sense that the term apēchēma will be used below.
 According to J. Raasted, author of the important monograph on the subject of apechemata and modal signatures entitled Intonation formulas and modal signatures in Byzantine musical manuscripts (1966,
-
 p. 160), the old apechemata could have various functions:
 
 1. Facilitating the beginning of the melos that was to be chanted,
-2. contributing to the embellishment of the performance and increasing the level of festivity,
-3. coordinating the act of performance,
-4. clarifying the musico-poetic structure of the piece.
+1. contributing to the embellishment of the performance and increasing the level of festivity,
+1. coordinating the act of performance,
+1. clarifying the musico-poetic structure of the piece.
 Moreover, the apechemata occupied a central place in the theory and pedagogy of the Psaltic Art
-
 under the Old System, since parallage was based on them.
 As is well known, from 184-15 to the present, parallage has used the so-called
 monosyllabic pitch names PA, VOU, GA, DI, KE, ZO΄, NI΄, which were created on the basis of the first
@@ -697,11 +683,8 @@ As we see in Table 3.8., most polysyllabic names—apechemata—
 use syllables containing the consonant “n,” written in two special forms:
 
  As [ (the so-called pelastic n), when the voiced phoneme a follows, as, for example, in the ēchēma of the third
-
 mode, [α[α, and
-
  as ] (gorthmic n),xxi when any phoneme other than a follows: e.g. in the ēchēma of the first
-
 mode, ]εα]ες.
 An apēchēma such as ]ε[α]ω, which is used for that branch of the plagal second mode
 that makes cadences at the tritonia, combines both graphic symbols of the intonational n.
@@ -810,7 +793,6 @@ Another important relationship that develops among the modes is that of medialit
 and the medial of the 2nd, the plagal 4th
 and the medial of the third, the plagal 1st
 and the medial of the 4th,xxiii the plagal 2nd” (Iviron 970, year 1686, fol. 5v, in: Stathis, 1997,
-
 p. 44): see Figure 8.14.
 
 ![Description](image_10398.jpeg)
@@ -824,9 +806,7 @@ A special case is the so-called legetos. Its martyria becomes known from the per
 ![Description](image_10400.jpeg)
 
 Figure 8.15. The martyria of legetos, according to the Kalophonic Sticherarion of the Holy Metropolis of Zakynthos, MS no. 7,
-
 fol. 111r (second half of the 15th century). The martyria consists of an abbreviation of the word l(e)g(e)to(s) and the parakletikē formula above
-
 it. A staff transcription has been added for the final pitches of the corresponding intonation formula.xxv
 
 #### 2.3.4. Intonation formulas from a historical and a systematic perspective. Parallagai (II)
@@ -885,7 +865,6 @@ Lists with various intonation formulas are already found in the older forms of t
 Figure 8.16. Copy from the earliest currently known list of intonation formulas in early Middle Byzantine notation, which is found at the end of the Sticherarion of the Holy Monastery of St Catherine at Sinai, no. 1218, fol. 271r, after the colophon, which mentions the name of the scribe, Nikephoros, and the date “in the month of July, the 18th, in the 10th indiction, in the year ,στχπε'.” It contains both simpler and more complex forms of intonation formulas.
 
 -  You can perform the necessary arithmetic operations in order to find the corresponding year from the Birth
-
 of Christ.xxvi
 
 According to Harlfinger, Reinsch, Sonderkamp, & Prato (1983, pl. 148), the list of intonation formulas at the end of the Sticherarion Sinai 1218 was added by a later hand (13th century). J. Raasted, however, attributes the list to the main scribe Nikephoros.
@@ -894,7 +873,6 @@ According to Harlfinger, Reinsch, Sonderkamp, & Prato (1983, pl. 148), the list 
 ![Description](image_10439.jpeg)
 
 Figure 8.17. Proto-Papadike, from the codex Petropolitanus gr. 495, first half of the 13th century, scribe Neophytos Hieromonk from Damascus, fols. 4r-v, with a list of intonation formulas, under the title: “intonations of the eight modes.” It contains both simple
-
 and more melismatic forms of intonation formulas of the old, classical Byzantine repertories.
 
 © National Library of Russia, St. Petersburg.
@@ -912,7 +890,6 @@ The same Protheoria of MS EBE 2458, which is directly associated with the work o
 ![Description](image_10441.jpeg)
 
 Figure 8.19. “Intonation formulas by mode,” from the Protheoria of MS EBE 2458, fol. 6r, year 1336. © National Library
-
 of Greece.xxix
 
 ![Description](image_10442.jpeg)
@@ -937,7 +914,6 @@ Table 8.7. Shapes of phthorai in Middle Byzantine notation, based on Protheoriai
 Source: The table is a translated epitome from: Fr. Barbu-Bucur (1989, p. 74).
 
 An important source of information regarding the way phthorai functioned during the period of Kalophony (13th-15th c.) is offered by Manuel Chrysaphes the Old (fl. ca. 1440-1463), in his
-
 theoretical treatise On the Things Considered in the Psaltic Art and What Some Think Wrongly about Them (ed. Conomos, 1985, MMB, CSRM 2, lines 216-538 and commentary, pp. 64-93. For the dating
 of his floruit: p. 11).
 
@@ -999,11 +975,8 @@ Figure 8.28. “Peribleptos” Codex, early 14th c., vol. II, fol. 127r, with th
 With the kind permission/by Courtesy of Cardiff University Library: Special Collections and Archives.
 
 -  You can try transcribing the beginning of the first Vespers sticheron for each mode
-
 from the “Peribleptos” Codex, on the basis of Figures 8.21–28, by printing the form below (Figure
-
 8.29.α) and completing it according to the model for the first mode. For practice, indicate in
-
 each signature also the intonation formula (apēchēma) that is abbreviated, on the basis of Table 8.4. You may then
 compare your results with Figure 8.29.β.
 
@@ -1022,13 +995,11 @@ As we saw in the previous exercise, the third mode presents, for the first resur
 sticheron, a less usual initial signature, which ends at the diphonia, that is, at Ke (a).
 
 By contrast, the last sticheron on fol. 107r in the “Peribleptos” Codex, “I glorify the power of the Father and
-
 of the Son” (Figure 8.23), has the usual form, which ends at the tetraphonia Ni΄ (c):
 see Figure 8.30.α.
 It should also be noted that, if one investigates the stichera of the second mode in the Old Sticherarion, one will
 find, apart from the usual signature that ends at the tetraphonia of the mode, i.e. at Zo΄ (h), also
 another form, which ends at the mesotēs, i.e. two voices below the base, at Di (G#): see Figure
-
 8.30.β.
 
 ![Description](image_10454.png)
@@ -1072,7 +1043,6 @@ The first medial signature encountered (col. 2) confirms the end of the first ph
 with the beginning of the second.
 The next medial signature (col. 5) does not confirm the end of phrase 4, but prepares the
 leap of the tetraphonia found at the beginning of phrase 5. A common phenomenon in manuscripts with
-
 fully developed and late Middle Byzantine notation is the use of a confirmatory sign in
 red ink, which is placed above the first black pitch-sign that follows a
 medial signature. Usually it is a small red ison ("confirmatory ison", according to Tillyard),xxxii
@@ -1098,7 +1068,6 @@ learning the oktoechos, such as the Compound and the Simple Wheel (kanonion of t
 of Parallage, as well as some examples of kanonia of the anonymous theorist from MS EBE 968.
 
 1. From the wheel to the scale: The evolution of music-theoretical thought
-
 concerning the oktoechos, on the basis of Byzantine and post-Byzantine theoretical writings
 
 ### 3.1. References in the early Byzantine theoretical writings concerning the oktoechos
@@ -1116,20 +1085,17 @@ Lavra Γ 67, fol. 159r (early 11th c. [Floros]).xxxiv © for the photograph from
 Patristic Studies, Thessaloniki.
 
 The earliest theoretical manual of the Psaltic Art, the so-called Hagiopolites (composition: 12th
-
 c.; earliest surviving codex: from the 14th c.), which refers to the homonymous early Byzantine
 notation (Hagiopolitan/Coislin), develops an extensive teaching on the modal system.
 Some central points of this teaching are the following:
 
  The modes are ten in all, not eight, since alongside the four authentic and four plagal
-
 modes two others are also chanted: in many pieces, instead of the plagal second, the mesos
 second is chanted (he means nenano), while in numerous troparia of the plagal fourth the mesos fourth
 is chanted (he means nana): Hagiopolites (ed. Raasted, 1983, § 2). Elsewhere (§ 33–44)
 sixteen subcategories of modes are mentioned: four each of authentic, plagal, mesoi, and phthorai.
 
  From a morphological point of view, intonations such as neagie+nana or neanes+nenano can be
-
 divided into an enēchēma and an epēchēma (ibid., § 3): see Figure 8.34.
 
 ![Description](image_10463.jpeg)
@@ -1149,7 +1115,6 @@ the four authentic modes and their equal number of plagal modes: Figure 8.35.
 
 Figure 8.35. Copies of wheel schemata from the Hagiopolites. Source: Raasted, Jørgen. (Ed., 1983). The Hagiopolites, A
 Byzantine Treatise on Musical Theory. Preliminary Edition. Cahiers de l' Institut du Moyen-Âge Grec et Latin, 45, § 52,
-
 pp. 56–57.
 
 ### 3.2. The Compound Wheel of Saint John Koukouzeles – Parallage (III)
@@ -1178,7 +1143,6 @@ in the form of a cross outside the middle concentric circles: see Figure 8.36.
 
 Listen to the sign-sounds of the concentric circles by pressing 
 Figure 8.36. The Compound Wheel of Saint John Koukouzeles: first dated witness in MS EBE 2458,
-
 fol. 5v, year 1336. © National Library of Greece.
 
 An attempt to read the diagram begins with the four small wheels
@@ -1196,7 +1160,6 @@ clock) are used.
 ![Description](image_10468.jpeg)
 
 Figure 8.37.α. Transcription of the Compound Wheel of Saint John Koukouzeles, based on MS EBE 2458,
-
 fol. 5v: the four small wheels.xxxvi
 
 ![Description](image_10469.jpeg)
@@ -1209,7 +1172,6 @@ return we choose the black oliga, with the red signatures of the authentic modes
 ![Description](image_10470.jpeg)
 
 Figure 8.37.β. Transcription of the Compound Wheel of Saint John Koukouzeles, based on MS EBE 2458,
-
 fol. 5v: the concentric circles in the middle of the diagram, from inside outward, in clockwise direction.
 
 Having reached the outer circle, we return again inward, this time with
@@ -1220,7 +1182,6 @@ the ascending return, the black oliga with the signatures of the authentic modes
 ![Description](image_10471.jpeg)
 
 Figure 8.37.γ. Transcription of the Compound Wheel of Saint John Koukouzeles, based on MS EBE 2458,
-
 fol. 5v: the concentric circles in the middle of the diagram, from outside inward, in counterclockwise direction.
 
 According to this attempt at reading, the skeleton of the Compound Wheel therefore consists
@@ -1292,7 +1253,6 @@ Source: Konstantinou (2012, p. 390, for the photograph on the basis of which the
 
 Chrysanthos informs us about the way of reading the Simple Wheel in his Great Theoretikon
 (1832, §§ 66–76). The Kanonion of the oktoechos in its diatonic form works with the short intonation formulas of the
-
 modes, following the following direction of motion: see Figure 8.44
 
 ![Description](image_10480.jpeg)
@@ -1304,7 +1264,6 @@ Figure 8.45 presents a comparison of three sources, which record the
 Kanonion of the eight modes in its diatonic version, in three different ways:
 
 A. In the upper row in Middle Byzantine notation, with the simple indication of the ascending motion on the bases
-
 of the authentic modes, and the descending course on the bases of the plagal modes,
 
 1. in the middle row with the short intonation formulas, also written in Middle Byzantine notation, and
@@ -1316,7 +1275,6 @@ of the authentic modes, and the descending course on the bases of the plagal mod
 Figure 8.45. The Simple Wheel (diatonic) in a comparison of sources:
 
 A. from the kanonion in the MS of the Holy Monastery of Xenophontos 154, fol. 5v, second half of the 18th c. (facsimile in: Alygizakis, 1985, p. 261,
-
 pl. 21. Dating in: Stathis, 1976, p. 113).
 
 B. From the kanonion in an autograph of Apostolos Konstas of Chios, Holy Monastery of Docheiariou 389, fol. 48v, year 1807 (facsimile in:
@@ -1324,7 +1282,6 @@ B. From the kanonion in an autograph of Apostolos Konstas of Chios, Holy Monaste
 Apostolopoulos, 2002, p. 176, fig. 14, and dating: p. 50).
 
 C. From: Chrysanthos, Great Theoretikon (1832, § 68). The first two sources are accompanied by transcription on the
-
 staff, the third by schematic transcription.xli
 
 The skeleton of the Simple Wheel in its diatonic version consists of the motion Pa-Vou-Ga-
@@ -1459,7 +1416,6 @@ During the late post-Byzantine period, various special diagrams-kanonia graduall
 which record, through the corresponding martyriai, the particular features of the individual modes,
 also registering at the theoretical level the existence of chroma in the family of the second mode. One of these
 diagrams we have already seen in the previous section: it was the Simple Wheel in a chromatic version. Another
-
 theoretical work, which constitutes a milestone in the history of the development of music-theoretical reflection
 concerning the Byzantine oktoechos, will be discussed below, in the next section.
 
@@ -1471,7 +1427,6 @@ ecclesiastical music in the post-Byzantine period (probably in the 17th century)
 suppose that in his teaching he used the psaltery, since in the theorization which he
 proposes for the eight modes and their offshoots, he uses fourteen kanonia with the
 characteristic triangular/trapezoidal shape of this instrument: see the edition by Giannopoulos (2013,
-
 pp. 110-122) and Figures 8.53-54 below.
 
 ![Description](image_10489.png)
@@ -1487,18 +1442,15 @@ and 196).
 
 The diagrams of the Anonymous of ms. EBE 968 mark a crucial point in the
 presentation of the oktoechos: whereas in the older diagrams all the modes were together in a common
-
 diagram (Composite Wheel, Simple Wheel, Tree of Parallage), now each mode acquires its own,
 separate theoretical description, in which the following are now revealed with precision:
 
  The martyriai corresponding to each note. These martyriai now coincide with what is found
-
 in the musical manuscripts themselves at cadences on the dominant notes,
 
 -  the system according to which it proceeds (wheel-tetraphonia, triphonia, diphonia),
 
 -  the general range of the mode. Taken together, this information sketches a clearer picture of the individual
-
 offshoots of the oktoechos, also allowing an improved method of transcription onto the staff, with the
 use of corresponding accidentals or key signatures.
 The reading of the kanonia in EBE 968 always begins from the left column of the diagram, with
@@ -1614,7 +1566,6 @@ For the first time in the history of the oktoechos, measurements of microinterva
 moria (on the basis of the subdivision of the heptaphony-octave into 68 parts).lii
 
 The dominant notes and cadences for each mode were also defined at the theoretical level
-
 (see Chrysanthos, Great Theory, 1832).
 The scales of the New Method are presented over the span of one heptaphony, although internally
 they may follow various other systems of organizing the pitch material (tetraphonia-wheel,
@@ -1640,7 +1591,6 @@ from the Museum of Greek Folk Musical Instruments in Athens. Sources: Chrysantho
 Great Theory of Music. Ed. P. Pelopidis. Trieste: printing house M. Weis, 1832, repr. Koultoura, §
 
 1.  <https://commons.wikimedia.org/wiki/File:Greek_musical_instruments.jpg> (27.9.2016). For more details
-
 concerning the musical instrument, cf. Chrysanthos (1832, §§ 65 and 436), Voutsa (2012, p. 209), Anogeianakis (1991, pp.
 
 207-210, figs. 108-109).
@@ -1684,7 +1634,6 @@ Assessment Criterion 6:
 Exercise in parallagai from the Protheoria of Hag.
 
 John Koukouzeles (NLG
-
 2458):
 
 Assessment criterion 7:
@@ -1930,7 +1879,6 @@ Harlfinger, D.R. Reinsch, Bd. 3. Wiesbaden: Dr. Ludwig Reichert Verlag.
 Schulze, Corina & al. (1998). Compact Universalwörterbuch Französisch. Französisch-Deutsch, Deutsch-Französisch.
 München: Compact Verlag.
 Strunk, Oliver. (1945/1977). Intonations and Signatures of the Byzantine Modes. The Musical Quarterly, xxxi (1945),
-
 339-355, repr. in Oliver Strunk, Essays on Music in the Byzantine World, ed. Kenneth Levy (pp. 19-36). New
 
 York: W.W. Norton & Company, 1977.
@@ -1983,16 +1931,13 @@ Emeritus Professor Charalambos Spyridis [discussion on 27.11.2016, Athens]). In 
 bibliography the term oktoechos is advanced (see Troelsgård, 2011, p. 60). Cf. other compound words with “οκτώ” that
 changes into “οκτα” (e.g. οκταήμερος), in Babiniotis (2002, p. 1244).
 iii See Gabriel Hieromonachos, On the Signs in Psaltic Art (ed. Hannick & Wolfram, CSRM, vol. I, 1985, lines
-
 400-423). For the highly intricate question of correlating the ancient Greek harmoniai with the medieval modes in the
-
 East and West, cf. Alygizakis (1985, pp. 31-37). Atkinson (2009).
 iv By Anatolia_Ancient_Regions_base.svg: *Asia_Minor_Political_500BC.svg:*Mysia.svg: Emokderivative
 work:Mysia_map_ancient_community.jpg: User:Rokederivative work: MinisterForBadTimes (talk)derivative work:
 MinisterForBadTimes (talk)derivative work: Egmontaz♤ talk - Anatolia_Ancient_Regions_base.svg, CC BY-SA 3.0,
 <https://commons.wikimedia.org/w/index.php?curid=9485404> (21.4.2016).
 v Gabriel Hieromonachos, On the Signs in Psaltic Art (ed. Hannick & Wolfram, CSRM, vol. I, 1985, lines
-
 429-431).
 
 vi Cf. especially the Protheoria of the Papadike: Alexandru & Troelsgård (2008).
@@ -2010,7 +1955,6 @@ xi Cf. Maliaras (2007, pp. 136-138, 534 with fig. 48). Galavaris (1995, p. 50, f
 xii See Sarischouli (1995, pp. 48-64 and pl. IV). Troelsgård (2007): <http://www.asbmh.pitt.edu/page/12/Troelsgard.pdf>
 
 1. Alygizakis (1985, pp. 83-95). Wellesz (1962, pp. 72-77). Alygizakis (1985, pp. 83-95). Alexandru (2016,
-
 p. 70).
 
 xiii Cf. also Sarischouli (1995, p. 55 and Tafel IV). For further evidence, see ch. 5, section 3.2 of the present
@@ -2114,7 +2058,6 @@ xli This comparison was taken from: Alexandru (2000, vol. I, p. 210), with the a
 Middle Byzantine sources.
 xlii Cf. also Alexandru (2014, p. 134, fig. 3).
 xliii Cf. the description of the ms in: Stathis (1976, pp. 698-712). The text of the Hermeneia was edited in: Alygizakis (1985,
-
 pp. 230-235).
 
 xliv Cf. also Alexandru (2000, vol. I, p. 208).
@@ -2131,7 +2074,6 @@ of modulations in the present excerpt.
 li For further evidence, cf. also Alexandru (2000, vol. I, pp. 216-217).
 lii For details regarding the ēchomoria and the various temperaments of the heptaphonic system in the more recent tradition
 of Byzantine music (Chrysanthos: 68 divisions, Committee of 1881: 36 or 72 divisions), cf. Chatzimichelakis (2013,
-
 pp. 20-21, 29, 136-141).
 
 liii Cf. Apostolopoulos (2002, pp. 187-188, 193, 206-207). Tsiamoulis & Erevnides (1998, p. 24).

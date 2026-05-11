@@ -149,14 +149,11 @@ of Byzantine notation (p. 694), illuminating the evolutionary stages of the writ
 tradition of Psaltic art.
 As an example, the “oldest dated notation of a Greek
 ecclesiastical melos” in Slavic staff notation is cited below, from the Supraśl Heirmologion (Makris, 2011,
-
 p. 206). It is a Cheroubikon in Slavic, with the rubric: “Politikon, third mode, transferred into
-
 the language of the Russians by a patriarchal psaltes in the year ,αφπγ΄ [1583], September 8,
 very beautiful.” The Greek psaltes was possibly the famous Theophanes Karykes, the chanting may have
 taken place in the Holy Monastery of Pammakaristos during the feast of the Nativity of the Theotokos, and the scribe may
 have been the Russian Theodoros Kasianovits, who had spent a period of education in Constantinople
-
 (ibid.): see Figures 11.4-5.
 
 ![Description](image_12491.jpeg)
@@ -1252,7 +1249,6 @@ notation (Coislin VI-Middle Byzantine I, according to Floros, 1970, vol. I, p. 6
 Figure 11.11.a-b. The heirmos “The divine and ineffable beauty” in Middle Byzantine fully developed notation, from the Heirmologion Petropolitanum graecum 491 (121), fol. 4r.xxv
 
 © National Library of Russia, St. Petersburg. You may print this page and add the red signs and the poetic text from the
-
 manuscript, also completing the staff transliteration.
 
 Figure 11.11.c. The heirmos “The divine and ineffable beauty” from the
@@ -1271,7 +1267,6 @@ from Figure 11.12.
 ![Description](image_13424.jpeg)
 
 Figure 11.12. Codex Petropolitanus graecus 491 (121), fols. 148v-149r, with notes in red and dark brown ink, recording the authorship of the work and the
-
 dating. © National Library of Russia, St. Petersburg. You may transcribe the note written in red on fol. 148v with the name of the editor of the
 Heirmologion and the dating (in dark ink), and also check the correctness of the later arithmetical operation found on fol. 149r.xxvi
 
@@ -1294,7 +1289,6 @@ in Middle Byzantine fully developed notation,
 from the Heirmologion of Balasios the Priest, ms 1725/212
 (Lambros no.) of the Holy Monastery of Karakallou, mid-18th c.
 (Stathis, 1993, under number: 225, description: p. 435),
-
 fol. 2v. © Holy Monastery of Karakallou, Mount Athos.
 
 ![Description](image_13428.jpeg)
@@ -1313,7 +1307,6 @@ Heirmologion of the Katabasiai,
 exegesis and correction by Chourmouzios
 Chartophylax. Constantinople:
 British Printing House of Kastrou in
-
 Galata, repr. Athens: Koultoura, p. 4.
 
 ![Description](image_13431.jpeg)
@@ -1338,7 +1331,6 @@ Heirmologion, exegesis and correction by Chourmouzios Chartophylax. Constantinop
 
 Figure 11.20. Christ Pantokrator. Dome of the Holy Monastery of the Pammakaristos, Constantinople, ca. 1310.
 Sources: For the photograph: <https://commons.wikimedia.org/wiki/File:Istanbul_-_Chiesa_Pammacaristos_(Fetiye_camii)_-_Cupola_-_Foto_G._Dall%27Orto_26-5-2006.jpg>
-
 (4.11.2016). For the caption: Chatzidaki (1994, pp. 180, 253 and fig. 169).
 
 ### 5.3. Sticheraric melodies
@@ -1376,47 +1368,38 @@ sticheraric and heirmologic formulae (theseis)” by Iakovos Protopsaltes: nos. 
 - √ Manuscript codices and printed editions:
 
 1. Vatopedi 1488, fol. 118a, second half of the 11th c., Athonite notation (Chartres IV): Follieri & Strunk (eds., 1975, Triodum Athoum, MMB, Facsimiles IX). Floros (1970,
-
 vol. I, p. 55).
 
 1. Vindobonensis theol. gr. 136, fol. 228b, first half of the 12th c., Hagiopolite notation (Coislin V): Wolfram (ed., 1987, Sticherarium antiquum Vindobonense, MMB,
-
 Facsimiles X). Floros (1970, vol. I, pp. 57-58).
 
 1. Ambrosianus A 139 sup., fol. 246a, year 1341, fully developed Middle Byzantine notation: Perria & Raasted (eds., 1992, Sticherarium Ambrosianum, MMB,
-
 Facsimiles XI).
 
 1. MPT 715, fol. 192b, first half of the 19th c., autograph of Chourmouzios Chartophylax with an exegesis of the Old Triodion and Pentecostarion in the New Method: Papadopoulos-
-
 Kerameus (1915, vol. V, p. 245). Stathis (2016, vol. II, p. 315).
 
 1. MPT 552, fol. 222b, Sticherarion of Chrysaphes the New, year 1705, late Middle Byzantine notation: Papadopoulos-Kerameus (1915, vol. V, p. 110).
 
-2. MPT 765, fol. 96a, year 1835-1836, autograph of Chourmouzios Chartophylax with an exegesis of the Sticherarion of Chrysaphes the New, in Neo-Byzantine notation:
+1. MPT 765, fol. 96a, year 1835-1836, autograph of Chourmouzios Chartophylax with an exegesis of the Sticherarion of Chrysaphes the New, in Neo-Byzantine notation:
 
 Papadopoulos-Kerameus (1915, vol. V, p. 257) and Chatzigiakoumis (1975, p. 389).
 
 1. EBE 975, p. 600, Sticherarion of Germanos of New Patras, year 1774, late Middle Byzantine notation: A. & I. Sakkelion (1892).
 
 2. MPT 750, fol. 299b, year (1831?)-1832, autograph of Chourmouzios Chartophylax with an exegesis of the Sticherarion (Triodion-Pentecostarion) of Germanos of New Patras in the
-
 New Method: Chatzigiakoumis (1975, p. 389).
 
-1. Vatopedi 1254, fol. 209a, Doxastarion of Iakovos Protopsaltes, autograph of Ioannikios, hieromonk of Vatopedi from Chios, year 1775-1800, exegetical Middle Byzantine
+3. Vatopedi 1254, fol. 209a, Doxastarion of Iakovos Protopsaltes, autograph of Ioannikios, hieromonk of Vatopedi from Chios, year 1775-1800, exegetical Middle Byzantine
+notation. We thank Fr. Nektarios Paris for this information. For the definition of the musical texture (“in a more concise manner...”), see Stathis (1993, p. 1).
 
-notation. We thank Fr. Nektarios Paris for this information. For the definition of the musical texture (“in a more concise manner...”), see Stathis (1993, p.
+4. Iakovos Protopsaltes, Doxastarion, exegesis by Chourmouzios Chartophylax (1836, repr. Katerini 1990, vol. II, p. 307).
 
-1.
+5. Vatopedi 1254, fol. 106a, Doxastarion of Petros Peloponnesios, exegetical Middle Byzantine notation (for the remaining details see above, no. 16).
 
-2. Iakovos Protopsaltes, Doxastarion, exegesis by Chourmouzios Chartophylax (1836, repr. Katerini 1990, vol. II, p. 307).
-
-3. Vatopedi 1254, fol. 106a, Doxastarion of Petros Peloponnesios, exegetical Middle Byzantine notation (for the remaining details see above, no. 16).
-
-4. Petros Lampadarios the Peloponnesian, Concise Doxastarion (ed. P. Ephesios, 1820, repr. Koultoura, p. 367).
+6. Petros Lampadarios the Peloponnesian, Concise Doxastarion (ed. P. Ephesios, 1820, repr. Koultoura, p. 367).
 
 √ Transliterations and transcriptions: The sources in Middle Byzantine notation are accompanied by transliterations of their metrophonic structure onto the staff,
-
 with no indication of rhythm (nos. 4, 8, 12, 17, 22). By contrast, the sources in the New Method are accompanied by schematic transcriptions on the staff (nos. 6, 10, 14, 19, 24). To
 facilitate the comparative study of the transliterations and transcriptions, the C clef on the third line was used for the former, and the G clef on the second line for the latter.
 In this way the theoretical bases of the plagal 2nd mode are preserved according to both the Old and the New System (Vou and Pa,
@@ -1425,13 +1408,11 @@ respectively), while the visual appearance remains unified. For further informat
 - √ Musicological analyses:
 
 1. For a better understanding of the process of slow and concise exegesis, and consequently also of rhythmic development along the various paths, the various
-
 exegeses are accompanied by a reductive or transformational analysis (nos. 15, 20, 25), which reveals:
 
 1. the number of primary time-units per syllable,
 
-2. the structural notes of the exegesis and its melodic outline (per syllable for the slow chants | for the whole colon (kōlon) for the concise chant by Petros
-
+1. the structural notes of the exegesis and its melodic outline (per syllable for the slow chants | for the whole colon (kōlon) for the concise chant by Petros
 Peloponnesios). The structural notes, as the pillars of the chant, are rendered by white diamonds, while for the drawing of the outline of the chant black diamonds are also used
 (for the highest and lowest notes of a motion) and diagonal lines (where there is stepwise motion). A broken legato
 indicates the extended presence of a note on a particular syllable or phrase.
@@ -1439,7 +1420,6 @@ indicates the extended presence of a note on a particular syllable or phrase.
 1. Below is indicated the range (ambitus) of the melodic movement recorded by the exegesis (per syllable for the slow chants | per phrase for the concise ones).
 
 B. Also, starting from the sources in Middle Byzantine notation, elements of micro-syntactic analysis (names of formulae) and analysis of
-
 musical-rhetorical figures (imitation of the meanings, palillogy, repetition) are also given (see nos. 1-3, 7, 16, 21).
 
 A compact exegetical approach on the part of Chourmouzios is observed for all the chants of the old sticheraric genus (i.e. the old style proper, as
@@ -1466,7 +1446,6 @@ For each style the following were selected:
  A dux in Middle Byzantine notation, whose vocal signs are transliterated onto the staff,
 
  the corresponding exegesis in the New Method, which appears at the bottom of each section and is accompanied by
-
 staff,
 
 -  a series of other representative sources.
@@ -1590,14 +1569,13 @@ Old style
 - Manuscripts in Middle Byzantine notation:
 
 1. Sinai 1218, dated 1177, in Middle Byzantine notation of a transitional stage. See Balageorgou & Kritikou (2008, pp. 29-31) and endnote ii in chapter 7 of the present
-
 handbook.
 
 1. Codex Vindobonensis theol. gr. 181, "Dalassenos", dated 1221: Høeg, Tillyard & Wellesz (eds., 1935, MMB, Facsimiles I). See also Floros (1970, vol. I, p. 61).
 
-2. EBE 883, 14th century (Raasted, 1995b, p. 262).
+1. EBE 883, 14th century (Raasted, 1995b, p. 262).
 
-3. EBE 884, dated 1340/1, a copy from a Sticherarion corrected by Saint John Koukouzeles.
+1. EBE 884, dated 1340/1, a copy from a Sticherarion corrected by Saint John Koukouzeles.
 
 9a. Codex Ambrosianus A 139 sup., dated 1341: Perria & Raasted (eds., 1992, MMB, Facsimiles XI). 9b. Transnotation.
 
@@ -1668,7 +1646,6 @@ Doxastarion. Ed. Petros Ephesios. Bucharest (repr. Athens: Koultoura), pp. 99-10
 Figure 11.25. Schematic representation of the relationship between notation and melody in the old and the new brief style of setting the sticheron «Bethlehem, make ready»: the example of the
 first hemistich.
 Sources: the diagrams are based on sources nos. 9, 11, 26, and 27 of the collation found in Figures 11.24.a & c and were taken from: Alexandru (2000, vol. III,
-
 p. 91).
 
 ### 5.4. Papadic chants
@@ -1686,15 +1663,12 @@ permission of the aforementioned publishing house.
 The collation in Figure 11.26 took as its point of departure: Psachos (1987, pls. XI, XII and XXXI).
 
 1. Restoration of the parallage (παραλλαγή) for the beginning of the Trisagion for the Departed (see no. 2 of the collation), on the basis of the following sources: Sinai 1218, fol. 271r. Raasted
-
 (1966, p. 48). EBE 968, fol. 183r. Apostolopoulos (2002, p. 125). Chrysanthos (1832, §§ 246-247). It is accompanied by a transnotation onto the staff.
 
 1. “Trisagion for the departed called Athenian, sung slowly,” from ms Iviron 1250, fol. 211v, in late Middle Byzantine notation, and
-
 staff transnotation (see also Figure 11.2).
 
 1. The exegesis of Balasios (explanatory Middle Byzantine notation), for the Trisagion for the Departed, with the rubric “the same was explained by me,” from
-
 ms Iviron 1250, fol. 212r (see also Figures 11.2-3). It is accompanied by staff transnotation. This is one of the two oldest
 surviving exegeseis in Byzantine notation (the other exegesis by Balasios concerns the Allelouiarion in protobarys mode, by Theodoulos
 the monk). It is accompanied by transnotation onto the staff.
@@ -1704,20 +1678,16 @@ the monk). It is accompanied by transnotation onto the staff.
 This is Theodoulos the Athonite monk, from the second half of the 18th c. (Stathis, 1975b, p. 51). It is accompanied by staff transnotation.
 
 1. “For the departed, exegesis by the same kyr Petros” (Petros Peloponnesios), from ms Dionysiou 568, fol. 152v, early 19th c., autograph
-
 of Apostolos Konstas of Chios (Stathis, 1976, p. 693), with staff transnotation.
 
 1. “Asmaticon for the departed, ancient melos”: exegesis by Gregorios Protopsaltes in the analytical notation of the New Method (Ioannes Lampadarios &
-
 Stephanos the First Domestikos, Pandekte, 1851, vol. II, p. 834) and schematic transcription onto the staff.
 
 1. Recording of the performance by the Archon Protopsaltes of the Most Holy Archdiocese of Constantinople, Mr Lykourgos Angelopoulos (17
-
 February 1998), in very analytical New Byzantine notation and with detailed staff transcription. The key signature is according to the measurements of S.
 Karas.
 
 1. Musicological analysis of the phenomenon of exegesis: on the staff the structural pitches are shown with white notes. With black notes and oblique
-
 lines the movement of the melos around the dominant pitches is represented. Below the staff, the range and duration of the
 exegesis are indicated for each thesis.
 
@@ -1882,13 +1852,11 @@ relation between the sign (ΜγΣ or emphonon) and what is notated is α : β, w
 on the following elements:
 
 1. the thesis (musical formula) and, possibly, its placement in the musical phrase. Even the
-
 colour of the ink (a black or red aphonon sign) may be significant,
 
 1. the degree, the mode, the genus of the mode,
 
-2. the hymnographic and musical genus, the type and style of melopoeia, and the tempo. These
-
+1. the hymnographic and musical genus, the type and style of melopoeia, and the tempo. These
 elements determine the way in which the piece is decoded, that is, the type of exegesis (slow,
 brief) of the whole piece.
 In contemporary research, even the poetic text and the conditions under which a performance takes place
@@ -2212,7 +2180,6 @@ Books and articles
 
 Alexandru, Maria. (2006). Analytical approaches and tracing beauty in Byzantine music. The
 Eucharistic hymn We praise Thee. In Kostas Tsougras (ed.), Music theory and analysis - methodology
-
 and practice, 29 Sept.-1 Oct. 2006, Thermi, Thessaloniki, Symposium Proceedings (pp. 317-329). Thessaloniki: Department
 of Music Studies of Aristotle University of Thessaloniki.
 Alexandru, Maria. (2010). Exegeses and transcriptions of Byzantine music. A brief introduction to
@@ -2222,9 +2189,7 @@ Let all mortal flesh keep silence. In Evi Nika-Sampson, Giorgos Sakallieros, Mar
 Emmanouil Giannopoulos (eds.), Aristotle University of Thessaloniki - School of Music Studies & IMS
 Regional Association for the Study of Music on the Balkans, Crossroads - Greece as an intercultural pole of
 musical thought and creativity, International Musicological Conference, June 6-10, 2011. Conference Proceedings
-
 (pp. 933-962). Thessaloniki: electronically published by the School of Music Studies, Aristotle University of
-
 Thessaloniki. <http://crossroads.mus.auth.gr> (7.10.2016).
 Alexandru, Maria. (2015). Observations on the encoding of rhythm in the Old Method in
 comparison with the New Method. In Gregorios Anastasiou (ed.), Theory and Practice of the Psaltic
@@ -2319,7 +2284,6 @@ Studies, and I.M.S. Regional Association for the Study of the Music on the Balka
 <http://crossroads.mus.auth.gr>
 Cook, Nicholas. (1994). A Guide to Musical Analysis. Oxford: Oxford University Press.
 Dragoumis, Markos. (1974). A Contribution to the Study of the Interpretation of Late Byzantine Notation. In H. Glahn,
-
 S. Sørensen, & P. Ryom (eds.), IMS, Report of the Eleventh Congress Copenhagen 1972, vol. II (pp. 751-757).
 
 Copenhagen.
@@ -2349,7 +2313,6 @@ VII. Copenhagen: Munksgaard.
 
 Raasted, Jørgen. (1995b). Koukouzeles' Revision of the Sticherarion and Sinai gr. 1230. In J. Szendrei and D. Hiley
 (eds.), Laborare fraters in unum. Festschrift László Dobszay zum 60. Geburtstag, Spolia Berolinensia 7 (pp. 261-
-
 277). Hildesheim.
 
 Nika-Sampson, E., Sakallieros, G., Alexandru, M., Kitsios, G., & Giannopoulos, E. (Eds., 2013). International
@@ -2368,7 +2331,6 @@ Stathes, Gr. Th. (1982). "Difficult theseis" and "Exegesis". Jahrbuch der Öster
 Stathes, Gregorios. (1983). The "Abridgements" of Byzantine and Postbyzantine Compositions. CIMAGL, 44, 16-38.
 Stathes, Gregorios Th. (1989). An Analysis of the Sticheron He who hid the sun by Germanos, Bishop of New Patras
 (The Old 'Synoptic' and the New 'Analytical' Method of Byzantine Notation). Studies in Eastern Chant, 4, 177-
-
 1.
 
 Tončeva, Elena. (1982). Die Skitische Musikhandschriftenfamilie des Bolgarskij Rospev vom 17.-18. Jh. und die

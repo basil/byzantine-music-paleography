@@ -20,9 +20,7 @@ completed in one month (29 January - 29 February of the year 1668) the copying o
 pages), is none other than the famous music teacher Kosmas the Macedonian (fl. ca. 1665-1700, pupil of
 Germanos of New Patras, humble-minded monk and domestikos of the Holy Monastery of Iviron on Mount Athos), one of the
 most important calligraphers and copyists of musical manuscripts during the period of Ottoman rule (see Figure
-
 2.19 in the second chapter of the present handbook and Hatzigiakoumis, 1980, pp. 37-38 and plates 50-52, as well as figures 6, 8-
-
 10 in the appendix of the aforementioned book. Zisimos, 2007). G. Stathis (2015, pp. 207-215: 215), in his analytical
 description of this codex, states, among other things, the following concerning the quality of the manuscript: “a very
 elegant codex, by Kosmas the Macedonian, most important as a very rich Kratematarion (Κρατηματάριον) (...) Script
@@ -32,7 +30,6 @@ are many coloured initials”.
 
 A basic element of the palaeographer’s work is the dating of the manuscripts with which
 he deals. Some manuscripts have, usually at their end, a bibliographical or codicological
-
 note, the so-called colophon,i where the scribe may state information such as the title of the book
 he copied, his own name and/or that of the person who commissioned it and bore the cost of the
 manuscript, the exemplar (anthivolon: the original from which the copy was made), the place where the codex was written or
@@ -91,9 +88,7 @@ period it spread also to the other Greek cities, gradually displacing the acroph
 the first century BC until the end of Byzantium, the alphabetic system constituted the exclusive method
 of numbering in Greek-language sources. It survives also in the post-Byzantine period, although toward the end of that period
 Arabic numerals also begin to appear in the dates of manuscripts (see Figure 3.0-
-
 1). The numeral system is used even today, in publications in katharevousa (e.g. in the
-
 designation of centuries, in the numbering of tables and pages of the introduction, in the recording of the year of publication),
 in inscriptions, etc. The basic principles and the way in which the various numbers are formed are presented in
 Table 3.2.
@@ -130,7 +125,6 @@ Clarifications for Table 3.2:
 ![Description](image_3153.jpeg)
 
 -  You can try using the alphabetic numeral system by writing, for example, your
-
 date of birth in Greek numeral-letters.
 
 ## 3. Systems of Dating in Byzantiumix
@@ -188,7 +182,6 @@ genealogies contained in it and in other books of Holy Scripture.xvi The various
 chronological systems converge in placing the creation of the world approximately in the middle
 of the sixth millennium before the Birth of Christ. According to the Byzantine chronological system, which
 probably goes back to the time of Emperor Heraclius (610-641),xvii the creation of the world
-
 was initially calculated as 25 March of the year 5508 BC, so that each year began with the feast of the
 Annunciation. The consolidation of the system, however, brought about, for practical reasons, the transfer of the
 beginning of the year from 25 March 5508 to 1 September of the year 5509.xviii According to V. Grumel, the reason for this
@@ -212,7 +205,6 @@ In Byzantine sources, the meaning of the word indiction is twofold:
 1. Generally, as a fiscal period of 15 years, which recurs cyclically,
 
 2. specifically, as a particular year within the cycle of 15 years. For the dating of Byzantine and
-
 post-Byzantine manuscripts we are chiefly interested in this second meaning of the word.
 The reference to the indiction in official documents of Byzantium was made obligatory by
 Emperor Justinian I in the year 537 (Novel 47).xxii The indication of the indiction by itself cannot
@@ -228,28 +220,23 @@ Summarizing all the foregoing, we may arrive at the following important points f
 dating of Byzantine and post-Byzantine sources:
 
 1. The date of manuscripts is usually indicated in the scribe’s colophon, at the end of the
-
 manuscript.
 
 1. The year is recorded with Greek numerals.
 
-2. The year recorded in the manuscript is usually counted from the creation of the world, and only
-
+1. The year recorded in the manuscript is usually counted from the creation of the world, and only
 in more recent manuscripts is it the year from the Birth of Christ.
 
 1. When we have the year from the creation of the world, according to the Byzantine chronological system,
-
 and wish to know the corresponding year from the Birth of Christ, we subtract from the
 number given in the MS the number 5509 for the months September to December, or the number
 5508 for the months January to August. If the month is not known to us, we subtract
 both numbers.xxiv
 
 1. Next to the year from the creation of the world, there is usually also the indication of the indiction, likewise in
-
 Greek numerals.
 
 1. In order to confirm the correspondence of the two chronological systems, we divide the
-
 large year from the creation of the world by 15. The remainder of the division is the indiction. If the
 remainder is zero, then the indiction is the 15th.
 
@@ -279,7 +266,6 @@ The operations for determining the above date are the following:
 - 60 456 085
 
 - 75 100 - 90 10 (it coincides
-
 with the indication of the indiction in the manuscript!)
 
 1. The Sticherarion of the National Library of Greece 884 has the following colophon (see Figure 3.2):
@@ -358,14 +344,12 @@ the year ,στϠξα' is written in Arabic numerals as 6961. The corresponding s
 - 60 464 096
 
 - 90 061 - 60 01 (which
-
 coincides with the indication of the indiction in the manuscript)
 
 Gr. Stathis, in an article on the survival of the Greek ecclesiastical musical tradition during
 the post-Byzantine period, comments on the above note as follows:
 
 “The sorrowful news of the capture of Constantinople on 29 May 1453 found—
-
 thirty-three days later, on 1 July—a swift-writing monk bent over, writing
 with his pens and his black and red inks one of the important
 codices of Byzantine Chant. The monk must have sighed and, with his red ink,
@@ -405,7 +389,6 @@ and written by the hand of me, Meletios, hie/romo(nk), and you who read it / pra
 In some manuscripts there are, in addition, graphic riddles. For the unsuspecting reader, the
 message is locked; it is a cryptogram. It can be read only if the
 secret alphabet used by the scribe also becomes known to the reader. An example is shown in Figure
-
 3.8.
 
 ![Description](image_3159.jpeg)
@@ -415,11 +398,9 @@ xxxi
 ,στωοα΄. ind(iction) 1. in the month of Dec(ember) 5:”
 
 The cryptogram comes last, after the indication of the date and a monokondylia
-
 which reads “Petros ho Telemachos.” Above the cryptogram, a later hand (in Latin
 called manus recentior) stated: “here is the name of the writer.” Thus it opened the way to
 finding the key to the secret alphabet. If the sequence of letters
-
 κ ε ψ Ϡ λ ω λ ψ β ο ε ξ θ υ λ ω, conceals the name
 π ε τ ρ ο ς ο τ η λ ε μ α χ ο ς, then
 
@@ -471,11 +452,9 @@ Table 3.4):
 ψ
 
 ο
-
 π
 
 η
-
 ω
 
 Ϟ
@@ -550,7 +529,6 @@ manuscript (see Figure 3.11):
 ![Description](image_3162.jpeg)
 
 appears in the left margin of the
-
 following
 
 Figure 3.11. Monokondylia (below in the left margin of the manuscript) in codex EBE 2155, Sticherarion, 14th cent., fol.
@@ -681,14 +659,12 @@ in Arabic numerals is: 1469.
 xiii See Grumel (1958, especially pp. 3-4, 73, 192-193, 239-264). The same author (1935). Buchwald, Hohlweg, & Prinz (1982, p.
 
 1. Cf. also <https://en.wikipedia.org/wiki/Byzantine_calendar> (23.7.2015). For the Seleucid kings (305-64
-
 BC), cf. <https://el.wikipedia.org/wiki/Δυναστεία_των_Σελευκιδών> (17.2.2016).
 
 xiv See Mioni (1998, pp. 100-101) and Grumel (1935, p. 323).
 xv Cf. Grumel (1958, p. 5).
 xvi The Old Testament was known in Byzantium from the Translation of the Seventy. The work of translation had
 begun with 72 learned Jews in Alexandria, during the reign of Ptolemy Philadelphus (285-247
-
 BC), and was completed toward the end of the 2nd cent. BC. The oldest manuscript preserved today with the complete
 
 Greek text of the O.T. dates to the 4th cent. AD. The Old Testament in the translation of the Seventy (LXX), known
@@ -700,14 +676,11 @@ chronological systems that take as their point of departure the creation of the 
 elements:
 
 a. A mystical idea: the analogy between the time of creation and the duration of the world: the six days of
-
 creation correspond to six millennia until the coming of the Redeemer of the world, the Lord Jesus Christ: see
 Psalm 89, 4 “For a thousand years in thy sight are but as yesterday, which is past, and as a watch in the night”
 
 1. Old Testament according to the Seventy, 1935, p. 99),
-
 b. the ascertainment of the date of Christ’s birth, public ministry, and Crucifixion,
-
 c. the ascertainment of the date of Christ’s Resurrection and the calculation of the feast of Easter.
 
 xvii See Grumel (1935, p. 326). Karagiannopoulos (2001, p. 127).
@@ -1617,7 +1590,6 @@ xxxiv Cf. the bibliography of all the chapters of the present handbook.
 xxxv Papathanasiou (2013, p. 25).
 xxxvi For the photograph we thank the Department of Manuscripts and Rare Books of the National Library of Greece.
 We also thank Mr Demosthenes Spanoudakis. This particular leaf was first published in Stathis (1989a,
-
 p. 207).
 
 xxxvii This particular leaf of this manuscript was previously published in: Litsas (2001, pp. 128-129).
