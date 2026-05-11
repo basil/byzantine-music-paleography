@@ -25,6 +25,12 @@ title = 'Παλαιογραφία Βυζαντινής Μουσικής'
 [markup]
   [markup.goldmark.renderer]
     unsafe = true
+  # Resolve markdown image destinations against the page's bundle resources and
+  # emit absolute URLs. Without this, the English pages at /en/... render bare
+  # relative <img src="image.jpeg"> tags that 404 because the bundle resources
+  # are published once under the default-language (Greek) URL.
+  [markup.goldmark.renderHooks.image]
+    useEmbedded = "always"
 
 [params]
   # '/' tells hugo-book to render every top-level section (chapters,
