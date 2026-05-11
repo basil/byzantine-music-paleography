@@ -31,3 +31,7 @@ title = 'Παλαιογραφία Βυζαντινής Μουσικής'
   # appendices) in the sidebar instead of just the default 'docs' section.
   BookSection = '/'
   BookTheme = 'light'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
