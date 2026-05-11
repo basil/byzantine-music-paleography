@@ -48,16 +48,12 @@ Petrop. gr. 557, which became known through a series of facsimiles in J.-B. Thib
 Hagiopolite Notation of the Greek Church (1913, pp. 65-72 and pls. vi-xxiii). O.
 Strunk notes the following with regard to the aforementioned fragment: "Only a little later than the Codex
 
-256
-
 liturgicusi and perhaps our earliest source with musical notation is the tenth-century Heirmologion fragment
 received from the Archimandrite Antonin (MS 557 [...]). Its priority is contested only by the Heirmologion
 Patmos 55, to which the character of its notation intimately relates it; both sources are clearly earlier than their
 nearest rival, the Heirmologion Laura B. 32."ii According to Gertsman (1996, vol. I, pp. 40-47 and pls. 1-2),
 the Heirmologion fragment St. Petersburg 557 may be placed chronologically in the first half of the
 10th century: see Figure 6.1.
-
-257
 
 ![Description](image_6540.jpeg)
 
@@ -79,8 +75,6 @@ The first dated manuscript of Byzantine music, year 1106. “† Sticherarion, w
 month of September, 1st [day], beginning of the indiction and commemoration of our holy father Symeon the Stylite †.”
 The first two stichera in mode 1 are visible: “The entrance of the year has come” and “Christ our God, who in
 wisdom.”vi Palaeo-Byzantine Hagiopolite notation (Coislin V). © National Library of Russia, St. Petersburg.
-
-259
 
 From the earliest codices to the present day, we have more than a thousand years of uninterrupted use
 of Byzantine musical notation, in an enormous number of manuscripts (between seven and ten thousand) and
@@ -133,8 +127,6 @@ ekphonetic and Palaeo-Byzantine notation have brought to light the close relatio
 of musical scripts (13 common signs, according to C. Floros).viii
 The following Table 6.1 presents a general overview of the two Palaeo-Byzantine
 neumatic systems:
-
-260
 
 |Palaeo-Byzantine notation (PB), or  Chronological limits: 10th c. - late 12th c.  Main characteristics: • Adiastematic notation: it does not indicate the quantity of intervals (i.e. we do not know whether the oxeia indicates one, two, or three phonai [steps] upward). • A very high level of stenography - only selected musical information is recorded, within the framework of a very strong tradition that ensures the correct decoding of the notation.  Neumatic families: With a common root (an archetypal notation), two fairly closely related notational systems develop in parallel, with common signs but also some basic differences. Some basic elements of the two notational|“Byzantine notation” (Gr. Stathis): systems are outlined briefly below:|
 |---|---|
@@ -1399,8 +1391,6 @@ edited by Strunk [1966], Raasted [1968], Strunk & Follieri [1975] and Wolfram [1
 
 vol. III) and Papathanasiou (2002, pls. 16-22), Strunk (1977c, on the famous eleventh-century Menaia from
 
-261
-
 ![Description](image_7782.png)
 ![Description](image_7783.png)
 ![Description](image_7784.png)
@@ -1425,15 +1415,11 @@ XXVI-XXVIII, with MSS from the libraries of Grottaferrata and Paris BnF), Atanas
 MSS from Ohrid, Sofia, etc.), Bucca (2011, with MSS from Southern Italy. See also her forthcoming article,
 with important references to the beginnings of Old Byzantine notation), Patronas (2016), etc.x
 
-262
-
 ![Description](image_7798.jpeg)
 
 Figure 6.3. The Heirmologion of the Holy Monastery of Great Lavra on Mount Athos, MS no. Β 32, mid-tenth century (Strunk), with archaic Old Byzantine notation of the Athonite
 type (Chartres I, according to Floros: left, fol. 50v) and of the Hagiopolite type (Coislin I, according to Floros: right, fol. 51r). This MS is one of the
 oldest codices of Byzantine music known to us today.xi © for the photograph from microfilm: Patriarchal Institute for Patristic Studies, Thessaloniki.
-
-263
 
 ![Description](image_7799.jpeg)
 ![Description](image_7800.jpeg)
@@ -1441,8 +1427,6 @@ oldest codices of Byzantine music known to us today.xi © for the photograph fro
 Figures 6.4.a-b. The Sticherarion Laurense Γ 12 of the Holy Monastery of Great Lavra on Mount Athos, tenth century (Strunk, Raasted) / early eleventh century (Floros), fols. 38r-v, with stichera
 for Great Friday in Old Byzantine Athonite notation (Chartres II).xii © for the photograph from microfilm: Patriarchal Institute for Patristic Studies,
 Thessaloniki.
-
-264
 
 .
 
@@ -1454,8 +1438,6 @@ notation. Left: Sticherarion Laurense Γ 67, from the Holy Monastery of Great La
 Chartres III (Floros, 1970, vol. I, pp. 53-54), fol. 96v, with “Heavenly King” and other stichera for Pentecost. © for the photograph from microfilm: Patriarchal Institute
 for Patristic Studies, Thessaloniki.  Right: Heirmologion Coislin 220, from the National Library of France, early twelfth century, in Old Byzantine Hagiopolite notation,
 between Coislin V-VI (Floros, 1970, vol. I, pp. 65-66), fol. 9r, with the Office of Christmas, first mode.xiii © Bibliothèque nationale de France.
-
-265
 
 ![Description](image_7803.jpeg)
 ![Description](image_7804.jpeg)
@@ -1473,8 +1455,6 @@ Friday. Left: “When on the Cross,” in Old Byzantine Hagiopolite notation, Co
 notation, Chartres IV (Floros, 1970, vol. I, pp. 55-56, 309-310 and vol. III, figs. 51-52). © Holy and Great Monastery of Vatopedi, Mount Athos. For the facsimile edition
 of the entire MS in the series Monumenta Musicae Byzantinae, see Follieri & Strunk (eds., 1975).
 
-267
-
 ![Description](image_7806.jpeg)
 ![Description](image_7807.jpeg)
 
@@ -1483,23 +1463,17 @@ notation, Coislin V (Floros, 1970, vol. I, pp. 57-58). Left: fol. 57v, with stic
 November.  Right: fol. 229v, with stichera for Great Friday (see also Floros, 1970, vol. I, pp. 55-56, 309-310 and vol. III, figs. 51-52). © Österreichische Nationalbibliothek,
 Wien. For the facsimile edition of the entire MS in the series Monumenta Musicae Byzantinae, see Wolfram (ed., 1987).
 
-268
-
 ![Description](image_7808.jpeg)
 
 Figure 6.11. The Sticherarion Laurense Δ. 28, of the Holy Monastery of Great Lavra on Mount Athos, early twelfth century (Floros), in the final evolutionary stages of
 Old Byzantine notation: left, fol. 199v, in Hagiopolite (Coislin VI) and right, fol. 200r, in Athonite (Chartres IV).xvi © for the photograph from microfilm:
 Patriarchal Institute for Patristic Studies, Thessaloniki.
 
-269
-
 ![Description](image_7809.jpeg)
 ![Description](image_7810.jpeg)
 
 Figures 6.12-13. The Sticherarion of the Holy Monastery of Karakallou, no. 1536/23 (Lampros) / no. 74 (Stathis), late twelfth century, fol. 217r (left) with exaposteilaria and the beginning of the eothina,
 and 268r (right), with the beginning of staurotheotokia, in Hagiopolite notation (Coislin VI).xvii © Holy Monastery of Karakallou, Mount Athos.
-
-270
 
 ![Description](image_7811.jpeg)
 
@@ -1517,8 +1491,6 @@ Wise.xix 3. Finally, at the bottom of the folio is the beginning of the stichero
 in plagal fourth mode, for Wednesday evening of the fourth week of Great Lent (Coislin V). © National Library
 of Russia, St. Petersburg.
 
-271
-
 ![Description](image_7812.jpeg)
 
 Figure 6.15. Sticherarion Petropolitanum graecum 789 (new number: Русское археологическое общество No 1), fol
@@ -1533,8 +1505,6 @@ Easter stichera, only the fourth remained in liturgical use.xx
 
 © National Library of Russia, St. Petersburg.
 
-272
-
 ![Description](image_7813.jpeg)
 
 Figure 6.16. Sticherarion Petropolitanum graecum 789 (new number: Русское археологическое общество No 1), fol.
@@ -1546,8 +1516,6 @@ O Christ.”xxi There follow the rubricated indication “of the verse” and th
 In the lower margin the rubric: “On Sunday morning at the Praises: grave mode.” © National Library of
 Russia, St. Petersburg.
 
-273
-
 ![Description](image_7814.jpeg)
 
 Figure 6.17. Sticherarion Petropolitanum graecum 789 (new number: Русское археологическое общество No 1), fol.
@@ -1558,8 +1526,6 @@ leap for joy,” in plagal first mode, for Easter.xxiii Old Byzantine Hagiopolit
 signs of the Psaltikon. In the first sticheron many erasures and corrections in black ink can be discerned.
 
 © National Library of Russia, St. Petersburg.
-
-274
 
 ## 2. Theoretical Treatises of the Old Byzantine Notations
 
@@ -1600,8 +1566,6 @@ Figure 6.18. Emperor Leo VI the Wise, prostrating himself before the Lord Jesus 
 Theotokos and the Archangel Gabriel. Mosaic above the imperial doors of Hagia Sophia, Constantinople, ca. year 912.
 Source: <https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Imperial_Gate_mosaic_2.jpg> (14.9.2016).xxvii
 
-275
-
 The aforementioned list of neumes, discovered by Tillyard in 1912, constitutes the
 oldest theoretical document of the Byzantine melodic notations (see Figure 6.19).
 
@@ -1612,8 +1576,6 @@ Figure 6.19. The “melodemata” of Athonite Palaeo-Byzantine notation: the fam
 Great Lavra Γ 67, fol. 159r (early 11th c. [Floros]).xxviii © for the microfilm photograph: Patriarchal Institute
 
 for Patristic Studies, Thessaloniki.
-
-276
 
 ### 2.2. Hagiopolitan notation (Coislin)
 
@@ -1663,8 +1625,6 @@ fragment Petropolitanum graecum 495, fol. 1v. This MS, known as the
 “Sticherarion of Neophytos, hieromonk from Damascus,” dates to the first half of the
 13th century (cf. Gertsman, 1994, p. 230)xxx: see Figure 6.20.
 
-277
-
 ![Description](image_7817.jpeg)
 
 Figure 6.20. The Hagiopolitan classification of the signs in question-and-answer form, according to the fragment
@@ -1679,8 +1639,6 @@ category of signs, called mele (μέλη), including the signs psēphistokatabas
 existreptokatabasma.
 More specifically, the list of signs according to the aforementioned codex is as follows (see
 Table 6.2):
-
-278
 
 ### A. Tones
 
@@ -1762,8 +1720,6 @@ Despite the small variations in their contents, the two lists (Petrop. gr. 495 a
 
 1) each contain 24 neumes—a clear analogy to the 24 elements of the Greek alphabet.
 
-279
-
 ## 3. Towards a systematization of the entire set of signs of Paleo-Byzantine notation. Methodological issues
 
 In the previous section we saw the signs of Paleo-Byzantine notation that are mentioned
@@ -1825,8 +1781,6 @@ that is, “notational-technical transformations,” such as a. the introduction
 meaning of some signs by the addition of other phonetic signs (σημαδόφωνα), c. the more analytical recording
 of some stenographic signs (in Athonite notation).xxxvi
 
-280
-
 The following Table 6.3 contains a brief reference to clearly distinguishable features of the two
 palaeo-Byzantine systems, as well as to important practical sources of the corresponding developmental
 phases, according to K. Floros.
@@ -1875,8 +1829,6 @@ signs.
 ![Description](image_7823.jpeg)
 ![Description](image_7824.jpeg)
 
-281
-
 ||notational peculiarities (in Coislin II-III).|ascendens (ascending): see e.g. Floros (1970, vol. III, p. 61, para. 29).| notation of the xeron klasma as a ligature (Ligatur: the component signs were joined to one another):|||
 |---|---|---|---|---|---|
 |Coislin IV|• Menaia of Carbone: the| The Coislin oligon| Almost all syllables of the poetic text|• Sticherarion of the Triodion of the Holy and Great Monastery|Chartres IV|
@@ -1886,8 +1838,6 @@ signs.
 ![Description](image_7825.jpeg)
 ![Description](image_7826.jpeg)
 ![Description](image_7827.jpeg)
-
-282
 
 Heirmologion
 Parisinus, fonds
@@ -1926,8 +1876,6 @@ Middle Byzantine notation, three other categories: “Letter-neumes,” “Theta
 
 ![Description](image_7828.jpeg)
 
-283
-
 1. Signs of ascent
 
 ![Description](image_7829.jpeg)
@@ -1942,8 +1890,6 @@ d. Signs for two or more pitches
 
 ![Description](image_7831.jpeg)
 
-284
-
 ### B. HEMITONA or HEMIPHONA
 
 ![Description](image_7832.jpeg)
@@ -1951,8 +1897,6 @@ d. Signs for two or more pitches
 ### C. LETTER-NEUMES (LETTERS)
 
 ![Description](image_7833.jpeg)
-
-285
 
 ### D. COMPOUND TONOI (COMPOSITE SIGNS)
 
@@ -1974,8 +1918,6 @@ beginning (as a “head-neume”)
 
 ![Description](image_7837.jpeg)
 
-286
-
 1. Juxtapositions with the klasma at the end (as a “cadential neume”)
 
 ![Description](image_7838.jpeg)
@@ -1983,8 +1925,6 @@ beginning (as a “head-neume”)
 στ. Juxtapositions with the oxeia and the bareia
 
 ![Description](image_7839.jpeg)
-
-287
 
 #### ζ. Juxtapositions with the katabasma
 
@@ -1994,21 +1934,15 @@ beginning (as a “head-neume”)
 
 ![Description](image_7841.jpeg)
 
-288
-
 ### E. THETA and THEMATA
 
 #### Group A Position of origin: Simple Thema
 
 ![Description](image_7842.jpeg)
 
-289
-
 #### Group B Position of origin: Thematismos
 
 ![Description](image_7843.jpeg)
-
-290
 
 Group C
 
@@ -2019,8 +1953,6 @@ Group C
 ![Description](image_7845.jpeg)
 
 Table 6.4. Summary of the Palaeo-Byzantine signs, based on the studies of Constantin Floros.xxxviii
-
-291
 
 ## 4. Research methodology
 
@@ -2066,11 +1998,7 @@ It may be observed that all the notational signs are written in red ink. Similar
 with Palaeo-Byzantine notation, e.g. Agiou Pavlou 102/A (10th c.: Stathis, 1993, p. 913, pl. A΄) and Ohrid 39 (late
 11th c.: Atanasov, 2012, p. 85).
 
-292
-
 ![Description](image_7847.jpeg)
-
-293
 
 ![Description](image_7848.jpeg)
 
@@ -2079,8 +2007,6 @@ Figure 6.22. Transcription of the sticheron “Herod, having been mocked,” in 
 and identification of signs, based on Table 6.4. According to Atanasov (2012, p. 84), the notation
 is described as Coislin I. In kolon 2 a rapisma appears on the 5th syllable from the end, a sign which
 is usually associated with Chartres notation (Floros, 1970, vol. III, p. 44).
-
-294
 
 - 
 
@@ -2099,8 +2025,6 @@ III, p. 241. A translation of the example is found in: Floros, Constantin. (1998
 Musical Scripts of the Middle Ages. Introduction to Neumatic Science. Trans.-ed. Kostas Kakavelakis, philol. ed. N.
 Avramopoulos. Thessaloniki: Ziti, p. 136, pl. 1a.
 
-295
-
 ![Description](image_7850.jpeg)
 
 Figure 6.24. Sample transcription of Palaeo-Byzantine notation in campo aperto: The first half of the sticheron “To the
@@ -2110,8 +2034,6 @@ Source: Floros, Constantin. (1970). Universale Neumenkunde. Kassel: Bärenreiter
 III, p. 264. A translation of the table is found in: Floros, Constantin. (1998). The Greek Tradition in the
 Musical Scripts of the Middle Ages. Introduction to Neumatic Science. Trans.-ed. Kostas Kakavelakis, philol. ed. N.
 Avramopoulos. Thessaloniki: Ziti, p. 163, pl. 3a.
-
-296
 
 ## Assessment criteria for Chapter 6
 
@@ -2142,8 +2064,6 @@ Figure 6.26. Excerpt from the Lavra Sticherarion Γ 67, early 11th c. (Floros), 
 notation (Chartres III). © for the photograph from microfilm: Patriarchal Institute for Patristic Studies,
 Thessaloniki.
 
-297
-
 Assessment criterion 5:
 Exercise with fully developed Hagiopolitan notation (Coislin V), from another
 well-known manuscript: 
@@ -2155,8 +2075,6 @@ Sticherarium Antiquum Vindobonense (Codex Vindobonensis theologicus graecus 136)
 Old Byzantine Hagiopolitan notation, Coislin V (Floros, 1970, vol. I, pp. 57-58), fol. 130r. © Österreichische
 Nationalbibliothek, Wien.
 
-298
-
 ![Description](image_7854.jpeg)
 
 Figure 6.28. Saint George the Great Martyr and Trophy-Bearer. Wonderworking icon from the Holy Monastery of Zographou, 14th c.
@@ -2167,8 +2085,6 @@ Figure 6.28. Saint George the Great Martyr and Trophy-Bearer. Wonderworking icon
 
 Exercise in comparing sources in Old Byzantine and Middle Byzantine
 notation, with the sticheron “You descended into Hades”. 
-
-299
 
 ### Assessment criterion 7
 
@@ -2227,8 +2143,6 @@ Theological Conference. Offprint. Thessaloniki.
 Arvanitis, Ioannis. (2010). The Rhythm of Ecclesiastical Chants through Palaeographical Research and the Exegesis
 of the Old Notation. Doctoral dissertation. 2 vols. Ionian University, Department of Music Studies.
 Corfu.
-
-300
 
 Eustratiades, Sophronios, and Spyridon Lauriotes, monk. (1932). Heirmologion. Athonite Library 9.
 Chennevières-sur-Marne: L'Ermitage.
@@ -2292,8 +2206,6 @@ Petersburg. Reprint with Appendix Introduction by Oliver Strunk. Hildesheim, New
 1976.
 Tillyard, H.J.W. (1937). Byzantine Neumes: The Coislin Notation. Byzantinische Zeitschrift, 37, 345-358.
 
-301
-
 Troelsgård, Christian. (1999). An Early Constantinopolitan Sticherarion, MS Leukosia, Archbishopric of Cyprus,
 Mousikos 39, and its Notated Exaposteilaria Anastasima. In Chr. Troelsgård & G. Wolfram (eds.),
 Palaeobyzantine Notations II, Acta of the Cogress Held at Hernen Castle (The Netherlands) in October 1996 (pp.
@@ -2351,8 +2263,6 @@ ix The present table is based on the following bibliography: Strunk (ed., 1966, 
 x Cf. also <http://web.pvaigaiou.gov.gr/library/view_more_en.php?id=168&status=1&type=manuscript> (15.9.2016),
 for the Triodion of the Holy Monastery of Leimonos 31, Lesbos (12th cent., some troparia with Coislin notation). More links
 for manuscripts of Byzantine music on-line are given at: <https://en.wikipedia.org/wiki/Sticheron> (12.9.2016).
-
-302
 
 xi These two folios have already been published in: Floros (1970, vol. III, figs. 13-14. For more facsimiles see ibid.,
 figs. 15-18). For the dating, see Strunk (ed., 1966, Specimina, Pars Suppletoria, p. 13): "not earlier than 950". Floros
@@ -2420,8 +2330,6 @@ notation (Coislin V), in a highly melismatic texture, which the aforementioned m
 of the Psaltikon” ("psaltischen Stils"). Specifically, the sticheron “Come, let us all bless Joseph the ever-memorable”
 appears in MS Grottaferrata E.α.11 in an even more melismatic form than the version found in
 
-303
-
 the Sticherarion Petrop. gr. 789, fol. 258r. Oliver Strunk characterized the melismatic stichera of the codex of
 Grottaferrata as “kalophonic,” while Clara Adsuara proposes the term “proto-kalophonic” for the same pieces:
 see Adsuara (1999, pp. 47, 54, 56, 60). See also Troelsgård (1999, p. 172), where the sticheron “Angels,
@@ -2463,5 +2371,3 @@ translation of the same table is found in: Arvanitis (2010, vol. II, table 13, p
 xxxix A prosomoion (προσόμοιον) is a hymnographic poem based on a model (the so-called automelon), which it
 imitates in respect of its metre, according to the principles of isosyllaby and homotony (the same number of syllables and
 the same placement of stressed syllables in the individual cola-hemistichs), and whose melody it adopts.
-
-304

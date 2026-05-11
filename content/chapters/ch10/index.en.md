@@ -49,8 +49,6 @@ such as Egypt, Palestine, and Greece:iii see Figure 10.1.
 Figure 10.1. Depictions of cheironomy in Ancient Egypt, on a monument from the Fourth Dynasty, ca. 2600 BC.
 Copy by G. Tzimopoulos & Aik. Ioannidou (2016).iv
 
-515
-
 In Byzantium, the cultivation of cheironomy is attested especially through historical,
 iconographic, and liturgical sources. A striking literary source is the description of
 psaltic activity in the holy churches of Hagia Sophia and Saint Demetrios, patron saint
@@ -99,8 +97,6 @@ a great flourishing, as is documented by:
 
 - the very realistic depictions of psaltes during the Palaiologan period (e.g. in the Church of Saint Nicholas Orphanos, Upper Town of Thessaloniki): see Figure 10.2.
 
-516
-
 ![Description](image_10738.jpeg)
 
 Figure 10.2. The Dormition of Saint Nicholas, a scene from the cycle of the Life of Saint Nicholas, wall painting
@@ -128,8 +124,6 @@ when moving the hand.”x
 cheironomy cannot show metrophonia (the quantity of intervals):
 “for since the apostrophos and the chamile are the same with regard to cheironomy,
 but differ with regard to the voices—for the apostrophos has one
-
-517
 
 voice, whereas the chamile has four, while the three and the two descending voices
 also have the cheironomy of the apostrophos—the scribe, looking to the one cheironomizing,
@@ -175,8 +169,6 @@ they are aphonic.”xviii
 Gabriel Hieromonk also informs us about the general role of the MgS: as the prosodic
 elements in grammar, so too the MgS in the Psaltic Art serve for orientation within
 
-518
-
 the musical text and for its shaping, indicating rhythm or tempo, dynamics, and other details
 of performance:
 “Since we need not only the twenty-four letters, but also require the ten prosodies
@@ -219,8 +211,6 @@ In the first half of the eighteenth century, Kyrillos Marmarinos reports that ch
 deprived of a theoretical basis and was performed only practically.xxiv With regard to the MgS he observes that
 “They too have their correct effect when they agree with the lines;
 since it is often possible to see a different line and different
-
-519
 
 signs, either through incorrect copying or merely for the beauty of the line;
 therefore we can chant even without them, when the line of the composition is
@@ -388,8 +378,6 @@ movements of the teacher.”xxix
 Chrysanthos notes with regard to the old art of conducting:
 “Cheironomy, according to ecclesiastical musicians, is a movement of the
 hand, concerning the ideation of the melody and the measurement
-
-520
 
 ![Description](image_10867.jpeg)
 ![Description](image_10868.jpeg)
@@ -1957,8 +1945,6 @@ Germanos of New Patras (the same theseis also in Petros Peloponnesios).xxxiv
 Within the framework of the New Method, Karas identified the concept of cheironomy with euphony and
 ornaments of the voice.xxxv
 
-521
-
 ## 2. A systematic approach to cheironomy
 
 Considering cheironomy from a systematic perspective, we observe that the following elements are distinguished:
@@ -2016,8 +2002,6 @@ the fingers also brought together. (...)
 Question: The oxeia is cheironomized in the type of what?
 Answer: In the type of sharp spears, or so as to imitate the sharp nails.”xxxvii
 
-522
-
 For the same two signs, and a few others as well, a second, shorter and perhaps older
 text with the inscription An accurate vocal method (sic) compiled from music, made
 by the holy fathers and poets kyr Cosmas and John of Damascus and John
@@ -2050,8 +2034,6 @@ probably originating from the church of the Holy Monastery of Pammakaristos in t
 249). In his left hand, Saint John the Baptist holds a scroll in majuscule script, where the
 
 passage “Behold the Lamb of God who takes away the sin of the world” (John 1:29) can be seen, while with his right hand he makes a
-
-523
 
 ![Description](image_12396.jpeg)
 ![Description](image_12397.jpeg)
@@ -2094,8 +2076,6 @@ Of interest is also the fact that the very ancient shape which in Byzantine musi
 is associated with the ison also appears in the modern art of conducting European music, as
 may be seen from Figure 10.9.
 
-524
-
 ![Description](image_12405.jpeg)
 
 Figure 10.9. The hands of a modern conductor of a European orchestra. The shape he makes with his right
@@ -2114,14 +2094,10 @@ domestikos/choir-leader. As K. Floros observed, they display kinship with the si
 Palaeo-Byzantine notation of the Athonite type, as well as with the Old Slavonic kontakarion
 notation, which has its roots in Palaeo-Byzantine Athonite notation:xlv Figure 10.10.
 
-525
-
 ![Description](image_12406.jpeg)
 
 Figure 10.10. Codex Kastoria 8, fols. 58v-59r, 14th c., Asmatikon. In the photograph: Hypakoe of Orthodoxy “The uncircumscribed Word,” mode pl. 4.
 Middle Byzantine notation in black ink (emphona and aphona signs) and hyperstaseis in red ink.xlvi © Holy Metropolis of Kastoria.
-
-526
 
 In various music-theoretical writings of the late Byzantine (13th c.-1453) and post-Byzantine periods, the great signs occupy a prominent
 place. They appear in lists of signs and methods of cheironomy, either with their names, or also with their characteristic theses. A few
@@ -2235,8 +2211,6 @@ l. 316
 ll. 317-318
 
 ll. 318-319
-
-530
 
 psephiston
 
@@ -2352,8 +2326,6 @@ ll. 350-352
 
 ll. 352-356
 
-531
-
 ![Description](image_12415.jpeg)
 
 bareia
@@ -2436,8 +2408,6 @@ catalogue of theses corresponding to various great signs and not only these. Wit
 studiorum the scholar will be able to continue his research within various repertoires, from
 palaeographical, morphological, stylistic and other points of view.
 
-532
-
 anatrichisma-bareia
 
 Name Palaeo-Byzantine notation Middle Byzantine notation New Method
@@ -2447,8 +2417,6 @@ in Palaeo-Byzantine Athonite Hagiopolite Early and Fully developed, late, partly
 theoretical writings) developed explanatory Teachers Karas
 
 ![Description](image_12417.jpeg)
-
-533
 
 Name
 (* for names
@@ -2471,8 +2439,6 @@ New Method
 
 Of the Three Expanded method of
 Teachers Karas
-
-534
 
 Name
 (* for names
@@ -2498,8 +2464,6 @@ Teachers Karas
 
 ![Description](image_12420.jpeg)
 
-535
-
 thes kai apothes - kondevma
 
 Name Palaeo-Byzantine notation Middle Byzantine notation New Method
@@ -2509,8 +2473,6 @@ in Palaeo-Byzantine Athonite Hagiopolite Early and Fully developed, late, partly
 theoretical writings) developed explanatory Teachers Karas
 
 ![Description](image_12421.jpeg)
-
-536
 
 koronis - xeron klasma
 
@@ -2525,8 +2487,6 @@ theoretical writings) developed explanatory Teachers Karas
 
 Note on the xeron klasma:
 
-537
-
 homalon - parakletike
 
 Name Palaeo-Byzantine notation Middle Byzantine notation New Method
@@ -2538,8 +2498,6 @@ theoretical writings) developed explanatory Teachers Karas
 ![Description](image_12424.jpeg)
 ![Description](image_12425.jpeg)
 
-538
-
 parechon - synagma
 
 Name Palaeo-Byzantine notation Middle Byzantine notation New Method
@@ -2550,8 +2508,6 @@ theoretical writings) developed explanatory Teachers Karas
 
 ![Description](image_12426.jpeg)
 
-539
-
 tromikon - choreuma
 
 Name Palaeo-Byzantine notation Middle Byzantine notation New Method
@@ -2561,8 +2517,6 @@ in Palaeo-Byzantine Athonite Hagiopolite Early and Fully developed, late, partly
 theoretical writings) developed explanatory Teachers Karas
 
 ![Description](image_12427.jpeg)
-
-540
 
 psephiston - psephistosyntheton
 
@@ -2576,8 +2530,6 @@ theoretical writings) developed explanatory Teachers Karas
 
 Table 10.3. Tracing the diachronic evolution of the names and graphic shapes of the great signs from Palaeo-Byzantine notation to
 the present.li
-
-541
 
 ## 5. The role of the great signs and levels of stenography in the Old System (A). Musical theses
 
@@ -2626,8 +2578,6 @@ particular thesis. The aphonon great sign becomes above all a great hypostasis o
 reminding the chanter of the musical shaping or execution of the particular thesis and its
 cheironomic shape: see Table 10.4.
 
-542
-
 |Sources of sticheraric melos|Kylisma thesis from Palaeo-Byzantine to the|Observations|
 |---|---|---|
 | In the old, classical Byzantine style: - in Palaeo-Byz. notation: ||laimos of Chartres notation|
@@ -2653,8 +2603,6 @@ for just as in grammar the union of the twenty-four letters,
 when syllabified, produces speech, in the same way also the signs
 of the voices, when united knowledgeably, produce the melos, and such a thing
 is then called a thesis.”lvi
-
-543
 
 The correspondences of which Manuel Chrysaphes speaks in this classic definition could
 perhaps become even more easily understood if we saw them in the following Table 10.5.
@@ -2693,8 +2641,6 @@ was Saint John Koukouzeles himself. The poem is in the oktoechos: it begins in t
 passes through all the remaining modes (first the authentic, then the plagal, in order),
 returning at the end again to the first mode.
 
-544
-
 ![Description](image_12432.jpeg)
 
 Figure 10.14.a. Signs sung according to the modes, a poem by the maistor kyr John
@@ -2702,13 +2648,9 @@ Koukouzeles, mode 1: EBE 2458, fol. 3r, year 1336, in late Middle Byzantine nota
 
 © National Library of Greece, Athens.
 
-545
-
 ![Description](image_12433.jpeg)
 
 Figure 10.14.b. Continuation of the Mega Ison from the manuscript EBE 2458, fol. 3v. © National Library of Greece, Athens.
-
-546
 
 ![Description](image_12434.jpeg)
 
@@ -2718,8 +2660,6 @@ fol. 4r. © National Library of Greece, Athens.
 
 2458,
 
-547
-
 ![Description](image_12435.jpeg)
 
 2458, fol. 4v.lx © National Library of Greece,
@@ -2728,8 +2668,6 @@ Figure 10.14.d Continuation and end of the Mega Ison from the manuscript
 Athens.
 
 EBE
-
-548
 
 The Mega Ison of Saint John Koukouzeles was copied over the centuries in a large
 number of Protheoriai of the Papadike, until the beginning of the 19th century, when it was explained in the New Method by
@@ -2745,8 +2683,6 @@ result of the corresponding Byzantine theses. A few examples follow in the next 
 
 10.15-10.17.
 
-549
-
 ![Description](image_12436.jpeg)
 
 Figure 10.15.a. Collation of sources for the Mega Ison of St John Koukouzeles: sources in the Old Method, for theses 1-2.
@@ -2757,8 +2693,6 @@ Figure 10.15.a. Collation of sources for the Mega Ison of St John Koukouzeles: s
 Figure 10.15.b. Continuation of the collation of sources for the Mega Ison of St John
 
 Koukouzeles: sources in the New Method, for theses 1-2.
-
-551
 
 -  You may try to fill in the staves, in Figure 10.15.a with transliteration, and in Figure 10.15.b with transcription, combining this exercise with chanting these theses.
 
@@ -2777,8 +2711,6 @@ and below it the range within which the exegesis moves (measured in voices), aga
 
 Then you may compare your solutions with what appears in Figures 10.15.c-d.
 
-552
-
 ![Description](image_12438.jpeg)
 
 Figure 10.15.c. Collation of sources for the Mega Ison of St John Koukouzeles: sources in the Old Method, for theses 1-2, with transliteration.
@@ -2790,8 +2722,6 @@ You hear them by pressing 
 Figure 10.15.d. Continuation of the collation of sources for the Mega Ison of St John Koukouzeles: sources in the New Method, for theses 1-2, with schematic transcriptions
 and reductive analysis.
 
-554
-
 ![Description](image_12440.jpeg)
 
 Figure 10.16.a. Collation of sources for the Mega Ison of St John Koukouzeles: sources in the Old Method, for thesis 6.
@@ -2800,8 +2730,6 @@ Figure 10.16.a. Collation of sources for the Mega Ison of St John Koukouzeles: s
 ![Description](image_12441.jpeg)
 
 Figure 10.16.b. Continuation of the collation of sources for the Mega Ison of St John Koukouzeles: sources in the New Method, for thesis 6.
-
-556
 
 -  You may try to fill in the staves, in Figure 10.16.a with transliteration, and in Figure 10.16.b with transcription, combining this exercise with chanting this thesis.
 
@@ -2820,8 +2748,6 @@ below it the range within which the exegesis moves (measured in voices), again b
 
 Then you may compare your solutions with what appears in Figures 10.16.c-d.
 
-557
-
 ![Description](image_12442.jpeg)
 
 Figure 10.16.c. Collation of sources for the Mega Ison of St John Koukouzeles: sources in the Old Method, for thesis 6, with transliteration.
@@ -2832,8 +2758,6 @@ Figure 10.16.c. Collation of sources for the Mega Ison of St John Koukouzeles: s
 You hear them by pressing  
 Figure 10.16.d. Continuation of the collation of sources for the Mega Ison of St John Koukouzeles: sources in the New Method, for thesis 6, with schematic transcription and
 reductive analysis.
-
-559
 
 At the beginning of the thesis of the kratema, the exegesis also reveals a transposition of the first mode, a
 triphonia higher. In order to find the key signature corresponding to the transporto that will appear in the
@@ -2859,8 +2783,6 @@ Figure 10.17 was obtained.
 
 This transposition in the Old System would be expressed through the process of
 diploparallage: see Figure 10.19.
-
-560
 
 ![Description](image_12448.jpeg)
 
@@ -2890,8 +2812,6 @@ In parallel with the diachronic gradation of the level of stenography of the not
 mode of encoding may, however, also change synchronically, i.e. in the same period there may be a more analytical
 recording for the brief mele and a more stenographic one for the slow mele. This subject will also concern us
 in Chapter 11 of the present work.
-
-561
 
 ## 7. Some other instrumenta studiorum: a glossary of names of signs and theses, and a catalogue of theses
 
@@ -2955,8 +2875,6 @@ excitement L ǁ see also the
 melos from equality.
 
 LSJSuppl96 | Cret.
-
-562
 
 Rhetoric: [epegeirein, intendere, vehementius reddere Ernest ǁ diegeirein, excitare, commovere auditorem,
 
@@ -3033,8 +2951,6 @@ Floros (1970, vol. I, pp. 144-146). Psachos (1978, plate ΚΔ΄ and n. 76 on p.
 sources are given in the Indices for the Glossary, the
 signs, at the end of Appendix 1 of the present
 
-563
-
 ![Description](image_12452.jpeg)
 
 ### B. Graphic forms
@@ -3077,8 +2993,6 @@ The epegerma formula (ἐπέγερμα) also appears frequently in various chei
 period. Below we can see several of its forms:
 see Figure 10.22.
 
-564
-
 ![Description](image_12453.jpeg)
 
 Figure 10.22. Epegerma formulas in various theoretical texts of late Middle Byzantine notation: the Didactic
@@ -3095,8 +3009,6 @@ Chourmouzios Chartophylax: see Figure 10.23.
 
 Figure 10.23. The epegerma formula from the Mega Ison of Saint John Koukouzeles, in the exegesis of Chourmouzios
 Chartophylax: notation of the New Methodlxv and schematic staff transcription.
-
-565
 
 The same three categories of information that were presented above for the epegerma
 can also be sought by the reader for the remaining great signs and for various formulas, through
@@ -3135,8 +3047,6 @@ Table 10.6:
 |diple||||AnonXerop 357||||||
 |dyo||||||||||
 |dyo kentemata||||Erotapokr|Erota- pokr|||||
-
-566
 
 |elaphron|||Apost|Apost PhiloxLex||||||
 |---|---|---|---|---|---|---|---|---|---|
@@ -3208,8 +3118,6 @@ From the table above one sees that, according to the theorists, almost all the s
 have a multifaceted musical meaning, which concerns more than one domain of musical shaping and
 performance. In order, however, to advance toward an understanding of the role of the signs within the repertoire of the
 
-567
-
 Byzantine and post-Byzantine period, it is necessary to approach in greater analytical detail also the phenomenon
 of musical exegesis. This will be the subject of the next chapter.
 
@@ -3240,8 +3148,6 @@ combination with:
 and
 
  the Alphabetical catalogue of formulas (Appendix 2).
-
-568
 
 ## Bibliography for Chapter 10
 
@@ -3299,8 +3205,6 @@ Chanting and on Certain Erroneous Views That Some Hold About it. Monumenta Music
 Scriptorum de Re Musica, II. Wien: Verlag der Österreichischen Akademie der Wissenschaften, 1985.
 Michael Blemydes. Inc. Beginning, with God, of the signs interpreted one by one. In Evgeny Vladimirovich
 Gertsman (ed.), Petersburg Theoreticon (pp. 338-360, 373-384). Odessa: Variant Publishers, 1994.
-
-569
 
 Stathis, Gregory. (1997). The Method of the Theseis of John Koukouzeles and its application. In
 Christian Troelsgård (ed.), Byzantine Chant. Tradition and Reform. Acts of a Meeting held at the Danish
@@ -3361,8 +3265,6 @@ Symposium, Patriarchal Foundation for Patristic Studies, Holy Monastery of Vlata
 167-211). Thessaloniki: Center for the History of Thessaloniki of the Municipality of Thessaloniki, Independent publications no. 3.
 
 Tsiamoulis, Christos and Erevnidis, Pavlos. (1998). Romaic composers of the City (17th-20th c.). Athens: Domos.
-
-570
 
 Floros, Konstantinos. (1998). The Greek tradition in the musical scripts of the Middle Ages. Introduction to Neumatic
 Science. Trans.-ed. Kostas Kakavelakis, philol. ed. N. Avramopoulos. Thessaloniki: Ziti.
@@ -3425,8 +3327,6 @@ Clarendon Press.
 Webliography
 
 <http://ejournals.epublishing.ekt.gr/index.php/deltion/article/viewFile/4728/4504.pdf> (20.8.2016).
-
-571
 
 <http://images.icon-art.info/public/Byzantium/Demus%201991%20->
 %20Die_Byzantinischen_Mosaikikonen._I._Die_Grossformatigen_Ikonen.pdf (20.8.2016).
@@ -3515,8 +3415,6 @@ xxv Gertsman (ed., 1994, p. 738).
 xxvi Cf. also Psachos (1978, pp. 53-54).
 xxvii See Karas (1982, Theoretical Treatise, vol. I, p. 180, n. **).
 
-572
-
 xxviii Basil Stephanides the Byzantine, Sketch (1902, § 140).
 xxix Basil Stephanides the Byzantine, Sketch (1902, § 145).
 xxx Chrysanthos, Great Theoretikon (1832, §§ 208-209).
@@ -3581,8 +3479,6 @@ lv Cf. Karagounis (2003, p. 246).
 lvi Manuel Chrysaphes, On what is considered (ed. Conomos, CSRM, vol. II, lines 91-96).
 lvii Cf. Stathis (1988, vinyl-record insert).
 
-573
-
 lviii The bibliography concerning the Mega Ison is very rich. For further details, see Alexandru (2014).
 lix We thank Professor Mr. Christian Troelsgård for photographs of the corresponding material.
 lx For these photographs we thank Mrs. Frangou and the rest of the staff of the Department of Manuscripts
@@ -3602,5 +3498,3 @@ further details regarding the abbreviations in Table 10.6, cf. the Indexes for t
 Catalogue of Theseis, and the Synoptic Table of Great Signs, after Appendix 1 of the present work, pp. x-
 
 xxviii.
-
-574

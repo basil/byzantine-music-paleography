@@ -28,8 +28,6 @@ Byzantine Empire and developed further in the post-Byzantine period in Greek and
 foreign-language manuscripts (Romanian, Slavic, etc.), comes to an end around the middle of the nineteenth century,
 when the analytical notation of the New Method definitively prevails.
 
-305
-
 ![Description](image_7855.jpeg)
 
 Figure 7.1. One of the oldest specimens of Middle Byzantine notation, from the Sticherarion Patmiacum 218, year
@@ -38,8 +36,6 @@ Venerable Martyr Stephen the New, mode pl. II. © Holy Monastery of Saint John t
 
 Some of the manuscripts that may be regarded as milestones of Middle Byzantine
 notation are the following three:
-
-306
 
 - Holy Monastery of St Catherine at Sinai, Sticherarion no. 1218, of the year 1177: it is the first
 
@@ -65,15 +61,11 @@ dated codex with Middle Byzantine notation.
 Source: The photograph of the original from which the copy was made is found in: Balageorgos &
 Kritikou (2008, p. 30).iii
 
-307
-
 ![Description](image_7857.jpeg)
 
 1. NLG 2458, fol. 11r, year 1336: the oldest dated Papadike, whose compiler was St John
 
 Koukouzeles. Late Middle Byzantine notation. © National Library of Greece.iv
-
-308
 
 ![Description](image_7858.jpeg)
 
@@ -105,8 +97,6 @@ determine its intervallic relationships. With the aid of specific
 rules that govern these relationships, there is revealed in this notation
 an astonishing transparency and an enormous wealth of representational shaping
 and flexibility.”vi
-
-309
 
 The significance of this change was also highlighted by Oliver Strunk, father of
 American Byzantine musicology, who stressed that from the period in which
@@ -171,8 +161,6 @@ concerned the musical shaping of the piece (rhythm, embellishments at various le
 were realized according to the then-current performance practice of the Psaltic Art and were transmitted at the
 written level through the great hypostases of cheironomy, and at the practical level through
 cheironomy (the artful direction of the choir of chanters) and the art of oral musical exegesis.
-
-310
 
 - The musical and notational unit is not the isolated sign, but consists of the
 
@@ -242,8 +230,6 @@ The Protheoria of the Papadike, known in foreign bibliography simply as the Papa
 a flexible collection of short texts, tables, and didactic poems, all of which together served
 as the basis of the musical preliminary training of chanters from the thirteenth to the beginning of the nineteenth century.
 
-311
-
 In other words, it was a corpus of notes, which was shaped together with the needs of
 teaching, in relation to the development of the repertory. The Protheoria of the Papadike also constitutes
 a reliable mirror of the development of Middle Byzantine notation and, more generally, of
@@ -304,8 +290,6 @@ in order to hear the first formulations of musical theory concerning Middle Byza
 see Figures 7.5.a-d. This theoretical text became more widely known through the edition of E.
 Gertsman (1994, pl. LII-LVIII and pp. 229-240).
 
-312
-
 ![Description](image_7859.jpeg)
 
 Figure 7.5.a. The Protopapadike according to codex Petropolitanus gr. 495 (fragment of a Sticherarion, whose scribe was Neophytos Hieromonk from Damascus),xix first half
@@ -314,15 +298,11 @@ of the thirteenth century, fols. 1v-2r. At the upper left is the Hagiopolitan cl
 on the left) the list of the 24 tones of Middle Byzantine notation then begins. From the middle of fol. 2r there follows the early Middle Byzantine categorization of the
 signs into emphona and symphona (see the arrow on the right). Below follows a list with the ascending voices. © National Library of Russia, St. Petersburg.
 
-313
-
 ![Description](image_7860.jpeg)
 
 Figure 7.5.b. Protheoria of the Papadike from ms Petr. gr. 495, fols. 2v-3r, with the continuation of the ascending voices (upper left), after which follow the descending
 voices, and an impressive table with the signs of Middle Byzantine music in little red circles, each time containing the shape of the signs and the indication of their
 intervallic value, with Greek numerals. © National Library of Russia, St. Petersburg.
-
-314
 
 ![Description](image_7861.jpeg)
 
@@ -336,8 +316,6 @@ signs. From the middle of fol. 4r there follows a list of apechemata, with the t
 Figure 7.5.d. End of the Protheoria of the Papadike from ms Petr. gr. 495, fol. 4v, with the “intonations” of the plagal fourth mode.
 
 © National Library of Russia, St. Petersburg.
-
-316
 
 ### 2.2. Studying Late Forms of the Protheoria of the Papadike
 
@@ -384,8 +362,6 @@ is given in Table 7.1:
 
 Table 7.1. General outline of contents for Protheoriai of the Papadike, 14th–early 19th c.xx
 
-317
-
 #### 2.2.2. Late Middle Byzantine classification of signsxxi
 
 We saw in the Protopapadike of Hieromonk Neophytos (Petr. gr. 495) that the 24 Middle Byzantine
@@ -406,8 +382,6 @@ An important Protheoria from ms. no. 338 of the Holy Monastery of Docheiariou on
 written in the year 1767 by Dimitrios Lotos “from the island of Chios”, the Protopsaltes of Smyrna),xxii gives us
 the opportunity to trace the fundamentals of the theory of Psaltike roughly five decades before the
 Reform of the Three Teachers: see Figures 7.6.α-θ.
-
-318
 
 ![Description](image_7863.png)
 ![Description](image_7864.png)
@@ -434,8 +408,6 @@ Figure 7.6.a. Protheoria in the manuscript of the Holy Monastery of Docheiariou 
 theoretical part of the Protheoria. The Roman numerals at the far right refer to the constituent elements of the
 Protheoria, as noted in Table 7.1. Cf. also Stathis (1975, p. 406). © Holy Monastery of Docheiariou, Mount Athos.
 
-319
-
 ## vi
 
 ## vii
@@ -448,8 +420,6 @@ Protheoria, as noted in Table 7.1. Cf. also Stathis (1975, p. 406). © Holy Mona
 
 Figure 7.6.b. Docheiariou 338, autograph of Demetrios Lotos, year 1767, fol. 1v. Continuation of the theoretical part of the
 Protheoria. © Holy Monastery of Docheiariou, Mount Athos.
-
-320
 
 ## xi
 
@@ -464,8 +434,6 @@ Protheoria. © Holy Monastery of Docheiariou, Mount Athos.
 Figure 7.6.c. Docheiariou 338, autograph of Demetrios Lotos, dated 1767, f. 2r. Continuation of the theoretical part of the
 Protheoria (Προθεωρία). © Holy Monastery of Docheiariou, Mount Athos.
 
-321
-
 ## II
 
 ![Description](image_7872.jpeg)
@@ -475,8 +443,6 @@ Protheoria and beginning of the Practical part: parallage exercises, intonation 
 
 © Holy Monastery of Docheiariou, Mount Athos.
 
-322
-
 ![Description](image_7873.jpeg)
 
 Figure 7.6.e. Docheiariou no. 338, autograph of Demetrios Lotos, dated 1767, f. 3r. Continuation of the practical part of the
@@ -484,15 +450,11 @@ Protheoria: completion of the list of intonation formulas and beginning of the N
 
 Holy Monastery of Docheiariou, Mount Athos.
 
-323
-
 ![Description](image_7874.jpeg)
 
 Figure 7.6.f. Docheiariou no. 338, autograph of Demetrios Lotos, dated 1767, f. 3v. Continuation of the practical part of the
 Protheoria, with the completion of Chrysaphes’ Nouthesia and the beginning of the eight-mode Method “An abba met an
 abba.” © Holy Monastery of Docheiariou, Mount Athos.
-
-324
 
 ![Description](image_7875.jpeg)
 
@@ -500,14 +462,10 @@ Figure 7.6.g. Docheiariou no. 338, autograph of Demetrios Lotos, dated 1767, f. 
 Protheoria, with the diagram of the Tree of Parallage by Saint John Koukouzeles. © Holy Monastery of Docheiariou, Mount
 Athos.
 
-325
-
 ![Description](image_7876.jpeg)
 
 Figure 7.6.h. Docheiariou no. 338, autograph of Demetrios Lotos, dated 1767, f. 4v. Continuation of the practical part of the
 Protheoria, with a method of parallage & metrophony (μετροφωνία). © Holy Monastery of Docheiariou, Mount Athos.
-
-326
 
 ## xiv
 
@@ -516,8 +474,6 @@ Protheoria, with a method of parallage & metrophony (μετροφωνία). © H
 Figure 7.6.i. Docheiariou no. 338, autograph of Demetrios Lotos, dated 1767, f. 5r. End of the practical part of the
 Protheoria, with the Kanonion (Κανόνιον) of the eight modes. Beneath the diagram are added the ancient Greek names of the modes
 (element xiv of the theoretical part, according to Raasted’s numbering). © Holy Monastery of Docheiariou, Mount Athos.
-
-327
 
 ## 3. The Signs of Middle Byzantine Notation
 
@@ -541,8 +497,6 @@ Source: The present copy is based on Floros (1970, vol. III, facsimiles 3-6).
 
 Each of the above signs has an intervallic value, which is shown in the following
 Table 7.3.
-
-328
 
 ![Description](image_7879.jpeg)
 
@@ -1076,8 +1030,6 @@ Spirits (leaps)
 Table 7.3. The metrophonia, or the quantity, of the voiced signs according to the teaching of the Protheoria of the Papadike. The unit of measurement for intervals
 is the phōnē = interval of a second. The size of one phōnē depends on the mode and on the degrees between which the interval is formed. One
 
-329
-
 ![Description](image_8394.png)
 ![Description](image_8395.png)
 ![Description](image_8396.png)
@@ -1504,8 +1456,6 @@ it is noted that
 descending” (see right margin).
 
 ![Description](image_8786.jpeg)
-
-330
 
 ![Description](image_8787.jpeg)
 
@@ -1986,8 +1936,6 @@ for combining voiced signs, in the form of five rules (see Table 7.4):
 ![Description](image_9251.png)
 ![Description](image_9252.png)
 
-331
-
 ![Description](image_9253.png)
 ![Description](image_9254.png)
 ![Description](image_9255.png)
@@ -2314,8 +2262,6 @@ of various intervals, with various operations.xxviii
 The various combinations of signs are based on these basic principles; the next Table (7.5) shows them, and with its help we shall later proceed to the study
 of musical pieces in Middle Byzantine notation.
 
-332
-
 ![Description](image_9567.png)
 ![Description](image_9568.png)
 ![Description](image_9569.png)
@@ -2326,8 +2272,6 @@ of musical pieces in Middle Byzantine notation.
 ![Description](image_9573.jpeg)
 
 Table 7.5 General table with the metrophonic value of the voiced signs of Middle Byzantine notation and with the ison.xxix
-
-333
 
 ### 3.2. The Aphonic Signs of Middle Byzantine Notation: a First Look
 
@@ -2368,8 +2312,6 @@ The list of great signs continues with various shapes and names of neumes, as
 can be seen, for example, in Table 7.6, which is based on the Protheoria of the Papadike of ms. Vat. Barb. gr.
 300, fol. 4v.
 
-334
-
 ![Description](image_9575.jpeg)
 
 Table 7.6. List of great signs from the Protheoria of the Papadike of ms. Vaticanus Barberinus graecus 300,
@@ -2382,8 +2324,6 @@ Some signs from the list of great hypostases, which are especially associated wi
 and more specifically with various forms of delay, reappear, together with the two apostrophoi, the syndesmoi
 from the category of voiced signs, in a special group known as “argiai”
 (the accentuation of the word on the penult, “argíes,” is also customary): see Table 7.7.
-
-335
 
 ![Description](image_9576.jpeg)
 
@@ -2433,8 +2373,6 @@ of the Three Teachers and other exegetes, a topic that will concern us mainly in
 
 Byzantine music is par excellence a tradition in which the oral element is the sine qua non for
 its correct learning (see Figure 7.9).
-
-336
 
 ![Description](image_9578.jpeg)
 
@@ -2874,8 +2812,6 @@ the oral tradition is or is not taken into account: see Table 7.9.
 
 Table 7.9. Types of transcriptions from Middle Byzantine notation: an open list.
 
-337
-
 ![Description](image_9991.png)
 ![Description](image_9992.png)
 ![Description](image_9993.png)
@@ -2918,8 +2854,6 @@ Figure 7.12. The alphabetic transnotation system of Middle Byzantine notation an
 staff. In the low register capital letters are used (A-G), while in the high register lowercase letters are used (a-g). In
 the present work we shall use the symbol h for natural Zo΄, and the symbol b for lowered Zo΄.xxxiii
 
-338
-
 #### 4.1.3. Historical Notes on Transnotations
 
 Between the third and fifth decades of the 20th century (until 1958), the collaborators of the Monumenta
@@ -2947,8 +2881,6 @@ circulation in the Western world. This particular manner of transnotation allows
 knows well the MMB rules for transfer into staff notation to recognize, behind each note, the
 corresponding sign of Middle Byzantine notation. The interpretative model on which these
 transcriptions are based is shown schematically in Figure 7.14.
-
-339
 
 ![Description](image_10005.jpeg)
 
@@ -2996,8 +2928,6 @@ The compound signs that contain the kratema are transnotated similarly, that is:
 
 - The small klasma (tzakisma), which according to the Protheoria of the Papadike constitutes a half-lengthening sign, is transnotated with a black note, with a small line above it (horizontal episema): Fig. 7.15.6.
 
-340
-
 ##### 1. For the ison & the sounded signs
 
 ##### 2. On the great retardations (argiai)
@@ -3035,8 +2965,6 @@ until the Reform of the Three Teachers, the use of a small ison
 instead of a small ison there is an apostrophos, followed by the ison in normal or small form. These
 signs may be represented, conventionally, on the staff as appoggiaturas:xxxviii Fig. 7.15.9:
 
-341
-
 ![Description](image_10011.jpeg)
 
 ## 7. On the ancestor of the continuous elaphron
@@ -3057,8 +2985,6 @@ Figures 7.15.7–9. Possibilities for staff transnotation for the apostrophos be
 ![Description](image_10015.jpeg)
 
  When sources in Middle Byzantine and Neo-Byzantine notation are compared, with the addition of transnotations and transcriptions, the theoretical bases of the modes in the Old and the New Method often do not coincide. In such cases, F or C clefs may also be used for the transnotation, as appropriate, in order to facilitate visually the comparison of the sources and, at the same time, to preserve the respective theoretical bases of the modes (see Fig. 7.16.a).
-
-342
 
 ![Description](image_10016.jpeg)
 
@@ -3100,8 +3026,6 @@ octava bassa: see Figure 7.16.b.
 Figure 7.16.b. The indication octava bassa on the G clef, for transcriptions of Byzantine music on the
 staff. For further details, cf. Troelsgård, 2011.xli
 
-343
-
 ### 4.2. Examples for First Steps in Working with Middle Byzantine Notation
 
 The present section presents a few examples concerning the two types of transnotation
@@ -3115,16 +3039,12 @@ Ambrosianum A 139 sup., fol. 85r, year 1341, poem by St Germanus I, Patriarch of
 alphabetic transnotation.
 Source for the Byzantine notation: Perria & Raasted (eds., 1992), Sticherarium Ambrosianum.
 
-344
-
 ![Description](image_10022.jpeg)
 
 Figure 7.17.b. The same Christmas sticheron “Shepherds assembled in Bethlehem,” in plagal fourth mode, from the
 Sticherarium Ambrosianum A 139 sup., fol. 85r, year 1341: copying of the neumes, division into musical-poetic units
 (kola), and open staff transnotation.
 Source for the Byzantine notation: Raasted & Perria (eds., 1992), Sticherarium Ambrosianum.
-
-345
 
 In several manuscripts there appear, in addition to the main musical lines, small
 variants written in red ink: see Figure 7.18.a.
@@ -3139,15 +3059,11 @@ Kyriakoudis, 2005, p. 152, fig. 93). Fully developed Middle Byzantine notation.
 
 © Holy Monastery of Koutloumousiou, Mount Athos.
 
-346
-
 In cases of musical lines with variants, we can use both
 methods of transnotation in parallel (staff for the main line and alphabetic for the
 variants): see Figure 7.18.b.
 
 ![Description](image_10024.jpeg)
-
-347
 
 ![Description](image_10025.jpeg)
 
@@ -3169,8 +3085,6 @@ Topics were presented concerning:
 
 Nevertheless, these are only the first steps of study. In the following chapters we shall seek
 evidence concerning the oktoechos and the level of performance.
-
-348
 
 It must be emphasized that the two types of transnotation presented in Figures 7.17-
 18, the alphabetic and the open staff type, concern only the level of the structure of the pieces,
@@ -3223,8 +3137,6 @@ Românești, etc.
 In addition, the reader can also find on the internet various codices with
 Middle Byzantine notation for study.xliv
 
-349
-
 ![Description](image_10026.jpeg)
 
 Figure 7.19. Heirmologion Iviron (Hiberorum) 470, fol. 38r.xlv Middle Byzantine transitional notation (Coislin VI-
@@ -3233,8 +3145,6 @@ Middle Byzantine I, around the year 1150, according to Floros, 1970, vol. I, p. 
 The ms. is known in the literature as Codex H. © Holy Monastery of Iviron, Mount Athos.
 For the facsimile edition of the entire ms. in the series Monumenta Musicae Byzantinae, see Høeg (ed.,
 1938, Facsimiles II).
-
-350
 
 ![Description](image_10027.jpeg)
 
@@ -3247,8 +3157,6 @@ For the facsimile edition of the entire ms. in the series Monumenta Musicae Byza
 1951, Facsimiles III). The photograph comes from the aforementioned edition and has been included here with the
 kind permission of Monumenta Musicae Byzantinae.xlvii
 
-351
-
 ![Description](image_10028.jpeg)
 
 Figure 7.21.a. EBE 884, year 1340/1, Old Sticherarion in the edition of St John Koukouzeles (copy by
@@ -3257,23 +3165,17 @@ On fol. 340r: stichera of Pentecost. Below: beginning of the sticheron “Heaven
 
 © National Library of Greece. Cf. also Raasted (1995b and 1997).
 
-352
-
 ![Description](image_10029.jpeg)
 
 Figure 7.21.b. EBE 884, year 1340/1, fol. 340v, with the continuation of the sticheron “Heavenly King” and other stichera
 of Pentecost: “Having the Paraclete” in grave mode, and “When you sent down your Spirit, Lord,”
 in plagal fourth mode. © National Library of Greece.
 
-353
-
 ![Description](image_10030.jpeg)
 
 Figure 7.22. EBE 2401, 15th c.,xlviii fol. 122v, with the “Persikon” (lower part of the folio): the first monument of secular
 music in Byzantine notation (late Middle Byzantine) and, at the same time, the first written source for Persian
 music. © National Library of Greece. Cf. also Kalaitzidis (2012, p. 341, fig. 1).xlix
-
-354
 
 ![Description](image_10031.jpeg)
 
@@ -3283,15 +3185,11 @@ also travelled to Crete). It is chanted by two voices: in mode 4 the upper voice
 in plagal fourth mode the lower voice, with notational signs in red ink. The second “Praise [the Lord]” by Gazes, in mode 4-plagal 4, is found
 in the same ms., fol. 328r. © National Library of Greece. Cf. Adamis (1986).l
 
-355
-
 ![Description](image_10032.jpeg)
 
 Figure 7.23.b. EBE 2401, 15th c., fol. 216r, detail with the red writing in the left margin of the ms.,
 clarifying the manner of performance: “by the same” (i.e. by Gazes), martyria of mode 4. With a finer pen: martyria:
 mode plagal 4 and note “the red [part] in plagal fourth (sic).” © National Library of Greece.
-
-356
 
 ![Description](image_10033.jpeg)
 
@@ -3299,15 +3197,11 @@ Figure 7.24.a. EBE 2401, 15th c., fol. 291v, with the twelfth troparion of the G
 of Christmas “Today is born of a Virgin,” plagal second mode, in melismatic style,li and with extensive intonation formulas
 between the verses, written with echematic syllables in red ink. © National Library of Greece.
 
-357
-
 ![Description](image_10034.jpeg)
 
 Figure 7.24.b. EBE 2401, 15th c., fol. 292r, with the continuation of “Today is born of a Virgin.”
 
 © National Library of Greece.
-
-358
 
 ![Description](image_10035.jpeg)
 
@@ -3317,8 +3211,6 @@ Xenos Korones, a famous didactic poem of the period of kalophony, in late Middle
 
 © National Library of Greece.
 
-359
-
 ![Description](image_10036.jpeg)
 
 Figure 7.26.a. EBE 2406, year 1453, fol. 151r, with the beginning of the Office of the Three Children in the Furnace:
@@ -3327,15 +3219,11 @@ in the furnace; after the end of Orthros; when the furnace has been prepared; an
 prepared; the chanters around the furnace; they begin the idiomelon, with melody thus: mode 2
 Spiritually, faithful, we...”. © National Library of Greece. Cf. also Velimirović (1962). Adamis (2002).liv
 
-360
-
 ![Description](image_10037.jpeg)
 
 Figure 7.26.b. EBE 2406, year 1453, fol. 151v, with the continuation of the Office of the Three Children in the Furnace.
 
 © National Library of Greece.
-
-361
 
 ![Description](image_10038.jpeg)
 
@@ -3343,15 +3231,11 @@ Figure 7.26.c. EBE 2406, year 1453, fol. 152r, with the continuation of the Offi
 
 © National Library of Greece.
 
-362
-
 ![Description](image_10039.jpeg)
 
 Figure 7.26.d. EBE 2406, year 1453, fol. 152v, with the continuation of the Office of the Three Children in the Furnace.
 
 © National Library of Greece.
-
-363
 
 ![Description](image_10040.jpeg)
 
@@ -3359,23 +3243,17 @@ Figure 7.26.e. EBE 2406, year 1453, fol. 153r, with the continuation of the Offi
 
 © National Library of Greece.
 
-364
-
 ![Description](image_10041.jpeg)
 
 Figure 7.26.f. EBE 2406, year 1453, fol. 153v, with the end of the Office of the Three Children in the Furnace.
 
 © National Library of Greece.
 
-365
-
 ![Description](image_10042.jpeg)
 
 Figure 7.27.a. EBE 2406, year 1453, fol. 237v, with an excerpt from the Great and asmatic Cherubic Hymn of Michael
 Ananeotes, mode 2. The photograph shows instructions written in red for the kalophonic performance. © National
 Library of Greece.
-
-366
 
 ![Description](image_10043.jpeg)
 ![Description](image_10044.jpeg)
@@ -3398,30 +3276,22 @@ composition of kyr John the lampadarios; 2 (inside) Tototo, terere - 2 (inside) 
 Cf. also Office of the Pannychis. Sunday of the Veneration of the Cross 2009, “Melodists of Trikki,”
 choirmaster Dimitrios Balageorgos.
 
-367
-
 ![Description](image_10045.jpeg)
 
 Figure 7.28.a. EBE 2406, year 1453, in late Middle Byzantine notation, fol. 290v: 1. “I will bless the Lord at
 all times” and 2. “Blessed be the name of the Lord,” in various versions: 1.1. “old” and 1.2. “another,
 Thessalonian,” 2.1. “old” and 1.2. “another by Korones.” © National Library of Greece.
 
-368
-
 ![Description](image_10046.jpeg)
 
 Figure 7.28.b. EBE 2406, year 1453, detail from fol. 290v, with the indication of a local tradition: “Thessalonian,”
 in plagal fourth triphonos. © National Library of Greece.
-
-369
 
 ![Description](image_10047.jpeg)
 
 Figure 7.29. The kalophonic mathema “Guard [us], all-glorious one,” melody by Saint John Koukouzeles, from the ms. of the
 Holy Metropolis of Zakynthos, Gritsanis Collection, no. 7, pp. 106-107, mid-second half of the 15th c., in late Middle Byzantine
 notation, probably an autograph of Manuel Doukas Chrysaphes.lv © Holy Metropolis of Zakynthos.
-
-370
 
 ![Description](image_10048.jpeg)
 
@@ -3433,8 +3303,6 @@ piece and below the heading there is a rubric with a Cyrillic cryptogram of the 
 (deciphered as: = here (?) begin the kratemata). Cf. Pennington (1985, pp.
 105, 123, 125) and Ciobanu & Ionescu (1983, p. 487). © State Historical Museum, Moscow.
 
-371
-
 ![Description](image_10049.jpeg)
 ![Description](image_10050.jpeg)
 
@@ -3445,8 +3313,6 @@ Figures 7.30.b-c. The Anthologion of Eustatie Protopsaltes of Putna, year 1511, 
 continuation and the end of the kalophonic sticheron “When the thrones are set,” in Slavonic. © State Historical Museum,
 Moscow.
 
-372
-
 ![Description](image_10053.jpeg)
 
 Figure 7.31. The colophon of the Anthologion Șciukin, no. 350, fol. 158r, in Slavonic. A translation could be
@@ -3454,8 +3320,6 @@ as follows: “The Protopsaltes Eustatie from Putna Monastery wrote this book of
 in the days of our Orthodox and Christ-loving lord Ioan Bogdan Voivode, despot of Moldavia-Wallachia, in
 the year 7019, in the month of June, day 11.” The corresponding calculation is: 7019 - 5508 = 1511. Cf. Ciobanu & Ionescu
 (1983, p. 97). © State Historical Museum, Moscow.
-
-373
 
 ![Description](image_10054.jpeg)
 
@@ -3465,8 +3329,6 @@ Koukouzeles; nenano: Guard [us], all-glorious one,” in honour of the Holy Grea
 other facsimiles, cf. Hatzigiakoumis (1980, pp. 116-117 and sample 10). © Holy Royal Patriarchal and
 Stavropegic Monastery of Vlatadon, Thessaloniki.
 
-374
-
 ![Description](image_10055.jpeg)
 
 Figure 7.32.b. Holy Monastery of Vlatadon, ms. no. 46, year 1551, fol. 152v, with the continuation of the epibole “Guard [us].” There follow
@@ -3474,8 +3336,6 @@ Figure 7.32.b. Holy Monastery of Vlatadon, ms. no. 46, year 1551, fol. 152v, wit
 [mode] 4 The radiant soldier” (a fifteen-syllable mathema). At the bottom in the margin the red
 note: “it is also chanted for other martyrs: mode 4.” © Holy Royal Patriarchal and
 Stavropegic Monastery of Vlatadon, Thessaloniki.
-
-375
 
 ![Description](image_10056.jpeg)
 
@@ -3489,8 +3349,6 @@ Cherubic hymns in the following order; the present composition is by kyr Manuel 
 the Cherubim.” It was included in the present work with the kind permission of the Royal Library of
 Copenhagen/by Courtesy of the Royal Library of Copenhagen.lvi
 
-376
-
 ![Description](image_10057.png)
 
 Figure 7.33.b. Detail of fol. 88r from the Anthology NkS 4466 of the Royal Library of Copenhagen, with
@@ -3502,8 +3360,6 @@ miniatures/initials with angels on fols. 10r, 89r) could be called the “Codex 
 It was included in the present work with the kind permission of the Royal Library of Copenhagen/by
 Courtesy of the Royal Library of Copenhagen.
 
-377
-
 ![Description](image_10058.jpeg)
 
 Figure 7.34.a. Copenhagen, Royal Library, NkS 4466 (4o), fol. 262v: “the present [piece] is chanted for the Akathist
@@ -3511,16 +3367,12 @@ Hymn, mode plagal 4 To you, the Champion General.”lviii
 The photograph was included in the present work with the kind permission of the Royal Library
 of Copenhagen/by Courtesy of the Royal Library of Copenhagen.
 
-378
-
 ![Description](image_10059.jpeg)
 
 Figure 7.34.b. Copenhagen, Royal Library, NkS 4466 (4o), fol. 263r, with the continuation of the ancient setting of the second
 prooimion of the Akathist Hymn. There follows “another artful [piece] by kyr(?) Balasios, priest and nomophylax of the
 Great Church, mode 1 and plagal 4 Ti ti ti...”. The photograph was included in the present work with
 the permission of the Royal Library of Copenhagen.
-
-379
 
 ![Description](image_10060.jpeg)
 
@@ -3532,8 +3384,6 @@ For a more detailed description and more photographs of the ms., see: Politis, S
 Sotiroudi (1991, p. 4). <http://digital.lib.auth.gr/collection/Manuscripts?ln=el> (no. 108, [ARC-2007-37889]) and
 <http://digital.lib.auth.gr/record/79607/files/1.pdf> (19.8.2016).
 
-380
-
 ![Description](image_10061.jpeg)
 
 Figure 7.35.b. Ms. no. 3 of the Study Room of Classical Philology of the Faculty of Philosophy of Aristotle
@@ -3541,8 +3391,6 @@ University of Thessaloniki, fol. 46v, with the continuation of the sticheron “
 other stichera for Saint Demetrios. In the lower part of the folio begins the famous eight-mode sticheron “Thrice-excellent
 helper of ours,” poem by John Staurakios (see “Holy Week” of Saint Demetrios, ed.
 Fountoulis, 1986, pp. 86-88). © Central Library of A.U.Th.
-
-381
 
 ![Description](image_10062.jpeg)
 
@@ -3557,8 +3405,6 @@ like the Pharisee,” mode 1, etc.
 Politis, Sotiroudis and Sakellaridou-Sotiroudi (1991, p. 34). <http://digital.lib.auth.gr/collection/Manuscripts?ln=el>
 (no. 28, [ARC-2007-38233]) and <http://digital.lib.auth.gr/record/80008/files/1.pdf> (19.8.2016).
 
-382
-
 ![Description](image_10063.jpeg)
 
 Figure 7.37. Ms. no. 45 of the Study Room of Classical Philology of the Faculty of Philosophy of Aristotle
@@ -3568,8 +3414,6 @@ mode 1. The ms. is extremely carefully executed, with artistic headings. © Cent
 For a more detailed description and more photographs of the ms., see: Politis, Sotiroudis and Sakellaridou-
 Sotiroudi (1991, pp. 46-47). <http://digital.lib.auth.gr/collection/Manuscripts?ln=el> (no. 16, [ARC-2007-38328]) and
 <http://digital.lib.auth.gr/record/80113/files/1.pdf> (19.8.2016).
-
-383
 
 ![Description](image_10064.jpeg)
 
@@ -3583,8 +3427,6 @@ For a more detailed description and more photographs of the ms., see: Politis, S
 Sotiroudi (1991, pp. 93-94). <http://digital.lib.auth.gr/collection/Manuscripts?ln=el> (no. 37, [ARC-2007-38196]) and
 <http://digital.lib.auth.gr/record/79963/files/1.pdf> (19.8.2016).
 
-384
-
 ![Description](image_10065.jpeg)
 
 Figure 7.39. EBE 964, autograph of Petros Byzantios, year 1806, fol. 2r: “Heirmologion, with holy God, containing
@@ -3593,8 +3435,6 @@ composition of Petros Protopsaltes of the Holy Great Church of Christ, the Byzan
 ode: 1; mode 1; Your trophy-bearing right hand.” The Heirmologion of Petros Byzantios is organized by mode and
 ode. In the lower part of the folio is visible the beginning of the heirmos of ode 1 of the Canon of Christmas, “Christ
 is born, glorify [him].”lix
-
-385
 
 ![Description](image_10066.jpeg)
 
@@ -3608,8 +3448,6 @@ For a more detailed description and more photographs of the ms., see: Politis, S
 Sotiroudi (1991, pp. 61-62). <http://digital.lib.auth.gr/collection/Manuscripts?ln=el> (no. 98, [ARC-2007-37960]) and
 <http://digital.lib.auth.gr/record/79680/files/1.pdf> (19.8.2016).
 
-386
-
 ![Description](image_10067.jpeg)
 
 Figure 7.41. Ms. no. 30 of the Study Room of Classical Philology of the Faculty of Philosophy of Aristotle
@@ -3618,8 +3456,6 @@ photograph: beginning of “Blessed is the man,” plagal fourth mode, by Petros
 For a more detailed description and more photographs of the ms., see: Politis, Sotiroudis and Sakellaridou-
 Sotiroudi (1991, pp. 32-33). <http://digital.lib.auth.gr/collection/Manuscripts?ln=el> (no. 31, [ARC-2007-38223]) and
 <http://digital.lib.auth.gr/record/79993/files/1.pdf> (19.8.2016).
-
-387
 
 ![Description](image_10068.jpeg)
 
@@ -3630,8 +3466,6 @@ Library of A.U.Th.
 For a more detailed description and more photographs of the ms., see: Politis, Sotiroudis and Sakellaridou-
 Sotiroudi (1991, p. 6). <http://digital.lib.auth.gr/collection/Manuscripts?ln=el> (no. 101, [ARC-2007-37952]) and
 <http://digital.lib.auth.gr/record/79672/files/1.pdf> (19.8.2016).
-
-388
 
 ![Description](image_10069.jpeg)
 
@@ -3652,8 +3486,6 @@ plagal fourth mode, melody by Petros Peloponnesios. © Central Library of
 ms., see: Politis, Sotiroudis and Sakellaridou-
 [ARC-2007-38054]) and
 
-389
-
 ![Description](image_10070.jpeg)
 
 Figure 7.44. Ms. no. 64 of the Study Room
@@ -3673,8 +3505,6 @@ Anoixantaria, plagal fourth mode. The Romanian text in Cyrillic characters.
 ms., see: Politis, Sotiroudis and Sakellaridou-
 <http://digital.lib.auth.gr/collection/Manuscripts?ln=el> (no. 88, [ARC-2007-38011]) and
 
-390
-
 ![Description](image_10071.jpeg)
 
 Figure 7.45. Ms. no. 15 of the Study Room of Classical Philology of the Faculty of Philosophy of Aristotle
@@ -3685,8 +3515,6 @@ initials of the notes are only on the first folio). © Central Library of A.U.Th
 For a more detailed description and more photographs of the ms., see: Politis, Sotiroudis and Sakellaridou-
 Sotiroudi (1991, pp. 13-14). <http://digital.lib.auth.gr/collection/Manuscripts?ln=el> (no. 77, [ARC-2007-38061]) and
 <http://digital.lib.auth.gr/record/79803/files/1.pdf> (19.8.2016).
-
-391
 
 ## Evaluation Criteria for Chapter 7
 
@@ -3723,8 +3551,6 @@ Exercise in transnotation and comparison of the sticheron Prayer is a wondrous w
 Assessment criterion 8:
 Exercise in transnotation of the heirmos (εἱρμός) “Having gone down to the abyss” in the old style,
 based on the Heirmologion Iviron 470 (transitional Middle Byzantine notation)  & 
-
-392
 
 ### Assessment criterion 9
 
@@ -3782,8 +3608,6 @@ Strunk, Oliver. (Ed., 1966). Specimina Notationum Antiquiorum. Folia selecta ex 
 phototypice depicta. Monumenta Musicae Byzantinae, Facsimiles VII, Pars Principalis & Pars Suppletoria.
 Hauniae: Ejnar Munksgaards Forlag.
 Tardo, Lorenzo. (Ed., 1951). Hirmologium Cryptense. MMB, Facsimiles III, Pars Principalis & Pars Suppletoria. Roma.
-
-393
 
 ### Catalogues of Byzantine and
 
@@ -3847,8 +3671,6 @@ Vasile, Vasile & al. (2010). Grantul "Catalogul manuscriselor de musică sacră 
 Volumul II. Universitatea de Arte "George Enescu" - Iași. Iași: Editura "Artes".
 Vasile, Vasile. (2007, 2008). Tezaur muzical românesc din Muntele Atos. 2 vols. București: Editura Muzicală.
 
-394
-
 Theoretical writings
 
 Akribeia. Ed. Bjarne Schartau, Anonymous Questions and Answers on the Interval Signs. Monumenta Musicae
@@ -3906,8 +3728,6 @@ Kyriakoudis, Evangelos. (2005). Portable and paper icons, illuminated manuscript
 Alexandros Makridis, Nikolaos Toutos and Georgios Fousteris (eds.), Saint Demetrios in the art
 of Mount Athos (pp. 85-152). Thessaloniki: Mount Athos Centre.
 Babiniotis, Georgios. (2002). Dictionary of the Modern Greek language (2nd ed.). Athens: Centre for Lexicology.
-
-395
 
 Boukas, Nikolaos. (2004). The tradition of the heirmologic Byzantine melodies of the varys mode from the 10th to the
 16th century. Doctoral dissertation. Ionian University, Department of Music Studies. Corfu.
@@ -3970,8 +3790,6 @@ Levy, Kenneth. (1958). The Byzantine Sanctus and its Modal Tradition in East and
 
 Lütteken, Laurenz. (1997). v. Mensuralnotation. Part of the entry Notation. In Ludwig Finscher (ed.), Die Musik
 in Geschichte und Gegenwart, Allgemeine Enzyklopädie der Musik, begründet von Friedrich Blume (zweite,
-
-396
 
 neubearbeitete Auflage), vol. 7 (cols. 323-339). Kassel-Basel-London-New York-Prag: Bärenreiter, Stuttgart-
 Weimar: Metzler.
@@ -4037,8 +3855,6 @@ Epidaurus. Athens. Digital D.D.A. cassette. ELBYCH 10.
 
 Cappella Romana. Alexander Lingas. (2011). Medieval Byzantine Chant. Mt. Sinai: Frontier of Byzantium. From the
 Vespers for St. Catherine & the Service of the Furnace. CR407-CD.
-
-397
 
 Webography
 
@@ -4106,8 +3922,6 @@ xiv Cf. Arvanitis (2006, pp. 244-253). Alexandrou (2010, pp. 36-43).
 xv The present section takes as its starting point: Alexandru & Troelsgård (2008, especially vol. ΙΙ, pp. 562-567 and vol. ΙΙΙ, pp. 1223-
 1225).
 xvi Cf. Harlfinger, Reinsch, Sonderkamp, & Prato (eds., 1983, pp. 56-57 and pl. 7). Raasted (1966a, p. 48).
-
-398
 
 ||
 |---|
@@ -4178,8 +3992,6 @@ xlviii Concerning the date of the MS, see Kalaitzidis (2012, plate 1: early 15th
 
 xlix We thank Mr Demosthenis Spanoudakis for photographing folios from codex NLG 2401 for the present handbook.
 
-399
-
 l A recording of the second koinonikon Aineite by Gazes, in mode IV-plagal IV, based on the transcription by Michalis
 Adamis (1986, pp. 59-61), was made by the Greek Byzantine Choir, dir. Lykourgos Angelopoulos
 (1990). Cf. also MS Dochariou 315 (late 16th-early 17th c.), ff. 66v-67r, containing another koinonikon
@@ -4207,5 +4019,3 @@ lix For further information regarding this MS, cf. Chatzigiakoumis (1975, p. 365
 lx Cf. the Christos anesti in concise and slow-concise versions, and as “another slow one, ancient melos, as
 sung on Mount Athos”, together with corresponding scores in the New Method, on the CD Holy Pascha (P.E.K. 27) and
 in the accompanying booklet.
-
-400

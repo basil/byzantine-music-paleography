@@ -55,8 +55,6 @@ of old fonts), in relation to the timetable for the realization of the present e
 definitions, and topoi”, that is, of a tradition “which becomes intelligible to the present-day researcher only when
 it is considered holistically”, see Zannos, Musiktraktat, pp. 10 and 11. See also Schlötterer, op. cit., p. 287.
 
-i
-
 ![Description](image_13496.png)
 ![Description](image_13497.png)
 ![Description](image_13498.png)
@@ -130,8 +128,6 @@ amplísimas interferencias de vocabulario con otros dominios y a una amplia sino
 ordinaria puede ser tecnicismo gramatical, médico, matemático, musical, etc., lo que implica un uso muy fluctuante del
 vocabulario común con intenciones técnicas que no siempre llegan a cuajar... " (Diccionario, pp. I and II).
 
-ii
-
 cases in which the names of neumes derive from the aforementioned domains (e.g. the names
 oxeia and bareia, which derive from Grammar and, as prosodic signs, are also correlated with
 Music9), these names are incorporated into a new system—that of the notation of the Psaltic
@@ -199,8 +195,6 @@ the reader to grasp, in terms of understanding the roles of each sign. On the ot
 systematic structure (e.g. with the categories Execution, Gesture, Orthography, etc.), which would also allow a uniform
 formatting of the entries, seemed less useful, because of the many repetitions and internal cross-references
 it would require.
-
-iii
 
 At this point, let us mention the problem of convergence-synonymy among various neumes:14
 
@@ -276,8 +270,6 @@ there was no direct reference in the other lexica.
 Etymological Dictionary of Common Modern Greek
 of Liturgical and Ritual Terms. Thessalonike.
 Koumanoudes, St. (1883). Collection of Words Not Included in the Greek Lexica. Athen.
-
-iv
 
 ### B. For the “Relations” of the designations with the terminology of ancient arts
 
@@ -357,8 +349,6 @@ Papadike, cf. Alexandru, Bemerkungen, vol. I, pp. 44-46.
 19 The transcription was carried out according to the edition of the Great Ison in Tameion Anthologias, pp. 447-463,
 with the aid of Tončeva’s article, "Prepisi", pp. 251-302. The modal structure of the Koukouzelian didactic
 
-v
-
 ![Description](image_13499.png)
 ![Description](image_13500.png)
 ![Description](image_13501.png)
@@ -389,8 +379,6 @@ notation remains to be undertaken. Cf. also Stephan §§66-67.
 Strategies of editing 'living texts': the case of the Papadike. 23rd International Congress of Byzantine Studies, Belgrade,
 22nd-27th August, 2016.
 
-vi
-
 |Typ B|Type B in Raasted’s numbering (New numbering: remains B)|15th-16th c.|||
 |---|---|---|---|---|
 |Typ C|Type C in Raasted’s numbering (New numbering: D)|16th-18th c.|||
@@ -407,8 +395,6 @@ vi
 (1997).
 Byzantinae,
 
-vii
-
 ||Corpus Scriptorum de Re Musica, II. Wien: Verlag der Österreichischen Akademie der Wissenschaften, 1985.||||
 |---|---|---|---|---|
 |AnonEBE 899|Anonymous theoretical treatise in ms. EBE 899, in the edition: Zannos, Ioannis. (1985). Ein byzantinischer Musiktraktat im Codex Athen 899. Wissenschaftliche Hausarbeit zur Erlangung des akademischen Grades eines Magister Artium der Universität Hamburg.|“Up to 1490”.|MB II (late)|Zannos, Ichos, p. 111.|
@@ -420,8 +406,6 @@ vii
 |Apost|Apostolopoulos, Thomas. (2002). Apostolos Konstas of Chios and his contribution to the theory of the Art of Music. IBM, Studies 4. Ed. Gr. Stathis. Athens.|1800-1820: several versions, of which the following are mentioned: Doch389: year 1807. EBE1867: year 1820.|MB II-III (late and exegetical).|Apostolopoulos, Apostolos, p. 56.|
 |Stephan|Basileios Stephanides the Byzantine. Outline on music, especially ecclesiastical. In Appendix of Ecclesiastical Truth, issue 5 (1 November 1902, pp. 209-279). Constantinople: Patriarchal|1819|MB II-III (late and exegetical).||
 |ChrysanthEis|Chrysanthos of Madytos. Introduction to the theoretical and practical study of ecclesiastical music. Paris: Rigniou Press, 1821, repr.|1821|NB I (Chrysanthine).||
-
-viii
 
 ||Koultoura.||||
 |---|---|---|---|---|
@@ -450,8 +434,6 @@ London, 1975. Athens.
 Giannelos: Giannelos, Dimitri. (1996). La musique byzantine. Le chant écclesiastique grec, sa notation et sa pratique
 actuelle. Paris & Montreal: L'Harmattan.
 
-ix
-
 ## 4. Abbreviations and special symbols
 
 The abbreviations for the various editions of texts referred to in the Glossary are found in
@@ -477,8 +459,6 @@ Greek authors, in order to distinguish them from the explanations that derive fr
 Modern Greek dictionaries.
 
  reference
-
-x
 
 ![Description](image_13504.jpeg)
 
@@ -761,8 +741,6 @@ facsimiles or other editions were also used (see the corresponding references in
 In cases in which an ms. contains only theoretical texts, or only its theoretical
 part was used in the present study, this is explicitly indicated after a vertical bar |.
 
-xi
-
 1. : A.D. 1774 (ibid.): Sticherarion des Germanos Neon Patron
 
 1867: A.D. 1820, Autograph des Apostolos Konstas Chios (Apostolopoulos, Apostolos, S. 56) | Theoretika
@@ -844,8 +822,6 @@ teacher of the Common School of the Nation”: Papadopoulos-Kerameus, Bibliothek
 3 Ibid., p. 243.
 4 Ibid., p. 245.
 
-xii
-
 1. : Autograph des Chourmouzios: Exegese des Mathematarion (Bd. III)5
 
 748: "[1831?]-1832", Autograph des Chourmouzios: Exegese des Sticherarion des Germanos Neon Patron (Bd. II:
@@ -918,8 +894,6 @@ Chatzigiakoumis, op. cit., p. 58.
 exegeted by Chourmouzios chartophylax, one of the inventors of the new musical method,
 in the year of salvation 1826”: Papadopoulos-Kerameus, op. cit., p. 258.
 10 By mistake it is cited as no. 496.
-
-xiii
 
 Vat 872: Vaticanus gr. 872, Bibliotheca Apostolica Vaticana: "Beginn des 14. Jh." (cf. ed. Tardo, Melurgia, S. 164-173) |
 Theoretika
@@ -1005,8 +979,6 @@ opinion of the two Teachers of the Common School of the Nation, Gregory the Lamp
 11 For the dating of the theoretical treatises,
 
 cf. above, Table P.1.1.
-
-xiv
 
 - Chrys: Manouel Chrysaphes, On the matters examined in the art of chant and on the erroneous views some hold about
 
@@ -1113,8 +1085,6 @@ ParartemaV (Nov. 1902), S. 207-279
 
 Alexandru, Bemerkungen II, Beilage 14
 
-xv
-
 ## IV. Secondary Bibliography12
 
 - Abraham, Otto/Hornbostel, Erich M. von, Vorschläge für die Transkription exotischer Melodien, in Sammelbände der
@@ -1216,8 +1186,6 @@ Modern Hellenism, Athen 1980: Cheirographa
 
 12 The short titles are shown in bold type. Lexicon entries that have more than one author
 are listed in Index V.
-
-xvi
 
 - Conomos, Dimitri E., Byzantine Trisagia and Cheroubika in the Fourteenth and Fifteenth Century. A Study of Late
 
@@ -1332,8 +1300,6 @@ MMB I, Kopenhagen 1935
 
 - Hucke, Helmut, Die Cheironomie und die Entstehung der Neumenschrift, in Die Musikforschung 32 (1979), S. 1-16
 
-xvii
-
 - Huglo, Michel, La chironomie médiévale, in Revue de Musicologie 49 (1963), S. 155-171
 
 - Hunger, Herbert, Die hochsprachliche profane Literatur der Byzantiner, 2 Bde., München 1978
@@ -1441,8 +1407,6 @@ Universität Wien, 1996
 - id., Umarbeitungsvorgänge in der musikalischen Tradition des Anastasimatarion im 16. und 17. Jh., in MAEO (1997),
 
 1. 217-226
-
-xviii
 
 - Mathiesen, Thomas J., Aristides Quintilianus, On Music, In Three Books, Translation, with Introduction,
 
@@ -1553,8 +1517,6 @@ Byzantine Music, in IMS Report, S. 775-777
 
 zum 60. Geburtstag, edd. J. Szendrei/D. Hiley, Hildesheim 1995, S. 261- 277
 
-xix
-
 - id., Rhythm in Byzantine Chant, in Hernen 1 (1991), S. 67-90
 
 - id., Thoughts on a Revision of the Transcription Rules of the Monumenta Musicae Byzantinae, in CIMAGL 54 (1986), S.
@@ -1662,8 +1624,6 @@ Docheiariou 389, Athen 1978: Exegesis
 Theologia 58/2 (1987), S. 337-371: Exegese
 
 - id., History and Morphology of Byzantine Melos, Universitätskurs (unveröffentlicht): Historia
-
-xx
 
 - id., The Great Hours of the Passion from the Old Sticherarion, Athen 1975: Horai
 
@@ -1776,8 +1736,6 @@ Chant, S. 69-85
 
 - id., A New Introduction, to the Middle Byzantine Musical Notation, MMB Subsidia IX (in Erscheinung begriffen)
 
-xxi
-
 - id., Kromatik i byzantinsk kirkesang? Nogle betragtninger omkring skala- og tonalitets-begrebet i den middelalderlige
 
 og eftermiddelalderlige tradition, Sonderdruck aus Ordet og livet, Festskrift til Christian Thodberg, redd. C. Bach-
@@ -1868,8 +1826,6 @@ The abbreviations derive, in the case of ancient authors, chiefly from the LSJ, 
 texts from the L, and for later texts from the LBG. Following the model of the LBG, we have not put periods
 in the abbreviations of authors and works. Also from the LBG come most of the abbreviations of the
 general reference works of Classical Philology and Byzantine Studies.
-
-xxii
 
 - Adj.: Adjektiv
 
@@ -1985,8 +1941,6 @@ Budapest 1998
 - Choer: Choeroboscus, Prolegomena et Scholia in Theodosii Alexandrini Canones isagogicas de flexione verborum, ed.
 
 1. Hilgard, Grammatici graeci IV,2, Leipzig 1889-1894
-
-xxiii
 
 - ChourmGreg: Chourmouzios & Gregorios, Eisagoge  Index III
 
@@ -2109,8 +2063,6 @@ rhetoricae, Leipzig 1795 (Nachdr. 1962)
 
 Handbooks in Music,
 
-xxiv
-
 - Eust: Eustathius, Comentarii ad Homeri Iliadem et Odysseam, 7 Bde., Leipzig 1825-1830 (Nachdr. 1960) | M. van der
 
 Valk, Eustathii commentarii ad Homeri Iliadem pertinentes, Leiden 1971-1979
@@ -2223,8 +2175,6 @@ Copenhagen 1972, edd.
 
 14 LBG, Index of abbreviations, p. 17.
 
-xxv
-
 - IsidEtym: Isidorus Hispalensis, Etymologiae, ed. W.M. Lindsay, Oxford 1911
 
 - Jan: C. Jahn, Musici Scriptores Graeci, Leipzig 1895
@@ -2334,8 +2284,6 @@ edd. I. Poniatowska/C. Nelkowski, Bd. I, Bydgoszcz 1997
 - Meib: Meibomius, Marcus, Antiquae Musicae Auctores Septem, Graece et Latine,
 
 Amsterdam 1652
-
-xxvi
 
 - MenRhet: Menander Rhetor, On Epideictic Oratory, ed. Spengel III, S. 329
 
@@ -2455,8 +2403,6 @@ in Sin 1764  Index III
 - zugeschriebene Erotapokriseis
 
 - Amsterdam 1965 u. 1967
-
-xxvii
 
 - PlatLg: Plato, Leges, in Platonis opera, ed. J. Burnet, Bd. V, Oxford 1913
 
@@ -2587,8 +2533,6 @@ Leipzig 1894, 1854, 1956
 
 Jahresangabe)
 
-xxviii
-
 Theod: Theodoulos, Lehrgesang  Index III
 TLG: Thesaurus Linguae Graecae, CD-Rom, University of California Irvine 1987
 
@@ -2634,8 +2578,6 @@ Fool.Leontius Episcopus Neapoleos Cypri istius vitae auctor dicitur...15
 
 15 Duc, Index Auctorum, p. 42.
 
-xxix
-
 # Appendix 2
 
 ## Catalogue of theseis (θέσεις) of the Old System, based on lists of neumes, didactic poems, and theoretical manuals1
@@ -2659,8 +2601,6 @@ vol. II, pp. 28-77. It is based chiefly on the sources cited on pp. v-ix of Appe
 Handbook, and discussed in the same Appendix, pp. x-xiv. In the transcriptions into staff notation,
 differentiated accidentals were added, in accordance with what is stated in Appendix 3 of the present Handbook, section 5.
 For transferring the staff transcriptions into Finale we thank Mr Giannis Vamvakas.
-
-xxx
 
 ![Description](image_13613.jpeg)
 ![Description](image_13614.jpeg)
@@ -2990,16 +2930,12 @@ chanting must be based on Byzantine notation. The present Appendix does not offe
 catalogues of signs and modes, but only the most important elements for the present work. For
 further information, the reader may consult various theoretical manuals of the New Method.
 
-xxxi
-
 ![Description](image_13742.png)
 
 Figure P3.0. “The unfading Rose”. Copy of a miniature from the ms Biblioteca Academiei Române gr. 1096, f.
 178v.  Right: troparion of the first Ode of the Canon of the Akathist, by Saint Joseph the Hymnographer. Adaptation
 to the heirmos “I shall open my mouth” of Petros Byzantios (1825, p. 70) in the leghetos mode (ἦχος λέγετος), by Mr Pavlos
 Hatzipapas, whom we thank.
-
-xxxii
 
 ## 1. Prolegomena
 

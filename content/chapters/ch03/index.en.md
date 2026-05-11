@@ -33,8 +33,6 @@ are many coloured initials”.
 A basic element of the palaeographer’s work is the dating of the manuscripts with which
 he deals. Some manuscripts have, usually at their end, a bibliographical or codicological
 
-154
-
 note, the so-called colophon,i where the scribe may state information such as the title of the book
 he copied, his own name and/or that of the person who commissioned it and bore the cost of the
 manuscript, the exemplar (anthivolon: the original from which the copy was made), the place where the codex was written or
@@ -87,8 +85,6 @@ With the above symbols the remaining
 numbers could also be formed, e.g.: ΙΙ = 2, ΔΙΙ = 12, ΔΔ = 20, ΗΗ = 200, ΜΜ = 20,000 etc.
 Table 3.1. The acrophonic numeral system.vii
 
-155
-
 The second numeral system, the alphabetic, which uses the letters of the alphabet
 as numbers, took shape in Miletus or in Asia Minor Ionia between the eighth and sixth centuries BC. During the Classical
 period it spread also to the other Greek cities, gradually displacing the acrophonic system. From
@@ -136,8 +132,6 @@ Clarifications for Table 3.2:
 -  You can try using the alphabetic numeral system by writing, for example, your
 
 date of birth in Greek numeral-letters.
-
-156
 
 ## 3. Systems of Dating in Byzantiumix
 
@@ -194,8 +188,6 @@ genealogies contained in it and in other books of Holy Scripture.xvi The various
 chronological systems converge in placing the creation of the world approximately in the middle
 of the sixth millennium before the Birth of Christ. According to the Byzantine chronological system, which
 probably goes back to the time of Emperor Heraclius (610-641),xvii the creation of the world
-
-157
 
 was initially calculated as 25 March of the year 5508 BC, so that each year began with the feast of the
 Annunciation. The consolidation of the system, however, brought about, for practical reasons, the transfer of the
@@ -265,8 +257,6 @@ For example:
 
 1. The Sticherarion Ambrosianum A 139 sup. has the following colophon on fol. 301v:
 
-158
-
 “† The present stich(erar)ion was completed by the hand of me, Leo, priest /
 the Padiates and taboullarios; and the mode and the / setting of the melody were worked on by the most hon(our)able among
 hieromonks, lord Athanasios; / and spir(it)ual f(at)h(er); in the month of October, ind(iction)
@@ -294,15 +284,11 @@ with the indication of the indiction in the manuscript!)
 
 1. The Sticherarion of the National Library of Greece 884 has the following colophon (see Figure 3.2):
 
-159
-
 ![Description](image_3154.jpeg)
 
 Figure 3.2. The colophon of the Sticherarion NLG 884, fol. 390v. © National Library of Greece.xxvi
 
 You can try on your own to decipher the note and consider wherein its great importance lies. Afterwards you can compare it with the transcription and comments below.
-
-160
 
 The operations for determining the date in this case are the following:
 
@@ -340,15 +326,11 @@ after which”) for a particular event.
 Another famous bibliographical note is found in the MS of the National Library of
 Greece, no. 2406: see Figures 3.4.-6.
 
-161
-
 ![Description](image_3155.jpeg)
 
 Figure 3.4. Bibliographical note in the Anthology of the Papadike NLG 2406, fol. 291r. © National Library of Greece.
 
 You can try on your own to decipher the note and compare it with the transcription that appears below.
-
-162
 
 “end of the office of the Great Vespers:- |
 written by the hand of Matthew the wretched; domestikos perhaps and also ragged-clad: |
@@ -402,8 +384,6 @@ of Alexandros Paspates (1877). Byzantine topographical studies.
 Sources: <https://commons.wikimedia.org/wiki/File:Theofilos_Palaiologos.jpg> (9.9.2016).
 <https://commons.wikimedia.org/wiki/File:Hagia_Theodosia.JPG> (9.9.2016). See also Papathanasiou (2013).
 
-163
-
 ## 4. Monokondylia and cryptograms
 
 Some bibliographical notes end with a word, and at times even an entire sentence, which is usually
@@ -421,8 +401,6 @@ and written by the hand of me, Meletios, hie/romo(nk), and you who read it / pra
 - / † Meletios hieromo(nk)”xxx
 
 -  You can also write your own name as a monokondylia (like a signature).
-
-164
 
 In some manuscripts there are, in addition, graphic riddles. For the unsuspecting reader, the
 message is locked; it is a cryptogram. It can be read only if the
@@ -512,8 +490,6 @@ Table 3.4. The method of reversing the letters in the cryptographic system of MS
 
 -  You can also write your own name with the above secret alphabet!xxxiii
 
-165
-
 ## 5. Dating manuscripts without a bibliographical note
 
 Up to now we have spoken about manuscripts that state their date by means of a corresponding
@@ -538,8 +514,6 @@ Greek Palaeography and Philology, are inseparable, and the field of study has no
 There are still many topics of specialized research that must be carried out in order for us to have
 in the future more tools for the correct approach to handwritten musical sources.”xxxv
 
-166
-
 ## Assessment criteria for Chapter 3
 
 Assessment criterion 1
@@ -556,8 +530,6 @@ Exercise in transcribing a bibliographical note of the Byzantine period (Figure 
 Figure 3.9. The colophon of the codex of the “Akolouthiai” (Papadike) ΕΒΕ 2458, fol. 176r. © National Library of
 Greece.xxxvi
 
-167
-
 Assessment criterion 3
 Exercise in transcribing a bibliographical note of the post-Byzantine period, with double dating (see Figure 3.10)
 
@@ -566,8 +538,6 @@ Exercise in transcribing a bibliographical note of the post-Byzantine period, wi
 
 
 Figure 3.10. The colophon of the manuscript of the Holy Great Monastery of Vatopedi no. 1048, fols. 104v-105r. © H.G.M. Vatopedi, Mount Athos.xxxvii
-
-168
 
 Assessment criterion 4
 Exercise in arithmetic operations for establishing the date
@@ -585,8 +555,6 @@ following
 
 Figure 3.11. Monokondylia (below in the left margin of the manuscript) in codex ΕΒΕ 2155, Sticherarion, 14th cent., fol.
 69v (Politis and Politi, 1991, p. 181). © National Library of Greece.
-
-169
 
 ## Bibliography for Chapter 3
 
@@ -649,8 +617,6 @@ Grumel, Venance. (1935). L' année du monde dans l'ère byzantine. Échos d'Orie
 <http://www.persee.fr/web/revues/home/prescript/article/rebyz_1146-9447_1935_num_34_179_2838> (23.7.2015).
 Grumel, Venance. (1958). Traité d'études byzantines I. La Chronologie. Paris: Presses Universitaires de France.
 
-170
-
 Kujumdzieva, Svetlana. (2004). John Koukouzeles' Sticherarion. The Formation of the Notated Anastasimatarion. Sofia:
 Gutenberg Publishing House (in Bulgarian, with English summary).
 Langenscheidts Großes Schulwörterbuch Lateinisch-Deutsch. (1991). Βearbeitet von Erich Pertsch auf der Grundlage
@@ -712,8 +678,6 @@ Sinai 1234, fol. 444v: “in the year from our Lord Jesus Christ ,αῷυῷξθ
 (Balageorgos & Kritikou, 2008, fig. 23 on p. 96 and transcription of the colophon on p. 95). The correspondence of the year
 in Arabic numerals is: 1469.
 
-171
-
 xiii See Grumel (1958, especially pp. 3-4, 73, 192-193, 239-264). The same author (1935). Buchwald, Hohlweg, & Prinz (1982, p.
 
 1. Cf. also <https://en.wikipedia.org/wiki/Byzantine_calendar> (23.7.2015). For the Seleucid kings (305-64
@@ -770,8 +734,6 @@ These numbers are double and change according to the dates, because today we cou
 the beginning of the year, whereas the other systems (Byzantine, Proto-Byzantine, and Alexandrian) place it either in
 March or in September. To this day the ecclesiastical year and the academic year begin on
 1 September, thereby preserving an ancient tradition: see Table 3.6 below.
-
-172
 
 |Chronological system|Year of the creation of the world|Number to be subtracted from the date of the given manuscript|Corresponding dates|
 |---|---|---|---|
@@ -1659,8 +1621,6 @@ We also thank Mr Demosthenes Spanoudakis. This particular leaf was first publish
 p. 207).
 
 xxxvii This particular leaf of this manuscript was previously published in: Litsas (2001, pp. 128-129).
-
-173
 
 ![Description](image_4004.png)
 ![Description](image_4005.png)

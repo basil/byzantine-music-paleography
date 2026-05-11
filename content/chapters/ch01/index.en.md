@@ -42,8 +42,6 @@ study of the Palaeography of Byzantine Music:
 
 - enthusiasm.
 
-29
-
 Indeed, the fascinating undertaking of studying the old codices of Byzantine music requires a variety of
 knowledge, which makes possible:
 
@@ -94,8 +92,6 @@ Serbia, Transylvania in Romania, Bulgaria, Greece, and elsewhere) and the Cucute
 5500–2750 BC, in the zone of present-day Romania, Moldova, and Ukraine), famous also for
 its painted pottery.xiv
 
-30
-
 The oldest writing systems, however, that we can trace today in various stages
 of their development date back to the end of the fourth millennium BC, and come from the East, and more
 specifically, from the civilization of the Sumerians (Mesopotamia: cuneiform script, ca. 3300/3200 BC)
@@ -127,8 +123,6 @@ Image sources: <https://upload.wikimedia.org/wikipedia/commons/8/86/Code_of_Hamm
 <https://commons.wikimedia.org/wiki/File:CodeOfHammurabi.jpg> (7.8.2016).xvi For further information regarding cuneiform
 script, see: <https://vimeo.com/119967608> (1.9.2016), with the documentary by Christine Proust and Cécile Michel, "Cuneiform script:
 writing and calculating".
-
-31
 
 ![Description](image_2424.jpeg)
 
@@ -191,8 +185,6 @@ Semitic scripts (Phoenician,
 Hebrew, Arabic)
 Greek alphabet
 
-32
-
 Tens of thousands of surviving texts from Antiquity, written on various materials such as clay,
 stone, skins, bones, and papyrus, and capable of being assigned to a broad range of subjects, from
 official written documents of a hieratic character, religious and legal texts, diplomatic documents, texts
@@ -231,8 +223,6 @@ alphabetic script
 
 Table 1.2. Aegean scripts.xxvi
 
-33
-
 ![Description](image_2425.jpeg)
 
 Map 1.2. Regions in which the Aegean scripts took shape. © Google earth.
@@ -267,8 +257,6 @@ Italy
 
 Table 1.3. Forms of the Greek alphabet.xxx
 
-34
-
 Of these various variants of the Greek alphabet, the most complete was that of the city
 of Miletus in Ionia of Asia Minor (see Map 1.3). The writing system of Miletus was adopted
 officially by Athens in 403/402 and became the classical Greek alphabet, which we use
@@ -298,8 +286,6 @@ interesting course of development, milestones of which are noted succinctly in T
 |403/402 BC|The alphabet of Miletus is adopted by Athens.|
 |ca. 350 BC|√ Formation of the Koine (dialect), which develops rapidly during the Hellenistic period (323–31 BC)xxxiii and gradually displaces the old dialects (some of these, such as e.g. Doric, are preserved in literature). √ Crystallization of MAJUSCULE WRITING, with characters that in general terms resemble the capital Greek letters known today.|
 |3rd c. (ca. year 200) BC|Invention of the prosodic signs (acute, grave, circumflex, rough breathing, smooth breathing, etc. They are used rarely, especially in papyri, very little in inscriptions) and of punctuation marks: attributed to Aristophanes of Byzantium.xxxiv|
-
-35
 
 |from the Hellenistic period until ca. 3rd c. AD|√ Phonological changes in the Greek language (gradual transition of pronunciation from the ancient, in which alphabetic writing was phonetic, toward the modern, known in Greece to this day, in which writing was transformed into historical-traditional spelling).xxxv √ Changes in accentuation and metre: transition from the ancient prosodic system (differentiation of syllables on the basis of their duration [long–short] and their pitch [acute: higher, grave: lower, circumflex: rising–falling movement, always on a long syllable]) to accentual metre (based on the sequence of stressed and unstressed syllables and the|
 |---|---|
@@ -334,8 +320,6 @@ refers to the Byzantine visual tradition, to mosaics, icons, and frescoes with
 the Pantokrator, the Mother of God, prophets, apostles, evangelists, etc., who are depicted holding
 a book or scroll (see Figures 1.4–7).
 
-36
-
 ![Description](image_2427.jpeg)
 
 Figure 1.4. The Second Ecumenical Council, Constantinople 381. Emperor Theodosius the Great sits on the right, beside
@@ -347,8 +331,6 @@ most important monuments of Byzantine art (Förstel, 2001, p. 13).
 Image source: Förstel, Christian. (2001). Trésors de Byzance. Manuscrits grecs de la Bibliothèque nationale de France.
 Cahiers d'une exposition, 37. Paris: Bibliothèque nationale de France, p. 5, fig. 15. © Bibliothèque nationale de France.
 
-37
-
 ![Description](image_2428.jpeg)
 ![Description](image_2429.jpeg)
 
@@ -356,8 +338,6 @@ Figures 1.5–6. The written word as a divine gift: the Prophet Moses receiving 
 the hand of God (manus Dei).  The Protopsaltes John Glykys (13th c.) writing music with the
 blessing of God: hagiographical sketches by Georgios Tzimopoulos and Aikaterini Ioannidou, based on
 Byzantine and post-Byzantine models.xli
-
-38
 
 ![Description](image_2430.png)
 
@@ -372,8 +352,6 @@ Sources: The sketch was based on a photograph from the cover of the CD by the Ma
 Sing wisely to God - IV (Chaldaiakis, 2011). See also Floros (1998, p. 321, fig. 9), as well as Spyrakou
 (2008, p. 479, 446).
 
-39
-
 Herbert Hunger (1995, p. 18) speaks of “bureaucratic communication” between heaven and earth,
 on the basis of various visual and literary sources from the Byzantine period. The use of writing for
 communication with the Saints is a phenomenon widespread even today (see Figure 1.8).
@@ -385,8 +363,6 @@ Demetrios the Myrrh-streamer at his reliquary (Church of Saint Demetrios, Patron
 
 We also owe to iconographic sources important information concerning the forms of the
 medieval book and the instruments of writing, on which we shall dwell, among other things, in chapter 2.
-
-40
 
 ## 5. Musical Notations
 
@@ -426,8 +402,6 @@ terminology drawn from the fields of Systematic Musicology,
 Ethnomusicology (Charles Seeger and Ter Ellingson), and Byzantine Musicology is used. In subsequent
 chapters we shall return to these categories.
 
-41
-
 |Para- meter|Kind of musical notation, based on contrasting conceptual pairs|Western music|examples, comments Byzantine and Greek traditional music|
 |---|---|---|---|
 |Mode of opera- tion (function) or use (use)|prescriptive (prescriptive) descriptive (descriptive)|where the which performer of the score by Ludwig van Beethoven, the artistic will of the composer is expressed directly and analytically, which is binding for the performer of the score|recording of a folk song or a hymn from the oral tradition, which represents a protocol of a specific instance of performance of that particular song or hymn. With regard to Byzantine notation, Christian Troelsgård proposed the term paradigmatic (paradigmatic), in order to denote the use of notation especially in the old Byzantine repertoire, where large strata of repertoire are recorded on the basis of oral tradition, with the aim of functioning as representative and exemplary specimens of the particular pieces.xlvi|
@@ -440,8 +414,6 @@ description and classification of musical notations, with emphasis on Byzantine 
 
 Table 1.5. Some categories for the
 17th–19th centuries.xlvii
-
-42
 
 ## 6. Palaeography of Byzantine Music (II) as a field of Neumatic Science
 
@@ -498,8 +470,6 @@ standards for the detailed description of Byzantine musical manuscripts were bro
 the Palaeography of Byzantine Music during the 20th century. The following works
 of cataloguing and editing Byzantine musical manuscripts may be mentioned indicatively:
 
-43
-
 - The central series “Série principale (Facsimilés)” of the publishing organization Monumenta Musicae Byzantinae of Copenhagen (MMB, founded in 1931 by Carsten Høeg, Egon Wellesz, and Henry W. Tillyard), which contains facsimile editions of selected musical codices with full codicological description and detailed account of their contents (see the editions by the founders of MMB and their collaborators, Father Lorenzo Tardo, Oliver Strunk, Enrica Follieri, Jørgen Raasted, Lidia Perria, Gerda Wolfram, etc.).lix
 
 - The series “Catalogues” of the Institute of Byzantine Musicology (founded in 1970 by Metropolitan Dionysios Psarianos and Grigorios Stathis), which presents the colossal cataloguing work of Gr. Stathis (manuscripts of Mount Athos, Meteora, as well as the first drafts of the exegeseis of the Three Teachers), which is continued also by his students, Emmanouil Giannopoulos, Dimitrios Balageorgos and Flora Kritikou, Achilleas Chaldaiakis, etc.lx
@@ -524,20 +494,14 @@ the Sticherarion), and the papadic (from the Papadike). More information about t
 of codices is offered by Table 1.6, which is based on the cataloguing and editorial work of Gr. Stathis
 and of MMB, in combination with various other studies in the international bibliography.
 
-44
-
 |Type of manuscript (basic collections)|Contents of the manuscripts and Comments|
 |---|---|
 |Tropologion (Τροπολόγιον)|Tropologion is the name given to the oldest collection of Christian hymns and scriptural readings, which is associated primarily with the hymnographic and musical tradition of Jerusalem from the 4th century onward (chiefly with the Church of the Anastasis). It survives, often fragmentarily, in various versions in the Greek language (9th century and later) and in translations into Old Georgian (Iadgari), Syriac (Tropligin), and Armenian (Šaraknoc). Sporadically, musical notation of primitive forms appears in Greek Tropologia.lxiii|
 |Sticherarion (Στιχηράριον). The name derives from the word sticheron (sc. troparion), a diminutive of the word stichos, “verse.” The name is associated with the fact that stichera are chanted together with verses from the Psalms of the Old Testament in the services of Vespers and Matins, etc. The Sticherarion was formed in the 10th century and is transmitted until approximately the 17th century, when it begins to fragment into individual collections.|The oldest Sticheraria that have survived show considerable divergences among themselves regarding the repertory they contain. From about the middle of the 11th century onward, the content of the Sticherarion becomes largely stabilized.lxiv A complete Sticherarion of the 12th-16th century contains the following:lxv A. Sticheric idiomela (i.e., with their own unique melody) of the yearly cycle or Menologion, i.e., of the fixed cycle of feasts of the ecclesiastical year (from 1 September to 31 August), whose hymnography is found in the so-called Menaia.lxvi B. Sticheric idiomela and a selection of prosomoia stichera (i.e., with a melody borrowed from the so-called automela, which constitute metrical and melodic models for the prosomoia) of the Triodion, i.e., for the movable feasts of the ecclesiastical year, which are associated with the Paschal cycle, from the Sunday of the Publican and the Pharisee to Holy Saturday. C. Sticheric idiomela of the Pentecostarion,lxvii i.e., for the movable feasts from Pascha to the Sunday of All Saints, which is the Sunday following Pentecost. D. Sticheric idiomela and anabathmoi of the Oktoechos,lxviii for the Resurrectional services of Sunday Vespers and Matins (celebrated on Saturday evening and Sunday morning, respectively) and for the Vespers celebrated on Sunday evening. This part of the Sticherarion may be organized either by genus and oktoechal order (the so-called systematic order, which prevailed until the middle of the 13th century), or by oktoechal order only (the so-called cyclic or liturgical order, followed in some manuscripts of the 13th century and prevailing from the 14th century onward). In its organization according to the liturgical order, the Oktoechos part of a 14th-century Sticherarion may include the following (the complete sequence is given): For Vespers on Saturday evening: - resurrectional stichera (of St John of Damascus), - anatolika stichera, - dogmatic stichera of St John of Damascus, - resurrectional aposticha stichera, - stichera kat’ alphabeton, - theotokia stichera of St John of Damascus. For Sunday morning: - anabathmoi of the eight modes (of St Theodore the Studite), - resurrectional stichera, - anatolika stichera, - the eleven Heothina of Leo the Wise (in a special section). For Sunday evening: - anatolika stichera.lxix|
 
-45
-
 ||In addition, the following may be included: - other dogmatic stichera, - stavrotheotokia stichera of Leo the Wise (for Wednesdays and Fridays of Great Lent), - various other stichera (for local feasts, etc.).lxx Remarks: • Many Sticheraria, especially from the 17th century onward, present only Part A or only Part B(₊C) of the Sticherarion, a fact that may also be reflected in the name of the codex (e.g., Triodion, Pentecostarion). • The Sticheraria of the 10th-15th centuries represent the so-called old, classical, Byzantine sticheraric melos. Some of the very well-known Sticheraria of this style are Lavra Γ 67 (Triodion, Pentecostarion, and Oktoechos, beginning of the 11th century [Floros]), Vindobonense theologicum graecum 136 (first half of the 12th century [Wolfram]), Ambrosianum A 139 sup. (of the year 1341), the manuscript of the National Library of Greece (NLG) 884 (year 1430/1), which was copied on the basis of an exemplar corrected by St John Koukouzeles.lxxi At the same time, during the 15th century the Kalophonic Sticherarion (Καλοφωνικὸν Στιχηράριον) was created, which contains much more melismatic melodies; although they are based on the same poetic sticheraric texts, because of their different musical texture they are classified under the papadic melos. The old sticheraric melos continued to be copied in the Old Sticheraria even after the Fall of Constantinople, an era during which, however, it gradually changes until the middle of the 17th century, when the Sticheraria of the new embellishment appear, now under named composers. The best-known Sticheraria of this style are those of Panagiotes Chrysaphes the New 1650-1685) and of Neai Patrai 1660-1685).lxxii|
 |---|---|
 |Doxastarion or Doxastikarion (Δοξαστάριον or Δοξαστικάριον). From the 17th century onward.|Contains the so-called doxastic sticheric idiomela of the Sticherarion, that is, the stichera preceded by Glory to the Father and to the Son and to the Holy Spirit or Both now and ever and unto the ages of ages, amen. The best-known Doxastaria are the following: • that of Germanos of Neai Patrai (contains a selection of the doxastic stichera from his Sticherarion), • that of Iakovos Protopsaltes (1794/5), a setting based on the Doxastarion of Germanos of Neai Patrai, but shorter, which is today classified as belonging to the old and slow sticheraric melos,lxxiii • that of Petros Peloponnesios, a setting in a new, brief melos (composed around the decade 1765-1775, transcribed into the New Method at the beginning of the 19th century, and inaugurated the musical printing press in Bucharest in 1820).lxxiv During the 19th century another collection also appears with the title Doxastarion of the Aposticha, which contains only the doxastica chanted toward the end of Vespers and sometimes also at the end of Matins, and which belong to the group of aposticha stichera.lxxv Post-Byzantine collections are also the Anthologion of the Sticherarion (= Doxastarion for the greatest feasts [of the Lord, of the Mother of God, and of the best-known saints] ₊ some idiomela stichera of the same feasts), the related Anthology of the Sticherarion (contains the sticheric idiomela and the doxastica of the aforementioned feasts and usually also the complete Triodion ₊ Pentecostarion), the Selection from the Sticherarion (a more recent collection containing the Great Hours of Christmas, Theophany, and Great Friday, the Dogmatika and Heothina of the Anastasimatarion, and other idiomela stichera of a higher level of difficulty), and the Great Hours (this collection contains the stichera of the Great Hours mentioned above).|
-
-46
 
 |Anastasimatarion (Ἀναστασιματάριον). Circulates chiefly from the 17th century onward as an independent codex.|This type of musical manuscript developed from the last part of the Sticherarion (Oktoechos). It contains the following (in parentheses, elements that do not always appear): • (Brief Protheoria of the Papadike: music-theoretical elements), • (Kekragaria by mode, usually in combination with the following stichera, sometimes also as a separate section before them), • the resurrectional ₊ anatolika sticheric idiomela of the Oktoechos/Parakletike, • the 11 Heothina (almost always). Forms of mixed codices are: the Anastasimatarion-Anthology (= Anastasimatarion ₊ collection of various other melodies) or, in the reverse order, the Anthology-Anastasimatarion.lxxvi Among the best-known named Anastasimatarion books of the post-Byzantine period are the following: • that of Panagiotes Chrysaphes the New: see, for example, his autograph Anastasimatarion-Anthology in the Holy Monastery of Xenophontos, no. 128, year 1671, with the clarification: “it was written also by me (...) not, however, according to the text of the old (book) as intoned; but in a certain new embellishment, and with newly manifested melodic positions of honey-flowing sounds, just as these are now sung by the melodists in the City of Constantine”),lxxvii • that of Petros Peloponnesios (between the years 1765-1775), in two forms: slow and brief.lxxviii|
 |---|---|
@@ -547,14 +511,10 @@ akolouthia,
 slow automela
 mode.lxxxvi
 
-47
-
 |||• The Brief Heirmologion of Petros Byzantios († arranged by ode, and brief automela according to|which contains the heirmoi in a brief-syllabic texture,|
 |---|---|---|---|
 |century and later).|(From the 17th|Collections of kalophonic heirmoi first appear during Anthologies. As an independent codex, the Kalophonic is documented from the end of the 18th century. To Gregorios Protopsaltes (ca. 1777-†1821) is owed the definitive form of the collection (kalophonic heirmoi and kratemata) and its exegesis into the New Method.lxxxviii|17th century, and are usually incorporated at the end of Papadikai or|
 |Psaltikon Asmatikon|The two collections survive in Old Slavonic and in Greek, in manuscripts of the 11th-15th centuries.|= the old musical collection of the monophonarioi, with soloistic repertory, which includes the following: • prokeimena (those before the reading of the Apostle, those of Vespers, and the great prokeimena), • stichology of Great Vespers of Christmas and Theophany, • alleluiaria, • hypakoai of the Oktoechos and of the yearly cycle, • the majority of the kontakia. For this reason, the Psaltikon also bears the name Kontakarion. Known Greek Psaltika: Holy Monastery of Patmos 221 (ca. 1177) and Ashburnhamensis 64 (year 1289, from the Holy Monastery of Grottaferrata). the old musical collection of the psaltai with choral = , repertory, which includes the following: • cadences “from the choir,” • hypakoai, • (small) collection of kontakia, • trisagia, • koinonika, • various troparia. Among the best-known Greek Asmatika are the manuscript Messina 129 (Asmatikon, 13th century), the manuscript Kastoria 8 (Asmatikon, first half of the 14th century), etc. Besides the Asmatikon there also exists a very rare collection characterized as Asma, with a repertory of intense melismatic character, associated with the so-called Asmatic Office of Hagia Sophia in Constantinople before the Fourth Crusade (1204), and a precursor of Byzantine kalophonia.xc|From the point of view of poetic texts, there is a partial overlap between the two types of musical manuscripts. Most kontakia are found in the Psaltikon, only a few in the Asmatikon. The hypakoai that exist in both collections differ from the viewpoint of musical texture.lxxxix|
-
-48
 
 Papadike
 
@@ -599,8 +559,6 @@ Egkolpion.xcv
 
 • From the original collection of the Papadike arose, during the 15th century and later, various other collections such as the
 
-49
-
 |||(Kalophonic) Kontakarion, the Mathematarion, the Kratematarion, the Kalophonic Heirmologion.|
 |---|---|---|
 |(Kalophonic) Kontakarion or Oikematarion, from the 15th century onward as an independent codex. It is enriched during the post-Byzantine||• It is based on the Psaltikon. • It contains chiefly prooimia of kontakia, sometimes together with their first oikos, in kalophonic or later melismatic reworkings. • A special case is constituted by the Akathistos Hymn as an independent codex, which preserves various settings of the entire hymn (prooimia ₊ 24 oikoi), older and newer, the most widespread being the composition by John Kladas (second half of the 14th century-first quarter of the 15th century). • Example: Sinai 1262, autograph of Gregorios Bounes Alyates, year 1437, “the most brilliant codex of the Kalophonic Kontakarion.”xcvi • It often coexists with the Kratematarion in mixed codices (see below). • The first-draft exegeseis into the New Method for the Akathistos Hymn in the setting by John Kladas are found in the autographs of Chourmouzios Chartophylax, NLG-MPT 713-714 (year 1817-1819).xcvii|
@@ -619,8 +577,6 @@ after.ci
 Notebook/Phyllada:
 
 Table 1.6. Types of codices of Byzantine music and their contents: A general overview.
-
-51
 
 ## 8. Tracing the Evolutionary Course of Byzantine Notation
 
@@ -645,19 +601,13 @@ Map 1.4. Important centers of dissemination of the Psaltic Art during the pre-By
 Google earth.
 Sources: Google earth & places marked by Demosthenes Spanoudakis.
 
-52
-
 |Century|FRAGMENTS AND LOCAL NOTATIONAL SYSTEMS|THE PRINCIPAL WRITTEN TRADITION|
 |---|---|---|
 |3rd c.|• Ancient Greek alphabetic vocal notation: Oxyrhynchus Papyrus no. 1786, second half of the 3rd century: Fragment of a hymn to the Holy Trinity. It constitutes at the same time: a) the last monument of ancient Greek music (notation and texture), b) the first monument of Christian music (content), c) the oldest Christian hymn in learned language and prosodic meters.||
 
-53
-
 |Century A.D.|FRAGMENTS AND LOCAL NOTATIONAL SYSTEMS|THE PRINCIPAL WRITTEN TRADITION|
 |---|---|---|
 |3rd/ c. 4th 5th 6th c. c. 7th c.|• Primordial notations: (according to studies by Raasted, Papathanasiou and Boukas, Sarischouli, Troelsgård, Nikiforova & Chronz, Zographou, Alexandru): - Rylands Papyrus 470, mid-3rd/4th century, with the following signs between the words of the hymnographic text: (they may also be signs regulating the high-voiced reading of the text: see ch. 2, endnote xcvi) - Ostracon Skeat 16, provenance: Egypt, 6th/7th century, with the following signs: - Papyrus Berolinensis 21319, 6th/7th century, with fragments of theotokia troparia, bearing a modal indication (PL B) and various signs, some of which are hook-shaped: - Modal indications (D, PL B, PL G, ēch D, ēch pl a΄, PL D, ēch b΄) also appear in other troparia (usually theotokia) preserved in papyri of the 6th-8th centuries (e.g., Vindobonensis G 19.934). - Notation of Hermoupolis: possibly intervallic notation, documented in 5 Greek manuscripts of Coptic provenance (P. Rylands Coptici 25-29), late 7th-9th century. Mainly the acute is used (single, double, triple, quadruple, etc., up to sevenfold). Several other signs also appear:||
-
-54
 
 ![Description](image_2433.jpeg)
 ![Description](image_2434.jpeg)
@@ -667,8 +617,6 @@ Sources: Google earth & places marked by Demosthenes Spanoudakis.
 |Century A.D.|FRAGMENTS AND LOCAL NOTATIONAL SYSTEMS|THE PRINCIPAL WRITTEN TRADITION|
 |---|---|---|
 |8th c.|- Palimpsest Princeton Garrett 24, where the underlying (first) writing contains a fragment of the Greek version of the Jerusalem Heirmologion (before 800). On f. 68b appears the word which by itself constitutes a phrase (see the punctuation marks on both sides of the word), with a melisma on the last syllable, as is evident from later manuscripts. - “Theta” notation: documented in Greek, Slavic, Syro-Melkite liturgical manuscripts of the 8th-16th centuries. Probably of Palestinian origin. Primitive, extremely mnemonic notation, which usually indicates melismata through the use of the element. Sometimes other signs also appear, such as upright lines or circumflexes, or even isolated signs of Hagiopolitan notation, e.g., the kylisma known from Hagiopolitan (Coislin) notation (see below, right column). - “Diple” notation: related to “Theta” notation and uses chiefly the double acute||
-
-55
 
 ![Description](image_2437.jpeg)
 ![Description](image_2438.jpeg)
@@ -680,15 +628,11 @@ Sources: Google earth & places marked by Demosthenes Spanoudakis.
 |---|---|---|
 |9th c.|- Sinaitic notation: Appears in various Sinaitic manuscripts of the 9th-10th centuries. In its simple form (chiefly for readings) it functions through the double or triple accentuation of words, by means of prosodic signs (see Codex Sinaiticus liturgicus, St. Petersburg, Russian National Library, gr. 44, probably from Egypt, “not earlier than the middle of the 9th century”: Nikiforova & Chronz). In its expanded form it resembles “Diple” Notation, since it also uses double acutes. More rarely double graves, triple acutes, etc. also appear (see Sinai ΝΕ ΜΓ 37 and Codex Sinaiticus liturgicus).|• EKPHONETIC NOTATION: - For the intoned reading of Holy Scripture (Gospel, Apostle, Prophets) and other texts. - Manuscript tradition: 9th-15th century (with a few later exceptions). - Roots (as regards the manner of recitation and the notation): ancient Greek and Hebrew tradition. - Phases of development (according to C. Høeg and S. Engberg): √ archaic or pre-classical system (9th-10th c.), √ classical system (11th-12th c.), √ decadent system (manuscripts of the 13th-14th c. and later manuscripts).|
 
-56
-
 ![Description](image_2442.jpeg)
 
 |Century A.D.|FRAGMENTS AND LOCAL NOTATIONAL SYSTEMS|THE PRINCIPAL WRITTEN TRADITION|
 |---|---|---|
 |10th c. 11th c.||• MELODIC NOTATIONS: - For the notation of the treasury of hymns and troparia of the Orthodox Church. - According to the two basic “paradigm shifts” in the mode of functioning of Byzantine musical writing (1. from adiastematicity toward full diastematicity and 2. from stenography to full analysis), the following evolutionary stages of Byzantine notation may be distinguished: Palaeo-Byzantine notation (pb): 10th c.-end of 12th c. → It is also called Early Byzantine notation (Gr. Stathis). → Families: [archetypal Palaeo-Byzantine notation] Hagiopolitan/Coislin Athonite/Chartres (French name based on a fragment of manuscript Coislin220 of manuscript Lavra Γ 67, which of the National Library of France) until World War II was kept in the Bibliothèque Municipale Chartres, France). → Phases of development: √ according to O. Strunk: ▪ archaic, relatively and fully developed Coislin, ▪ archaic, intermediate, relatively and fully developed Chartres, √ according to K. Floros: ▪ Chartres I-IV, ▪ Coislin I-VI. → General characteristics: √ adiastematic notations (they do not clearly define the intervals), √ with a prosodic character (according to I. Arvanitis). √ The two families (Athonite and Hagiopolitan) have many signs in common, a fact that indicates their common origin from an initial notation. √ Hagiopolitan/Coislin: a more concise notation, based on five basic signs (oxeia, petaste, bareia, klasma, apostrophos) and their multiple combinations. It is especially connected with the Holy Places (Jerusalem, the Lavra of St Sabas the Sanctified, etc.). From this notation Middle Byzantine notation would evolve. √ Athonite/Chartres: a more complex notation, with many composite signs. It is especially connected with Mount Athos and Constantinople. √ The comparative study of the individual phases of Palaeo-Byzantine notation shows that, at least from Coislin IV onward, the evolutionary course of the notation is directed toward the formation of the intervallic precision of its vocal signs (according to C. Floros and A. Doda).|
-
-57
 
 |Century A.D.|FRAGMENTS AND LOCAL NOTATIONAL SYSTEMS|THE PRINCIPAL WRITTEN TRADITION|
 |---|---|---|
@@ -705,8 +649,6 @@ and perfection of mb notation.
 Table 1.7.
 
 ### On the Historical Development of Byzantine Musical Notation - a status quaestionis.cxi
-
-59
 
 Byzantine notation is perhaps the longest-lived coherent musical writing system in continuous use
 in the global history of music. For over a millennium it has served liturgical chant, notating an
@@ -757,8 +699,6 @@ Third, the vocal tradition of the art of singing in Orthodox worship, whose
 melodic phrases and forms correspond (...) to the graphic
 representations and shapes of the sacred melodies in the old codices.
 
-60
-
 A working method that would bring into agreement the texts of the old
 codices with the theoretical writings of the Byzantine musicians and the
 singing tradition of the Orthodox Greek Church would be able to claim
@@ -807,8 +747,6 @@ Constantinople: Kastrou in Galata (repr. Athens: Koultoura, 1982, together with 
 Peloponnesios).
 Petros Peloponnesios. (1820). New Anastasimatarion. Ed. Petros Ephesios. Bucharest (repr. Athens:
 Koultoura, 1999).
-
-61
 
 Petros Peloponnesios. (1820). Brief Doxastarion. Ed. Petros Ephesios. Bucharest (repr. Athens:
 Koultoura).
@@ -868,8 +806,6 @@ Montastery of Vatopedi on Mt. Athos. Harvard Theological Studies XI. Cambridge: 
 Troelsgård, Christian. Inventory of Microfilms and Photographs in the Collection of Monumenta Musicae Byzantinae.
 MMB database: <http://www.igl.ku.dk/MMB/catbyz.htm> (13.2.2016).
 
-62
-
 ### Books and articles
 
 Alexandru, Maria (2010). Exegeseis and transcriptions of Byzantine music. A brief introduction to
@@ -928,8 +864,6 @@ Makris, Eustathios. (2011). The “politikon” Cheroubikon. An early “transcr
 melos. In Nina-Maria Wanek (ed.), Psaltike. Neue Studien zur Byzantinischen Musik: Festschrift für Gerda
 Wolfram (pp. 205-218). Wien: Praesens.
 Maliaras, Nikos. (2007). Byzantine musical instruments. Athens: Papagrigoriou-Nakas.
-
-63
 
 Metsakis, K. (1986). Byzantine hymnography, from the New Testament to Iconoclasm. Athens: Grigoris.
 Michaelides, S. (1999). Encyclopedia of ancient Greek music (3rd ed.). Athens: Cultural Foundation
@@ -993,8 +927,6 @@ notation of Byzantine music from the first Christian times to our own day
 Alexandru, Μaria. (2000). Studie über die 'grossen Zeichen' der byzantinischen musikalischen Notation, unter
 besonderer Berücksichtigung der Periode vom Ende des 12. bis Anfang des 19. Jahrhunderts. Doctoral
 dissertation. 3 vols. Kopenhagen: Universität Kopenhagen, Humanistische Fakultät.
-
-64
 
 Alexandru, Maria. (2006). The Palaeography of Byzantine Music: A Brief Introduction with Some Preliminary Remarks
 on Musical Palimpsests. In Á. Escobar (ed.), El palimpsesto grecolatino como fenómeno librario y textual,
@@ -1065,8 +997,6 @@ Hannick, Christian (1995). Byzantinische Musik. In L. Finscher (ed.), Die Musik 
 Sachteil 2 (2nd ed., columns 288-310). Kassel, Basel, London, New York, Prag, Stuttgart, Weimar: Bärenreiter,
 Metzler.
 
-65
-
 Hannick, Chr., Wolfram, G., Stathes, Gr., Kujumdžieva, Sv., Lozovaja, I., Petrović, D., Jasynovs'kyj, J., Grăjdian, V.,
 Ziegler, S. (1997). Orthodoxe Kirchenmusik. In L. Finscher (ed.), Die Musik in Geschichte und Gegenwart,
 Sachteil 7 (2nd ed., columns 1108-1156). Kassel, Basel, London, New York, Prag, Stuttgart, Weimar: Bärenreiter,
@@ -1125,8 +1055,6 @@ Nikiforova, Alexandra. (2015). The Oldest Greek Tropologion Sin.Gr. ΜΓ 56+5: �
 Jerusalem from outside Jerusalem with First Edition of the Text. Oriens Christianus, 98, 138-173.
 Nikiforova, Alexandra, and Chronz, Tinatin. (forthcoming). A New Approach to the "Codex Sinaiticus Liturgicus"
 RNB.Gr. 44: Introduction, Publication, Discussion.
-
-66
 
 Papathanasiou, Ioannis (2006). The Significance of Monumenta Musicae Byzantinae for the Study of the Heirmological
 Tradition. In Monumenta Musicae Byzantinae, 75th Anniversary, The current state of Byzantine Musical Studies
@@ -1191,8 +1119,6 @@ Praesens.
 Zacchaeus Wood, Archimandrite. (Ed. 2002). A History of Icon Painting. Translated by Kate Cook. Moscow: Grand-
 Holding Publishers.
 
-67
-
 Recordings
 
 Chaldaiakis, Achilleas. (2011). “The Maïstores of the Psaltic Art.” Sing wisely to God - IV. 4th
@@ -1233,8 +1159,6 @@ Byzantine_Empire_map.gif (24.5.2015).
 <https://www.manuscript-cultures.uni-hamburg.de/About_e.html> (1.9.2016).
 <https://www.manuscript-cultures.uni-hamburg.de/MC/manuscript_cultures_no_7.pdf> (1.9.2016).
 <www.music.uoa.gr/metaptyxiakes-spoudes/didaktorikes-diatribes/didaktores-toy-tmimatos.html> (13.2.2017).
-
-68
 
 ## Endnotes for Chapter 1
 
@@ -1298,8 +1222,6 @@ xviii Cf. Robinson (2007, p. 14).
 xix "Earliest was probably the cuneiform writing devised for Sumerian (or even some other language, of which all trace
 has been lost), which seems to have been the inspiration for Egyptian Hieroglyphic (...). Egyptian hieroglyphic in turn
 probably inspired the Canaanite script, whose offshoots became the scripts of all of Europe and most of Asia. At the root
-
-69
 
 of this tree is a system that recorded consonants only, one per character, what I call the Semitic abjad. Perhaps nearly
 simultaneously at the eastern and western extremes of the ancient Near East, this system was augmented with notations
@@ -1368,8 +1290,6 @@ xlii Cf. Jaschinski (ed., 2001). Michels (2000-2001, vol. Ι, pp. 202-203, 214-2
 xliii Babiniotis (2002, p. 1587). The same lexicographer clarifies (ibid., section “semiology or semiotics?”) that
 “The term semiology in relation to language was coined (in 1913) by the founder of modern (synchronic)
 
-70
-
 linguistics Ferdinand de Saussure (1857-1913) as sémiologie from the Greek word semeion, in order to denote the general
 theory of signs, a branch of which is linguistics, which examines linguistic signs, the sign system
 of language. Later Charles Pierce (1839-1914) (...) rendered the term semiotics from semeiotikos (verbal
@@ -1429,8 +1349,6 @@ lvii Cf. the lecture of Kujumdzieva (2010).
 lviii Cf. e.g. Eustratiades & Arcadios of the Monastery of Vatopedi (1924).
 lix Cf. a list of MMB publications in Troelsgård (2011, pp. 138-142). For a concise catalogue of
 microfilms of musical manuscripts from the Collection of MMB, see Troelsgård, Inventory.
-
-71
 
 Stathis (1975, 1976, 1993, 2015). Idem (2006). Idem (2016). Balageorgos & Kritikou (2008).
 Giannopoulos (2008a). Chaldaiakis (2005). Cf. also Kritikou (2014).
@@ -1497,8 +1415,6 @@ Vindobonense). Perria & Raasted (eds. 1992, Sticherarium Ambrosianum). Raasted (
 lxxii See Stathis (1975, pp. xxxi-xxxii). For the two melourgoi mentioned and, more generally, for the age of the new
 embellishment or the First Flowering after the Fall (1650-1720), see Chatzigiakoumis (1999, pp. 41-46). For the
 
-72
-
 gradual change of the sticheraric melos from the old style toward the new embellishment, as well as for an important
 example of a combination of palaeographical and morphological-analytical study, cf. Makris (1996). For the exegesis
 of the Old Sticherarion and those of Chrysaphes the New and Germanos of Neai Patrai, cf. Stathis (2001a,
@@ -1561,8 +1477,6 @@ xcii For the various types of Byzantine melourgia, see the Glossary of musical a
 (1999, pp. 179-194). For questions of terminology, cf. also Stathis (1992, pp. 23-47).
 xciii Cf. Stathis (1992, p. 46).
 
-73
-
 xciv Cf. the detailed descriptions of these codices in: Stathis (2016, vol. B΄, pp. 29-103). Idem (1989). Idem
 (1992, pp. 62-66, 100-111 [see also the reference to other important Papadikai on pages 111-112 of the same
 book], 161-214). Idem (1975, pp. 106-117). Idem (2001, pp. 703-704).
@@ -1614,5 +1528,3 @@ singing tradition of the Orthodox Greek Church—but also with the songs and mus
 people—would be able to claim general recognition as a correct and faithful interpretation and rendering, in contemporary
 writing, of the content of the texts of old ecclesiastical music. We set as the basis and test of
 the correctness of our work the unadulterated tradition of the sacred chanters.”
-
-74

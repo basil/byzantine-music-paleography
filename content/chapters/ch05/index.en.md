@@ -50,8 +50,6 @@ music, owing to its notation and its musical texture.vi In Figure 5.1 and its as
 files this papyrus is presented in its contexts, together with editions, analyses, and performances
 of it, in the form of a music-educational presentation.vii
 
-227
-
 ![Description](image_6496.jpeg)
 
 Figure 5.1. The Oxyrhynchus Papyrus 1786, (P.Oxy.XV 1786), second half of the 3rd century AD. Hymn to the Holy Trinity in ancient Greek alphabetic vocal notation. The
@@ -63,8 +61,6 @@ For a guided tour through the space and time of the excavations at Oxyrhynchus, 
 Cf. also: Adam, Sotiria. (2012). The Oxyrhynchus Papyrus. The End of One Era and the Beginning of Another: <https://www.youtube.com/watch?v=X6cTHpXj-KU>
 
 (11.9.2016). A recent monograph on this hymn was provided by Cosgrove (2011).
-
-228
 
 ## 3. Early Christian hymns on papyri and ostraca, with elements of primordial notation systems
 
@@ -102,8 +98,6 @@ transcription and proposed restoration of the text by P. Sarischouli (Figures 5.
 
 .x
 
-229
-
 1.
 
 2.
@@ -124,8 +118,6 @@ This indicates that they should be erased. In the fourth line appear the charact
 Sources: The clarifications are based on Sarischouli (1995, pp. 48-56).
 
 © Staatliche Museen zu Berlin - Ägyptisches Museum und Papyrussammlung, Scan: Berliner Papyrusdatenbank, P 21319.
-
-230
 
 1.
 
@@ -158,8 +150,6 @@ Figures 5.3-4. Diplomatic transcription (left) and restoration of the text (righ
 Sarischouli. For the special symbols used in the edition, cf. ch. 2, section 2.5. of the present book.
 Source: Sarischouli, Panagiota. (1995). Berliner Griechische Papyri. Christliche literarische Texte und Urkunden aus dem 3. bis 8. Jh. n. Chr. Serta Graeca, hrsg. von Kl.
 Alpers, D. Harlfinger, D.R. Reinsch, Bd. 3. Wiesbaden: Dr. Ludwig Reichert Verlag, pp. 55-56. © Dr. Ludwig Reichert Verlag Wiesbaden.
-
-232
 
 As emerges from the edition and commentary of the aforementioned philologist, the poetic texts of the
 troparia combine elements from the Gospel according to Luke (ch. 1, 26-45) with references to events
@@ -232,8 +222,6 @@ of repetition?
 Table 5.1. The signs of the notation of Hermoupolis and their possible intervallic values, always in relation to the
 base and not to the preceding note, according to I. Papathanasiou and N. Boukas.xiii
 
-233
-
 As an example for the study of this notation, the ms P. Rylands Copt. 25r was selected, with
 
 the first musical record of the hymn Ἐπὶ σοὶ χαίρει, Κεχαριτωμένη (Figure 5.5).xiv The hymn
@@ -243,8 +231,6 @@ is attributed to Saint John of Damascus (ca. 675-ca. 753/4).xv
 
 Figure 5.5. P. Rylands Copt. 25r, with the hymn “Ἐπὶ σοὶ χαίρει,” on paper, 32x5 cm, probably 8th c., from the John Rylands
 Library, Manchester, with the notation of Hermoupolis.xvi © University of Manchester.
-
-234
 
 In Byzantine chant, from the period of the Kalophonia (Καλοφωνία) (13th-15th c.) to the present, the Ἐπὶ σοὶ
 χαίρει, Κεχαριτωμένη - Τὴν γὰρ σὴν μήτραν (plagal fourth - first mode) is known chiefly as the great
@@ -258,8 +244,6 @@ composers, but also for icon painters (see Figure 5.6).
 Figure 5.6. “Ἐπὶ σοὶ χαίρει,” iconographic sketch by G. Tzimopoulos & Aik. Ioannidou (2016), based on
 a corresponding post-Byzantine icon of the Cretan School, from Mezzojuso in Sicily (photograph in:
 Perniciaro-OMègasEsperinòs-VesproSolenne-paginesole.pdf [23.5.2015]).
-
-235
 
 ## 5. The Princeton Palimpsestxvii
 
@@ -278,8 +262,6 @@ tracing the beginnings of Byzantine notation: see Figure 5.7.
 
 Figure 5.7. The palimpsest codex of the Firestone Library, Princeton, Garrett Collection, no. 24, fol. 68v. The ms
 contains, as undertexts, fragments of various texts in Greek and a few leaves in Syriac. Among the
-
-236
 
 Greek texts in the undertext, the fragments from an old Jerusalem Heirmologion stand out, in a
 pointed oblique majuscule script with elements of minuscule scriptxviii (fols. 63-70). These leaves were probably
@@ -334,8 +316,6 @@ prosomoia on the models of the heirmoi,
 In some cases, apart from Θ, other symbols also appear, such as circumflexes and
 double or triple vertical strokes (British Library, Additional MS 24.378: Raasted, 1995, pp. 58-59).
 
-237
-
 Below is an example of a sticheron with Theta Notation, from the ms of the Holy Monastery of the Great
 Lavra Γ 12 of the 10th or early 11th c.: see Figure 5.9.
 
@@ -344,8 +324,6 @@ Lavra Γ 12 of the 10th or early 11th c.: see Figure 5.9.
 Figure 5.9. The Sticherarion Laurensis Γ 12 of the Holy Monastery of the Great Lavra of Mount Athos, 10th c. (Strunk, Raasted)
 / early 11th c. (Floros), fol. 65v, with the sticheron “Παρὰ τὸ φρέαρ τοῦ Ἰακώβ,” in “Theta” notation.xxii © for the
 photograph from microfilm: Patriarchal Institute for Patristic Studies, Thessaloniki.
-
-238
 
 ## 7. Archaic musical scripts in Syro-Melkite manuscripts. The Theta and Double Notations
 
@@ -362,16 +340,12 @@ There is no lack, however, of points where the number of acutes multiplies notic
 some analogy with the density of the melisma, and where other signs also appear, such as the
 grave and others: see Figures 5.11-12.
 
-239
-
 ![Description](image_6519.jpeg)
 
 Figure 5.10. “Double” notation in the Syro-Melkite manuscript Parisinus syriacus 136, fol. 161r (because the book
 is read from right to left), year 1521, with the sticheron “Τῶν μοναστῶν τὰ πλήθη,” in honor of Saint Anthony
 the Great (17 January). See also Raasted (1979, B, p. 61, para. 11, and p. 77, para. 22). © Bibliothèque nationale de
 France.
-
-240
 
 ![Description](image_6520.jpeg)
 ![Description](image_6521.jpeg)
@@ -380,8 +354,6 @@ Figures 5.11a-b. Forms of primitive notation in a Syro-Melkite manuscript: Berli
 on the right) and 146r (left), with the eighth Eothinon “Τὰ τῆς Μαρίας δάκρυα”.
 Sources: <http://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN730225240&PHYSID=PHYS_0007&DMDID=DMDLOG_0001> (8.8.2016) and Raasted (1979, B, p.
 56, para. 5 and p. 55, para. 3, together with A, p. 18). ©Berlin, Staatsbibliothek zu Berlin, Preussischer Kulturbesitz.
-
-241
 
 ![Description](image_6522.jpeg)
 
@@ -405,8 +377,6 @@ a black Θ or Φ is also visible.
 Sources: <http://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN730225240&PHYSID=PHYS_0007&DMDID=DMDLOG_0001> (8.8.2016)
 and Raasted (1979, A, p. 18 and B, p. 55, para. 3). © Berlin, Staatsbibliothek zu Berlin, Preussischer Kulturbesitz.
 
-242
-
 ![Description](image_6525.jpeg)
 ![Description](image_6526.jpeg)
 
@@ -425,8 +395,6 @@ see Figures 5.13-15.
 
 Figure 5.13. Liturgical parchment fragment from the archive of D. Chr. Kapadochos, ms no. 1, fol. 2, second half of the 12th c., with
 Cypro-Palestinian notation. Possible provenance: from the “broader area of Cyprus-Palestine”
-
-243
 
 (Papathanasiou, 2003, pp. 82-83). © Department of Music Studies of the National and Kapodistrian University of
 Athens. Photograph source: Papathanasiou, Ioannis. (2003). Liturgical parchment fragments from the private
@@ -448,8 +416,6 @@ correction of spelling errors. In the third line from the end, the first syllabl
 separated in the manuscript from the remaining syllables, since it is at the end of a line, and there is a lower
 stop after it (see Figure 5.14).
 
-244
-
 ## 9. In search of musical scripts in Greek Sinaitic manuscripts of the first Christian millenniumxxiv
 
 Jean-Baptiste Thibaut, one of the pioneers of Byzantine musical palaeography, published at the
@@ -469,8 +435,6 @@ Matthew 7, 1-3a,xxv in pointed oblique majuscule script, with double accents on 
 
 © National Library of Russia, St. Petersburg.
 
-245
-
 1.
 
 2.
@@ -488,8 +452,6 @@ part of the Divine Liturgy, the “Ἀλληλούϊα - (ἦχος [;]) β΄ �
 the incipit of the Creed follows.xxvi In lines 2, 7-9, and 15 various words with double
 accentuation are observed. In addition, at the end of the 5th line there is a special form (two small apostrophoi). © National Library of
 Russia, St. Petersburg.
-
-246
 
 As we saw in the preceding figures, the codex preserves a primitive musical script. A
 study of the entire codex reveals that the musical script appears with two levels of density:
@@ -525,8 +487,6 @@ Simple signs
 Composite signs
 
 ![Description](image_6535.jpeg)
-
-247
 
 Table 5.2. The signs of the Sinaitic Liturgical Codex, according to Thibaut. The same scholar relates them
 to “Coptic ekphonetic notation,” making reference to P. Rylands Copt. 25r and the other fragments of the
@@ -579,8 +539,6 @@ Palestinian” and “Double” notations, which we might perhaps conventionally
 display various gradations of complexity, depending on the musical texture of the piece in question,
 i.e.:
 
-248
-
 1. simpler, with words bearing double or triple accentuation, with the use of the acute, grave, and circumflex,
 
 2. more complex, where double acutes, double graves, and sometimes triple acutes and others are also added. The root of the double and triple accentuations of words with the prosodic signs acute, grave, and
@@ -615,8 +573,6 @@ musical scripts and the Alexandrian prosodic system,
 Byzantine music - both with ekphonetic notation and with Old Byzantine.
 It seems that from Sinaitic notation there is a direct line of development toward the archaic
 Old Byzantine notation of the Hagiopolite family, which will be discussed more extensively in the next chapter.
-
-249
 
 ## Assessment criteria for Chapter 5
 
@@ -665,8 +621,6 @@ phototypice depicta. Monumenta Musicae Byzantinae VII, Pars Principalis & Pars S
 Munksgaards Forlag.
 
 Catalogues of Manuscripts
-
-250
 
 Damianos, Archbishop of Sinai, Pharan and Raitho, Sophronios Archimandrite, Peltikoglou, V. and Nikolopoulos, P.N.
 (1998). The Holy Monastery and Archdiocese of Sinai. The New Finds of Sinai. Athens: Ministry of Culture -
@@ -726,8 +680,6 @@ Tsaferis, Vasilios. (n.d.). Jerusalem, Holy Places, Pilgrim Guide of the Orthodo
 Tsigaridas, Efthymios. (2003). Manuel Panselinos, From the Protaton. Exhibition catalogue. Scholarly ed.
 Efthymios Tsigaridas, catalogue authors Efthymios Tsigaridas et al. Thessaloniki: Agioritiki Estia.
 Tsolakidis, Christos D. (2001). Hagiologion of Orthodoxy (2nd ed.). Athens: Ch. D. Tsolakidis Publications.
-
-251
 
 Chatzigiakoumis, Manolis. (1999). The Ecclesiastical Music of Hellenism after the Fall (1453-1820). An Outline
 of History. Athens: Centre for Research & Publications.
@@ -804,8 +756,6 @@ Petersburg. Reprint with Appendix Introduction by Oliver Strunk. Hildesheim, New
 Troelsgård, Christian. (1995). The Prokeimena in Byzantine Rite, Performance and Tradition. In Cantus Planus, Papers
 Read at the 6th Meeting, Eger, Hungary 1993, vol. I (pp. 65-77). Budapest: Hungarian Academy of Sciences.
 
-252
-
 Troelsgård, Christian. (1997). The Use of Single Psalm-verses for Prokeimena and Allelouiaria in the Uncial Codex
 Sinaiticus L. In Musica Antiqua Europae Orientalis X, Acta Musicologica, vol. 1 (pp. 129-138). Bydgoszcz:
 Filharmonia Pomorska.
@@ -865,8 +815,6 @@ vi We thank Professor E. Pöhlmann for this clarification. Cf. also some perform
 - Greek Byzantine Choir (Angelopoulos, 1990), with Modern Greek pronunciation of the text,
 
 - Atrium Musicae de Madrid (Paniagua, 2000), with Erasmian pronunciation of the text),
-
-253
 
 - Ensemble Kérylos (Bélis, 2016. With isokratema and with an interpretation of the dot above the syllables as an appoggiatura
 
@@ -933,11 +881,7 @@ xxxi Cf. the list of melodies from the manuscript Lavra Γ 67, fol. 159r: chap. 
 
 section 2.1.
 
-254
-
 xxxii In Schwyzer (vol. I, p. 374), all the examples that we have taken for Figure 5.20 are in minuscule
 script, except for the last. We changed the script from minuscule to majuscule in lines 2-5, since the use of capital letters
 seems more likely to us, on the basis of the descriptions of the aforementioned philologist and of the
 indication Pind.-Pap. in relation to the example φὶλὴσὶστέφανον.
-
-255

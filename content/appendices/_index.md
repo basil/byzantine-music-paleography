@@ -55,8 +55,6 @@ weight: 1000
 προσδιορισμούς και τόπους», μιας παράδοσης δηλαδή, «η οποία γίνεται κατανοητή στο σημερινό ερευνητή μόνο όταν
 θεωρείται ολιστικά», βλ. Zannos, Musiktraktat, σ. 10 και 11. Βλ. επιπλέον Schlötterer, op. cit., σ. 287.
 
-i
-
 ![Description](image_13496.png)
 ![Description](image_13497.png)
 ![Description](image_13498.png)
@@ -130,8 +128,6 @@ amplísimas interferencias de vocabulario con otros dominios y a una amplia sino
 ordinaria puede ser tecnicismo gramatical, médico, matemático, musical, etc., lo que implica un uso muy fluctuante del
 vocabulario común con intenciones técnicas que no siempre llegan a cuajar... " (Diccionario, σ. I και II).
 
-ii
-
 περιπτώσεις κατά τις οποίες τα ονόματα νευμάτων προέρχονται από τους προαναφερθέντες τομείς (π.χ. τα ονόματα
 ὀξεῖα και βαρεῖα, τα οποία προέρχονται από τη Γραμματική και, ως προσωδιακά σημεία συσχετίζονται και με τη
 Μουσική9), αυτά τα ονόματα ενσωματώνονται σε ένα καινούργιο σύστημα - εκείνο της σημειογραφίας της Ψαλτικής
@@ -200,8 +196,6 @@ de elementos diversos comenzó a funcionar autónomamente en un nuevo sistema" (
 συστηματική δομή (π.χ. με τις κατηγορίες Εκτέλεση, Χειρονομία, Ορθογραφία κ.ά.), η οποία θα επέτρεπε και μια ενιαία
 μορφοποίηση των λημμάτων, φάνηκε λιγότερα χρήσιμη, λόγω των πολλών επαναλήψεων και εσωτερικών παραπομπών
 που θα ζητούσε.
-
-iii
 
 Σ' αυτό το σημείο, ας αναφερθεί το πρόβλημα της σύγκλισης-συνωνυμίας διάφορων νευμάτων:14
 
@@ -278,8 +272,6 @@ Koumanoudes, St. (1883). Συλλογὴ λέξεων ἀθησαυρίστων 
 Ἐτυμολογικό λεξικό τῆς κοινῆς νεοελληνικῆς
 λειτουργικῶν καὶ τελετουργικῶν ὄρων. Thessalonike.
 ἑλληνικοῖς λεξικοῖς. Athen.
-
-iv
 
 ### B. Για τις «Σχέσεις» των ονομάτων με ορολογία αρχαίων τεχνών
 
@@ -359,8 +351,6 @@ Lε173 f.2v || GlykB | GlykB'' | Kouk, KoukExeg19 | Theod
 19 Η μεταγραφή πραγματοποιήθηκε σύμφωνα με την έκδοση του Μεγάλου Ίσου στο Tameion Anthologias, σ. 447-463,
 με τη βοήθεια του άρθρου της Tončeva, "Prepisi", σ. 251-302. Η τροπική δομή του Κουκουζελιανού διδακτικού
 
-v
-
 ![Description](image_13499.png)
 ![Description](image_13500.png)
 ![Description](image_13501.png)
@@ -391,8 +381,6 @@ v
 Strategies of editing 'living texts': the case of the Papadike. 23rd International Congress of Byzantine Studies, Belgrade,
 22nd-27th August, 2016.
 
-vi
-
 |Typ B|Τύπος Β στην αρίθμηση του Raasted (Nέα αρίθμηση: παραμένει Β)|15ος-16ος αι.|||
 |---|---|---|---|---|
 |Typ C|Τύπος C στην αρίθμηση του Raasted (Νέα αρίθμηση: D)|16ος-18ος αι.|||
@@ -409,8 +397,6 @@ vi
 (1997).
 Byzantinae,
 
-vii
-
 ||Corpus Scriptorum de Re Musica, II. Wien: Verlag der Österreichischen Akademie der Wissenschaften, 1985.||||
 |---|---|---|---|---|
 |AnonEBE 899|Ανώνυμο θεωρητικό στο χφο ΕΒΕ 899, στην έκδοση: Zannos, Ioannis. (1985). Ein byzantinischer Musiktraktat im Codex Athen 899. Wissenschaftliche Hausarbeit zur Erlangung des akademischen Grades eines Magister Artium der Universität Hamburg.|«Mέχρι 1490».|Mβ II (όψιμη)|Zannos, Ichos, σ. 111.|
@@ -422,8 +408,6 @@ vii
 |Apost|Αποστολόπουλος, Θωμάς. (2002). Ὁ Ἀπόστολος Κώνστας ὁ Χῖος καὶ ἡ συμβολή του στὴ θεωρία τῆς Μουσικῆς Τέχνης. IBM, Μελέται 4. Έκδ. Γρ. Στάθης. Αθήνα.|1800-1820: περισσότερες εκδοχές, εκ των οποίων αναφέρονται: Doch389: έτ. 1807. EBE1867: έτ. 1820.|Mβ II-III (όψιμη και εξηγητική).|Apostolopoulos, Apostolos, σ. 56.|
 |Stephan|Βασίλειος Στεφανίδης ὁ Βυζάντιος. Σχεδίασμα περὶ μουσικῆς ἰδιαίτερον ἐκκλησιαστικῆς. Σε Παράρτημα Ἐκκλησιαστικῆς Ἀληθείας, τεῦχος ε΄ (1 Νοεμβρίου 1902, σ. 209-279). Κωνσταντινούπολις: Πατριαρχικὸν|1819|Mβ II-III (όψιμη και εξηγητική).||
 |ChrysanthEis|Χρύσανθος εκ Μαδύτων. Εἰσαγωγὴ εἰς τὸ θεωρητικὸν καὶ πρακτικὸν τῆς ἐκκλησιαστικῆς μουσικῆς. Παρίσι: Τυπογραφία Ριγνίου, 1821, επαν.|1821|Nβ I (Χρυσανθινή).||
-
-viii
 
 ||Κουλτούρα.||||
 |---|---|---|---|---|
@@ -452,8 +436,6 @@ KarasEreuna: Καράς, Σίμων. (1976). Ἡ βυζαντινὴ μουσι�
 Giannelos: Giannelos, Dimitri. (1996). La musique byzantine. Le chant écclesiastique grec, sa notation et sa pratique
 actuelle. Paris & Montreal: L'Harmattan.
 
-ix
-
 ## 4. Βραχυγραφίες και ειδικά σύμβολα
 
 Οι βραχυγραφίες για διάφορες εκδόσεις κειμένων που αναφέρονται στο Γλωσσάριο βρίσκονται στο
@@ -479,8 +461,6 @@ ix
 νεοελληνικά λεξικά.
 
  παραπομπή
-
-x
 
 ![Description](image_13504.jpeg)
 
@@ -763,8 +743,6 @@ Theoretika
 Στην περίπτωση κατά την οποία ένα χφο περιέχει μόνο θεωρητικά κείμενα, ή χρησιμοποιήθηκε μόνο το θεωρητικό του
 μέρος στην παρούσα εργασία, αυτό αναφέρεται ρητά μετά από μια κάθετη γραμμή |.
 
-xi
-
 1. : A.D. 1774 (ibid.): Sticherarion des Germanos Neon Patron
 
 1867: A.D. 1820, Autograph des Apostolos Konstas Chios (Apostolopoulos, Apostolos, S. 56) | Theoretika
@@ -846,8 +824,6 @@ Sticherarion (Bd. II:
 3 Ό.π., σ. 243.
 4 Ό.π., σ. 245.
 
-xii
-
 1. : Autograph des Chourmouzios: Exegese des Mathematarion (Bd. III)5
 
 748: "[1831?]-1832", Autograph des Chourmouzios: Exegese des Sticherarion des Germanos Neon Patron (Bd. II:
@@ -920,8 +896,6 @@ Chatzigiakoumis, op. cit., σ. 58.
 Πάντων, ἐξηγηθεὶς παρὰ Χουρμουζίου χαρτοφύλακος, ἑνὸς τῶν ἐφευρετῶν τῆς νέας μουσικῆς μεθόδου,
 κατὰ τὸ ,αωκστ' ἔτος τὸ κοσμοσωτήριον»: Papadopoulos-Kerameus, op. cit., σ. 258.
 10 Κατά λάθος αναφέρεται ως αρ. 496.
-
-xiii
 
 Vat 872: Vaticanus gr. 872, Bibliotheca Apostolica Vaticana: "Beginn des 14. Jh." (cf. ed. Tardo, Melurgia, S. 164-173) |
 Theoretika
@@ -1007,8 +981,6 @@ Gertsman, Theoreticon, S. 338-360, 373-384
 11 Για τη χρονολόγηση των θεωρητικών,
 
 πρβλ. παραπάνω, Πίνακα Π.1.1.
-
-xiv
 
 - Chrys: Manouel Chrysaphes, Περὶ τῶν ἐνθεωρουμένων τῇ ψαλτικῇ τέχνῃ καὶ ὧν φρονοῦσι κακῶς τινες περὶ
 
@@ -1115,8 +1087,6 @@ ParartemaV (Nov. 1902), S. 207-279
 
 Alexandru, Bemerkungen II, Beilage 14
 
-xv
-
 ## IV. Δευτερογενής βιβλιογραφία12
 
 - Abraham, Otto/Hornbostel, Erich M. von, Vorschläge für die Transkription exotischer Melodien, in Sammelbände der
@@ -1220,8 +1190,6 @@ Archives de l'Orient Chrétien 9, Paris 1966
 
 12 Οι βραχύτιτλοι προβάλλονται με
 αναφέρονται στο Ευρετήριο V.
-
-xvi
 
 - Conomos, Dimitri E., Byzantine Trisagia and Cheroubika in the Fourteenth and Fifteenth Century. A Study of Late
 
@@ -1337,8 +1305,6 @@ MMB I, Kopenhagen 1935
 
 - Hucke, Helmut, Die Cheironomie und die Entstehung der Neumenschrift, in Die Musikforschung 32 (1979), S. 1-16
 
-xvii
-
 - Huglo, Michel, La chironomie médiévale, in Revue de Musicologie 49 (1963), S. 155-171
 
 - Hunger, Herbert, Die hochsprachliche profane Literatur der Byzantiner, 2 Bde., München 1978
@@ -1446,8 +1412,6 @@ Universität Wien, 1996
 - id., Umarbeitungsvorgänge in der musikalischen Tradition des Anastasimatarion im 16. und 17. Jh., in MAEO (1997),
 
 1. 217-226
-
-xviii
 
 - Mathiesen, Thomas J., Aristides Quintilianus, On Music, In Three Books, Translation, with Introduction,
 
@@ -1558,8 +1522,6 @@ Byzantine Music, in IMS Report, S. 775-777
 
 zum 60. Geburtstag, edd. J. Szendrei/D. Hiley, Hildesheim 1995, S. 261- 277
 
-xix
-
 - id., Rhythm in Byzantine Chant, in Hernen 1 (1991), S. 67-90
 
 - id., Thoughts on a Revision of the Transcription Rules of the Monumenta Musicae Byzantinae, in CIMAGL 54 (1986), S.
@@ -1668,8 +1630,6 @@ the New 'Analytical' Method of Byzantine Notation], in SEC 4 (1979), S. 177- 225
 Θεολογία 58/2 (1987), S. 337-371: Exegese
 
 - id., Ἱστορία καὶ μορφολογία τοῦ βυζαντινοῦ μέλους, Universitätskurs (unveröffentlicht): Historia
-
-xx
 
 - id., Αἱ Μεγάλαι Ὧραι τῶν Παθῶν τοῦ παλαιοῦ στιχηραρίου, Athen 1975: Horai
 
@@ -1782,8 +1742,6 @@ Chant, S. 69-85
 
 - id., A New Introduction, to the Middle Byzantine Musical Notation, MMB Subsidia IX (in Erscheinung begriffen)
 
-xxi
-
 - id., Kromatik i byzantinsk kirkesang? Nogle betragtninger omkring skala- og tonalitets-begrebet i den middelalderlige
 
 og eftermiddelalderlige tradition, Sonderdruck aus Ordet og livet, Festskrift til Christian Thodberg, redd. C. Bach-
@@ -1874,8 +1832,6 @@ Kirchenmusik und der türkischen Kunstmusik, Bonn 1994
 κειμένων από το L, και για μεταγενέστερα κείμενα από το LBG. Σύμφωνα με το πρότυπο του LBG δεν βάλαμε τελείες
 στις βραχυγραφίες των συγγραφέων και έργων. Επίσης, από το LBG προέρχονται οι περισσότερες βραχυγραφίες των
 γενικών βοηθημάτων της Κλασικής Φιλολογίας και της Βυζαντινολογίας.
-
-xxii
 
 - Adj.: Adjektiv
 
@@ -1991,8 +1947,6 @@ Budapest 1998
 - Choer: Choeroboscus, Prolegomena et Scholia in Theodosii Alexandrini Canones isagogicas de flexione verborum, ed.
 
 1. Hilgard, Grammatici graeci IV,2, Leipzig 1889-1894
-
-xxiii
 
 - ChourmGreg: Chourmouzios & Gregorios, Eisagoge  Index III
 
@@ -2116,8 +2070,6 @@ rhetoricae, Leipzig 1795 (Nachdr. 1962)
 
 Handbooks in Music,
 
-xxiv
-
 - Eust: Eustathius, Comentarii ad Homeri Iliadem et Odysseam, 7 Bde., Leipzig 1825-1830 (Nachdr. 1960) | M. van der
 
 Valk, Eustathii commentarii ad Homeri Iliadem pertinentes, Leiden 1971-1979
@@ -2230,8 +2182,6 @@ Copenhagen 1972, edd.
 
 14 LBG, Ευρετήριο βραχυγραφιών, σ. 17.
 
-xxv
-
 - IsidEtym: Isidorus Hispalensis, Etymologiae, ed. W.M. Lindsay, Oxford 1911
 
 - Jan: C. Jahn, Musici Scriptores Graeci, Leipzig 1895
@@ -2341,8 +2291,6 @@ edd. I. Poniatowska/C. Nelkowski, Bd. I, Bydgoszcz 1997
 - Meib: Meibomius, Marcus, Antiquae Musicae Auctores Septem, Graece et Latine,
 
 Amsterdam 1652
-
-xxvi
 
 - MenRhet: Μενάνδρου ῥήτορος περὶ ἐπιδεικτικῶν, ed. Spengel III, S. 329
 
@@ -2462,8 +2410,6 @@ in Sin 1764  Index III
 - zugeschriebene Erotapokriseis
 
 - Amsterdam 1965 u. 1967
-
-xxvii
 
 - PlatLg: Plato, Leges, in Platonis opera, ed. J. Burnet, Bd. V, Oxford 1913
 
@@ -2594,8 +2540,6 @@ Leipzig 1894, 1854, 1956
 
 Jahresangabe)
 
-xxviii
-
 Theod: Theodoulos, Lehrgesang  Index III
 TLG: Thesaurus Linguae Graecae, CD-Rom, University of California Irvine 1987
 
@@ -2641,8 +2585,6 @@ Symeonis propter Christum Sali, ex. cod. Colbert. 966: Βίος καὶ πολι
 
 15 Duc, Index Auctorum, σ. 42.
 
-xxix
-
 # Παράρτημα 2
 
 ## Κατάλογος θέσεων του Παλαιού Συστήματος, με βάση λίστες νευμάτων, διδακτικά ποιήματα και θεωρητικά εγχειρίδια1
@@ -2666,8 +2608,6 @@ xxix
 Eγχειριδίου, και αναλύονται στο ίδιο Παράρτημα, σ. x-xiv. Στις μεταγραφές στο πεντάγραμμο προστέθηκαν
 διαφοροποιημένες αλλοιώσεις, σύμφωνα με όσα αναφέρονται στο Παράρτημα 3 του παρόντος Εγχειριδίου, ενότητα 5.
 Για το πέρασμα των πενταγραμμικών μεταγραφών στο Φινάλε ευχαριστούμε τον κύριο Γιάννη Βαμβακά.
-
-xxx
 
 ![Description](image_13613.jpeg)
 ![Description](image_13614.jpeg)
@@ -2997,16 +2937,12 @@ xxx
 καταλόγους σημαδιών και ήχων, παρά μόνο τα πιο σημαντικά στοιχεία για την παρούσα εργασία. Για
 περισσότερες πληροφορίες, ο αναγνώστης μπορεί να συμβουλευθεί διάφορα θεωρητικά της Νέας Μεθόδου.
 
-xxxi
-
 ![Description](image_13742.png)
 
 Εικόνα Π3.0. «Ῥόδον τὸ ἀμάραντον». Αντιγραφή μικρογραφίας από το χφο Biblioteca Academiei Române gr. 1096, f.
 178v.  Δεξιά: τροπάριο της α΄ Ωδής του Κανόνα του Ακαθίστου, ποίημα Αγίου Ιωσήφ του Υμνογράφου. Προσαρμογή
 προς τον ειρμό «Ἀνοίξω τὸ στόμα μου» του Πέτρου Βυζαντίου (1825, σ. 70) σε ήχο λέγετο, από τον κ. Παύλο
 Χατζηπαπά, τον οποίο και ευχαριστούμε.
-
-xxxii
 
 ## 1. Προλεγόμενα
 

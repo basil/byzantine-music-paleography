@@ -41,8 +41,6 @@ to Music. Paris: Rigniou (repr. Koultoura), p. 9.
 
 to the Theoretical and Practical Aspects of Ecclesiastical
 
-472
-
 The same music theorist informs us that, according to the Old System, the didactic procedure
 was more complex and included three steps: parallage, metrophony, and melos (see Figure
 
@@ -50,8 +48,6 @@ was more complex and included three steps: parallage, metrophony, and melos (see
 
 ![Description](image_10512.jpeg)
 ![Description](image_10513.jpeg)
-
-473
 
 ![Description](image_10514.jpeg)
 ![Description](image_10515.jpeg)
@@ -69,8 +65,6 @@ Chrysanthos’s description, constituted the didactic model in the Old System, a
 by the late post-Byzantine period.
 In the first half of the 15th century, however, Gabriel Hieromonachos mentions the first two elements of the
 triptych in reverse order (see Figure 9.4.):
-
-474
 
 ![Description](image_10516.png)
 
@@ -111,8 +105,6 @@ great signs of cheironomy.
 - The sonic result is called MELOS.
 
 Table 9.1. Main components of Middle Byzantine notation and of musical performance in the Old System.iv
-
-475
 
 ![Description](image_10517.png)
 ![Description](image_10518.png)
@@ -282,8 +274,6 @@ uses. We saw in chapter 6 that the final stages of Paleo-Byzantine notation
 are characterized by a pronounced movement toward diastematicity, which is achieved through the clear
 definition of the various combinations of the voiced signs: see Figure 9.6.
 
-476
-
 The case of the Thematismos
 from the adiastematic Hagiopolitan notation:
 
@@ -325,8 +315,6 @@ result, an interval of four voices corresponds to the interval of a fifth in the
 Western European music, the heptaphonia is an octave, etc.
 The concept of metrophony is presented in various ways in lists of signs, in didactic poems,
 and in theoretical texts.
-
-477
 
 #### 2.2.1. Metrophony in lists of signs
 
@@ -371,8 +359,6 @@ Taking as his point of departure the idiomelon of the Old Sticherarion “A choi
 Forty Martyrs of Sebaste (see Figures 9.10-11), an anonymous Byzantine teacher
 created an exercise that combines metrophony with parallage (see Figure 9.12).
 
-478
-
 ![Description](image_10669.jpeg)
 ![Description](image_10670.jpeg)
 
@@ -384,16 +370,12 @@ Middle Byzantine, fully developed notation. © National Library of Greece.
 
 Source for the image: <https://upload.wikimedia.org/wikipedia/el/2/22/40_Μάρτυρες.jpg> (11.4.2016).
 
-479
-
 ![Description](image_10671.jpeg)
 
 Figure 9.12. “The principal metrophony of the parallag(e):- mode 1: A choir lit by fourteen torches” and other
 methods from the Protheoria of the Papadike in MS NLG 2401, fol. 20v, prob. 1452-1469 (Politis & Politi, 1991, p. 314-
 
 336). © National Library of Greece.
-
-480
 
 A comparison between the sticheron and the exercise in metrophony and parallage could
 take the following form (see Figure 9.13):
@@ -410,8 +392,6 @@ notation, according to the research of Ioannis Arvanitis (2003, 2010). b. Exerci
 parallage from MS NLG 2401, fol. 20v, with transnotation. c. Restoration of the parallage, according to
 the parallage exercise from codex NLG 2406, fol. 15v, and transnotation.viii
 
-481
-
 In the first half of the nineteenth century, Chourmouzios made an exegesis of the old sticheron “A choir
 lit by fourteen torches” in the New Method (see Figure 9.14), and thus today we are able to
 listen to the slow melos of this sticheron: Listen to the beginning by clicking 
@@ -422,8 +402,6 @@ Figure 9.14.a. The exegesis by Chourmouzios Chartophylax of the old sticheron �
 mode 1, based on his autograph MPT 709, fol. 104r-v. The piece was divided into musico-poetic phrases (cola), and
 barlines were added to indicate the measures.ix
 
-482
-
 ![Description](image_10674.jpeg)
 
 Figure 9.14.b. Continuation and conclusion of Chourmouzios’s exegesis of the sticheron “A choir lit by fourteen torches,”
@@ -433,11 +411,7 @@ Proceeding to a comparison of all the aforementioned sources, we observe the dir
 connection between the original text, the metrophony, the parallage, and the slow exegesis (see
 Figure 9.15):
 
-483
-
 ![Description](image_10675.jpeg)
-
-484
 
 Figure 9.15. The first word of the old sticheron “A choir lit by fourteen torches,” in a comparison of sources:
 
@@ -465,23 +439,17 @@ Clarification: The recording was based on Ambrosianum A 139 sup., fol. 23v (from
 of the oxeia that we see in Figure 9.16) and, in addition, two medial martyriai (at the end of cola 1 and 3, as
 heard in the recording).
 
-485
-
 ![Description](image_10677.jpeg)
 
 Listen to the metrophony and the parallage (diatonically), by clicking  & .
 Figure 9.17.a. “Stich(er)on for paral\<l\>age: mode 2: O Virgin Theologian,” in MS NLG 928, fol. 167r, late fifteenth
 century (Conomos). © National Library of Greece.xiv
 
-486
-
 ![Description](image_10678.jpeg)
 
 Figure 9.17.b. Continuation of the same sticheron for parallage, MS NLG 928, fol. 167v, late fifteenth century (Conomos).
 
 © National Library of Greece.
-
-487
 
 Chourmouzios’s slow exegesis of the sticheron “O Virgin Theologian,” in the old style, is presented
 in Figure 9.18.
@@ -492,8 +460,6 @@ Listen to the parallage and the melos of the exegesis by clicking  & .
 Figure 9.18.a. The exegesis by Chourmouzios Chartophylax of the old sticheron “O Virgin Theologian,” in mode 2, based on
 his autograph MPT 707, fol. 222r-v. The piece was divided into musico-poetic phrases (cola), and
 barlines were added to indicate the measures.xv
-
-488
 
 ![Description](image_10680.jpeg)
 
@@ -526,8 +492,6 @@ belonging to the family of mode 2, the melos requires different, chromatic sonor
 in practical sources usually follow one another not by tetraphony, but by diphony: see Figures 8.47
 and 9.19-20.
 
-489
-
 ![Description](image_10682.jpeg)
 
 from parallage: pl. 4th
@@ -556,8 +520,6 @@ Figure 9.20. The first phrase of the sticheron “O Virgin Theologian” as an e
 circle appears the martyria of the plagal fourth mode, which also appears in the exercise in metrophony & parallage. © for the
 manuscript excerpts: National Library of Greece. Holy Monastery of Dochiariou.
 
-490
-
 Whereas parallage during the Byzantine and early post-Byzantine period is based on the diatonic
 trochos, and other successions of martyriai are interpreted as “from melos” or as “double parallage,”xviii during the
 late Middle Byzantine period the special intervals of the modes that are based
@@ -580,8 +542,6 @@ analytically through the characters of Neo-Byzantine notation. From each structu
 original there springs a small melodic development. We might say that it is like matryoshkas, where
 each large doll carries within it a series of likenesses in smaller form: see
 Figure 9.22.
-
-491
 
 ![Description](image_10690.jpeg)
 ![Description](image_10691.jpeg)
@@ -607,8 +567,6 @@ Another aspect of metrophony is realized through the so-called isasmos of the ei
 method in which the modes are presented in pairs (the authentic mode and its plagal), chiefly through stepwise
 descending-ascending movements, within increasing intervallic frameworks (from one up to four phonai): see
 Figures 9.12 (in the middle) and 9.23.
-
-492
 
 ![Description](image_10692.jpeg)
 
@@ -646,8 +604,6 @@ eleven phonai. The verbal text beneath the sign-phonai is music-theoretical in c
 clarifying each time the intervallic framework that is traversed. An excerpt is given in
 Figure 9.24.
 
-493
-
 ![Description](image_10697.png)
 
 Figure 9.24.a. Excerpt from the “Method of metrophony” of Gregory Bounes Alyates:
@@ -656,29 +612,21 @@ Patriarchate of Jerusalem, Anastasis Collection, no. 45, fol. 13v-14r, eighteent
 summing of the ascending and descending phonai of each thesis, open transnotation, a diagram
 of melodic contour, and syllabic interpretation, according to the research of I. Arvanitis (2003 and 2010).xxi
 
-494
-
 ![Description](image_10698.png)
 
 Figure 9.24.b. Excerpt from the “Method of metrophony” of Gregory Bounes Alyates:
 examples of theseis for two phonai (nos. 29-31).
-
-495
 
 ![Description](image_10699.png)
 
 Figure 9.24.c. Excerpt from the “Method of metrophony” of Gregory Bounes Alyates:
 examples of theseis for two phonai (nos. 32-34).
 
-496
-
 ![Description](image_10700.png)
 
 Figure 9.24.d. Excerpt from the “Method of metrophony” of Gregory Bounes Alyates:
 examples of theseis for two phonai (nos. 35, 45-46. In between there intervene theseis in other intervallic
 frameworks).
-
-497
 
 ![Description](image_10701.png)
 
@@ -691,8 +639,6 @@ elements of musical practice and composition. For more information concerning th
 reader is referred to a previous, more extensive account.xxii The calculations of the phonai
 shown on the right, beside the lines in Middle Byzantine notation in Figures 9.24a-e, will
 be discussed in the next section.
-
-498
 
 #### 2.2.3. Metrophony in music-theoretical handbooks
 
@@ -719,8 +665,6 @@ to the total of 19 ascending and likewise 19 descending phonai.
 An original diagram for the teaching of metrophony is used by the Anonymous author of
 MS NLG 968 (see Figure 9.26):
 
-499
-
 ![Description](image_10703.jpeg)
 
 Figure 9.26. Kanonion of metrophony in the Anonymous author of MS NLG 968, fol. 177r, seventeenth century (Giannopoulos, 2013, p. 98, 111-
@@ -734,8 +678,6 @@ instrument, places the musico-poetic text “Our evening prayers” (first verse
 Resurrectional sticheron of Saint John of Damascus in the setting by Chrysaphes the Younger, mode 1)
 in eight measures in the form of strings: three above and four below the central ison. The diagram
 visualizes the metrophonic structure of the piece through the use of a vertical axis: see Figure 9.27.
-
-500
 
 Pa΄
 
@@ -769,8 +711,6 @@ parallage (παραλλαγή), and subsequently the metrophonia and the melos (
 aforementioned theorists are set in comparison; they appear to record the late post-Byzantine pedagogical
 practice concerning metrophonia:
 
-501
-
 ![Description](image_10705.jpeg)
 
 -  The original sticheron (as Chrysanthos cites it, 70)
@@ -789,8 +729,6 @@ Figures 9.28.a.-c. Parallage, metrophonia, and melos: The example of the sticher
 comparison of sources.xxvii Listen to excerpts 1, 3, 4, 5, 6, by pressing     
 
 a
-
-502
 
 ![Description](image_10707.jpeg)
 ![Description](image_10708.jpeg)
@@ -815,8 +753,6 @@ Cross-section of a matryoshka. 2. “Another useful parallage” (Tardo, 1938, p
 (1938, § 309): “The melody of this (sc. the intonation formula of the First mode), as it has been preserved from tradition, is written thus according to our
 system.”xxviii © for the MS excerpt: National Library of Greece.
 
-504
-
 If we suppose that from the unfolding of the initial ison of the first mode its intonation formula is born, we can follow step by step,
 through its metrophonia and parallage, how we arrive at its melos, by means of the art of slow exegesis. A schematic representation of the relationship
 between the initial ison, the metrophonia, the parallage, and the melos of the intonation formula of the first mode is shown in Figure 9.30.
@@ -836,8 +772,6 @@ Figure 9.30. “Give me a piece, and I will show you how it is born from an ison
 1. The initial, generative ison-drone. 2. The metrophonia of the old intonation formula of the first mode, with stepwise movements only. The green ison below indicates the base of the plagal
 
 first mode. 3. In purple, the movement of the parallage, and in light blue, the movement of the melos.xxx
-
-505
 
 ![Description](image_10714.jpeg)
 
@@ -862,8 +796,6 @@ they were preserved by tradition down to his time: see Tables 9.2.a-c.
 
 Table 9.2.a. The intonation formulas of the authentic modes in stenographic and analytical notation, according to Chrysanthos, Great Theoretical Treatise (1832, §§ 309-312).
 
-506
-
 |Mode pl. I pl. II Varys pl. IV|Old Method|Exegesis in the New Method|
 |---|---|---|
 
@@ -877,8 +809,6 @@ Table 9.2.a. The intonation formulas of the authentic modes in stenographic and 
 ![Description](image_10732.jpeg)
 
 Table 9.2.b. The intonation formulas of the plagal modes in stenographic and analytical notation, according to Chrysanthos, Great Theoretical Treatise (1832, §§ 313-316).
-
-507
 
 Mode Old Method
 
@@ -894,8 +824,6 @@ no
 
 Table 9.2.γ. The apechemata of legetos and nenano in stenographic and analytical writing, according to Chrysanthos, Great Theoretikon (1832, § 318). For the
 orthography of the neumes of the apechema of nenano in Middle Byzantine writing, cf. ch.8, Table 8.4. of the present handbook.
-
-508
 
 ![Description](image_10734.jpeg)
 ![Description](image_10735.jpeg)
@@ -957,8 +885,6 @@ Psaltic Art in the Old System: metrophonia (μετροφωνία), parallage (π
 
 Study the example “It Was Deep Dawn,” from Figure 9.25.
 
-509
-
 ### Assessment Criterion 6
 
 Study the music-theoretical example “Our Evening Prayers” by
@@ -1014,8 +940,6 @@ John Plousiadenos. Explanation of parallage. In Antonios Alygizakis, The oktoech
 hymnography (pp. 235-239). Thessaloniki: Pournaras, 1985.
 Karas, Simon. (1982). Method of Greek music. Theoretical treatise. 2 vols. Athens: Society for the Dissemination of
 National Music.
-
-510
 
 Manuel Chrysaphes. On the matters considered in the art of chanting and on those about which some hold wrong opinions. Ed.
 
@@ -1075,8 +999,6 @@ Stathis, Gregorios. (1997). Course file “Analytical Byzantine notation”. Ath
 Kapodistrian University of Athens, Department of Music Studies.
 Floros, Konstantinos. (1998). The Greek tradition in the musical scripts of the Middle Ages. Introduction to Neumatic
 Science. Trans.-ed. Kostas Kakavelakis, philological ed. N. Avramopoulos. Thessaloniki: Ziti.
-
-511
 
 Hatzigiakoumis, Manolis. (1999). The ecclesiastical music of Hellenism after the Fall (1453-1820). Sketch
 of a history. Athens: Centre for Research & Publications.
@@ -1139,8 +1061,6 @@ Zannos, Ioannis. (1994). Ichos und Makam. Orpheus 74. Bonn.
 <https://de.wikipedia.org/wiki/Matrjoschka#/media/File:Russian-Matroshka2.jpg>
 
 (8.5.2016).
-
-512
 
 ## Endnotes for Chapter 9
 
@@ -1206,8 +1126,6 @@ xxiv This important diagram has been published several times: see, e.g., Psachos
 xxv “This sticheron is chanted with eight metra; it has three strings ascending and four descending,
 and one keeps the main ison; and they make eight metra, correct; take care to understand and do not
 
-513
-
 take the admonition lightly; because the ancient poet assumed that your teacher would teach them to you
 from the beginning as the craftsman that he is called; and for this reason he tells them to you briefly; for it is impossible
 for anyone to learn an art without a living voice, and only by means of writing;” EBE 968, f. 177r. There follows a
@@ -1223,5 +1141,3 @@ photograph of the modern Russian matryoshka doll was based, cf.
 xxix From an oral discussion with the composer Professor Mr. Christos Samaras, in the Department of Music Studies of the
 Aristotle University of Thessaloniki (around 2008).
 xxx This image is based on: Alexandru & Tsougras (2008, fig. 3).
-
-514

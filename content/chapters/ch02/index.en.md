@@ -49,8 +49,6 @@ b) signs “for greater and richer movements of the voice,” that is, for the n
 
 chants proper.vi
 
-75
-
 Figure 2.1. Bernard de Montfaucon (1655-1741), the father of the Palaeography of the Greek Language.vii
 Source: <http://en.wikipedia.org/wiki/Bernard_de_Montfaucon> (13.07.2009).
 
@@ -86,8 +84,6 @@ Pharaoh, royalxiii) and names a marsh plant which in Antiquity grew in Egypt
 in the valley and Delta of the Nile, in Syria, in Mesopotamia, in Lake Gennesaret in
 Palestine, and later also in Syracuse in Sicily, etc.xiv (see Figure 2.2).
 
-76
-
 ![Description](image_2445.jpeg)
 
 Figure 2.2. Papyrus (Cyperus papyrus) at Kew Gardens in London
@@ -103,8 +99,6 @@ lengths (2-5 metres)xv and of varying quality: see Fig. 2.3.xvi
 Figure 2.3. Studying papyri in a Hellenistic library: copy by Georgios Tzimopoulos & Aikaterina
 
 Ioannidou, based on: History of the Greek Nation, vol. V (1974, p. 279).
-
-77
 
 In the Greek language papyrus was also called byblos/biblos, from the city of the same name in
 Phoenicia (today in Lebanon), which was an important commercial centre for papyrus in Antiquity
@@ -145,8 +139,6 @@ The oldest papyrus of Europe known today was found in 1962 at Derveni near
 Thessaloniki. It was written around 340 BC and had been enclosed in a tomb for about 2350 years! (see
 Figure 2.4).xxii
 
-78
-
 ![Description](image_2448.jpeg)
 
 Figure 2.4. The Derveni Papyrus (late 4th c. BC), originating from Tomb A at Derveni. The papyrus scroll
@@ -178,8 +170,6 @@ calf, more rarely ass (donkey) or even pig. The refined manufacturing method of
 parchment includes the cleaning of the hide and its preparation as a smooth writing surface,
 with the use of lime, water, and pumice.xxviii
 
-79
-
 ![Description](image_2449.jpeg)
 ![Description](image_2450.jpeg)
 
@@ -209,8 +199,6 @@ parchment began.xxx Although the reliability of this story was shaken by the fac
 written on a corresponding material already from the 4th c. BC,xxxi nevertheless this story reveals that
 Pergamon was in Antiquity the principal productive and commercial centre of parchment.
 
-80
-
 During the 3rd-5th c. AD, testimonies concerning the spread of parchment become more numerous, and from the
 6th century onward parchment becomes the most common writing material and predominates until the 13th century, when
 it enters into competition with paper. In other words, parchment constitutes the basic writing material of
@@ -236,8 +224,6 @@ Source: <https://commons.wikimedia.org/wiki/File:RossanoGospelsFolio8vChristBefo
 
 (8.8.2016). <https://de.wikipedia.org/wiki/Codex_purpureus_Rossanensis> (8.8.2016).
 
-81
-
 #### 1.2.3. Paper
 
 Paper was invented in China, and the oldest samples of paper that have survived to the present
@@ -260,8 +246,6 @@ With the Arabs, paper also came to the West: first to Spain, during the 12th cen
 in Xàtiva of Valencia, in Córdoba, Granada, and Toledo), and a century later to
 Italy. The first Italian paper mill was in the city of Fabriano and is attested from the year 1268. In
 time it became the most important productive and commercial centre of paper in the West and East.
-
-82
 
 Arab or bombycine paper is characterised by its compact texture, its smooth and glossy
 surface, its grey or yellowish colour, and its thick sheet, with dense laid lines and
@@ -287,8 +271,6 @@ was offered to the scholarly community by the French palaeographer C.M. Briquet 
 Figures 2.10. Watermark designs with the motif of the double-headed eagle. Source: Briquet (1907, vol. I, digital p. 304, designs
 
 231-242, from: <https://doc.rero.ch/record/23217/files/ob_447_1.pdf> [8.8.2016].
-
-83
 
 ### 1.3. Writing instruments and inks
 
@@ -316,8 +298,6 @@ In red are written chiefly the titles and the so-called erythrogrammata (ἐρυ
 rubrics, from the Latin ruber = red),xliv that is, notes by the scribe which concerned the
 feast and the service for which the piece was intended, its poet and/or its melodist, the type
 
-84
-
 of the piece, and various liturgical instructions, occasionally also evaluations of the pieces, such as e.g. very
 beautiful. Also written in red are: the first letter of a piece, the martyriai (initial and
 internal, or mesomartyriai), as well as various musical signs, especially many of the so-called great
@@ -340,8 +320,6 @@ goose). Both the reed pen and the kondylion were sharpened with a small knife. I
 as in modern pens.
 Writing materials and instruments are often depicted in Byzantine iconographic works (miniatures or
 wall paintings) with the Evangelists (see, e.g., Figure 2.13).
-
-85
 
 ![Description](image_2458.jpeg)
 
@@ -367,8 +345,6 @@ Other names for the scroll were byblos, biblion, eiletarion (Lat. liber, libellu
 papyrus scroll that had not yet been written upon was called chartes (Lat. charta). If a work was
 written on several scrolls, because of its size, each scroll constituted a tome of
 the particular work (e.g. volume I, II, III of the Iliad).xlviii
-
-86
 
 From the 2nd c. AD began the gradual replacement of the scroll and papyrus by the
 codex and parchment. A codex is the term for a set of folded and sewn leaves, which
@@ -397,8 +373,6 @@ _Parchement_scroll%2C_13th_century_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_12.jpg
 <http://commons.wikimedia.org/wiki/File:Spas_vsederzhitel_sinay.jpg#/media/File:Spas_vsederzhitel>_ sinay.jpg
 
 (11.6.2015). Choulis (1999, p. 27, fig. 18a and p. 43, fig. 38a).
-
-87
 
 ||
 |---|
@@ -435,8 +409,6 @@ punctuation marks: 30 and 100 prostrations. (...)
 the membranes and all the binding tools, so that none of the things useful
 for such service becomes unusable, impose upon him 50 and 100 prostrations and
 
-88
-
 excommunication.”lv
 
 #### 1.4.3. The preparation of a codex
@@ -470,8 +442,6 @@ or 1v (verso), 2a and 2b (or 2r and 2v), 3a and 3b (or 3r-v), 4a-b (or 4r-v), an
 
 Diagrams 2.4-7. From the processed hide, e.g. of a calf, to the eight leaves of a codex: a common form
 of folding a parchment into eight leaves (in-οctavo). By folding, one large bifolium (dyad) is first formed,
-
-89
 
 which in turn is folded another two times to create a quaternion. The eight leaves that result
 are numbered with their two sides from 1a to 8b (or 1r-8v). Altogether we have 16 pages.lvii
@@ -519,8 +489,6 @@ several stages, among which the following are mentioned:
 
 the upper and lower part of the spine),
 
-90
-
 - the gluing of the cover (usually morocco leather in a brown colour, at other times silk
 
 cloth of various colours and designs) onto the codex and the placement of clasps for the
@@ -551,8 +519,6 @@ Historical Museum, Moscow, Șciukin Collection, MS 350.lxiii © State Historical
 A separate category is constituted by the luxury bindings, chiefly of the Gospels, with gold
 or, usually, gilt silver, pearls, precious stones, etc. (see Figures 2.15 & 2.18).
 
-91
-
 ![Description](image_2475.jpeg)
 
 Figure 2.18. Luxurious modern binding of a Gospel book, in Byzantine style: binding with gold, pearls, gemstones,
@@ -570,16 +536,12 @@ The study of the palaeography of Byzantine music can also bring us into contact 
 illustrated codices, especially in the case of ekphonetic notation (Gospels), but also of musical
 collections such as Sticheraria, Anthologies, etc. (see Figure 2.19).
 
-92
-
 ![Description](image_2476.jpeg)
 
 Figure 2.19. Miniature of the Pantokrator at the beginning of Great Vespers, from the Anthology of the Holy Monastery of
 Pantokrator, no. 206, f. 25r (in the open book a fragment from the Gospel according to Matthew, ch. 11, 29.2,
 is visible, in majuscule script). Scribe: Kosmas the Hieromonk, ca. 1685-1700 (Chatzigiakoumis, 1980, pl. 51). © Holy
 Monastery of Pantokrator, Mount Athos.
-
-93
 
 Samples and descriptions of miniatures and various elements of Byzantine ornamentation, such as
 headpieces, headings, initial letters or decorated initials, rosettes (decorative forms in circular
@@ -623,8 +585,6 @@ pseudocolor images, which increase the difference between the two writings
 and the parchment, rendering the various elements in colours that are more easily distinguished from one another
 (see Figure 2.20).lxxv
 
-94
-
 ![Description](image_2477.jpeg)
 
 Figure 2.20. Pseudocolor image from the palimpsest Codex Nitriensis, British Library, Add.
@@ -645,8 +605,6 @@ In the present handbook, a reference has already been made to the palimpsest Pri
 Table 1.7, 8th c., and below, chapter 5, section 5). In chapter 4 there will also be discussion of the famous
 Palimpsest Codex of Saint Ephraem the Syrian (Codex Ephraemi Syri rescriptus, from the National Library
 of Paris: Codex Parisinus graecus 9).lxxviii
-
-95
 
 ### 1.6. Elements of Byzantine Codicology and the liturgical contexts of Byzantine musical codices
 
@@ -683,8 +641,6 @@ offices of the movable festal cycle (centred on Easter) and of the fixed festal 
 (1 September–31 August) of the ecclesiastical year.lxxxi Diagram 2.2 below outlines the
 network of liturgical books and highlights the organic place of musical manuscripts within the Byzantine
 codicological-liturgical ensemble.
-
-96
 
 Heirmologion,
 Kalophonic
@@ -753,8 +709,6 @@ starion
 Homilies on
 Psalms
 and Odes
-
-97
 
 Sticherarion,
 Anastasi-
@@ -849,8 +803,6 @@ Descriptive Catalogue, vol. I, Hydra. Holy Synod of the Church of Greece, IBM. A
 Balageorgos, D. & Kritikou, Fl. (2008). The Manuscripts of Byzantine Music, Sinai, Descriptive
 Catalogue, vol. I. Holy Synod of the Church of Greece, IBM. Athens. • Troelsgård, Chr. Inventory of
 
-98
-
 Microfilms and Photographs in the Collection of Monumenta Musicae Byzantinae, Database of the ΜΜΒ:
 <http://www.igl.ku.dk/MMB/catbyz.htm> • Bucca, Donatella. (2011). Catalogo dei manoscritti musicali greci del SS.
 Salvatore di Messina (Biblioteca Regionale Universitaria di Messina). Roma: Comitato Nazionale per le Celebrazioni
@@ -869,8 +821,6 @@ period and modern times.
 Table 2.1 presents the two basic categories of Greek alphabetic script, which
 were widely diffused and in part coexisted in the same period, although each had
 different applications.
-
-99
 
 |Category of alphabetic script|Brief description and typology|Field of use|General characteristics|Remarks|
 |---|---|---|---|---|
@@ -1437,8 +1387,6 @@ different applications.
 
 Table 2.1. Categories of Greek scriptxc
 
-100
-
 ![Description](image_3033.jpeg)
 ![Description](image_3034.jpeg)
 ![Description](image_3035.jpeg)
@@ -1513,15 +1461,11 @@ ancient Greek and for Byzantine music, since some of them were incorporated also
 various types of Greek notation: ancient Greek alphabetic vocal notation, Byzantine
 ekphonetic notation, and Byzantine melodic notations.
 
-101
-
 ||||||
 |---|---|---|---|---|
 |Accents (Lat. tonoi), for indicating pitch levels Breathings (spiritus), signs of aspiration, usually at the beginning of a word that starts with a vowel|acute accent (αccentus acutus) grave accent αccentus gravis) ( circumflex accent (αccentus circumflexus) rough breathing (spiritus asper) smooth breathing (spiritus lenis)||high pitch of a syllable deep/low pitch of a syllable wavering of the voice (acute+grave) on one syllable (always of long duration) strong aspiration, aspiration weak aspiration, absence of aspiration|In diphthongs, in older manuscripts the accents and breathings were placed in a different way from modern practice, e.g.: • separate placement of breathing and accent: ἐῖναι, • placement of breathing or accent on the first vowel of the diphthong: ΠÁΥCONTAI, ἐις.xciii Concerning the breathings: the rounded form of the breathings usual today began to spread from the 11th c. onward. The older form of rough breathing was with the letter H. Later, the left half of this letter represented the rough breathing, while the right half of the same letter represented the smooth breathing. The next stage was the angular forms of the breathings.xciv|
 |Quantities (tempora), for indicating the length of syllables|long mark (αccentus longus) breve (αccentus brevis)||long duration of a syllable, a syllable prolonged in its pronunciation short duration of a syllable||
 |Modifications (variationes), for peculiarities at the end of a word and its joining with the next|apostrophe (apostrophus) hyphen (conjunctio) separation mark (separatio)||absence of a vowel at the end or beginning of a word, e.g. Τὸν δι' ἡμᾶς Σταυρωθέντα (Triodion, Office of the Holy Passion, kontakion) joining of two words separation between two words||
-
-102
 
 ![Description](image_3073.jpeg)
 ![Description](image_3074.jpeg)
@@ -1554,8 +1498,6 @@ More recent research on Byzantine liturgical texts has brought to light other sy
 culture with regard to the reading tradition of texts. Between these systems and Byzantine ekphonetic notation there is an
 inseparable relationship (see Zographou, 2010).xcvi
 
-103
-
 In the following sections we shall deal with the various types and varieties of bookhand, since
 this is the script one encounters when studying manuscript sources relating to
 Byzantine music, whether these are practical, music-theoretical, liturgical, literary, or
@@ -1579,8 +1521,6 @@ century onward various types of Greek minuscule script developed, first the so-c
 cursive, and later also the bookhand.xcviii Table 2.4 lists some of the best-known types of
 majuscule bookhand.
 
-104
-
 |Type of script|Examples, Remarks, References|
 |---|---|
 |Epigraphic|e.g. Papyrus Berolinensis 9875, late 4th c. BC, “perhaps the oldest literary papyrus” (Mioni, 1998, p. 64 and pl. I).|
@@ -1593,8 +1533,6 @@ majuscule bookhand.
 
 ![Description](image_3091.jpeg)
 
-105
-
 |Alexandrian or Coptic majuscule|• Used in Egypt. • An early form of this script can be found in Papyrus Rylands 470, dated to the middle of the 3rd or 4th c. AD (see Figure 2.23).|
 |---|---|
 ||Figure 2.23. Excerpt from Papyrus Rylands 470, at an early stage of Alexandrian majuscule script. © University of Manchester.|
@@ -1606,8 +1544,6 @@ majuscule bookhand.
 
 ![Description](image_3092.jpeg)
 ![Description](image_3093.jpeg)
-
-106
 
 ![Description](image_3094.png)
 
@@ -1664,8 +1600,6 @@ mss., cf. Hunger, 1995, figs. 40–42).
 
 Table 2.4. Types of majuscule script: a general overview.cviii
 
-107
-
 ![Description](image_3097.jpeg)
 ![Description](image_3098.jpeg)
 
@@ -1689,8 +1623,6 @@ In the following Table 2.5 by the palaeographer E. M. Thompson, various forms of
 letters of minuscule Byzantine cursive script are distinguished, many of which also occur in
 individual types of minuscule bookhand.
 
-108
-
 Forms of letters of minuscule Byzantine cursive script
 
 6th c.
@@ -1708,8 +1640,6 @@ first half of the 9th c.: a summary by E. M. Thompson.
 Sources: Thompson (1912, p. 194:
 <https://ia700407.us.archive.org/20/items/greeklatin00thomuoft/greeklatin00thomuoft.pdf> (15.2.2016). See also Mioni,
 1998, p. 80).
-
-109
 
 The establishment of the minuscule bookhand is connected with the flourishing of education,
 letters, and the arts during the 9th century, and especially with the beginnings of the so-called Macedonian
@@ -1763,8 +1693,6 @@ into the minuscule script is observed. In its long development and according to 
 minuscule bookhand appears in many varieties or tendencies, a selection of which is mentioned
 in Table 2.7.
 
-110
-
 |Varieties or types of minuscule bookhandcxvi|Examples, Remarks, References|
 |---|---|
 |Studite script|• The oldest dated manuscript in pure minuscule script is the Uspenskij Gospel (Petropolitanus graecus 219), of 835, which was copied by Hosios Nikolaos; see Figure. 2.30.|
@@ -1802,8 +1730,6 @@ Sotiroudi, 1991, p. 85):
 
 Thessaloniki.
 
-111
-
 ![Description](image_3101.jpeg)
 
 Curly (Fr.:
@@ -1839,8 +1765,6 @@ rounded form (see sample in: Litsas, 2001, pp. 82–83). See also Figure 2.34.
 
 Philological
 
-112
-
 |Scripts of Southern Italy: • Otrantine (Terra d'Otranto) • Reggian (Reggio, Calabria) • Grottaferrata • Greco-Lombard • Anastasius • Ace of spades|• Varieties of Italo-Greek minuscule scripts survive in mss. of roughly the 9th–16th c. See, e.g., the codices Parisinus gr. 1470 of the copyist Anastasius,cxxiii Vat. gr. 2138 (Greco-Lombard), Vat. gr. 1553 (ace of spades), Vat. Barberinianus gr. 297 (palimpsest, Otrantine), Vat. gr. 1276 (Otrantine).cxxiv • One of these scripts presents a characteristic ligature of the letters ε+ρ in the shape of an ivy leaf . On the basis of this combination, the script was named “ace of spades” by the palaeographer R. Devresse.cxxv See, e.g., Figure 2.35. Figure 2.35. Two lines from the sticheron “Χρυσέοις ἔπεσι” for the commemoration of St John Chrysostom, 27 January, from the new finds of the Monastery of Sinai, Μ 167, 9th–10th c., in minuscule “ace of spades” script (Archbp. Damianos, Archim. Sophronios, Peltikoglou and Nikolopoulos, 1998, photograph 144). © Holy Monastery of Saint Catherine, Sinai.cxxvi (στε)φανον ἐξ ἀκηράτων ἀνθέων πλεξαμένη τοῖς ᾄσμασιν τῇ ἱερᾷ σου προσφέρει μνή(μῃ)|
 |---|---|
 |Unevenly rounded (Germ.: Fettaugen)|• In various manuscripts of the Palaiologan period, the palaeographer Herbert Hunger observed the use of letters of unequal size, from very small to even excessively large (especially the rounded letters ο, ω, β, θ, σ). See, e.g., ms. Vaticanus graecus 1899, f. 148r, year 1261–1282, in minuscule “unevenly rounded” script, autograph of Theodora Palaiologina Kantakouzene Raoulaina (Litsas, 2001, pp. 96–97) and the excerpt in Figure 2.36 below. • On the basis of the general appearance presented by such manuscripts, Hunger spoke of a ‘Fettaugen-Mode’ (“fat-eyes fashion”) in manuscripts of the 13th–14th century.cxxvii Figures 2.36–37. Excerpt from the Tropologion in ms. Vindobonense theol. gr. 146, f. 24r, 13th c., in unevenly rounded, slightly right-leaning script (cf. also Alygizakis, 1985, pl. 48). © Österreichische Nationalbibliothek, Wien.  Fettaugen (fat eyes) in a soup.|
@@ -1850,8 +1774,6 @@ Philological
 ![Description](image_3107.jpeg)
 ![Description](image_3108.jpeg)
 
-113
-
 |Metochites|• A well-known late Byzantine minuscule script, which took its name from the writing style of Theodore Metochites (1270–1332), the famous humanist of the Palaiologan period and renovator of the Holy Monastery of Chora in Constantinople (1316–1321). To this monastery the imperial library had been transferred after the recapture of the City in 1261, and to the same monastery Theodore Metochites—who at the end of his life had become a monk with the name Theoleptos—bequeathed his important private library.cxxviii • It is a legible script with a careful proportion of broad and narrow forms of its letters and with few abbreviations (see Figures 2.38–39) Figures 2.38–39. Copy from the codex of the Monastery of Xeropotamou, Mount Athos, no. 222, f. 234r, year 1345, in minuscule “Metochites” script.cxxix  The logothete Theodore Metochites dedicating to the Lord Jesus Christ—“the Chora of the living”—the renovated church of the Monastery of Chora. Mosaic in the same church, year 1315–1320.cxxx|
 |---|---|
 |Monastery of Hodegon|• Minuscule script that developed in the Holy Monastery of Hodegon in Constantinople and is characterized by elements such as the “alternation of large and small letters, the proportion of vertical and diagonal lines, freedom in the direction of the writing, (...) sporadic exceeding of the limits of the written surface”.cxxxi Cf. Figure 2.40. • It survives in mss. of the 14th–16th c. Figure 2.40. Forms of the letters of the “Hodegon” script, according to the codex Vaticanus Chisianus gr. R V 29, f. 242v, year 1394. In the last row the combinations ει and εξ are visible, while the penultimate, large form is another form of the letter ζ.cxxxii|
@@ -1860,16 +1782,12 @@ Philological
 ![Description](image_3110.jpeg)
 ![Description](image_3111.jpeg)
 
-114
-
 |Typographical (Germ. "Druckminuskel")|• Two years after the Fall of the City, Johannes Gutenberg issued the first major printed edition in Europe, the Holy Bible in Latin, also known as the Gutenberg Bible (Mainz, 1455).cxxxiii During the second half of the 15th century the first books in Greek were also printed. Particularly important in this direction was the contribution of Cretan copyists and of the publisher Aldus Manutiuscxxxiv (see Figures 2.41–42). Figures 2.41–42. Aldus Manutius (1449–1515), leading Italian humanist and the best-known publisher of the Renaissance period.cxxxvi  Sample of one of the oldest Greek printed books, in cursive minuscule script: an incunable with works of Aristotle, in an edition by Aldus Manutius (Venice, 1495–1498), preserved in the Image sources: <https://commons.wikimedia.org/wiki/File:Aldus_Manutius.jpg#/media/File:Aldus_Manutius.jpg> (21.07.2015). <https://commons.wikimedia.org/wiki/File:Aristoteles_opera_aldus_1495.jpg#/media/File:Aristoteles_opera_aldus_1495.jpg> (21.07.2015). Bayerische • In turn, printed books became models for imitation for various copyists. The corresponding handwritten minuscule script was called “typographical”: see, e.g., mss. Vaticanus gr. 588 of the year 1552 or Vaticanus Urbinas 149 of the year 1560.cxxxv Staatsbibliothek München.cxxxvii|
 |---|---|
 |School of Luca Bozeu|• From bibliographical centres in Romania a type of Greek minuscule script is known that can be described as “upright, square, large-sized”. It is documented in mss. of the 16th–17th century and was called that of the “School of Luca Bozeu”.cxxxviii This is the learned prelate Luca, bishop of Buzău (1583–1603) and Metropolitan of Ungro-Wallachia (1603–1629).cxxxix See Figure 2.43. Figure 2.43. Excerpt from the ms. of the Monastery of Great Vatopedi, Greek 1048, f. 104v, year 1642, in minuscule script of the “School of Luca Bozeu”, with the colophon of the copyist, the archpriest Iakovos.cxl © Monastery of Great Vatopedi, Mount Athos.|
 
 ![Description](image_3112.jpeg)
 ![Description](image_3113.jpeg)
-
-115
 
 ![Description](image_3114.jpeg)
 
@@ -1939,8 +1857,6 @@ Chartophylax.cxliii
 
 Table 2.7. Types of minuscule script from the 9th to the 19th century: an open list
 
-116
-
 ### 2.4. Aids for reading manuscripts
 
 The reader of manuscripts in majuscule and minuscule script today is confronted not
@@ -1959,8 +1875,6 @@ Greek manuscripts.cx lv
 
 ![Description](image_3117.jpeg)
 ![Description](image_3118.jpeg)
-
-117
 
 #### 2. Truncation or suspension
 
@@ -2057,8 +1971,6 @@ beautiful
 ως
 
 ![Description](image_3121.jpeg)
-
-118
 
 - Examples of combinations from majuscule script:
 
@@ -2192,8 +2104,6 @@ following letter).cxlvi
 
 ων
 
-119
-
 #### 4. Tachygraphic signs and
 
 symbols: Used
@@ -2270,8 +2180,6 @@ or for sign-phonemes (σημαδόφωνα) that have been erased and/or are not
 
 Letters that are not clearly visible in the manuscript take a dot beneath.
 
-120
-
 ![Description](image_3126.jpeg)
 ![Description](image_3127.jpeg)
 
@@ -2331,8 +2239,6 @@ supplementing elliptical phrases of the original.
 
 (Lat. = it is empty, free), to indicate a blank in a line or a folio.
 
-121
-
 ## Assessment criteria for Chapter 2
 
 Assessment criterion 1
@@ -2349,8 +2255,6 @@ Noteworthy are the two small curved signs after the word “Theotokos” in the 
 line, as well as the colon after the word “ikesias” (“supplication”). These signs probably relate to the loud
 reading or the musical performance of the hymn. See also endnote xcvi. © University of Manchester.
 
-122
-
 ![Description](image_3129.jpeg)
 
 Figure 2.46.b. Icon with an early iconographic type of the Most Holy Theotokos with the Divine Child, from the first half of the
@@ -2360,8 +2264,6 @@ of the oldest icons of the Virgin preserved to the present day. It is related to
 portraiture, which is known from the famous Faiyum portraits in Egypt. It was executed in the
 so-called encaustic technique, which was more generally in use in the art of painting in the Hellenistic and
 Early Christian periods.cli © Bohdan and Varvara Khanenko National Museum of Arts, Kiev.
-
-123
 
 Assessment criterion 2
 
@@ -2397,8 +2299,6 @@ Source photograph: <http://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_1_d_vi
 
 © British Library Board Royal 1 D.viii.
 
-124
-
 ![Description](image_3131.png)
 
 Figure 2.47.b. The Alexandrian Codex of the Bible, Londinensis gr. Royal 1 D.viii, fol. 97v, with the
@@ -2407,8 +2307,6 @@ continuation of the Hymn of Love (1 Cor. 13:4–13). At the arrow the hymn is co
 1. Source photograph: <http://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_1_d_viii_fs001r#>
 
 (8.11.2016). © British Library Board Royal 1 D.viii.
-
-125
 
 Assessment criterion 3
 
@@ -2441,8 +2339,6 @@ Museum, vol. III. See high-resolution photographs at: <www.csntm.org/Manuscript/
 
 © British Library Board Royal 1 D.vii.
 
-126
-
 ![Description](image_3133.jpeg)
 
 Figure 2.48.b. Londinensis gr. Royal 1 D.vii, fol. 569v (5th c.), in biblical majuscule script. End of the Great
@@ -2451,8 +2347,6 @@ Source photograph: Thompson, E. Maunde. (Ed., 1883). Facsimile of the Codex Alex
 Museum, vol. III. See high-resolution photographs at: <www.csntm.org/Manuscript/View/GA_02> (27.12.2016).
 
 © British Library Board Royal 1 D.vii.
-
-127
 
 Assessment criterion 4
 
@@ -2473,8 +2367,6 @@ Archimandrite, Peltikoglou, V. and Nikolopoulos, P.N. (1998). Holy Monastery and
 Finds of Sinai. Athens: Ministry of Culture - Mount Sinai Foundation, , photo 49. © Holy Monastery of Saint Catherine,
 Sinai.
 
-128
-
 Assessment criterion 5
 
 Exercise in majuscule script 5. Example from the Gospel Venetus
@@ -2487,8 +2379,6 @@ Figure 2.50. The Gospel Codex Venetus Marcianus gr. 12, 9th-10th c., fol. 7r, in
 script, with ekphonetic notation. For the headings the same majuscule script is used, in a smaller
 module. On this folio an excerpt from the Gospel according to Matthew 11:27-29 is visible.clvi © Biblioteca
 Nazionale Marciana, Venezia.
-
-129
 
 Assessment criterion 6
 
@@ -2506,8 +2396,6 @@ majuscule). On this page the beginning of the Gospel according to Matthew 1:1-6 
 tree of Christ.clvii A very interesting combination of prosodic signs, punctuation, and a kind of
 proto-ekphonetic notation can be discerned (see also ch. 4). © National Library of Russia, St. Petersburg.
 
-130
-
 ![Description](image_3137.jpeg)
 
 Figure 2.52. The tree or root of Jesse: stained glass in the Gothic cathedral at Chartres, France, c. year 1145 - known
@@ -2516,8 +2404,6 @@ Jesse, father of King David.
 Source photograph: <https://commons.wikimedia.org/wiki/File:France_Chartres_JesseTree_c1145_a.JPG> Photograph
 
 T. Taylor (31.12.2016).
-
-131
 
 ![Description](image_3138.jpeg)
 
@@ -2537,8 +2423,6 @@ fols. 69r, 73r, 78v, 80r, 105v. Cf. also endnote xcvi in
 
 the present chapter.
 
-132
-
 ![Description](image_3140.jpeg)
 
 Figure 2.54.a. The Uspenskij Tetraevangelion (Codex Petropolitanus graecus 219), year 835, fol. 117r, with an excerpt from the
@@ -2550,8 +2434,6 @@ indications of a special movement of the voice during the reading of the
 text: Petrop. gr. 219, fol. 117r.
 
 ![Description](image_3141.jpeg)
-
-133
 
 Assessment criterion 7
 
@@ -2567,8 +2449,6 @@ catena (exegetical chain) in the margins of the MS, written in the aforementione
 upright minuscule script, “preliminary stage of pearl-script - Perlschrift”.clviii In the present image: fol. 202r, with
 Psalm 149, vv. 8.2-9 and Psalm 150 in full, together with the corresponding catena. © for the photograph from microfilm:
 Patriarchal Institute for Patristic Studies, Thessaloniki.
-
-134
 
 Assessment criterion 8
 
@@ -2595,8 +2475,6 @@ Seminar of Classical Philology of the Faculty of Philosophy of Aristotle
 University of Thessaloniki, MS no. 36, in liturgical right-slanting script, 17th
 c. (Politis, Sotiroudis and Sakellaridou-Sotiroudi, 1991, pp. 36-37).
 
-135
-
 ![Description](image_3144.jpeg)
 ![Description](image_3145.jpeg)
 
@@ -2607,8 +2485,6 @@ Figure 2.57.a-b. Hagiasmatarion from the Seminar of Classical Philology of the F
 
 For a more detailed description and more photographs of the MS, see: <http://digital.lib.auth.gr/collection/Manuscripts?ln=el> (no. 25, [ARC-2007-38241]) and
 <http://digital.lib.auth.gr/record/80022/files/1.pdf> (19.8.2016).
-
-136
 
 Assessment criterion 10
 
@@ -2634,8 +2510,6 @@ Method. © Holy Monastery of Karakallou,
 “Introduction to the Theory and Practice of Ecclesiastical Music”, in
 script. It is followed by the Anastasimatarion of Petros Peloponnesios with the sematophones (σημαδόφωνα) of the New
 Mount Athos.
-
-137
 
 ### Assessment criterion 11
 
@@ -2689,8 +2563,6 @@ Paris: Rigniou. Repr.: Athens: Koultoura.
 Chrysanthos of Madytos. (2007). Great Theoretical Treatise of Music. The unpublished autograph of 1816. The
 printed edition of 1832. Critical edition Georgios Konstantinou. Vatopedi Music Bible, Musicological
 Studies 1. Holy and Great Monastery of Vatopedi.
-
-138
 
 Catalogues of manuscripts and early printed books
 
@@ -2749,8 +2621,6 @@ letters. (1973, 1975, 1979, 1991). Patriarchal Institute for Patristic Studies. 
 Pelekanidis, Panag. K. Christou, Chrys. Mavropoulou-Tsioumi, Sot. N. Kadas. Volume C: Styl. Pelekanidis,
 Panag. K. Christou, Chrys. Mavropoulou-Tsioumi, Sot. N. Kadas, Aik. Katsarou. Volume D: Panag. K.
 
-139
-
 Christou, Chrys. Mavropoulou-Tsioumi, Sot. N. Kadas, Aik. Kalamartzi-Katsarou. Athens: Ekdotiki
 Athinon.
 Kadas, Sot. N. (2008). The Illuminated Manuscripts of Mount Athos. A. Catalogue of Miniatures, B.
@@ -2808,8 +2678,6 @@ Arvin Press.
 Alexandru, Maria. (2006). The palaeography of Byzantine music: A brief introduction with some preliminary remarks on
 musical palimpsests. In Ángel Escobar (ed.), El palimpsesto grecolatino como fénomeno librario y textual,
 presentación de Dieter Harlfinger (pp. 113-130). Zaragoza: Institución "Fernando el Católico".
-
-140
 
 Αlexandru, Maria. (2011). Christ our God, ein emblematisches Sticheron zum Hl. Kreuz. Ansätze zu einem
 multiprismatischen Analysemodell aufgrund von J. Raasteds Strukturierungsmethode byzantinischer Troparia.
@@ -2872,8 +2740,6 @@ Harlfinger. Zaragoza: Institución "Fernando el Católico".
 Faraggiana, Chiara and Magrini, Sabina. (Eds., 2002). Rinascimento virtuale - Digitale Palimpsestforschung. Ministero
 per i Beni e le Attività culturali. Il Seminario Internazionale di Studio, 25 Gennaio 2002 Roma. Trans. Daniel
 Deckers, Sabina Magrini. Roma: Culture 2000.
-
-141
 
 Follieri, Henrica. (1969). Codices graeci Bibliothecae Vaticanae selecti temporum locorumque ordine digesti,
 commentariis et transcriptionibus instructi. Exempla Scripturarum edita consilio et opera procuratorum
@@ -2938,8 +2804,6 @@ Migne, J.-P. (1903). Patrologiae cursus completus. Series graeca, vol. 99. Paris
 Succesores. <https://ia902700.us.archive.org/7/items/patrologicursus60migngoog/patrologicursus60migngoog.pdf>
 
 (15.2.2016).
-
-142
 
 Mihálykó, Ágnes. (2015). P.Mon.Epiph. 607: Great Doxology and Trisagion. Zeitschrift für Papyrologie und Epigraphik,
 194, 97-100.
@@ -3013,8 +2877,6 @@ Threatte, Leslie (1996). The Greek Alphabet. In P.T. Daniels and W. Bright (eds.
 Troelsgård, Christian. (2003). A List of Sticheron Call-Numbers of the Standard Abridged Version of the Sticherarion.
 Part I (The Cycle of the Twelve Months). CIMAGL, 74, 3-20.
 
-143
-
 Turner, Ε. G. (1989). Greek Papyri. An Introduction to the Study and Use of Papyrological Texts.
 Trans. Giorgos M. Parasoglou (2nd ed.). Athens: Cultural Foundation of the National Bank.
 Weitzmann, Kurt. (1971). Studies in Classical and Byzantine Manuscript Illumination. Ed. By H.L. Kessler, Introduction
@@ -3075,8 +2937,6 @@ pg (21.07.2015).
 <https://commons.wikimedia.org/wiki/File:Parchment_from_goatskin.jpg> (15.2.2016).
 <https://commons.wikimedia.org/wiki/File:Romanos_the_Melodist_(Menologion_of_Basil_II).jpg> (8.9.2016).
 <https://commons.wikimedia.org/wiki/File:RossanoGospelsFolio8vChristBeforePilate.jpg> (8.8.2016).
-
-144
 
 <https://commons.wikimedia.org/wiki/File:0_Gaius_Flavius_Valerius_Constantinus_-_Palatino.JPG>
 
@@ -3164,8 +3024,6 @@ xii Cf. Mioni (1998, pp. 31-32).
 xiii The name is probably connected with Pharaoh’s monopoly over the manufacture and circulation of papyrus in
 Egypt (Latacz, 2014, p. 20).
 
-145
-
 See Mioni (1998, p. 28). Bülow-Jacobsen (2009, pp. 4-5).
 xv Latacz (2014, 20). The same author notes that the largest papyrus roll is 42 metres long.
 xvi
@@ -3229,8 +3087,6 @@ Calabria, Italy).
 xxxv Cf. also Galavaris (1995, p. 39, fig. 6, with an example from codex Vindobonensis theol. gr. 31).
 xxxvi Mioni (1998, p. 39) describes the method of making paper by the Arabs and the Europeans as
 follows:
-
-146
 
 1. procuring the material: linen rags and fibres from hemp and cotton,
 
@@ -3313,8 +3169,6 @@ bibliography concerning analytical descriptions of Byzantine and post-Byzantine 
 both ways of indicating the sides of leaves are used: r-v (recto-verso) and a-b: see e.g. Stathis (1975 and
 2016, vol. B). In the present handbook both ways are also used.
 
-147
-
 The diagrams were copied from: Lemaire (1989, p. 78).
 lviii The diagram was created on the basis of: Lemaire (1989, p. 41).
 lix Cf. Lemaire (1989, pp. 39-94). Choulis (1999, pp. 20, 49).
@@ -3385,8 +3239,6 @@ However, beneath the prayers, barely visible behind stains and smudges, lay buri
 surviving manuscript of the greatest mathematician of the ancient world, Archimedes of Syracuse. This,
 then, is the true story of the most important ancient scientific codex that exists today. More than
 
-148
-
 a thousand years old, after its first writing it was erased, written over, burned, soaked and mouldered,
 forgotten on the shelves of an old monastery. It had travelled across seas and lands, from East to
 West, passing through crusades, conquests and world wars (...) now—thanks to cutting-edge
@@ -3446,8 +3298,6 @@ lxxxv Cf. Mioni (1998, pp. 56-57).
 lxxxvi Latest edition in: Giannopoulos (2016).
 lxxxvii Perfect participle, from the verb episyro: see Liddell, Scott, Jones, & McKenzie (1990, p. 662). Pons Collins
 Wörterbuch (1998, p. 1055). Babiniotis (2002, p. 1807). Volonakis (p. 163).
-
-149
 
 lxxxviii At other times, bureaucratic script is presented as a separate category, alongside cursive script,
 which is identified with the common script: cf. Mioni (1998, pp. 78-79 and 59-60). Cf. also Papyrus Aphroditensis 1447,
@@ -3520,8 +3370,6 @@ speech and then music” (p. 225 and with n. 20).
 line below the last character of a word, small or large separations placed below,
 in the middle or above the last character, and more rarely the apoderma "_| ". Also, the sign
 
-150
-
 of the large ‘hypodiastole’ resembles the ekphonetic signs of the apostrophos and hypokrisis”
 
 (pp. 222-223). We thank Fr Gabriel Mândrilă for the article by A. Zografou.
@@ -3589,8 +3437,6 @@ manuscripts in minuscule “pear-shaped” script or with elements of “pear-sh
 98-101). For a brief description of this type of script and other specimens, see Mioni (1998, p. 91 and pls. XX-
 
 XXI).
-
-151
 
 cxxviii Cf. Hunger (1995, p. 138, 178-179). Cormack (2000, pp. 204-207). Buchwald, Hohlweg, & Prinz (1982, pp. 525-
 
@@ -3660,8 +3506,6 @@ Balageorgos (2016 - forthcoming). For the liturgical text of the Great Doxology 
 the end of Orthros, cf. The Great Horologion (2003, pp. 83-85).
 clvi An excerpt from this leaf was published in: Μioni (1998, pl. VIII).
 
-152
-
 clvii Cf. for other leaves of the same ms.: Μioni (1998, pl. XI) and Litsas (2001, pp. 50-51). For the famous
 calligrapher and tachygrapher Nicholas (792-868), saint and confessor during the period of Iconoclasm, who
 is celebrated on 4 February, cf. Tsolakidis (2001, pp. 136-137).
@@ -3672,5 +3516,3 @@ pp. 64-65). Cf. also The Old Testament according to the Seventy (Septuaginta, 19
 clix For the decoration of post-Byzantine manuscripts, cf. Galavaris (2000, pp. 93-117).
 clx Cf. Chrysanthos, Introduction (1821). See also Chourmouzios, Introduction (ed. Giannopoulos, 2007).
 Chourmouzios, Introduction (ed. Konstantinou, 2014).
-
-153
