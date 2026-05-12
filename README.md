@@ -1,11 +1,11 @@
-# Palaeography of Byzantine Music
+# Paleography of Byzantine Music
 
 This repository turns Maria Alexandrou's
 [Paleography of Byzantine Music](https://repository.kallipos.gr/handle/11419/6487)
 into a bilingual, browsable web edition.
 
 The book is an undergraduate textbook on the written memory of Byzantine music:
-Greek palaeography and codicology, the dating of manuscripts, phonetic and local
+Greek paleography and codicology, the dating of manuscripts, phonetic and local
 notations, Paleo-Byzantine systems, Middle Byzantine notation, the octoechos,
 metrophony, variation, melos, gesture, the Great Signs, and the long work of
 musical explanation that leads toward the New Method of 1814.
